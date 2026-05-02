@@ -1,77 +1,29 @@
 {
-  "scraped_at": "2026-05-01 22:52 UTC",
-  "total": 9,
+  "scraped_at": "2026-05-02 04:19 UTC",
+  "total": 3,
   "jobs": [
     {
-      "company": "Tinder",
-      "title": "Machine Learning Engineer Intern",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407965594/",
-      "date_posted": "2026-05-01",
+      "company": "myGwork - LGBTQ+ Business Community",
+      "title": "Forward-Deployed Data Scientist II",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407248627/",
+      "date_posted": "2026-05-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Cisco",
-      "title": "AI Machine Learning Engineer I (Intern) - United States",
+      "company": "GlobalLogic",
+      "title": "Physical AI Engineering Intern (Onsite in Santa Clara, CA) IRC293762",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409503599/",
-      "date_posted": "2026-05-01",
+      "url": "https://www.linkedin.com/jobs/view/4408305065/",
+      "date_posted": "2026-05-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Cisco",
-      "title": "AI Machine Learning Engineer I (Intern) - United States",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409494870/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpalSoft",
-      "title": "Senior Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407962514/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bot Auto",
-      "title": "Software Engineer, Machine Learning Infrastructure",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4383831734/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Gusto",
-      "title": "Senior Product Data Scientist, Risk",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4409501362/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Coupang",
-      "title": "Staff Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4392812200/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "BioStack",
-      "title": "Founding Research Engineer, RL/Reasoning",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407966703/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Sr. Applied AI Engineers (multiple openings)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407967475/",
-      "date_posted": "2026-05-01",
+      "company": "Roche",
+      "title": "Research Engineer II, Fluidic Systems, Research & Early Development",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409548742/",
+      "date_posted": "2026-05-02",
       "ats": "LinkedIn"
     }
   ]

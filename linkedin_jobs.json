@@ -1,22 +1,5 @@
 {
-  "scraped_at": "2026-05-02 22:45 UTC",
-  "total": 2,
-  "jobs": [
-    {
-      "company": "Uber",
-      "title": "Staff Machine Learning Engineer - Pricing & Incentives",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409814759/",
-      "date_posted": "2026-05-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer (Agents)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408331945/",
-      "date_posted": "2026-05-02",
-      "ats": "LinkedIn"
-    }
-  ]
+  "scraped_at": "2026-05-03 04:41 UTC",
+  "total": 0,
+  "jobs": []
 }

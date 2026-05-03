@@ -1,5 +1,70 @@
 {
-  "scraped_at": "2026-05-03 04:41 UTC",
-  "total": 0,
-  "jobs": []
+  "scraped_at": "2026-05-03 16:54 UTC",
+  "total": 8,
+  "jobs": [
+    {
+      "company": "Wayve",
+      "title": "Machine Learning Engineer, App SW",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4375950910/",
+      "date_posted": "2026-05-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Shields Group Search",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4408335861/",
+      "date_posted": "2026-05-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Applied Scientist, LLM Code Agents, Kiro Science",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4335479676/",
+      "date_posted": "2026-05-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Delivery Foundation Model",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4315138375/",
+      "date_posted": "2026-05-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4400935501/",
+      "date_posted": "2026-05-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4400923807/",
+      "date_posted": "2026-05-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Assured",
+      "title": "Staff AI Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4318539611/",
+      "date_posted": "2026-05-03",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Life Sciences (Beneficial Deployments)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4369877096/",
+      "date_posted": "2026-05-03",
+      "ats": "LinkedIn"
+    }
+  ]
 }

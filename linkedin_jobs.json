@@ -1,60 +1,100 @@
 {
-  "scraped_at": "2026-05-04 17:42 UTC",
-  "total": 7,
+  "scraped_at": "2026-05-04 20:17 UTC",
+  "total": 12,
   "jobs": [
     {
-      "company": "Baselayer",
+      "company": "Google",
+      "title": "Data Scientist",
+      "location": "San Bruno, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408913110/",
+      "date_posted": "2026-05-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NotCo AI",
       "title": "Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4410206973/",
+      "date_posted": "2026-05-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Numerion Labs",
+      "title": "Machine Learning Research Engineer, AI/ML for Drug Discovery",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4408911795/",
+      "date_posted": "2026-05-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Data Scientist, Global E-commerce",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408915002/",
+      "date_posted": "2026-05-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Diablo Canyon Power Plant",
+      "title": "Senior Data Scientist",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410222418/",
+      "date_posted": "2026-05-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408924021/",
+      "date_posted": "2026-05-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Senior Machine Learning Engineer Manager - TikTok Trust & Safety",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408905949/",
+      "date_posted": "2026-05-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Research Engineer/Scientist (all levels), World Models",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408928073/",
+      "date_posted": "2026-05-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Coupang",
+      "title": "Staff Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4392812200/",
+      "date_posted": "2026-05-04",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Decagon",
+      "title": "AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410088622/",
+      "url": "https://www.linkedin.com/jobs/view/4410223639/",
       "date_posted": "2026-05-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Anthropic",
-      "title": "ML/Research Engineer, Safeguards",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4322259791/",
-      "date_posted": "2026-05-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Abridge",
-      "title": "Machine Learning Infrastructure Engineer- Model Inference",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4318555366/",
-      "date_posted": "2026-05-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cypress HCM",
-      "title": "Staff Machine Learning Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4376768009/",
-      "date_posted": "2026-05-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Harnham",
-      "title": "Staff Applied Scientist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398099127/",
-      "date_posted": "2026-05-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Visa",
-      "title": "Vice President, Global Data & Analytics, Data Science Practice",
+      "company": "Zoox",
+      "title": "Senior/Staff Machine Learning Engineer - Perception HD Mapping",
       "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410087380/",
+      "url": "https://www.linkedin.com/jobs/view/4410215724/",
       "date_posted": "2026-05-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Harnham",
-      "title": "Senior AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398096083/",
+      "company": "TikTok",
+      "title": "Sr. Research Engineer/Scientist (all levels), World Models",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408913274/",
       "date_posted": "2026-05-04",
       "ats": "LinkedIn"
     }

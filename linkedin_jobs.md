@@ -1,32 +1,52 @@
 # 🔥 LinkedIn — Last Hour MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-04 17:42 UTC*
+*Last updated: 2026-05-04 20:17 UTC*
 
-**7 role(s) posted in the last hour**
+**12 role(s) posted in the last hour**
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4410088622/) — Baselayer
+### [Data Scientist](https://www.linkedin.com/jobs/view/4408913110/) — Google
+- 📍 **Location:** San Bruno, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4410206973/) — NotCo AI
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-05-04
+
+### [Machine Learning Research Engineer, AI/ML for Drug Discovery](https://www.linkedin.com/jobs/view/4408911795/) — Numerion Labs
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-05-04
+
+### [Data Scientist, Global E-commerce](https://www.linkedin.com/jobs/view/4408915002/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4410222418/) — Diablo Canyon Power Plant
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4408924021/) — Jobs via Dice
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [Senior Machine Learning Engineer Manager - TikTok Trust & Safety](https://www.linkedin.com/jobs/view/4408905949/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [Research Engineer/Scientist (all levels), World Models](https://www.linkedin.com/jobs/view/4408928073/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [Staff Data Scientist](https://www.linkedin.com/jobs/view/4392812200/) — Coupang
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4410223639/) — Decagon
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-04
 
-### [ML/Research Engineer, Safeguards](https://www.linkedin.com/jobs/view/4322259791/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-04
-
-### [Machine Learning Infrastructure Engineer- Model Inference](https://www.linkedin.com/jobs/view/4318555366/) — Abridge
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-04
-
-### [Staff Machine Learning Engineer](https://www.linkedin.com/jobs/view/4376768009/) — Cypress HCM
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-05-04
-
-### [Staff Applied Scientist](https://www.linkedin.com/jobs/view/4398099127/) — Harnham
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-05-04
-
-### [Vice President, Global Data & Analytics, Data Science Practice](https://www.linkedin.com/jobs/view/4410087380/) — Visa
+### [Senior/Staff Machine Learning Engineer - Perception HD Mapping](https://www.linkedin.com/jobs/view/4410215724/) — Zoox
 - 📍 **Location:** Foster City, CA
 - 🕒 **Posted:** 2026-05-04
 
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4398096083/) — Harnham
-- 📍 **Location:** San Francisco, CA
+### [Sr. Research Engineer/Scientist (all levels), World Models](https://www.linkedin.com/jobs/view/4408913274/) — TikTok
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-04

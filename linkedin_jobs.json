@@ -1,5 +1,46 @@
 {
-  "scraped_at": "2026-05-08 17:21 UTC",
-  "total": 0,
-  "jobs": []
+  "scraped_at": "2026-05-08 20:07 UTC",
+  "total": 5,
+  "jobs": [
+    {
+      "company": "Goliath Partners",
+      "title": "Machine Learning/Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4412178293/",
+      "date_posted": "2026-05-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zenotis Group",
+      "title": "AI/ML Engineer",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412163604/",
+      "date_posted": "2026-05-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amplitude",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4412170780/",
+      "date_posted": "2026-05-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Qdrant",
+      "title": "Research Engineer, Agentic Retrieval (North America)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412179211/",
+      "date_posted": "2026-05-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Loop",
+      "title": "AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4389984113/",
+      "date_posted": "2026-05-08",
+      "ats": "LinkedIn"
+    }
+  ]
 }

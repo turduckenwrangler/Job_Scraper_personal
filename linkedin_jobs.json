@@ -1,71 +1,215 @@
 {
-  "scraped_at": "2026-05-11 08:29 UTC",
-  "total": 4,
-  "new_count": 4,
+  "scraped_at": "2026-05-11 17:24 UTC",
+  "total": 13,
+  "new_count": 13,
   "jobs": [
     {
-      "company": "SPREEAI",
-      "title": "Machine Learning Engineer (Computer Vision/Multimodal/Generative AI)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4378002082/",
+      "company": "Roblox",
+      "title": "Senior Data Scientist - Ecosystem and Learning Platform",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412931176/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Enigma",
-      "title": "Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412642694/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SPECTRAFORCE",
-      "title": "Principal Data Scientist-(with GIS exp) Local to CA (w2 contract)",
+      "company": "Axelon Services Corporation",
+      "title": "Data Scientist",
       "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412117303/",
+      "url": "https://www.linkedin.com/jobs/view/4413066224/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Homebase",
-      "title": "AI Engineering Intern (Hybrid)",
+      "company": "Google",
+      "title": "Product Data Scientist, Insights, Analytics, Platforms and Devices",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412922218/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lyft",
+      "title": "Senior Data Scientist, Rider New Products",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4349381646/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tempus AI",
+      "title": "Sr. Data Scientist, Translational Research",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413092836/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "Data Science Engineer",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404904193/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Senior Applied Scientist, LLM Code Agents, Kiro Science",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4332807056/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Bowden Brown",
+      "title": "Founding AI Engineer (Agentic Systems)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4412916579/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Character.AI",
+      "title": "Research Engineer, AI Safety & Alignment",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4310498072/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Harnham",
+      "title": "Senior AI Engineer, VP",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4412910882/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amperesand",
+      "title": "Staff/Senior Software AI engineer: Predictive Analytics",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412713447/",
+      "url": "https://www.linkedin.com/jobs/view/4394743151/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead AI Engineer (FM Hosting, LLM Inference)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4365677639/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Net2Source (N2S)",
+      "title": "Senior Scientist :: Cheminformatics & Computational Chemistry  Senior Scientist: Cheminformatics & Computational Chemistry",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398851665/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "SPREEAI",
-      "title": "Machine Learning Engineer (Computer Vision/Multimodal/Generative AI)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4378002082/",
+      "company": "Roblox",
+      "title": "Senior Data Scientist - Ecosystem and Learning Platform",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412931176/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Enigma",
-      "title": "Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412642694/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SPECTRAFORCE",
-      "title": "Principal Data Scientist-(with GIS exp) Local to CA (w2 contract)",
+      "company": "Axelon Services Corporation",
+      "title": "Data Scientist",
       "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412117303/",
+      "url": "https://www.linkedin.com/jobs/view/4413066224/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Homebase",
-      "title": "AI Engineering Intern (Hybrid)",
+      "company": "Google",
+      "title": "Product Data Scientist, Insights, Analytics, Platforms and Devices",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412922218/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lyft",
+      "title": "Senior Data Scientist, Rider New Products",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4349381646/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tempus AI",
+      "title": "Sr. Data Scientist, Translational Research",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413092836/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "Data Science Engineer",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404904193/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Senior Applied Scientist, LLM Code Agents, Kiro Science",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4332807056/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Bowden Brown",
+      "title": "Founding AI Engineer (Agentic Systems)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4412916579/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Character.AI",
+      "title": "Research Engineer, AI Safety & Alignment",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4310498072/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Harnham",
+      "title": "Senior AI Engineer, VP",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4412910882/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amperesand",
+      "title": "Staff/Senior Software AI engineer: Predictive Analytics",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412713447/",
+      "url": "https://www.linkedin.com/jobs/view/4394743151/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead AI Engineer (FM Hosting, LLM Inference)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4365677639/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Net2Source (N2S)",
+      "title": "Senior Scientist :: Cheminformatics & Computational Chemistry  Senior Scientist: Cheminformatics & Computational Chemistry",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398851665/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     }

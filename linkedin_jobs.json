@@ -1,119 +1,215 @@
 {
-  "scraped_at": "2026-05-12 07:41 UTC",
-  "total": 7,
-  "new_count": 7,
+  "scraped_at": "2026-05-12 17:10 UTC",
+  "total": 13,
+  "new_count": 13,
   "jobs": [
     {
-      "company": "Taskrabbit",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4373039072/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CoffeeSpace",
-      "title": "Founding ML Engineer | Evaluating Frontier Medical AI | $150k\u2013$200k | SF",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413502923/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Data Scientist",
+      "company": "Roku",
+      "title": "Senior Data Scientist",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408573820/",
+      "url": "https://www.linkedin.com/jobs/view/4413456883/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA AI",
-      "title": "Senior Machine Learning Engineer - Physical AI and Synthetic Data Generation",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410139306/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sony Interactive Entertainment",
-      "title": "Senior Data Scientist - \u00a0Experimentation & Measurement",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4352132695/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sony Interactive Entertainment",
-      "title": "Staff Data Scientist -\u00a0 Experimentation & Measurement",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4352210097/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Standout (YC P26)",
-      "title": "Founding AI Engineer ($150k - $300k + equity) at Kinro (YC P26)",
+      "company": "ektello",
+      "title": "Data Scientist - Advanced Analyst, Guest Experience",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4405051425/",
+      "url": "https://www.linkedin.com/jobs/view/4413464422/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tranzeal Incorporated",
+      "title": "AI/ML Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413806141/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Research Data Scientist, YouTube Ads Bidding",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413585651/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Molex",
+      "title": "Senior Level  AI / Machine Learning Engineer - Optical Solutions",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4401677641/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Solar Jobs USA",
+      "title": "Software Testing AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4413584603/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Applied Scientist II (Bing Places)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4401531365/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Quadric",
+      "title": "Data Science Intern - Model Optimization",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413590675/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Data Scientist, Ads - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402081843/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SoFi",
+      "title": "Data Science Manager, Borrow",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4365562900/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cloud Chamber",
+      "title": "AI Engineer",
+      "location": "Novato, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413458819/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer (Agents)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413584582/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Collective Health",
+      "title": "Staff AI Engineer \u2013 Agentic AI and Automaton",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4392145669/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Taskrabbit",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4373039072/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CoffeeSpace",
-      "title": "Founding ML Engineer | Evaluating Frontier Medical AI | $150k\u2013$200k | SF",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413502923/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Data Scientist",
+      "company": "Roku",
+      "title": "Senior Data Scientist",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408573820/",
+      "url": "https://www.linkedin.com/jobs/view/4413456883/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA AI",
-      "title": "Senior Machine Learning Engineer - Physical AI and Synthetic Data Generation",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410139306/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sony Interactive Entertainment",
-      "title": "Senior Data Scientist - \u00a0Experimentation & Measurement",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4352132695/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sony Interactive Entertainment",
-      "title": "Staff Data Scientist -\u00a0 Experimentation & Measurement",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4352210097/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Standout (YC P26)",
-      "title": "Founding AI Engineer ($150k - $300k + equity) at Kinro (YC P26)",
+      "company": "ektello",
+      "title": "Data Scientist - Advanced Analyst, Guest Experience",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4405051425/",
+      "url": "https://www.linkedin.com/jobs/view/4413464422/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tranzeal Incorporated",
+      "title": "AI/ML Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413806141/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Research Data Scientist, YouTube Ads Bidding",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413585651/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Molex",
+      "title": "Senior Level  AI / Machine Learning Engineer - Optical Solutions",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4401677641/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Solar Jobs USA",
+      "title": "Software Testing AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4413584603/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Applied Scientist II (Bing Places)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4401531365/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Quadric",
+      "title": "Data Science Intern - Model Optimization",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413590675/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Data Scientist, Ads - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402081843/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SoFi",
+      "title": "Data Science Manager, Borrow",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4365562900/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cloud Chamber",
+      "title": "AI Engineer",
+      "location": "Novato, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413458819/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer (Agents)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413584582/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Collective Health",
+      "title": "Staff AI Engineer \u2013 Agentic AI and Automaton",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4392145669/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     }

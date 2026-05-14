@@ -1,60 +1,60 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-14 18:53 UTC*
+*Last updated: 2026-05-14 20:24 UTC*
 
 **14 new role(s)** since last run · 14 total in last 1h
 
-### [Machine Learning Engineer - New Grad 2026](https://www.linkedin.com/jobs/view/4391777468/) — Nextdoor
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Staff ML Engineer, Life Sciences AI](https://www.linkedin.com/jobs/view/4414676095/) — Lila Sciences
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Machine Learning Engineer/Senior Machine Learning Engineer - Devops, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4402047132/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4414714264/) — Intelliswift - An LTTS Company
+### [Data Scientist, ML (Agentic, CX)](https://www.linkedin.com/jobs/view/4411515805/) — Robinhood
 - 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4409038047/) — Talener
-- 📍 **Location:** Oakland, CA
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4414919028/) — SPECTRAFORCE
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Senior MLOps / ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4414714197/) — IMCS Group
-- 📍 **Location:** San Francisco Bay Area
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4414753438/) — Avance Consulting
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4414692025/) — Cohesity
-- 📍 **Location:** Santa Clara, CA
+### [Data Scientist, E-commerce - USDS](https://www.linkedin.com/jobs/view/4414901332/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [AI Engineer / Data Scientist, AI Senior Associate](https://www.linkedin.com/jobs/view/4404460108/) — PwC
+### [Machine Learning Engineer, E-commerce Recommendation Foundation  - USDS](https://www.linkedin.com/jobs/view/4414697413/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4414734607/) — Consultant Specialists, Inc. (CSI)
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Machine Learning Engineer, AI Search - USDS](https://www.linkedin.com/jobs/view/4414901325/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Senior Staff Research Data Scientist, Workspace GenAI](https://www.linkedin.com/jobs/view/4414743194/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Applied AI Scientist](https://www.linkedin.com/jobs/view/4414751422/) — Demandbase
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Sr Data Scientist](https://www.linkedin.com/jobs/view/4414729388/) — LendingClub
+### [Senior Data Scientist, E-commerce - USDS](https://www.linkedin.com/jobs/view/4414901331/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Staff Data Scientist, Commercial Analytics](https://www.linkedin.com/jobs/view/4414913155/) — 10x Genomics
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [AI Engineer, Computer Vision](https://www.linkedin.com/jobs/view/4414736469/) — Gigascale Capital
+- 📍 **Location:** San Bruno, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Adversarial AI & Research Engineer](https://www.linkedin.com/jobs/view/4414697173/) — Salesforce
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [AI Research Engineer - Applied Scientist Compilers](https://www.linkedin.com/jobs/view/4404496593/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [AI & GenAI Data Scientist - EUR- Director](https://www.linkedin.com/jobs/view/4392449234/) — PwC
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Senior AI Research Engineer](https://www.linkedin.com/jobs/view/4414665359/) — Zero RFI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Java AI Engineer](https://www.linkedin.com/jobs/view/4414714307/) — Innoventrics
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4408237495/) — Open Select
-- 📍 **Location:** San Francisco Bay Area
+### [Senior Machine Learning Engineer, E-Commerce Risk Control - USDS](https://www.linkedin.com/jobs/view/4414697416/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-14

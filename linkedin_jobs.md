@@ -1,60 +1,64 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-14 20:24 UTC*
+*Last updated: 2026-05-14 22:04 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**15 new role(s)** since last run · 15 total in last 1h
 
-### [Data Scientist, ML (Agentic, CX)](https://www.linkedin.com/jobs/view/4411515805/) — Robinhood
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4414919028/) — SPECTRAFORCE
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4414753438/) — Avance Consulting
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Data Scientist, E-commerce - USDS](https://www.linkedin.com/jobs/view/4414901332/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Machine Learning Engineer, E-commerce Recommendation Foundation  - USDS](https://www.linkedin.com/jobs/view/4414697413/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4414734607/) — Consultant Specialists, Inc. (CSI)
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Machine Learning Engineer, AI Search - USDS](https://www.linkedin.com/jobs/view/4414901325/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-14
-
-### [Senior Staff Research Data Scientist, Workspace GenAI](https://www.linkedin.com/jobs/view/4414743194/) — Google
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4414764430/) — TalentOla
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Applied AI Scientist](https://www.linkedin.com/jobs/view/4414751422/) — Demandbase
+### [Machine Learning Engineer - AI Trainer](https://www.linkedin.com/jobs/view/4414755751/) — Mercor
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Senior Data Scientist, E-commerce - USDS](https://www.linkedin.com/jobs/view/4414901331/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
+### [AI/ML Engineering Engineer](https://www.linkedin.com/jobs/view/4414768344/) — TalentOLA
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Staff Data Scientist, Commercial Analytics](https://www.linkedin.com/jobs/view/4414913155/) — 10x Genomics
-- 📍 **Location:** Pleasanton, CA
+### [Senior AI/ML Engineer, Build Platform](https://www.linkedin.com/jobs/view/4414948440/) — General Motors
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [AI Engineer, Computer Vision](https://www.linkedin.com/jobs/view/4414736469/) — Gigascale Capital
-- 📍 **Location:** San Bruno, CA
+### [Staff AI/ML Engineer - AI Research](https://www.linkedin.com/jobs/view/4414948438/) — General Motors
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Adversarial AI & Research Engineer](https://www.linkedin.com/jobs/view/4414697173/) — Salesforce
+### [Senior ML Engineer, ML compute](https://www.linkedin.com/jobs/view/4414947468/) — General Motors
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Staff ML Engineer - Embodied AI Onboard Autonomy](https://www.linkedin.com/jobs/view/4414937788/) — General Motors
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Research Engineer](https://www.linkedin.com/jobs/view/4411539485/) — scalr
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-05-14
+
+### [Principal Machine Learning Engineer](https://www.linkedin.com/jobs/view/4414934836/) — General Motors
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Applied Scientist, SSG Science](https://www.linkedin.com/jobs/view/4411540477/) — Amazon Science
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Staff AI / ML Engineer - Embodied AI](https://www.linkedin.com/jobs/view/4414938751/) — General Motors
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Senior AI / ML Engineer - Embodied AI](https://www.linkedin.com/jobs/view/4414933892/) — General Motors
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Sr. Machine Learning Engineer (Recommendation Systems)](https://www.linkedin.com/jobs/view/4302123397/) — Philo
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-14
 
-### [Senior Machine Learning Engineer, E-Commerce Risk Control - USDS](https://www.linkedin.com/jobs/view/4414697416/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
+### [Senior Machine Learning Engineer – Perception & Embodied AI](https://www.linkedin.com/jobs/view/4414947463/) — General Motors
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Principal AI / ML Engineer - Embodied AI](https://www.linkedin.com/jobs/view/4414933890/) — General Motors
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-14

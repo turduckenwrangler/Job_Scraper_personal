@@ -1,231 +1,247 @@
 {
-  "scraped_at": "2026-05-14 20:24 UTC",
-  "total": 14,
-  "new_count": 14,
+  "scraped_at": "2026-05-14 22:04 UTC",
+  "total": 15,
+  "new_count": 15,
   "jobs": [
     {
-      "company": "Robinhood",
-      "title": "Data Scientist, ML (Agentic, CX)",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411515805/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SPECTRAFORCE",
-      "title": "Machine Learning Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414919028/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Avance Consulting",
-      "title": "Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414753438/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Data Scientist, E-commerce - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414901332/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Machine Learning Engineer, E-commerce Recommendation Foundation  - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414697413/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Consultant Specialists, Inc. (CSI)",
-      "title": "Senior Data Scientist",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414734607/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Machine Learning Engineer, AI Search - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414901325/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google",
-      "title": "Senior Staff Research Data Scientist, Workspace GenAI",
+      "company": "TalentOla",
+      "title": "AI/ML Engineer",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414743194/",
+      "url": "https://www.linkedin.com/jobs/view/4414764430/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Demandbase",
-      "title": "Applied AI Scientist",
+      "company": "Mercor",
+      "title": "Machine Learning Engineer - AI Trainer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414751422/",
+      "url": "https://www.linkedin.com/jobs/view/4414755751/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Senior Data Scientist, E-commerce - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414901331/",
+      "company": "TalentOLA",
+      "title": "AI/ML Engineering Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414768344/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "10x Genomics",
-      "title": "Staff Data Scientist, Commercial Analytics",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414913155/",
+      "company": "General Motors",
+      "title": "Senior AI/ML Engineer, Build Platform",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414948440/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Gigascale Capital",
-      "title": "AI Engineer, Computer Vision",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414736469/",
+      "company": "General Motors",
+      "title": "Staff AI/ML Engineer - AI Research",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414948438/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Salesforce",
-      "title": "Adversarial AI & Research Engineer",
+      "company": "General Motors",
+      "title": "Senior ML Engineer, ML compute",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414947468/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "General Motors",
+      "title": "Staff ML Engineer - Embodied AI Onboard Autonomy",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414937788/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "scalr",
+      "title": "Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4411539485/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "General Motors",
+      "title": "Principal Machine Learning Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414934836/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Applied Scientist, SSG Science",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411540477/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "General Motors",
+      "title": "Staff AI / ML Engineer - Embodied AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414938751/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "General Motors",
+      "title": "Senior AI / ML Engineer - Embodied AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414933892/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Philo",
+      "title": "Sr. Machine Learning Engineer (Recommendation Systems)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414697173/",
+      "url": "https://www.linkedin.com/jobs/view/4302123397/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Senior Machine Learning Engineer, E-Commerce Risk Control - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414697416/",
+      "company": "General Motors",
+      "title": "Senior Machine Learning Engineer \u2013 Perception & Embodied AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414947463/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "General Motors",
+      "title": "Principal AI / ML Engineer - Embodied AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414933890/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Robinhood",
-      "title": "Data Scientist, ML (Agentic, CX)",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411515805/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SPECTRAFORCE",
-      "title": "Machine Learning Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414919028/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Avance Consulting",
-      "title": "Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414753438/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Data Scientist, E-commerce - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414901332/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Machine Learning Engineer, E-commerce Recommendation Foundation  - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414697413/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Consultant Specialists, Inc. (CSI)",
-      "title": "Senior Data Scientist",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414734607/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Machine Learning Engineer, AI Search - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414901325/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google",
-      "title": "Senior Staff Research Data Scientist, Workspace GenAI",
+      "company": "TalentOla",
+      "title": "AI/ML Engineer",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414743194/",
+      "url": "https://www.linkedin.com/jobs/view/4414764430/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Demandbase",
-      "title": "Applied AI Scientist",
+      "company": "Mercor",
+      "title": "Machine Learning Engineer - AI Trainer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414751422/",
+      "url": "https://www.linkedin.com/jobs/view/4414755751/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Senior Data Scientist, E-commerce - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414901331/",
+      "company": "TalentOLA",
+      "title": "AI/ML Engineering Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414768344/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "10x Genomics",
-      "title": "Staff Data Scientist, Commercial Analytics",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414913155/",
+      "company": "General Motors",
+      "title": "Senior AI/ML Engineer, Build Platform",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414948440/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Gigascale Capital",
-      "title": "AI Engineer, Computer Vision",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414736469/",
+      "company": "General Motors",
+      "title": "Staff AI/ML Engineer - AI Research",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414948438/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Salesforce",
-      "title": "Adversarial AI & Research Engineer",
+      "company": "General Motors",
+      "title": "Senior ML Engineer, ML compute",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414947468/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "General Motors",
+      "title": "Staff ML Engineer - Embodied AI Onboard Autonomy",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414937788/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "scalr",
+      "title": "Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4411539485/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "General Motors",
+      "title": "Principal Machine Learning Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414934836/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Applied Scientist, SSG Science",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411540477/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "General Motors",
+      "title": "Staff AI / ML Engineer - Embodied AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414938751/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "General Motors",
+      "title": "Senior AI / ML Engineer - Embodied AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414933892/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Philo",
+      "title": "Sr. Machine Learning Engineer (Recommendation Systems)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414697173/",
+      "url": "https://www.linkedin.com/jobs/view/4302123397/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Senior Machine Learning Engineer, E-Commerce Risk Control - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414697416/",
+      "company": "General Motors",
+      "title": "Senior Machine Learning Engineer \u2013 Perception & Embodied AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414947463/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "General Motors",
+      "title": "Principal AI / ML Engineer - Embodied AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414933890/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     }

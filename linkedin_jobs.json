@@ -1,70 +1,30 @@
 {
-  "scraped_at": "2026-05-13 22:59 UTC",
-  "total": 9,
-  "new_count": 8,
+  "scraped_at": "2026-05-14 00:05 UTC",
+  "total": 7,
+  "new_count": 6,
   "jobs": [
     {
-      "company": "TheCorporate",
-      "title": "Data Scientist \u2013 Geospatial",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414172933/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Mastercard",
-      "title": "Data Scientist",
+      "company": "Amazon",
+      "title": "Member of Technical Staff - ML Engineer, Frontier AI Robotics",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410658143/",
-      "date_posted": "2026-05-13",
+      "url": "https://www.linkedin.com/jobs/view/4414295733/",
+      "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Theron Solutions",
-      "title": "Data Scientist",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4414282166/",
-      "date_posted": "2026-05-13",
+      "company": "Amazon",
+      "title": "Applied Scientist, Neuron ARG, Annapurna ML",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414294805/",
+      "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Goliath Partners",
-      "title": "Machine Learning/Research Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4414282869/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Instrumental Inc.",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407444700/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ampstek",
-      "title": "AI Architect / Data Scientist || Only US Citizen and Green Card Required",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414176514/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Distyl",
-      "title": "AI Engineer",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Quantum Applied Scientist, Device and Architecture Theory, Center for Quantum Computing",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406747300/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Distyl",
-      "title": "AI Engineer, Evaluation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403262723/",
-      "date_posted": "2026-05-13",
+      "url": "https://www.linkedin.com/jobs/view/4414507459/",
+      "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
@@ -72,72 +32,80 @@
       "title": "Senior Software Engineer, MLOps",
       "location": "Palo Alto, CA",
       "url": "https://www.linkedin.com/jobs/view/4414197170/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410641949/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Data Scientist, Trust and Safety",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414292769/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer (Agents)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414186783/",
       "date_posted": "2026-05-13",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "TheCorporate",
-      "title": "Data Scientist \u2013 Geospatial",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414172933/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Mastercard",
-      "title": "Data Scientist",
+      "company": "Amazon",
+      "title": "Member of Technical Staff - ML Engineer, Frontier AI Robotics",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410658143/",
-      "date_posted": "2026-05-13",
+      "url": "https://www.linkedin.com/jobs/view/4414295733/",
+      "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Goliath Partners",
-      "title": "Machine Learning/Research Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4414282869/",
-      "date_posted": "2026-05-13",
+      "company": "Amazon",
+      "title": "Applied Scientist, Neuron ARG, Annapurna ML",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414294805/",
+      "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Instrumental Inc.",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407444700/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ampstek",
-      "title": "AI Architect / Data Scientist || Only US Citizen and Green Card Required",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414176514/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Distyl",
-      "title": "AI Engineer",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Quantum Applied Scientist, Device and Architecture Theory, Center for Quantum Computing",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406747300/",
+      "url": "https://www.linkedin.com/jobs/view/4414507459/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410641949/",
       "date_posted": "2026-05-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "Distyl",
-      "title": "AI Engineer, Evaluation",
+      "company": "Pinterest",
+      "title": "Sr. Data Scientist, Trust and Safety",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403262723/",
+      "url": "https://www.linkedin.com/jobs/view/4414292769/",
       "date_posted": "2026-05-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "Rivian",
-      "title": "Senior Software Engineer, MLOps",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414197170/",
+      "company": "Jobright.ai",
+      "title": "AI Engineer (Agents)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414186783/",
       "date_posted": "2026-05-13",
       "ats": "LinkedIn"
     }

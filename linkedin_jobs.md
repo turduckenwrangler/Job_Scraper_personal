@@ -1,36 +1,28 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-13 22:59 UTC*
+*Last updated: 2026-05-14 00:05 UTC*
 
-**8 new role(s)** since last run · 9 total in last 1h
+**6 new role(s)** since last run · 7 total in last 1h
 
-### [Data Scientist – Geospatial](https://www.linkedin.com/jobs/view/4414172933/) — TheCorporate
-- 📍 **Location:** Dublin, CA
+### [Member of Technical Staff - ML Engineer, Frontier AI Robotics](https://www.linkedin.com/jobs/view/4414295733/) — Amazon
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Applied Scientist, Neuron ARG, Annapurna ML](https://www.linkedin.com/jobs/view/4414294805/) — Amazon
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [Quantum Applied Scientist, Device and Architecture Theory, Center for Quantum Computing](https://www.linkedin.com/jobs/view/4414507459/) — Amazon Web Services (AWS)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-14
+
+### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4410641949/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-05-13
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4410658143/) — Mastercard
+### [Sr. Data Scientist, Trust and Safety](https://www.linkedin.com/jobs/view/4414292769/) — Pinterest
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-13
 
-### [Machine Learning/Research Engineer](https://www.linkedin.com/jobs/view/4414282869/) — Goliath Partners
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-05-13
-
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4407444700/) — Instrumental Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-05-13
-
-### [AI Architect / Data Scientist || Only US Citizen and Green Card Required](https://www.linkedin.com/jobs/view/4414176514/) — Ampstek
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-13
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4406747300/) — Distyl
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-13
-
-### [AI Engineer, Evaluation](https://www.linkedin.com/jobs/view/4403262723/) — Distyl
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-13
-
-### [Senior Software Engineer, MLOps](https://www.linkedin.com/jobs/view/4414197170/) — Rivian
-- 📍 **Location:** Palo Alto, CA
+### [AI Engineer (Agents)](https://www.linkedin.com/jobs/view/4414186783/) — Jobright.ai
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-05-13

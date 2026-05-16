@@ -1,25 +1,7 @@
 {
-  "scraped_at": "2026-05-16 20:53 UTC",
-  "total": 1,
-  "new_count": 1,
-  "jobs": [
-    {
-      "company": "Redis",
-      "title": "Applied AI Engineer - Bay Area",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412203296/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Redis",
-      "title": "Applied AI Engineer - Bay Area",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412203296/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    }
-  ]
+  "scraped_at": "2026-05-16 21:41 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }

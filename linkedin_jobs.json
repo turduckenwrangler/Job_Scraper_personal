@@ -1,61 +1,13 @@
 {
-  "scraped_at": "2026-05-16 16:50 UTC",
-  "total": 13,
-  "new_count": 6,
+  "scraped_at": "2026-05-16 17:50 UTC",
+  "total": 5,
+  "new_count": 2,
   "jobs": [
-    {
-      "company": "RS Global Services",
-      "title": "Applied AI Engineer - Onsite - SF / NY",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415884394/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Grindr",
-      "title": "Senior Staff ML Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4304165876/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Data Scientist - App Performance",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4374655230/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Principal Machine Learning Engineer, Ads Delivery",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4304382481/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Kikoff",
-      "title": "Senior Marketing Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385302337/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
     {
       "company": "Hightouch",
       "title": "Forward Deployed Marketing Data Scientist",
       "location": "San Francisco Bay Area",
       "url": "https://www.linkedin.com/jobs/view/4344193243/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SentiLink",
-      "title": "Staff Data Scientist, Full Stack",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385312398/",
       "date_posted": "2026-05-16",
       "ats": "LinkedIn"
     },
@@ -68,10 +20,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Principal Applied Scientist, AWS Agentic AI Science",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4339056367/",
+      "company": "BMO U.S.",
+      "title": "Director Cloud Security AI Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406673381/",
       "date_posted": "2026-05-16",
       "ats": "LinkedIn"
     },
@@ -84,76 +36,28 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Cohere",
-      "title": "Member of Technical Staff, MLE",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4330586507/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cohere",
-      "title": "Applied AI Engineer \u2013 Agentic Workflows",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4330396441/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Applied AI Engineer, Enterprise Tech",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4331272200/",
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415186974/",
       "date_posted": "2026-05-16",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Kikoff",
-      "title": "Senior Marketing Data Scientist",
+      "company": "BMO U.S.",
+      "title": "Director Cloud Security AI Engineering",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385302337/",
+      "url": "https://www.linkedin.com/jobs/view/4406673381/",
       "date_posted": "2026-05-16",
       "ats": "LinkedIn"
     },
     {
-      "company": "Hightouch",
-      "title": "Forward Deployed Marketing Data Scientist",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4344193243/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SentiLink",
-      "title": "Staff Data Scientist, Full Stack",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385312398/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SentiLink",
-      "title": "Senior Applied ML Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385304565/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Snorkel AI",
-      "title": "Applied AI Engineer - AI Solutions",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4340625628/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Applied AI Engineer, Enterprise Tech",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4331272200/",
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415186974/",
       "date_posted": "2026-05-16",
       "ats": "LinkedIn"
     }

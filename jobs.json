@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-16 05:53 UTC",
-  "total": 8,
-  "new_count": 2,
+  "scraped_at": "2026-05-17 06:21 UTC",
+  "total": 6,
+  "new_count": 0,
   "jobs": [
     {
       "company": "10x Genomics",
@@ -50,40 +50,7 @@
       "url": "https://job-boards.greenhouse.io/altoslabs/jobs/5709084004",
       "date_posted": "2026-03-31",
       "ats": "Greenhouse"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Principal ML Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415518289/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Biohub",
-      "title": "Staff Data Scientist, Genomics",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4382511241/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Lila Sciences",
-      "title": "Principal ML Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415518289/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Biohub",
-      "title": "Staff Data Scientist, Genomics",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4382511241/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    }
-  ]
+  "new_jobs": []
 }

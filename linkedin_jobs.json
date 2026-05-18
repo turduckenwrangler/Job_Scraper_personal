@@ -1,41 +1,7 @@
 {
-  "scraped_at": "2026-05-18 02:38 UTC",
-  "total": 2,
-  "new_count": 2,
-  "jobs": [
-    {
-      "company": "Zero RFI",
-      "title": "Senior AI Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416068341/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "El Capitan Biosciences",
-      "title": "Part-Time Bioinformatics Scientist (Contract/Consultant)",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415484414/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Zero RFI",
-      "title": "Senior AI Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416068341/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "El Capitan Biosciences",
-      "title": "Part-Time Bioinformatics Scientist (Contract/Consultant)",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415484414/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    }
-  ]
+  "scraped_at": "2026-05-18 06:50 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }

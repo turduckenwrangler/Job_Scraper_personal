@@ -1,28 +1,24 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-18 22:53 UTC*
+*Last updated: 2026-05-18 23:59 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**5 new role(s)** since last run · 8 total in last 1h
 
-### [Machine Learning/Research Engineer](https://www.linkedin.com/jobs/view/4416426380/) — Goliath Partners
-- 📍 **Location:** San Francisco Bay Area
+### [Data Scientist](https://www.linkedin.com/jobs/view/4411212478/) — Visa
+- 📍 **Location:** Foster City, CA
 - 🕒 **Posted:** 2026-05-18
 
-### [Senior, Data Scientist (Machine Learning Engineer)](https://www.linkedin.com/jobs/view/4412828828/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
+### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4412863119/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-05-18
 
-### [Senior Machine Learning Engineer - Earner Incentive](https://www.linkedin.com/jobs/view/4416434250/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-05-18
-
-### [Research Engineer](https://www.linkedin.com/jobs/view/4412860043/) — ChatGPT Jobs
+### [Data Scientist II, Experimentation](https://www.linkedin.com/jobs/view/4416435832/) — Pinterest
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-18
 
-### [Senior Manager, Data Science](https://www.linkedin.com/jobs/view/4412833784/) — Walmart
-- 📍 **Location:** San Bruno, CA
+### [Data Scientist II, Infrastructure](https://www.linkedin.com/jobs/view/4416445646/) — Pinterest
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-18
 
-### [AI Engineer, Global Operations](https://www.linkedin.com/jobs/view/4416413882/) — Iron Mountain
-- 📍 **Location:** San Francisco, CA
+### [Sr. Bioinformatics Scientist - DNA Technology Development & Applied AI](https://www.linkedin.com/jobs/view/4416449236/) — Personalis, Inc.
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-05-18

@@ -1,13 +1,13 @@
 {
-  "scraped_at": "2026-05-18 22:53 UTC",
-  "total": 6,
-  "new_count": 6,
+  "scraped_at": "2026-05-18 23:59 UTC",
+  "total": 8,
+  "new_count": 5,
   "jobs": [
     {
-      "company": "Goliath Partners",
-      "title": "Machine Learning/Research Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4416426380/",
+      "company": "Visa",
+      "title": "Data Scientist",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411212478/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
@@ -20,10 +20,26 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412863119/",
+      "date_posted": "2026-05-18",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Uber",
       "title": "Senior Machine Learning Engineer - Earner Incentive",
       "location": "Sunnyvale, CA",
       "url": "https://www.linkedin.com/jobs/view/4416434250/",
+      "date_posted": "2026-05-18",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Data Scientist II, Experimentation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416435832/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
@@ -36,68 +52,60 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Walmart",
-      "title": "Senior Manager, Data Science",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412833784/",
+      "company": "Pinterest",
+      "title": "Data Scientist II, Infrastructure",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416445646/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
-      "company": "Iron Mountain",
-      "title": "AI Engineer, Global Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416413882/",
+      "company": "Personalis, Inc.",
+      "title": "Sr. Bioinformatics Scientist - DNA Technology Development & Applied AI",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416449236/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Goliath Partners",
-      "title": "Machine Learning/Research Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4416426380/",
+      "company": "Visa",
+      "title": "Data Scientist",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411212478/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
-      "company": "Walmart",
-      "title": "Senior, Data Scientist (Machine Learning Engineer)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412828828/",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412863119/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
-      "company": "Uber",
-      "title": "Senior Machine Learning Engineer - Earner Incentive",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416434250/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ChatGPT Jobs",
-      "title": "Research Engineer",
+      "company": "Pinterest",
+      "title": "Data Scientist II, Experimentation",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412860043/",
+      "url": "https://www.linkedin.com/jobs/view/4416435832/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
-      "company": "Walmart",
-      "title": "Senior Manager, Data Science",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412833784/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Iron Mountain",
-      "title": "AI Engineer, Global Operations",
+      "company": "Pinterest",
+      "title": "Data Scientist II, Infrastructure",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416413882/",
+      "url": "https://www.linkedin.com/jobs/view/4416445646/",
+      "date_posted": "2026-05-18",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Personalis, Inc.",
+      "title": "Sr. Bioinformatics Scientist - DNA Technology Development & Applied AI",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416449236/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     }

@@ -1,13 +1,13 @@
 {
-  "scraped_at": "2026-05-19 22:48 UTC",
-  "total": 13,
+  "scraped_at": "2026-05-19 23:21 UTC",
+  "total": 8,
   "new_count": 6,
   "jobs": [
     {
-      "company": "Shields Group Search",
-      "title": "Machine Learning Engineer",
+      "company": "Stefanini North America and APAC",
+      "title": "Data Scientist",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4408335861/",
+      "url": "https://www.linkedin.com/jobs/view/4416976025/",
       "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     },
@@ -20,6 +20,30 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Instrumental Inc.",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407444700/",
+      "date_posted": "2026-05-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Adobe",
+      "title": "Researcher/ML Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415973341/",
+      "date_posted": "2026-05-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "RADAR",
+      "title": "Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416977077/",
+      "date_posted": "2026-05-19",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Lawrence Livermore National Laboratory",
       "title": "Data Science Engineer",
       "location": "Livermore, CA",
@@ -28,132 +52,68 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "IBM",
-      "title": "Senior Software Development Engineer - AI / Data Science",
+      "company": "Waymo",
+      "title": "Staff Machine Learning Engineer, Data Flywheel",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4400023054/",
+      "date_posted": "2026-05-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Adobe",
+      "title": "Staff Applied Scientist",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413352881/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ironclad",
-      "title": "Senior Staff Data Scientist - AI",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416966228/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Sr Applied Scientist, Device Connectivity",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413364236/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ironclad",
-      "title": "Staff Data Scientist - Product Analytics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416970190/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "True Classic",
-      "title": "AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415966129/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ironclad",
-      "title": "AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416948645/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ironclad",
-      "title": "GTM AI Engineer, Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416955293/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genesys",
-      "title": "Principal Applied AI Engineer, Finance",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415967253/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genesys",
-      "title": "Principal Applied AI Engineer, Finance",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415960666/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genesys",
-      "title": "Principal Applied AI Engineer, Finance",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415959745/",
+      "url": "https://www.linkedin.com/jobs/view/4415982104/",
       "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Advanced Software Talent",
+      "company": "Stefanini North America and APAC",
       "title": "Data Scientist",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415970321/",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4416976025/",
       "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     },
     {
-      "company": "Lawrence Livermore National Laboratory",
-      "title": "Data Science Engineer",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404904193/",
+      "company": "Instrumental Inc.",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407444700/",
       "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     },
     {
-      "company": "IBM",
-      "title": "Senior Software Development Engineer - AI / Data Science",
+      "company": "Adobe",
+      "title": "Researcher/ML Engineer",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413352881/",
+      "url": "https://www.linkedin.com/jobs/view/4415973341/",
       "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     },
     {
-      "company": "Genesys",
-      "title": "Principal Applied AI Engineer, Finance",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415967253/",
+      "company": "RADAR",
+      "title": "Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416977077/",
       "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     },
     {
-      "company": "Genesys",
-      "title": "Principal Applied AI Engineer, Finance",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415960666/",
+      "company": "Waymo",
+      "title": "Staff Machine Learning Engineer, Data Flywheel",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4400023054/",
       "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     },
     {
-      "company": "Genesys",
-      "title": "Principal Applied AI Engineer, Finance",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415959745/",
+      "company": "Adobe",
+      "title": "Staff Applied Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415982104/",
       "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     }

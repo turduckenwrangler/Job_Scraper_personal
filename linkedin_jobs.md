@@ -1,28 +1,28 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-19 22:48 UTC*
+*Last updated: 2026-05-19 23:21 UTC*
 
-**6 new role(s)** since last run · 13 total in last 1h
+**6 new role(s)** since last run · 8 total in last 1h
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4415970321/) — Advanced Software Talent
-- 📍 **Location:** South San Francisco, CA
+### [Data Scientist](https://www.linkedin.com/jobs/view/4416976025/) — Stefanini North America and APAC
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-19
 
-### [Data Science Engineer](https://www.linkedin.com/jobs/view/4404904193/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4407444700/) — Instrumental Inc.
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-05-19
 
-### [Senior Software Development Engineer - AI / Data Science](https://www.linkedin.com/jobs/view/4413352881/) — IBM
+### [Researcher/ML Engineer](https://www.linkedin.com/jobs/view/4415973341/) — Adobe
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-19
 
-### [Principal Applied AI Engineer, Finance](https://www.linkedin.com/jobs/view/4415967253/) — Genesys
-- 📍 **Location:** Menlo Park, CA
+### [Data Scientist](https://www.linkedin.com/jobs/view/4416977077/) — RADAR
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-05-19
 
-### [Principal Applied AI Engineer, Finance](https://www.linkedin.com/jobs/view/4415960666/) — Genesys
-- 📍 **Location:** Menlo Park, CA
+### [Staff Machine Learning Engineer, Data Flywheel](https://www.linkedin.com/jobs/view/4400023054/) — Waymo
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-19
 
-### [Principal Applied AI Engineer, Finance](https://www.linkedin.com/jobs/view/4415959745/) — Genesys
-- 📍 **Location:** Menlo Park, CA
+### [Staff Applied Scientist](https://www.linkedin.com/jobs/view/4415982104/) — Adobe
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-19

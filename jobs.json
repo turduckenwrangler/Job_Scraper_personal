@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-19 06:47 UTC",
-  "total": 7,
-  "new_count": 1,
+  "scraped_at": "2026-05-20 06:56 UTC",
+  "total": 9,
+  "new_count": 3,
   "jobs": [
     {
       "company": "10x Genomics",
@@ -52,21 +52,53 @@
       "ats": "Greenhouse"
     },
     {
-      "company": "Personalis, Inc.",
-      "title": "Sr. Bioinformatics Scientist - DNA Technology Development & Applied AI",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416449236/",
-      "date_posted": "2026-05-18",
+      "company": "Allogene Therapeutics",
+      "title": "Associate Director, Data Science",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413398332/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Principal Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407840308/",
+      "date_posted": "2026-05-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Genentech",
+      "title": "Principal Bioinformatics Scientist",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398017590/",
+      "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Personalis, Inc.",
-      "title": "Sr. Bioinformatics Scientist - DNA Technology Development & Applied AI",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416449236/",
-      "date_posted": "2026-05-18",
+      "company": "Allogene Therapeutics",
+      "title": "Associate Director, Data Science",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413398332/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Principal Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407840308/",
+      "date_posted": "2026-05-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Genentech",
+      "title": "Principal Bioinformatics Scientist",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398017590/",
+      "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     }
   ]

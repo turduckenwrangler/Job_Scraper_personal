@@ -1,8 +1,16 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-05-19 06:47 UTC*
+*Last updated: 2026-05-20 06:56 UTC*
 
-**1 new role(s)** since last run · 7 total in last 24h
+**3 new role(s)** since last run · 9 total in last 24h
 
-### [Sr. Bioinformatics Scientist - DNA Technology Development & Applied AI](https://www.linkedin.com/jobs/view/4416449236/) — Personalis, Inc.
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-05-18
+### [Associate Director, Data Science](https://www.linkedin.com/jobs/view/4413398332/) — Allogene Therapeutics
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-05-20
+
+### [Principal Machine Learning Engineer](https://www.linkedin.com/jobs/view/4407840308/) — Lila Sciences
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-19
+
+### [Principal Bioinformatics Scientist](https://www.linkedin.com/jobs/view/4398017590/) — Genentech
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-05-19

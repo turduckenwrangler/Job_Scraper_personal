@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-21 22:03 UTC",
+  "scraped_at": "2026-05-21 22:17 UTC",
   "total": 4,
-  "new_count": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "ShineBask Technologies LLC",
@@ -13,14 +13,6 @@
     },
     {
       "company": "Amazon Science",
-      "title": "Applied Scientist II, Foundation Model, Robotics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414040787/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Science",
       "title": "Applied Scientist II, Prime Video - Personalization and Discovery Science",
       "location": "Sunnyvale, CA",
       "url": "https://www.linkedin.com/jobs/view/4414037778/",
@@ -32,42 +24,17 @@
       "title": "Senior Applied Scientist",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4414044719/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Applied Scientist II, Foundation Model, Robotics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414040787/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "ShineBask Technologies LLC",
-      "title": "AI Prompt Engineer/ ML Engineer_ Full Time",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416723236/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Applied Scientist II, Foundation Model, Robotics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414040787/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Applied Scientist II, Prime Video - Personalization and Discovery Science",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414037778/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Senior Applied Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414044719/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    }
-  ]
+  "new_jobs": []
 }

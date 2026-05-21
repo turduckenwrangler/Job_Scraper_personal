@@ -1,85 +1,29 @@
 {
-  "scraped_at": "2026-05-21 15:17 UTC",
-  "total": 16,
-  "new_count": 16,
+  "scraped_at": "2026-05-21 16:17 UTC",
+  "total": 8,
+  "new_count": 5,
   "jobs": [
     {
-      "company": "Hallmark Global Solutions Ltd",
-      "title": "Machine Learning Engineer",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414004549/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "SDE- ML Engineer, Frontier AI Robotics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4377144126/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "EY",
-      "title": "AI & Machine Learning Engineering Consultant - Manager - Consulting - Location OPEN",
+      "company": "Tesla",
+      "title": "Machine Learning Engineer, Model Quantization, Tesla AI",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385400156/",
+      "url": "https://www.linkedin.com/jobs/view/4416586500/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "BillionToOne",
-      "title": "Senior AI Engineer I",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4376956847/",
+      "company": "NewLimit",
+      "title": "Data Scientist",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4361168131/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
+      "company": "CoreWeave",
+      "title": "Senior Data Scientist, Forecasting (Integrated Planning)",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4386797104/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Gallup",
-      "title": "Senior/Staff Data Scientist, Product Analytics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4401981265/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Grindr",
-      "title": "Senior Staff Data Scientist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4306851773/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Nubank",
-      "title": "Staff Machine Learning Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4387454862/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Faire",
-      "title": "Applied AI / ML Scientist - Search Ads",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4368384918/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Research Engineer / Research Scientist, Post-Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4348094909/",
+      "url": "https://www.linkedin.com/jobs/view/4406413818/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
@@ -92,172 +36,76 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "VSCO\u00ae",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4376466398/",
+      "company": "Unity",
+      "title": "Senior Machine Learning Engineer, Ads Experimentation & Measurements",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417745676/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Sr. Applied Scientist, Amazon Advertising",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4267538707/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
       "company": "EY-Parthenon",
-      "title": "EY-Parthenon - Strategy and Execution - Growth Platforms - Data Scientist - Director",
+      "title": "EY-Parthenon - Strategy and Execution - Growth Platforms - AI ML Engineering - Director",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385089437/",
+      "url": "https://www.linkedin.com/jobs/view/4385084731/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Meltwater",
-      "title": "Senior AI/ML Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407316898/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Robotics Research Engineer, Robotics and AI for Drug Discovery",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4396378744/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity",
-      "title": "Senior Machine Learning Engineer, Ads Experimentation & Measurements",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417745676/",
+      "company": "Amazon",
+      "title": "SDE- ML Engineer, Frontier AI Robotics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4377144126/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Hallmark Global Solutions Ltd",
-      "title": "Machine Learning Engineer",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414004549/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "SDE- ML Engineer, Frontier AI Robotics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4377144126/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "EY",
-      "title": "AI & Machine Learning Engineering Consultant - Manager - Consulting - Location OPEN",
+      "company": "Tesla",
+      "title": "Machine Learning Engineer, Model Quantization, Tesla AI",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385400156/",
+      "url": "https://www.linkedin.com/jobs/view/4416586500/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "BillionToOne",
-      "title": "Senior AI Engineer I",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4376956847/",
+      "company": "NewLimit",
+      "title": "Data Scientist",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4361168131/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
+      "company": "CoreWeave",
+      "title": "Senior Data Scientist, Forecasting (Integrated Planning)",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4386797104/",
+      "url": "https://www.linkedin.com/jobs/view/4406413818/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Gallup",
-      "title": "Senior/Staff Data Scientist, Product Analytics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4401981265/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Grindr",
-      "title": "Senior Staff Data Scientist",
+      "company": "Amazon",
+      "title": "Sr. Applied Scientist, Amazon Advertising",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4306851773/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Nubank",
-      "title": "Staff Machine Learning Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4387454862/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Faire",
-      "title": "Applied AI / ML Scientist - Search Ads",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4368384918/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Research Engineer / Research Scientist, Post-Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4348094909/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Data Scientist, Core",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4387655091/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "VSCO\u00ae",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4376466398/",
+      "url": "https://www.linkedin.com/jobs/view/4267538707/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
       "company": "EY-Parthenon",
-      "title": "EY-Parthenon - Strategy and Execution - Growth Platforms - Data Scientist - Director",
+      "title": "EY-Parthenon - Strategy and Execution - Growth Platforms - AI ML Engineering - Director",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385089437/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Meltwater",
-      "title": "Senior AI/ML Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407316898/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Robotics Research Engineer, Robotics and AI for Drug Discovery",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4396378744/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity",
-      "title": "Senior Machine Learning Engineer, Ads Experimentation & Measurements",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417745676/",
+      "url": "https://www.linkedin.com/jobs/view/4385084731/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }

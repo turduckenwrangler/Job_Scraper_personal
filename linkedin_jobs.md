@@ -1,32 +1,20 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-21 21:17 UTC*
+*Last updated: 2026-05-21 22:03 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4414025862/) — Asana
+### [AI Prompt Engineer/ ML Engineer_ Full Time](https://www.linkedin.com/jobs/view/4416723236/) — ShineBask Technologies LLC
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-21
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4418005659/) — Flexton Inc.
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-05-21
-
-### [Senior Research Engineer – 3D Graphics Compression](https://www.linkedin.com/jobs/view/4414031794/) — Sony
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-21
-
-### [Staff AI Engineer-Agentic](https://www.linkedin.com/jobs/view/4416722010/) — Stott and May
+### [Applied Scientist II, Foundation Model, Robotics](https://www.linkedin.com/jobs/view/4414040787/) — Amazon Science
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-21
 
-### [AI Engineer, Agent Product (Full-time/Part-time)](https://www.linkedin.com/jobs/view/4416703955/) — Jobright.ai
-- 📍 **Location:** Santa Clara, CA
+### [Applied Scientist II, Prime Video - Personalization and Discovery Science](https://www.linkedin.com/jobs/view/4414037778/) — Amazon Science
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-05-21
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4416598954/) — True Classic
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-21
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4416595982/) — True Classic
-- 📍 **Location:** Santa Clara, CA
+### [Senior Applied Scientist](https://www.linkedin.com/jobs/view/4414044719/) — Amazon Science
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-21

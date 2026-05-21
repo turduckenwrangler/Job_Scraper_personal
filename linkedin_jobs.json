@@ -1,119 +1,71 @@
 {
-  "scraped_at": "2026-05-21 21:17 UTC",
-  "total": 7,
-  "new_count": 7,
+  "scraped_at": "2026-05-21 22:03 UTC",
+  "total": 4,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "Asana",
-      "title": "Data Scientist",
+      "company": "ShineBask Technologies LLC",
+      "title": "AI Prompt Engineer/ ML Engineer_ Full Time",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414025862/",
+      "url": "https://www.linkedin.com/jobs/view/4416723236/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Flexton Inc.",
-      "title": "AI/ML Engineer",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418005659/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sony",
-      "title": "Senior Research Engineer \u2013 3D Graphics Compression",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414031794/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stott and May",
-      "title": "Staff AI Engineer-Agentic",
+      "company": "Amazon Science",
+      "title": "Applied Scientist II, Foundation Model, Robotics",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416722010/",
+      "url": "https://www.linkedin.com/jobs/view/4414040787/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416703955/",
+      "company": "Amazon Science",
+      "title": "Applied Scientist II, Prime Video - Personalization and Discovery Science",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414037778/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "True Classic",
-      "title": "AI Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416598954/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "True Classic",
-      "title": "AI Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416595982/",
+      "company": "Amazon Science",
+      "title": "Senior Applied Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414044719/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Asana",
-      "title": "Data Scientist",
+      "company": "ShineBask Technologies LLC",
+      "title": "AI Prompt Engineer/ ML Engineer_ Full Time",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414025862/",
+      "url": "https://www.linkedin.com/jobs/view/4416723236/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Flexton Inc.",
-      "title": "AI/ML Engineer",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418005659/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sony",
-      "title": "Senior Research Engineer \u2013 3D Graphics Compression",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414031794/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stott and May",
-      "title": "Staff AI Engineer-Agentic",
+      "company": "Amazon Science",
+      "title": "Applied Scientist II, Foundation Model, Robotics",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416722010/",
+      "url": "https://www.linkedin.com/jobs/view/4414040787/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416703955/",
+      "company": "Amazon Science",
+      "title": "Applied Scientist II, Prime Video - Personalization and Discovery Science",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414037778/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "True Classic",
-      "title": "AI Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416598954/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "True Classic",
-      "title": "AI Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416595982/",
+      "company": "Amazon Science",
+      "title": "Senior Applied Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414044719/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }

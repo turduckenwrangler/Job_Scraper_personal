@@ -1,13 +1,21 @@
 {
-  "scraped_at": "2026-05-21 00:17 UTC",
-  "total": 11,
-  "new_count": 8,
+  "scraped_at": "2026-05-21 01:17 UTC",
+  "total": 7,
+  "new_count": 3,
   "jobs": [
     {
-      "company": "Amazon",
-      "title": "Senior Applied Scientist",
+      "company": "Mochi Health",
+      "title": "Data Scientist, Operations",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417412654/",
+      "url": "https://www.linkedin.com/jobs/view/4416352375/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ChatGPT Jobs",
+      "title": "Lead Machine Learning and Bioinformatics Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4413652780/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
@@ -16,6 +24,14 @@
       "title": "Senior Applied Scientist",
       "location": "San Francisco County, CA",
       "url": "https://www.linkedin.com/jobs/view/4417428213/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417412654/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
@@ -36,125 +52,37 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Saturn Search",
-      "title": "Senior Data Scientist - Series B Startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413649779/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413660059/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Nth AI",
-      "title": "Founding AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416337212/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Salient",
-      "title": "Applied AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417410569/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Insight Global",
-      "title": "Sr. Applied AI Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408919972/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Manhattan Labs",
-      "title": "Founding AI Engineer - Manhattan Labs",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4417401857/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416342373/",
-      "date_posted": "2026-05-20",
+      "company": "Stanford University",
+      "title": "Computational Biologist",
+      "location": "Stanford, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417418659/",
+      "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Amazon",
-      "title": "Senior Applied Scientist",
+      "company": "Mochi Health",
+      "title": "Data Scientist, Operations",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417412654/",
+      "url": "https://www.linkedin.com/jobs/view/4416352375/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Senior Applied Scientist",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417428213/",
+      "company": "ChatGPT Jobs",
+      "title": "Lead Machine Learning and Bioinformatics Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4413652780/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Applied Scientist II, Foundation Model, Robotics",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417431148/",
+      "company": "Stanford University",
+      "title": "Computational Biologist",
+      "location": "Stanford, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417418659/",
       "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist II, Foundation Model, Robotics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417410971/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413660059/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Nth AI",
-      "title": "Founding AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416337212/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Insight Global",
-      "title": "Sr. Applied AI Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408919972/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416342373/",
-      "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     }
   ]

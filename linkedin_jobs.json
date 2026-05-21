@@ -1,111 +1,215 @@
 {
-  "scraped_at": "2026-05-21 16:17 UTC",
-  "total": 8,
-  "new_count": 5,
+  "scraped_at": "2026-05-21 17:17 UTC",
+  "total": 13,
+  "new_count": 13,
   "jobs": [
     {
-      "company": "Tesla",
-      "title": "Machine Learning Engineer, Model Quantization, Tesla AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416586500/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NewLimit",
-      "title": "Data Scientist",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4361168131/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CoreWeave",
-      "title": "Senior Data Scientist, Forecasting (Integrated Planning)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406413818/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Data Scientist, Core",
+      "company": "Ellisor Group",
+      "title": "ML Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4387655091/",
+      "url": "https://www.linkedin.com/jobs/view/4416585768/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Unity",
-      "title": "Senior Machine Learning Engineer, Ads Experimentation & Measurements",
+      "company": "Blue Signal Search",
+      "title": "ML Engineer \u2013 AI-Powered Automation & Workflow Intelligence",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4320966459/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Enigma",
+      "title": "Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416569762/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Discord",
+      "title": "Senior Data Scientist, Analytics",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4388983970/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Senior Data Scientist - Microsoft Advertising",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417745676/",
+      "url": "https://www.linkedin.com/jobs/view/4378756775/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Sr. Applied Scientist, Amazon Advertising",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4267538707/",
+      "company": "Microsoft",
+      "title": "Member of Technical Staff - Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4358193119/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "EY-Parthenon",
-      "title": "EY-Parthenon - Strategy and Execution - Growth Platforms - AI ML Engineering - Director",
+      "company": "Microsoft AI",
+      "title": "Member of Technical Staff - Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4377422985/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Sr. Data Scientist, Field Engineering",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385084731/",
+      "url": "https://www.linkedin.com/jobs/view/4408787007/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "SDE- ML Engineer, Frontier AI Robotics",
+      "company": "Lila Sciences",
+      "title": "Principal / Sr. Principal BioML Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4377144126/",
+      "url": "https://www.linkedin.com/jobs/view/4417754978/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Senior Applied Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4378768551/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Member of Technical Staff, Applied Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4377428659/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416585807/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Wayve",
+      "title": "Principal Machine Learning Engineer, App SW",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385026451/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Tesla",
-      "title": "Machine Learning Engineer, Model Quantization, Tesla AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416586500/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NewLimit",
-      "title": "Data Scientist",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4361168131/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CoreWeave",
-      "title": "Senior Data Scientist, Forecasting (Integrated Planning)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406413818/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Sr. Applied Scientist, Amazon Advertising",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4267538707/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "EY-Parthenon",
-      "title": "EY-Parthenon - Strategy and Execution - Growth Platforms - AI ML Engineering - Director",
+      "company": "Ellisor Group",
+      "title": "ML Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385084731/",
+      "url": "https://www.linkedin.com/jobs/view/4416585768/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Blue Signal Search",
+      "title": "ML Engineer \u2013 AI-Powered Automation & Workflow Intelligence",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4320966459/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Enigma",
+      "title": "Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416569762/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Discord",
+      "title": "Senior Data Scientist, Analytics",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4388983970/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Senior Data Scientist - Microsoft Advertising",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4378756775/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Member of Technical Staff - Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4358193119/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Member of Technical Staff - Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4377422985/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Sr. Data Scientist, Field Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408787007/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Principal / Sr. Principal BioML Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417754978/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Senior Applied Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4378768551/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Member of Technical Staff, Applied Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4377428659/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416585807/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Wayve",
+      "title": "Principal Machine Learning Engineer, App SW",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385026451/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }

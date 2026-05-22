@@ -1,53 +1,13 @@
 {
-  "scraped_at": "2026-05-22 19:15 UTC",
+  "scraped_at": "2026-05-22 19:17 UTC",
   "total": 8,
-  "new_count": 6,
+  "new_count": 0,
   "jobs": [
-    {
-      "company": "Axon",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4361527052/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Arcade.dev",
-      "title": "Applied AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418193574/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417167822/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
     {
       "company": "Unity",
       "title": "Machine Learning Engineer, User Understanding (Entry-Level / New Grad)",
       "location": "Mountain View, CA",
       "url": "https://www.linkedin.com/jobs/view/4418407107/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tranzeal Incorporated",
-      "title": "Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417170848/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Buck Institute for Research on Aging",
-      "title": "Data Scientist / AI Scientist \u2013 AI for Aging Research \u2013 Zhou lab",
-      "location": "Novato, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404543004/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
@@ -60,44 +20,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "scalr",
-      "title": "Research Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4414344844/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Axon",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4361527052/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Arcade.dev",
-      "title": "Applied AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418193574/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417167822/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity",
-      "title": "Machine Learning Engineer, User Understanding (Entry-Level / New Grad)",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418407107/",
+      "company": "Buck Institute for Research on Aging",
+      "title": "Data Scientist / AI Scientist \u2013 AI for Aging Research \u2013 Zhou lab",
+      "location": "Novato, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404543004/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
@@ -110,12 +36,37 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Buck Institute for Research on Aging",
-      "title": "Data Scientist / AI Scientist \u2013 AI for Aging Research \u2013 Zhou lab",
-      "location": "Novato, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404543004/",
+      "company": "Axon",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4361527052/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "scalr",
+      "title": "Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414344844/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417167822/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Arcade.dev",
+      "title": "Applied AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418193574/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }
-  ]
+  ],
+  "new_jobs": []
 }

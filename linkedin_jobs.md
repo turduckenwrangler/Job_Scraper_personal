@@ -1,20 +1,20 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-22 03:17 UTC*
+*Last updated: 2026-05-22 04:47 UTC*
 
-**4 new role(s)** since last run · 13 total in last 1h
+**4 new role(s)** since last run · 5 total in last 1h
 
-### [Data Scientist (Open Platform Mini Games) - TikTok Infrastructure (San Jose)](https://www.linkedin.com/jobs/view/4414071083/) — TikTok
+### [Senior Data Scientist, Analytics](https://www.linkedin.com/jobs/view/4388983970/) — Discord
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-05-22
+
+### [Machine Learning Engineer Intern (Brand Ads) - 2026 Fall (BS/MS)](https://www.linkedin.com/jobs/view/4414064895/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-22
 
-### [Senior Data Scientist, Growth Analytics](https://www.linkedin.com/jobs/view/4414048961/) — Airwallex
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-22
-
-### [Principal Applied Data Scientist - Search and Browse (NLP, Vector Search, LLMs)](https://www.linkedin.com/jobs/view/4414064888/) — Target
+### [Sr Applied Data Scientist - Search and Browse (Applied ML, NLP, LLMs)](https://www.linkedin.com/jobs/view/4414070741/) — Target
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-05-22
 
-### [Forward Deployed AI Engineer — Judgment Labs](https://www.linkedin.com/jobs/view/4414070437/) — David Joseph & Company
+### [Senior Applied AI Engineer– Creative Systems & Brand Intelligence, Adobe Express](https://www.linkedin.com/jobs/view/4414082168/) — Adobe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-22

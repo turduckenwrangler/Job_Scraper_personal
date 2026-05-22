@@ -1,37 +1,29 @@
 {
-  "scraped_at": "2026-05-22 03:17 UTC",
-  "total": 13,
+  "scraped_at": "2026-05-22 04:47 UTC",
+  "total": 5,
   "new_count": 4,
   "jobs": [
     {
-      "company": "Genentech",
-      "title": "Senior Data Scientist, Gen AI Foundation",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416762334/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genentech",
-      "title": "Senior Data Scientist, Gen AI Application",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416741689/",
+      "company": "Discord",
+      "title": "Senior Data Scientist, Analytics",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4388983970/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
       "company": "TikTok",
-      "title": "Data Scientist (Open Platform Mini Games) - TikTok Infrastructure (San Jose)",
+      "title": "Machine Learning Engineer Intern (Brand Ads) - 2026 Fall (BS/MS)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414071083/",
+      "url": "https://www.linkedin.com/jobs/view/4414064895/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Airwallex",
-      "title": "Senior Data Scientist, Growth Analytics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414048961/",
+      "company": "Target",
+      "title": "Sr Applied Data Scientist - Search and Browse (Applied ML, NLP, LLMs)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414070741/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
@@ -44,100 +36,44 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "David Joseph & Company",
-      "title": "Forward Deployed AI Engineer \u2014 Judgment Labs",
+      "company": "Adobe",
+      "title": "Senior Applied AI Engineer\u2013 Creative Systems & Brand Intelligence, Adobe Express",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414070437/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Iron Systems, Inc",
-      "title": "AI Engineer",
-      "location": "Austin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416762331/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "AI Engineer, Special Programs",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416758285/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "AI Engineer, Platform Infrastructure, Special Programs",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416755322/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "Sr. AI Engineer, Special Programs",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416750353/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "Sr. AI Engineer, Platform Infrastructure, Special Programs",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416758302/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "AI Engineer, Special Programs - Top Secret Clearance",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416758305/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpaceX",
-      "title": "Sr. AI Engineer, Special Programs - Top Secret Clearance",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416755336/",
+      "url": "https://www.linkedin.com/jobs/view/4414082168/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "TikTok",
-      "title": "Data Scientist (Open Platform Mini Games) - TikTok Infrastructure (San Jose)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414071083/",
+      "company": "Discord",
+      "title": "Senior Data Scientist, Analytics",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4388983970/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Airwallex",
-      "title": "Senior Data Scientist, Growth Analytics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414048961/",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (Brand Ads) - 2026 Fall (BS/MS)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414064895/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
       "company": "Target",
-      "title": "Principal Applied Data Scientist - Search and Browse (NLP, Vector Search, LLMs)",
+      "title": "Sr Applied Data Scientist - Search and Browse (Applied ML, NLP, LLMs)",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414064888/",
+      "url": "https://www.linkedin.com/jobs/view/4414070741/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "David Joseph & Company",
-      "title": "Forward Deployed AI Engineer \u2014 Judgment Labs",
+      "company": "Adobe",
+      "title": "Senior Applied AI Engineer\u2013 Creative Systems & Brand Intelligence, Adobe Express",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414070437/",
+      "url": "https://www.linkedin.com/jobs/view/4414082168/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }

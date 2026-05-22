@@ -1,79 +1,167 @@
 {
-  "scraped_at": "2026-05-22 04:47 UTC",
-  "total": 5,
-  "new_count": 4,
+  "scraped_at": "2026-05-22 15:17 UTC",
+  "total": 10,
+  "new_count": 10,
   "jobs": [
     {
-      "company": "Discord",
-      "title": "Senior Data Scientist, Analytics",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4388983970/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern (Brand Ads) - 2026 Fall (BS/MS)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414064895/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Target",
-      "title": "Sr Applied Data Scientist - Search and Browse (Applied ML, NLP, LLMs)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414070741/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Target",
-      "title": "Principal Applied Data Scientist - Search and Browse (NLP, Vector Search, LLMs)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414064888/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Adobe",
-      "title": "Senior Applied AI Engineer\u2013 Creative Systems & Brand Intelligence, Adobe Express",
+      "company": "OpenAI",
+      "title": "ML Research Engineer - Hardware Codesign",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414082168/",
+      "url": "https://www.linkedin.com/jobs/view/4353080507/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EY",
+      "title": "AI & Machine Learning Engineering Consultant - Senior - Consulting - Location OPEN",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385090788/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EY",
+      "title": "AI & Machine Learning Engineering Consultant - Manager - Consulting - Location OPEN",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385092661/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EY",
+      "title": "AI & Machine Learning Engineering Consultant - Manager - Consulting - Location OPEN",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385404094/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Research Engineer/Research Scientist, RL/Reasoning",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4313800589/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SoFi",
+      "title": "Senior Data Scientist, Borrow",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4399461705/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Business",
+      "title": "Applied Scientist , Amazon",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4387451709/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Full-funnel Agentic Intelligence and Models",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409110369/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roblox",
+      "title": "Principal Machine Learning Engineer, Communication Safety",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4317184241/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417141673/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Discord",
-      "title": "Senior Data Scientist, Analytics",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4388983970/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern (Brand Ads) - 2026 Fall (BS/MS)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414064895/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Target",
-      "title": "Sr Applied Data Scientist - Search and Browse (Applied ML, NLP, LLMs)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414070741/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Adobe",
-      "title": "Senior Applied AI Engineer\u2013 Creative Systems & Brand Intelligence, Adobe Express",
+      "company": "OpenAI",
+      "title": "ML Research Engineer - Hardware Codesign",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414082168/",
+      "url": "https://www.linkedin.com/jobs/view/4353080507/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EY",
+      "title": "AI & Machine Learning Engineering Consultant - Senior - Consulting - Location OPEN",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385090788/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EY",
+      "title": "AI & Machine Learning Engineering Consultant - Manager - Consulting - Location OPEN",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385092661/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EY",
+      "title": "AI & Machine Learning Engineering Consultant - Manager - Consulting - Location OPEN",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385404094/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Research Engineer/Research Scientist, RL/Reasoning",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4313800589/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SoFi",
+      "title": "Senior Data Scientist, Borrow",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4399461705/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Business",
+      "title": "Applied Scientist , Amazon",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4387451709/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Full-funnel Agentic Intelligence and Models",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409110369/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roblox",
+      "title": "Principal Machine Learning Engineer, Communication Safety",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4317184241/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417141673/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }

@@ -1,20 +1,44 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-22 04:47 UTC*
+*Last updated: 2026-05-22 15:17 UTC*
 
-**4 new role(s)** since last run · 5 total in last 1h
+**10 new role(s)** since last run · 10 total in last 1h
 
-### [Senior Data Scientist, Analytics](https://www.linkedin.com/jobs/view/4388983970/) — Discord
-- 📍 **Location:** San Francisco Bay Area
+### [ML Research Engineer - Hardware Codesign](https://www.linkedin.com/jobs/view/4353080507/) — OpenAI
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-22
 
-### [Machine Learning Engineer Intern (Brand Ads) - 2026 Fall (BS/MS)](https://www.linkedin.com/jobs/view/4414064895/) — TikTok
+### [AI & Machine Learning Engineering Consultant - Senior - Consulting - Location OPEN](https://www.linkedin.com/jobs/view/4385090788/) — EY
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-22
 
-### [Sr Applied Data Scientist - Search and Browse (Applied ML, NLP, LLMs)](https://www.linkedin.com/jobs/view/4414070741/) — Target
-- 📍 **Location:** Sunnyvale, CA
+### [AI & Machine Learning Engineering Consultant - Manager - Consulting - Location OPEN](https://www.linkedin.com/jobs/view/4385092661/) — EY
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-22
 
-### [Senior Applied AI Engineer– Creative Systems & Brand Intelligence, Adobe Express](https://www.linkedin.com/jobs/view/4414082168/) — Adobe
+### [AI & Machine Learning Engineering Consultant - Manager - Consulting - Location OPEN](https://www.linkedin.com/jobs/view/4385404094/) — EY
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-22
+
+### [Research Engineer/Research Scientist, RL/Reasoning](https://www.linkedin.com/jobs/view/4313800589/) — OpenAI
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-22
+
+### [Senior Data Scientist, Borrow](https://www.linkedin.com/jobs/view/4399461705/) — SoFi
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-22
+
+### [Applied Scientist , Amazon](https://www.linkedin.com/jobs/view/4387451709/) — Amazon Business
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-05-22
+
+### [Senior Applied Scientist, Full-funnel Agentic Intelligence and Models](https://www.linkedin.com/jobs/view/4409110369/) — Amazon
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-05-22
+
+### [Principal Machine Learning Engineer, Communication Safety](https://www.linkedin.com/jobs/view/4317184241/) — Roblox
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-05-22
+
+### [AI Engineer, Agent Product (Full-time/Part-time)](https://www.linkedin.com/jobs/view/4417141673/) — Jobright.ai
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-05-22

@@ -1,16 +1,12 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-23 18:17 UTC*
+*Last updated: 2026-05-23 19:17 UTC*
 
-**3 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4418630339/) — Edufesto
-- 📍 **Location:** San Francisco, CA
+### [Research Engineer, Alignment](https://www.linkedin.com/jobs/view/4417562605/) — Mechanize, Inc.
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-23
 
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4408255828/) — Microsoft
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-05-23
-
-### [Staff Data Scientist](https://www.linkedin.com/jobs/view/4369427222/) — Bloom Energy
-- 📍 **Location:** Fremont, CA
+### [Senior Research Engineer - AI Coding Tools](https://www.linkedin.com/jobs/view/4407975272/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-05-23

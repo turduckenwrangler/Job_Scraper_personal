@@ -1,63 +1,39 @@
 {
-  "scraped_at": "2026-05-23 18:17 UTC",
-  "total": 4,
-  "new_count": 3,
+  "scraped_at": "2026-05-23 19:17 UTC",
+  "total": 2,
+  "new_count": 2,
   "jobs": [
     {
-      "company": "Edufesto",
-      "title": "Senior AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418630339/",
+      "company": "Mechanize, Inc.",
+      "title": "Research Engineer, Alignment",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4417562605/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "Microsoft",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408255828/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bloom Energy",
-      "title": "Staff Data Scientist",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4369427222/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417567433/",
+      "company": "NVIDIA",
+      "title": "Senior Research Engineer - AI Coding Tools",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407975272/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Edufesto",
-      "title": "Senior AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418630339/",
+      "company": "Mechanize, Inc.",
+      "title": "Research Engineer, Alignment",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4417562605/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "Microsoft",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408255828/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bloom Energy",
-      "title": "Staff Data Scientist",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4369427222/",
+      "company": "NVIDIA",
+      "title": "Senior Research Engineer - AI Coding Tools",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407975272/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     }

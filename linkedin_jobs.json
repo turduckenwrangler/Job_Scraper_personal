@@ -1,73 +1,7 @@
 {
-  "scraped_at": "2026-05-23 22:17 UTC",
-  "total": 4,
-  "new_count": 4,
-  "jobs": [
-    {
-      "company": "Amazon Science",
-      "title": "Applied Scientist, AWS Quick",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414824705/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Applied Scientist, Shopping Convo Foundations - Pre-purchases Science",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414805943/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Applied Scientist, Shopping Convo Foundations - Pre-purchases Science",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414825668/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Senior Applied Scientist, AWS Quick",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414821727/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Amazon Science",
-      "title": "Applied Scientist, AWS Quick",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414824705/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Applied Scientist, Shopping Convo Foundations - Pre-purchases Science",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414805943/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Applied Scientist, Shopping Convo Foundations - Pre-purchases Science",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414825668/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Senior Applied Scientist, AWS Quick",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414821727/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    }
-  ]
+  "scraped_at": "2026-05-23 23:17 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }

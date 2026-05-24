@@ -1,39 +1,23 @@
 {
-  "scraped_at": "2026-05-24 20:17 UTC",
-  "total": 2,
-  "new_count": 2,
+  "scraped_at": "2026-05-24 21:17 UTC",
+  "total": 1,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Machine Learning Engineer, Content and Service Ads - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418906009/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Open Talent",
-      "title": "Founding AI Engineer | LLM Systems | $500k+ & Equity | Hybrid | SF",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4414055269/",
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417841258/",
       "date_posted": "2026-05-24",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Machine Learning Engineer, Content and Service Ads - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418906009/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Open Talent",
-      "title": "Founding AI Engineer | LLM Systems | $500k+ & Equity | Hybrid | SF",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4414055269/",
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417841258/",
       "date_posted": "2026-05-24",
       "ats": "LinkedIn"
     }

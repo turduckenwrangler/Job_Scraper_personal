@@ -1,47 +1,55 @@
 {
-  "scraped_at": "2026-05-24 18:17 UTC",
-  "total": 4,
-  "new_count": 1,
+  "scraped_at": "2026-05-24 19:17 UTC",
+  "total": 3,
+  "new_count": 3,
   "jobs": [
     {
-      "company": "Wayve",
-      "title": "Machine Learning Engineer, App SW",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4375950910/",
+      "company": "TikTok",
+      "title": "Data Scientist - TikTok Social and Creation (San Jose)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417837182/",
       "date_posted": "2026-05-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
+      "company": "Baselayer",
+      "title": "Senior AI Engineer, Agentic Data Enrichment",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417832057/",
+      "url": "https://www.linkedin.com/jobs/view/4417327752/",
       "date_posted": "2026-05-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Palo Alto Networks Unit 42",
-      "title": "Sr Principal AI-Data Scientist (ADEM)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414857696/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Palo Alto Networks Unit 42",
-      "title": "Sr Principal AI-Data Scientist (ADEM)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414850997/",
+      "company": "TikTok",
+      "title": "Data Science Lead, Quant Modeling",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417829145/",
       "date_posted": "2026-05-24",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Wayve",
-      "title": "Machine Learning Engineer, App SW",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4375950910/",
+      "company": "TikTok",
+      "title": "Data Scientist - TikTok Social and Creation (San Jose)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417837182/",
+      "date_posted": "2026-05-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Baselayer",
+      "title": "Senior AI Engineer, Agentic Data Enrichment",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417327752/",
+      "date_posted": "2026-05-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Data Science Lead, Quant Modeling",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417829145/",
       "date_posted": "2026-05-24",
       "ats": "LinkedIn"
     }

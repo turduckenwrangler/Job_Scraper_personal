@@ -1,39 +1,87 @@
 {
-  "scraped_at": "2026-05-24 04:49 UTC",
-  "total": 2,
-  "new_count": 2,
+  "scraped_at": "2026-05-24 15:17 UTC",
+  "total": 5,
+  "new_count": 5,
   "jobs": [
     {
-      "company": "General Motors",
-      "title": "Senior AI/ML Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418662345/",
+      "company": "Roblox",
+      "title": "Senior Machine Learning Infrastructure Engineer, Ads",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4317753328/",
       "date_posted": "2026-05-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "XPENG",
-      "title": "Senior Staff Research Engineer \u2013 Reinforcement Learning for AI Agents",
+      "company": "Abridge",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4318554538/",
+      "date_posted": "2026-05-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SAP",
+      "title": "Senior AI/ML Applied Scientist - Generative AI",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4306692101/",
+      "date_posted": "2026-05-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Annapurna ML",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4400645642/",
+      "date_posted": "2026-05-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418663347/",
+      "url": "https://www.linkedin.com/jobs/view/4417810119/",
       "date_posted": "2026-05-24",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "General Motors",
-      "title": "Senior AI/ML Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418662345/",
+      "company": "Roblox",
+      "title": "Senior Machine Learning Infrastructure Engineer, Ads",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4317753328/",
       "date_posted": "2026-05-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "XPENG",
-      "title": "Senior Staff Research Engineer \u2013 Reinforcement Learning for AI Agents",
+      "company": "Abridge",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4318554538/",
+      "date_posted": "2026-05-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SAP",
+      "title": "Senior AI/ML Applied Scientist - Generative AI",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4306692101/",
+      "date_posted": "2026-05-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Annapurna ML",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4400645642/",
+      "date_posted": "2026-05-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418663347/",
+      "url": "https://www.linkedin.com/jobs/view/4417810119/",
       "date_posted": "2026-05-24",
       "ats": "LinkedIn"
     }

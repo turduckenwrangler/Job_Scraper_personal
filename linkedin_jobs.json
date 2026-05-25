@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-25 19:06 UTC",
+  "scraped_at": "2026-05-25 19:17 UTC",
   "total": 4,
-  "new_count": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Affirm",
@@ -36,38 +36,5 @@
       "ats": "LinkedIn"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Affirm",
-      "title": "Machine Learning Engineer II",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417880946/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Affirm",
-      "title": "Machine Learning Engineer II",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417893888/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TalentAlly",
-      "title": "AI Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418974921/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Affirm",
-      "title": "Machine Learning Engineer II",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418203291/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    }
-  ]
+  "new_jobs": []
 }

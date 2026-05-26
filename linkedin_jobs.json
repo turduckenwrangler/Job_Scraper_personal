@@ -1,37 +1,45 @@
 {
-  "scraped_at": "2026-05-26 17:17 UTC",
-  "total": 12,
-  "new_count": 12,
+  "scraped_at": "2026-05-26 18:11 UTC",
+  "total": 8,
+  "new_count": 5,
   "jobs": [
     {
-      "company": "Adobe",
-      "title": "Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418271903/",
+      "company": "Snap Inc.",
+      "title": "Staff Machine Learning Engineer, Search Ranking",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419463813/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Hippocratic AI",
-      "title": "Senior Machine Learning Engineer",
+      "company": "Snap Inc.",
+      "title": "Staff Machine Learning Engineer, Search Ranking",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410268280/",
+      "url": "https://www.linkedin.com/jobs/view/4419480558/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Recruiting from Scratch",
-      "title": "Machine Learning Engineer",
+      "company": "Zeta Global",
+      "title": "Principal AI/ML Engineer - AdTech",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400035089/",
+      "url": "https://www.linkedin.com/jobs/view/4418281524/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Recruiting from Scratch",
-      "title": "Founding ML Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414770487/",
+      "company": "Applied Materials",
+      "title": "Data Scientist II",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408414925/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "San Jos\u00e9 State University",
+      "title": "Department of Applied Data Science Lecturer Pool",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4158336551/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
@@ -44,14 +52,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Drata",
-      "title": "Applied Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419447633/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Jobright.ai",
       "title": "Machine Learning Engineer, Speech LLM Training",
       "location": "San Francisco, CA",
@@ -60,140 +60,52 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Drata",
-      "title": "Staff Applied Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419441766/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Emonics LLC",
       "title": "Junior AI Engineer",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4418279360/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Workato",
-      "title": "Staff AI Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4363854871/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Prophecy",
-      "title": "Staff AI/ML Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410233342/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Drata",
-      "title": "Senior AI Engineer, Agent Harness",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419454189/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Adobe",
-      "title": "Machine Learning Engineer",
+      "company": "Snap Inc.",
+      "title": "Staff Machine Learning Engineer, Search Ranking",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419463813/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Snap Inc.",
+      "title": "Staff Machine Learning Engineer, Search Ranking",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419480558/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zeta Global",
+      "title": "Principal AI/ML Engineer - AdTech",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418281524/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Data Scientist II",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408414925/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "San Jos\u00e9 State University",
+      "title": "Department of Applied Data Science Lecturer Pool",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418271903/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Hippocratic AI",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410268280/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Recruiting from Scratch",
-      "title": "Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400035089/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Recruiting from Scratch",
-      "title": "Founding ML Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414770487/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TalentAlly",
-      "title": "Data Scientist III",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419463375/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Drata",
-      "title": "Applied Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419447633/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418297098/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Drata",
-      "title": "Staff Applied Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419441766/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Emonics LLC",
-      "title": "Junior AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418279360/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Workato",
-      "title": "Staff AI Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4363854871/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Prophecy",
-      "title": "Staff AI/ML Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410233342/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Drata",
-      "title": "Senior AI Engineer, Agent Harness",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419454189/",
+      "url": "https://www.linkedin.com/jobs/view/4158336551/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     }

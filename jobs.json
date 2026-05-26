@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-25 07:57 UTC",
-  "total": 7,
-  "new_count": 2,
+  "scraped_at": "2026-05-26 06:55 UTC",
+  "total": 5,
+  "new_count": 0,
   "jobs": [
     {
       "company": "10x Genomics",
@@ -42,40 +42,7 @@
       "url": "https://job-boards.greenhouse.io/altoslabs/jobs/5709084004",
       "date_posted": "2026-03-31",
       "ats": "Greenhouse"
-    },
-    {
-      "company": "Biohub",
-      "title": "Machine Learning Engineer, AI",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398630444/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genentech",
-      "title": "Computational Scientist 3 - Cell & Tissue Genomics",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400669618/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Biohub",
-      "title": "Machine Learning Engineer, AI",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398630444/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genentech",
-      "title": "Computational Scientist 3 - Cell & Tissue Genomics",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400669618/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
-    }
-  ]
+  "new_jobs": []
 }

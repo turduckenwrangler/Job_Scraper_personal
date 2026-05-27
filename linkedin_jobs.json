@@ -1,79 +1,71 @@
 {
-  "scraped_at": "2026-05-27 22:17 UTC",
-  "total": 5,
+  "scraped_at": "2026-05-27 23:01 UTC",
+  "total": 4,
   "new_count": 4,
   "jobs": [
     {
-      "company": "Cellanome",
-      "title": "Machine Learning Engineer",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416891052/",
+      "company": "Discord",
+      "title": "Senior Data Scientist, Analytics",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4388983970/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bobyard",
-      "title": "Computer Vision Research Engineer",
+      "company": "Shipt",
+      "title": "Staff Machine Learning Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4388119842/",
+      "url": "https://www.linkedin.com/jobs/view/4419975655/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "SoFi",
-      "title": "Staff AI Engineer",
+      "company": "Google DeepMind",
+      "title": "Research Engineer, Materials Science",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419988251/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Front",
+      "title": "Operations AI Engineer (Contract)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419971456/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Autodesk",
-      "title": "Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418866082/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418857282/",
+      "url": "https://www.linkedin.com/jobs/view/4419988179/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Cellanome",
-      "title": "Machine Learning Engineer",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416891052/",
+      "company": "Discord",
+      "title": "Senior Data Scientist, Analytics",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4388983970/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bobyard",
-      "title": "Computer Vision Research Engineer",
+      "company": "Shipt",
+      "title": "Staff Machine Learning Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4388119842/",
+      "url": "https://www.linkedin.com/jobs/view/4419975655/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Autodesk",
-      "title": "Research Engineer",
+      "company": "Google DeepMind",
+      "title": "Research Engineer, Materials Science",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419988251/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Front",
+      "title": "Operations AI Engineer (Contract)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418866082/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418857282/",
+      "url": "https://www.linkedin.com/jobs/view/4419988179/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }

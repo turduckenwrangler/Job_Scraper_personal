@@ -1,79 +1,103 @@
 {
-  "scraped_at": "2026-05-27 03:17 UTC",
-  "total": 5,
-  "new_count": 4,
+  "scraped_at": "2026-05-27 05:00 UTC",
+  "total": 6,
+  "new_count": 6,
   "jobs": [
     {
-      "company": "PlusAI",
-      "title": "Machine Learning Engineer Intern",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412893082/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Wayve",
-      "title": "System & Data Scientist",
+      "company": "Walmart",
+      "title": "Senior, Data Scientist",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416879667/",
+      "url": "https://www.linkedin.com/jobs/view/4418553361/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Philo",
-      "title": "Sr. Machine Learning Engineer (Recommendation Systems)",
+      "company": "Walmart",
+      "title": "(USA) Senior, Data Scientist - Applied AI",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418549597/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "Principal, Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418566112/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Drata",
+      "title": "Senior Applied Research Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4302123397/",
+      "url": "https://www.linkedin.com/jobs/view/4419595337/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Robert Half",
-      "title": "Data Scientist II",
-      "location": "San Ramon, CA",
-      "url": "https://www.linkedin.com/jobs/view/4379134223/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Nokia",
+      "company": "scaleiq",
       "title": "AI Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416877245/",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419594477/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Drata",
+      "title": "Senior Platform AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419588440/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Wayve",
-      "title": "System & Data Scientist",
+      "company": "Walmart",
+      "title": "Senior, Data Scientist",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416879667/",
+      "url": "https://www.linkedin.com/jobs/view/4418553361/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Philo",
-      "title": "Sr. Machine Learning Engineer (Recommendation Systems)",
+      "company": "Walmart",
+      "title": "(USA) Senior, Data Scientist - Applied AI",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418549597/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "Principal, Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418566112/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Drata",
+      "title": "Senior Applied Research Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4302123397/",
+      "url": "https://www.linkedin.com/jobs/view/4419595337/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Robert Half",
-      "title": "Data Scientist II",
-      "location": "San Ramon, CA",
-      "url": "https://www.linkedin.com/jobs/view/4379134223/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Nokia",
+      "company": "scaleiq",
       "title": "AI Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416877245/",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419594477/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Drata",
+      "title": "Senior Platform AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419588440/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }

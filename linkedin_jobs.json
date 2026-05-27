@@ -1,14 +1,62 @@
 {
-  "scraped_at": "2026-05-26 23:17 UTC",
-  "total": 5,
-  "new_count": 4,
+  "scraped_at": "2026-05-27 00:17 UTC",
+  "total": 10,
+  "new_count": 9,
   "jobs": [
     {
-      "company": "Themesoft Inc.",
-      "title": "AI Data Scientist",
+      "company": "TikTok",
+      "title": "Research Engineer/Scientist (all levels), Efficient Models",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419515973/",
-      "date_posted": "2026-05-26",
+      "url": "https://www.linkedin.com/jobs/view/4418544019/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418533260/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scopely",
+      "title": "Data Scientist, Marketing",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4419540853/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scopely",
+      "title": "Data Scientist, Marketing",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419539902/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Last Mile Delivery",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419569017/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cornerstone OnDemand",
+      "title": "Associate AI Engineer",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419564135/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cornerstone OnDemand",
+      "title": "Associate AI Engineer",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419554415/",
+      "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
@@ -20,60 +68,92 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Adobe",
-      "title": "Senior Applied Scientist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418514625/",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416857428/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Zendesk",
-      "title": "Senior Machine Learning Engineer (Hybrid - Austin or SF)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416864158/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Real",
-      "title": "Principal AI Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419521919/",
+      "company": "Microsoft AI",
+      "title": "Principal Applied Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419548813/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Moloco",
-      "title": "Machine Learning Engineer, Infrastructure",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419549602/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Adobe",
-      "title": "Senior Applied Scientist",
+      "company": "TikTok",
+      "title": "Research Engineer/Scientist (all levels), Efficient Models",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418514625/",
-      "date_posted": "2026-05-26",
+      "url": "https://www.linkedin.com/jobs/view/4418544019/",
+      "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Zendesk",
-      "title": "Senior Machine Learning Engineer (Hybrid - Austin or SF)",
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416864158/",
+      "url": "https://www.linkedin.com/jobs/view/4418533260/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scopely",
+      "title": "Data Scientist, Marketing",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4419540853/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scopely",
+      "title": "Data Scientist, Marketing",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419539902/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Last Mile Delivery",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419569017/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cornerstone OnDemand",
+      "title": "Associate AI Engineer",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419564135/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cornerstone OnDemand",
+      "title": "Associate AI Engineer",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419554415/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416857428/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Real",
-      "title": "Principal AI Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419521919/",
+      "company": "Microsoft AI",
+      "title": "Principal Applied Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419548813/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     }

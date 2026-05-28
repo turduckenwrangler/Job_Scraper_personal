@@ -1,0 +1,115 @@
+name: Indeed MLE/DS Watcher
+
+on:
+  # Scheduling is driven externally by cron-job.org (hourly at :47 PT, 8am-8pm).
+  # Offset from LinkedIn (:17) to spread Gmail sends and reduce contention on
+  # the commit-push concurrency group. Watchdog workflow (linkedin_watch_backup.yml
+  # at :33) is the in-GH backup in case cron-job.org has an outage.
+  workflow_dispatch:
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    name: Indeed scrape + email
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install Indeed deps
+        run: pip install -r requirements.txt
+
+      - name: Scrape Indeed (last 1h)
+        run: python scrape_jobs.py --indeed-only
+
+      - name: Record workflow run
+        run: |
+          python - <<'EOF'
+          import json
+          import os
+          from datetime import datetime, timezone
+
+          with open("indeed_jobs.json", encoding="utf-8") as f:
+              data = json.load(f)
+
+          entry = {
+              "workflow": "indeed",
+              "timestamp": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+              "job_count": int(data.get("total", 0)),
+              "run_id": os.environ.get("GITHUB_RUN_ID", ""),
+              "run_attempt": os.environ.get("GITHUB_RUN_ATTEMPT", ""),
+          }
+
+          with open("workflow_runs.jsonl", "a", encoding="utf-8") as f:
+              f.write(json.dumps(entry, sort_keys=True) + "\n")
+          EOF
+
+      - name: Commit results to repo
+        run: |
+          git config user.name  "ernestod1998"
+          git config user.email "61074783+ernestod1998@users.noreply.github.com"
+          git add indeed_jobs.json indeed_jobs.md indeed_jobs.html workflow_runs.jsonl
+          git diff --cached --quiet || git commit -m "chore: update indeed listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
+          git pull --rebase origin main
+          git push
+
+      - name: Send email with results
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          python - <<'EOF'
+          import os, smtplib, json
+          from datetime import datetime
+          from email.mime.multipart import MIMEMultipart
+          from email.mime.text import MIMEText
+          from zoneinfo import ZoneInfo
+
+          user = os.environ["GMAIL_USER"]
+          password = os.environ["GMAIL_APP_PASSWORD"]
+
+          with open("indeed_jobs.json") as f:
+              data = json.load(f)
+          with open("indeed_jobs.md") as f:
+              body_md = f.read()
+          with open("indeed_jobs.html") as f:
+              body_html = f.read()
+
+          new_count = data["new_count"]
+          total = data["total"]
+          scraped_at = data["scraped_at"]
+
+          now_pt = datetime.now(ZoneInfo("America/Los_Angeles"))
+          hour = now_pt.hour % 12 or 12
+          suffix = "AM" if now_pt.hour < 12 else "PM"
+          slot = f"{hour}{suffix} PT"
+
+          subject = f"🟦 Indeed {slot} — {new_count} new role(s) [{scraped_at[:10]}]"
+
+          msg = MIMEMultipart("alternative")
+          msg["Subject"] = subject
+          msg["From"] = user
+          msg["To"] = user
+          msg.attach(MIMEText(body_md, "plain", "utf-8"))
+          msg.attach(MIMEText(body_html, "html", "utf-8"))
+
+          with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
+              smtp.login(user, password)
+              smtp.sendmail(user, user, msg.as_string())
+
+          print(f"✅ Email sent to {user}")
+          EOF

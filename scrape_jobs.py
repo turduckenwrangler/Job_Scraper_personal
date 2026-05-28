@@ -24,15 +24,40 @@ HEADERS = {
 }
 
 KEYWORDS = [
-    # ML engineering
+    # ---- ML / AI ----
     "machine learning engineer", "ml engineer", "mle",
-    "machine learning infra", "ai engineer", "mlops",
-    "research engineer",
-    # Applied / AI / ML scientist
+    "machine learning infra", "ml platform", "ai platform",
+    "ai engineer", "ai/ml engineer",
+    "mlops", "research engineer",
+    "llm engineer", "generative ai", "genai engineer", "prompt engineer",
+    "deep learning", "reinforcement learning",
+    "computer vision", "nlp engineer",
+    # ---- Applied / AI / ML scientist ----
     "applied scientist", "ai scientist", "ml scientist",
-    # Data science
+    # ---- Data science ----
     "data scientist", "data science",
-    # Computational / informatics
+    # ---- Software engineering (broad) ----
+    "software engineer", "software developer",
+    "backend engineer", "back-end engineer", "backend developer",
+    "frontend engineer", "front-end engineer", "frontend developer",
+    "full stack engineer", "full-stack engineer", "fullstack engineer",
+    "mobile engineer", "ios engineer", "android engineer",
+    # ---- Platform / infra / ops ----
+    "platform engineer",
+    "infrastructure engineer", "infra engineer",
+    "systems engineer", "distributed systems",
+    "cloud engineer",
+    "devops engineer", "devops",
+    "site reliability engineer",
+    "security engineer",
+    # ---- Data engineering ----
+    "data engineer", "data engineering",
+    "analytics engineer",
+    "data platform", "data infrastructure",
+    "etl engineer", "etl developer",
+    # ---- Robotics / perception ----
+    "robotics engineer", "perception engineer",
+    # ---- Computational / informatics (biotech) ----
     "computational scientist", "computational biologist",
     "bioinformatics scientist", "bioinformatics engineer",
     "cheminformatics",
@@ -506,11 +531,28 @@ def scrape_genentech():
 # ---------------------------------------------------------------------------
 
 LINKEDIN_SEARCH_TERMS = [
+    # ML / AI / DS
     "machine learning engineer",
     "data scientist",
     "applied scientist",
     "AI engineer",
     "MLOps engineer",
+    # Software engineering
+    "software engineer",
+    "backend engineer",
+    "frontend engineer",
+    "full stack engineer",
+    "mobile engineer",
+    # Platform / infra / ops
+    "platform engineer",
+    "devops engineer",
+    "site reliability engineer",
+    "infrastructure engineer",
+    "security engineer",
+    # Data engineering
+    "data engineer",
+    "analytics engineer",
+    # Biotech / informatics
     "computational biologist",
     "bioinformatics",
     "cheminformatics",
@@ -663,6 +705,73 @@ def scrape_linkedin_biotech() -> list:
     return jobs
 
 
+# ---------------------------------------------------------------------------
+# Indeed — via python-jobspy (Indeed's RSS feeds + Publisher API were both
+# deprecated in 2026, and indeed.com sits behind Cloudflare top-tier bot
+# protection. JobSpy uses Indeed's mobile-app API internally — no proxies
+# required, no documented rate limit.)
+# ---------------------------------------------------------------------------
+
+INDEED_LOOKBACK_HOURS = 1  # hourly watcher window, mirrors LINKEDIN_LOOKBACK_SECONDS=3600
+
+
+def scrape_indeed_recent() -> list:
+    """Indeed MLE/DS roles posted in the last INDEED_LOOKBACK_HOURS, SF Bay Area."""
+    print(f"🟦 Scraping Indeed (last {INDEED_LOOKBACK_HOURS}h)...")
+    try:
+        from jobspy import scrape_jobs as jobspy_scrape
+    except ImportError:
+        print("  ⚠️  python-jobspy not installed; skipping Indeed")
+        return []
+
+    jobs_by_id: dict[str, dict] = {}
+    for term in LINKEDIN_SEARCH_TERMS:
+        try:
+            # JobSpy Indeed gotcha: hours_old / is_remote / job_type / easy_apply
+            # are mutually exclusive — only one may be set, or the time filter
+            # silently breaks. Keep hours_old; do not add the others.
+            df = jobspy_scrape(
+                site_name=["indeed"],
+                search_term=term,
+                location="San Francisco, CA",
+                distance=50,
+                results_wanted=50,
+                hours_old=INDEED_LOOKBACK_HOURS,
+                country_indeed="USA",
+            )
+        except Exception as e:
+            print(f"  ⚠️  Indeed ({term!r}): {e}")
+            continue
+        if df is None or df.empty:
+            continue
+        df.columns = [c.lower() for c in df.columns]
+        df = df.fillna("")
+        for _, row in df.iterrows():
+            title = str(row.get("title", "") or "")
+            if not is_mle_role(title):
+                continue
+            url = str(row.get("job_url", "") or "")
+            ident = _job_identity(url)
+            if ident in jobs_by_id:
+                continue
+            loc = str(row.get("location", "") or "")
+            if not loc:
+                city = str(row.get("city", "") or "")
+                state = str(row.get("state", "") or "")
+                loc = ", ".join(p for p in [city, state] if p)
+            jobs_by_id[ident] = {
+                "company": str(row.get("company", "") or "Unknown"),
+                "title": title,
+                "location": loc,
+                "url": url,
+                "date_posted": str(row.get("date_posted", "") or ""),
+                "ats": "Indeed",
+            }
+    jobs = list(jobs_by_id.values())
+    print(f"  ✅ Indeed: {len(jobs)} role(s)")
+    return jobs
+
+
 def _iso_to_ts(iso: str) -> float:
     if not iso:
         return 0.0
@@ -676,15 +785,20 @@ def _job_identity(url: str) -> str:
     """
     Stable identity string for a posting URL, used to dedupe across runs.
 
-    LinkedIn URLs collapse to their numeric posting ID (LinkedIn appends
-    tracking params that vary run-to-run). For ATS URLs (Greenhouse, Workday,
-    Phenom) we strip the query string and trailing slash and use the URL itself.
+    LinkedIn → numeric posting ID (LinkedIn appends tracking params that vary
+    run-to-run). Indeed → the `jk=` token (Indeed appends `indpubnum` and other
+    tracking that varies). Other ATS (Greenhouse, Workday, Phenom) → URL with
+    query string and trailing slash stripped.
     """
-    m = re.search(r'/jobs/view/(\d+)', url or "")
+    if not url:
+        return ""
+    m = re.search(r'/jobs/view/(\d+)', url)
     if m:
         return f"linkedin:{m.group(1)}"
-    base = (url or "").split("?")[0].rstrip("/")
-    return base
+    m = re.search(r'[?&]jk=([a-zA-Z0-9]+)', url)
+    if m:
+        return f"indeed:{m.group(1)}"
+    return url.split("?")[0].rstrip("/")
 
 
 def _load_prev_ids(json_path: str) -> set[str]:
@@ -760,11 +874,23 @@ def save_linkedin_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="linkedin_jobs",
-        title="🔥 LinkedIn — MLE / DS Roles (SF Bay Area)",
+        title="🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)",
         subtitle=f"SF Bay Area · last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
         accent="#ff6b35",
         empty_message="No new roles since the last run.",
         window_label=f"last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
+    )
+
+
+def save_indeed_results(jobs: list):
+    save_jobs_output(
+        jobs,
+        basename="indeed_jobs",
+        title="🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)",
+        subtitle=f"SF Bay Area · last {INDEED_LOOKBACK_HOURS}h",
+        accent="#2557a7",
+        empty_message="No new roles since the last run.",
+        window_label=f"last {INDEED_LOOKBACK_HOURS}h",
     )
 
 
@@ -891,6 +1017,10 @@ def save_results(jobs: list):
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
+    if "--indeed-only" in sys.argv:
+        save_indeed_results(scrape_indeed_recent())
+        sys.exit(0)
+
     if "--linkedin-only" in sys.argv:
         save_linkedin_results(scrape_linkedin_recent())
         sys.exit(0)

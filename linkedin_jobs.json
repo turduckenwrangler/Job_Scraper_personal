@@ -1,8 +1,112 @@
 {
-  "scraped_at": "2026-05-29 01:17 UTC",
-  "total": 18,
-  "new_count": 12,
+  "scraped_at": "2026-05-29 02:17 UTC",
+  "total": 49,
+  "new_count": 47,
   "jobs": [
+    {
+      "company": "Zoox",
+      "title": "Software Engineer, ML Performance Optimization",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420681236/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "AI Engineer at Bay Area AI hardware startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419366298/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sandisk",
+      "title": "Senior Staff data science engineer",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420673300/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Spark Tek Inc",
+      "title": "Staff Software AI Engineer (IC4)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420662736/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Keysight Technologies",
+      "title": "R&D Software Engineer",
+      "location": "Santa Rosa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417906147/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Genentech",
+      "title": "Computational Scientist 3, Spatial Omics & Computational Pathology",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420679315/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "XPENG",
+      "title": "Senior AI Data Infrastructure Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420671154/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Puzzle",
+      "title": "Senior Software Engineer, Quality Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420670504/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Modern Treasury",
+      "title": "Software Engineer - Security",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420681305/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Modern Treasury",
+      "title": "Software Engineer - Security",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420676410/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "XPENG",
+      "title": "Staff Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4420666445/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Junior data scientist/Data Analyst",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420664597/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Junior Data Scientist/Data Analyst",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420664587/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
     {
       "company": "XPENG",
       "title": "Machine Learning Engineer, Robotics",
@@ -12,114 +116,186 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Affirm",
-      "title": "Software Engineer, Early Career",
+      "company": "SynergisticIT",
+      "title": "Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419370113/",
+      "url": "https://www.linkedin.com/jobs/view/4420661770/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, ML Infrastructure, Level 4",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420641495/",
+      "company": "SynergisticIT",
+      "title": "entry level java developer/Data scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420669270/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Senior Machine Learning Engineer, GenAIUX",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420648198/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Harnham",
-      "title": "Software Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4420638960/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "INFOTRON",
-      "title": "Senior Data Engineer",
+      "company": "SynergisticIT",
+      "title": "Jr Java Developer/Entry level data scientist",
       "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419342228/",
+      "url": "https://www.linkedin.com/jobs/view/4420675119/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Senior Machine Learning Engineer, GenAIUX",
-      "location": "East Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420639618/",
+      "company": "SynergisticIT",
+      "title": "Entry level Java developer/ data scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420678039/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Fireworks AI",
-      "title": "Member of Technical Staff, Software Engineer",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4382904533/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior System Software Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419335913/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "RS Global Services",
-      "title": "Applied AI Engineer - Onsite - SF",
+      "company": "Tacit",
+      "title": "Full-Stack Software Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420661380/",
+      "url": "https://www.linkedin.com/jobs/view/4420668451/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "XPENG",
-      "title": "Senior Staff Research Engineer \u2013 Reinforcement Learning for AI Agents",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420660765/",
+      "company": "Jobs via Dice",
+      "title": "Senior MLOps Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419374311/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "HealthCare Recruiters International",
-      "title": "Principal AI/ML Scientist",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4419346952/",
+      "company": "SynergisticIT",
+      "title": "Entry Level Software Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420678062/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
-      "title": "PhD Research Intern, Generative AI - 2026",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419334985/",
+      "company": "Superhuman",
+      "title": "Director, Data Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417695458/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "GEICO",
-      "title": "Senior Full Stack Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419377032/",
+      "company": "Samara",
+      "title": "Data Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419364436/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "GEICO",
-      "title": "Senior Software Engineer - Infrastructure Engineering (Linux), OS Team",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419380030/",
+      "company": "Blaxel (YC X25)",
+      "title": "Network Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420672415/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Sr. Staff Software Engineer (Reliability)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420675381/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Blaxel (YC X25)",
+      "title": "Site Reliability Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420675357/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Platform Engineer ($170k-$220k + Equity) at Stealth-mode Cloud Financial Data Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419373330/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Software Engineer I",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420653985/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "junior software engineer/Data analyst",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420659910/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Junior Java Spring devops developer/Entry level data engineer remote",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420678026/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "junior java backend developer/Data scientist",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420668489/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Senior/Staff Software Engineer ($120k-$200k) at Venture-backed AI Mental Health Startup",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419382322/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Software Engineer II",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420675133/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Product Security Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419376374/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "ServiceNow Specialty Software Engineer - Service Catalog & Agentic AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419363363/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Founding Full Stack Engineer ($150k\u2013$180k + Equity) at VC-backed AI supply chain startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419382354/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Junior Full Stack Developer (React.js, Angular, DevOps)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420663613/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
@@ -132,116 +308,468 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
-      "title": "Principal System Software Engineer - AV Platform",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419344816/",
+      "company": "Google",
+      "title": "Staff Software Engineer, Embedded Systems/Firmware",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419378235/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Airtable",
-      "title": "Manager, Data Engineering",
+      "company": "Jobs via Dice",
+      "title": "Python Backend Engineer (Only W2)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419369320/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Java with DevOps Engineer - ENTRY",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420680002/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tesla",
+      "title": "Mechatronics Test Engineer, Drive Systems Engineering",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420675104/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Gyga Force",
+      "title": "Microwave Plasma Systems Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4419362090/",
+      "url": "https://www.linkedin.com/jobs/view/4419371446/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "True Anomaly",
+      "title": "Senior Enterprise Security Engineer, Linux",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4420686085/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SentiLink",
+      "title": "Principal Information Security Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420664535/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Data Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420661800/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Data Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420666515/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Data Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420678033/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "junior java backend developer/Data scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420662710/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "XPENG",
-      "title": "Machine Learning Engineer, Robotics",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420657848/",
+      "company": "Zoox",
+      "title": "Software Engineer, ML Performance Optimization",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420681236/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Affirm",
-      "title": "Software Engineer, Early Career",
+      "company": "Jack & Jill",
+      "title": "AI Engineer at Bay Area AI hardware startup",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419370113/",
+      "url": "https://www.linkedin.com/jobs/view/4419366298/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Senior Machine Learning Engineer, GenAIUX",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420648198/",
+      "company": "Sandisk",
+      "title": "Senior Staff data science engineer",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420673300/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Harnham",
-      "title": "Software Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4420638960/",
+      "company": "Spark Tek Inc",
+      "title": "Staff Software AI Engineer (IC4)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420662736/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Fireworks AI",
-      "title": "Member of Technical Staff, Software Engineer",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4382904533/",
+      "company": "Keysight Technologies",
+      "title": "R&D Software Engineer",
+      "location": "Santa Rosa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417906147/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "RS Global Services",
-      "title": "Applied AI Engineer - Onsite - SF",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420661380/",
+      "company": "Genentech",
+      "title": "Computational Scientist 3, Spatial Omics & Computational Pathology",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420679315/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
       "company": "XPENG",
-      "title": "Senior Staff Research Engineer \u2013 Reinforcement Learning for AI Agents",
+      "title": "Senior AI Data Infrastructure Engineer",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420660765/",
+      "url": "https://www.linkedin.com/jobs/view/4420671154/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
-      "title": "PhD Research Intern, Generative AI - 2026",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419334985/",
+      "company": "Puzzle",
+      "title": "Senior Software Engineer, Quality Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420670504/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "GEICO",
-      "title": "Senior Full Stack Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419377032/",
+      "company": "Modern Treasury",
+      "title": "Software Engineer - Security",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420681305/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "GEICO",
-      "title": "Senior Software Engineer - Infrastructure Engineering (Linux), OS Team",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419380030/",
+      "company": "Modern Treasury",
+      "title": "Software Engineer - Security",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420676410/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     },
     {
-      "company": "Dolls Kill",
-      "title": "Senior Full Stack Engineer (Shopify)",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419375216/",
-      "date_posted": "2026-05-29",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Airtable",
-      "title": "Manager, Data Engineering",
+      "company": "XPENG",
+      "title": "Staff Software Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4419362090/",
+      "url": "https://www.linkedin.com/jobs/view/4420666445/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Junior data scientist/Data Analyst",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420664597/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Junior Data Scientist/Data Analyst",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420664587/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420661770/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "entry level java developer/Data scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420669270/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Jr Java Developer/Entry level data scientist",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420675119/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Entry level Java developer/ data scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420678039/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tacit",
+      "title": "Full-Stack Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420668451/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior MLOps Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419374311/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Entry Level Software Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420678062/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Superhuman",
+      "title": "Director, Data Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417695458/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Samara",
+      "title": "Data Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419364436/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Blaxel (YC X25)",
+      "title": "Network Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420672415/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zscaler",
+      "title": "Sr. Staff Software Engineer (Reliability)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420675381/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Blaxel (YC X25)",
+      "title": "Site Reliability Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420675357/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Platform Engineer ($170k-$220k + Equity) at Stealth-mode Cloud Financial Data Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419373330/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Software Engineer I",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420653985/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "junior software engineer/Data analyst",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420659910/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Junior Java Spring devops developer/Entry level data engineer remote",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420678026/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "junior java backend developer/Data scientist",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420668489/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Senior/Staff Software Engineer ($120k-$200k) at Venture-backed AI Mental Health Startup",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419382322/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Software Engineer II",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420675133/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Product Security Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419376374/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "ServiceNow Specialty Software Engineer - Service Catalog & Agentic AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419363363/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "Founding Full Stack Engineer ($150k\u2013$180k + Equity) at VC-backed AI supply chain startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419382354/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Junior Full Stack Developer (React.js, Angular, DevOps)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420663613/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Staff Software Engineer, Embedded Systems/Firmware",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419378235/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Python Backend Engineer (Only W2)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419369320/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Java with DevOps Engineer - ENTRY",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420680002/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tesla",
+      "title": "Mechatronics Test Engineer, Drive Systems Engineering",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420675104/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Gyga Force",
+      "title": "Microwave Plasma Systems Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4419371446/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "True Anomaly",
+      "title": "Senior Enterprise Security Engineer, Linux",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4420686085/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SentiLink",
+      "title": "Principal Information Security Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420664535/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Data Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420661800/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Data Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420666515/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "Data Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420678033/",
+      "date_posted": "2026-05-29",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "junior java backend developer/Data scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420662710/",
       "date_posted": "2026-05-29",
       "ats": "LinkedIn"
     }

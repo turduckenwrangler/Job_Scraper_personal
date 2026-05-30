@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-30 18:43 UTC",
-  "total": 102,
-  "new_count": 1,
+  "scraped_at": "2026-05-30 20:35 UTC",
+  "total": 125,
+  "new_count": 41,
   "jobs": [
     {
       "company": "Tata Consultancy Services (TCS)",
@@ -116,66 +116,50 @@
       "ats": "Indeed"
     },
     {
+      "company": "Databricks",
+      "title": "Senior Data Scientist",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=6971e164944a7743",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Product Manager, AI Platform",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=94be62dc8c22c911",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Data Scientist - Trust and Safety",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=54f6d230eafa807f",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Machine Learning Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=4726e72244216ab5",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Machine Learning Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a2c40a6855e6cf04",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
       "company": "Roblox",
       "title": "Senior Data Scientist - Analytical Data Product (Short Term)",
       "location": "San Mateo, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=d8aff4d38798fbee",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Rivian and Volkswagen Group Technologies",
-      "title": "Sr. Software Engineer, Telematics",
-      "location": "Palo Alto, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=36fc603524a1f439",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Principal Software Engineer, Data",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=6f15d11226f50f10",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
-      "company": "The Voleon Group",
-      "title": "Member of Research Staff, Reinforcement Learning, Voleon Securities",
-      "location": "Berkeley, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=0a11d825dca753a6",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Castlight",
-      "title": "Software Engineer 4",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=3ce519e36124f5ab",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Backend, Level 4",
-      "location": "Palo Alto, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=1c2cb8976dda54ef",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Google",
-      "title": "Software Engineering Manager II, AlloyDB Query Processing",
-      "location": "Sunnyvale, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=18ca06d07a9ae84e",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Third Wave Automation",
-      "title": "Senior Perception Engineer - Robotics",
-      "location": "Union City, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=95fb86c943a3c9f6",
       "date_posted": "2026-05-29",
       "ats": "Indeed"
     },
@@ -201,6 +185,14 @@
       "location": "Sunnyvale, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=ebfef9905a21b170",
       "date_posted": "2025-10-21",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Saga Legal AI",
+      "title": "Senior AI Engineer",
+      "location": "Los Altos, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e7257d4e62878fb9",
+      "date_posted": "2026-05-30",
       "ats": "Indeed"
     },
     {
@@ -260,6 +252,30 @@
       "ats": "Indeed"
     },
     {
+      "company": "Databricks",
+      "title": "Principal Data Scientist",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=828d70d0e194728f",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Data Scientist - Infrastructure",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=d7365b48fae8a753",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Data Scientist",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=db2ded2a46da4aea",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
       "company": "Fiserv",
       "title": "E-Payments Risk Data Scientist (Machine Learning)",
       "location": "Sunnyvale, CA, US",
@@ -268,42 +284,26 @@
       "ats": "Indeed"
     },
     {
-      "company": "Google",
-      "title": "Software Engineer III, AI/ML, Google Play",
+      "company": "Databricks",
+      "title": "Senior Machine Learning Engineer - GenAI Platform",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=860035c13013e50c",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager, Infrastructure Data Science",
       "location": "Mountain View, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=effb0fc96a264764",
+      "url": "https://www.indeed.com/viewjob?jk=5a90d393d82aa5f0",
       "date_posted": "2026-05-29",
       "ats": "Indeed"
     },
     {
-      "company": "Waymo",
-      "title": "Staff Data Scientist, Driving Quality",
-      "location": "Mountain View, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=731a9ea779b4e25f",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Salesforce",
-      "title": "Lead AI Engineer, Data Solutions",
+      "company": "Databricks",
+      "title": "Senior Manager, Infrastructure Data Science",
       "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=4c0968224e2e00a6",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Unknown",
-      "title": "Data Science & Machine Learning Engineer",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=eac75ea232e1786b",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Unknown",
-      "title": "Data Science & Machine Learning Engineer",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=16f09513c699b67a",
+      "url": "https://www.indeed.com/viewjob?jk=ac36fc4ae4f68cdc",
       "date_posted": "2026-05-29",
       "ats": "Indeed"
     },
@@ -396,6 +396,14 @@
       "ats": "Indeed"
     },
     {
+      "company": "Palo Alto Networks",
+      "title": "\u200bSr Principal Software Engineer (Prisma Browser)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=7c10c210b7de9816",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
       "company": "Apple",
       "title": "Software Engineering Technical Lead, Wallet Identity Server",
       "location": "Cupertino, CA, US",
@@ -417,6 +425,14 @@
       "location": "Cupertino, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=9538b326c311ea58",
       "date_posted": "2026-03-25",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Saga Legal AI",
+      "title": "Senior Platform Engineer",
+      "location": "Los Altos, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=49c30745d08fc927",
+      "date_posted": "2026-05-30",
       "ats": "Indeed"
     },
     {
@@ -508,14 +524,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "Palo Alto Networks",
-      "title": "\u200bSr Principal Software Engineer (Prisma Browser)",
-      "location": "Santa Clara, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=7c10c210b7de9816",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
       "company": "General Motors (GM)",
       "title": "Staff Software Engineer - ADAS Visual Experience",
       "location": "Sunnyvale, CA, US",
@@ -572,14 +580,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "Saviynt",
-      "title": "Associate Principal Software Engineer, AI Onboarding",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=c658b01ed726867e",
-      "date_posted": "2026-05-07",
-      "ats": "Indeed"
-    },
-    {
       "company": "UL Solutions",
       "title": "Software Engineer - Consumer Medical Testing",
       "location": "Fremont, CA, US",
@@ -592,6 +592,54 @@
       "title": "Principal Full-Stack Engineer",
       "location": "San Francisco, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=16154d753904f5ad",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer - GenAI Performance and Kernel",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=41dbaf5648567ab3",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Backend Software Engineer- (AI Platform)",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=ec3edb62d310960d",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Software Engineer (Backend) - AI/ML Environments",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=220213d85a038eca",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer, Foundational Model Serving",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=980eaa1515e9cd19",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Backend Software Engineer- (AI Platform)",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1765935cd321acb6",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Backend Software Engineer- (AI Platform)",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=38c0a327e24b3b77",
       "date_posted": "2026-05-29",
       "ats": "Indeed"
     },
@@ -636,26 +684,10 @@
       "ats": "Indeed"
     },
     {
-      "company": "Unknown",
-      "title": "Software Engineer, Agentic AI",
+      "company": "Lila Sciences",
+      "title": "Principal Software Engineer, Data",
       "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=fa6f25bbf69ef3d9",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Google",
-      "title": "Software Engineering Manager, Merchant Shopping, Agency Growth",
-      "location": "Mountain View, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=9ab6c77768185849",
-      "date_posted": "2026-05-29",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Salesforce",
-      "title": "SMTS/LMTS Full Stack Software Engineer, Tableau Next",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=a68a382a207b6b3d",
+      "url": "https://www.indeed.com/viewjob?jk=6f15d11226f50f10",
       "date_posted": "2026-05-29",
       "ats": "Indeed"
     },
@@ -668,11 +700,83 @@
       "ats": "Indeed"
     },
     {
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Fullstack",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=6e1d5edd7f6cfacc",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer - Backend",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=fc138a3bc8a086a3",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Backend",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=9446abbf0a9e21d5",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Backend",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=4cf9f394fc466cab",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer - Backend",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=f97e84fb14e9808a",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
       "company": "Netflix",
       "title": "Frontend Engineer, Media Infra Systems & Observability - L4",
       "location": "Los Gatos, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=e8e8de69bd934922",
       "date_posted": "2026-05-28",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr Fullstack Engineer, Agentic Applications",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=aac6e543a7e53e19",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Fullstack Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=936442cfa1f80ad8",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Fullstack",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=3d41030c2a031bc3",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Saviynt",
+      "title": "Associate Principal Software Engineer, AI Onboarding",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=c658b01ed726867e",
+      "date_posted": "2026-05-07",
       "ats": "Indeed"
     },
     {
@@ -684,34 +788,42 @@
       "ats": "Indeed"
     },
     {
-      "company": "UST",
-      "title": "Fullstack Software Developer",
-      "location": "San Jose, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=85f7f55f88aeaf5d",
+      "company": "Databricks",
+      "title": "Sr Software Engineer- Customer Experience Intelligence (CXI)",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=21b24d747bce1a64",
       "date_posted": "2026-05-29",
       "ats": "Indeed"
     },
     {
-      "company": "Google",
-      "title": "Software Engineer III, Mobile (Android), Platforms and Devices",
-      "location": "San Jose, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=8910546c0cd6f4a9",
+      "company": "Databricks",
+      "title": "Staff Fullstack Engineer, Agentic Applications",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=9b15f455d82c258b",
       "date_posted": "2026-05-29",
       "ats": "Indeed"
     },
     {
-      "company": "Youtube",
-      "title": "Software Engineer III, Mobile (iOS), YouTube",
-      "location": "San Bruno, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=ccb343af24ec8a6c",
+      "company": "Databricks",
+      "title": "Sr. Staff Fullstack Engineer, Agentic Applications",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=673346f9dc12dc54",
       "date_posted": "2026-05-29",
       "ats": "Indeed"
     },
     {
-      "company": "Youtube",
-      "title": "Senior Software Engineer, Mobile (Android), YouTube",
-      "location": "San Bruno, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=9d5b7226c86341aa",
+      "company": "Databricks",
+      "title": "Staff Software Engineer \u2013 Customer Experience Intelligence (CXI)",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=36adfd40d4e15503",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer - User Activation",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1882640121835024",
       "date_posted": "2026-05-29",
       "ats": "Indeed"
     },
@@ -788,6 +900,38 @@
       "ats": "Indeed"
     },
     {
+      "company": "Databricks",
+      "title": "Staff Software Engineer - IAM",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=5011019c59897900",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer - Security Infrastructure",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=7ef6ecaa86f7b1f5",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Staff Software Engineer - Security Infrastructure",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e46fb10bd385bfc9",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Staff Software Engineer - IAM",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=cdefffff24064eb5",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
       "company": "Lockheed Martin",
       "title": "Cyber Security Engineer",
       "location": "Sunnyvale, CA, US",
@@ -812,6 +956,46 @@
       "ats": "Indeed"
     },
     {
+      "company": "Databricks",
+      "title": "Sr. Staff Software Engineer - Data Platform",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=24d08f839a2a77e7",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer - Distributed Data Systems",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=532ac9a589631747",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer - Distributed Data Systems",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=0c47c946f6e579fd",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Distributed Data Systems",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=35301f7890450ed0",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Distributed Data Systems",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=f178ac0bdca2782a",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
       "company": "Lawrence Livermore National Laboratory",
       "title": "Bioinformatics Scientist",
       "location": "Livermore, CA, US",
@@ -822,11 +1006,331 @@
   ],
   "new_jobs": [
     {
-      "company": "Unknown",
-      "title": "Full Stack Software Engineer",
+      "company": "Databricks",
+      "title": "Senior Data Scientist",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=6971e164944a7743",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Product Manager, AI Platform",
       "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=186d00f60c2633f7",
+      "url": "https://www.indeed.com/viewjob?jk=94be62dc8c22c911",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Data Scientist - Trust and Safety",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=54f6d230eafa807f",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Machine Learning Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=4726e72244216ab5",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Machine Learning Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a2c40a6855e6cf04",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Saga Legal AI",
+      "title": "Senior AI Engineer",
+      "location": "Los Altos, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e7257d4e62878fb9",
       "date_posted": "2026-05-30",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Principal Data Scientist",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=828d70d0e194728f",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Data Scientist - Infrastructure",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=d7365b48fae8a753",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Data Scientist",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=db2ded2a46da4aea",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Machine Learning Engineer - GenAI Platform",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=860035c13013e50c",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager, Infrastructure Data Science",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=5a90d393d82aa5f0",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager, Infrastructure Data Science",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=ac36fc4ae4f68cdc",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Saga Legal AI",
+      "title": "Senior Platform Engineer",
+      "location": "Los Altos, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=49c30745d08fc927",
+      "date_posted": "2026-05-30",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer - GenAI Performance and Kernel",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=41dbaf5648567ab3",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Backend Software Engineer- (AI Platform)",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=ec3edb62d310960d",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Software Engineer (Backend) - AI/ML Environments",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=220213d85a038eca",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer, Foundational Model Serving",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=980eaa1515e9cd19",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Backend Software Engineer- (AI Platform)",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1765935cd321acb6",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Backend Software Engineer- (AI Platform)",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=38c0a327e24b3b77",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Fullstack",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=6e1d5edd7f6cfacc",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer - Backend",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=fc138a3bc8a086a3",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Backend",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=9446abbf0a9e21d5",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Backend",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=4cf9f394fc466cab",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer - Backend",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=f97e84fb14e9808a",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr Fullstack Engineer, Agentic Applications",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=aac6e543a7e53e19",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Fullstack Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=936442cfa1f80ad8",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Fullstack",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=3d41030c2a031bc3",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr Software Engineer- Customer Experience Intelligence (CXI)",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=21b24d747bce1a64",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Fullstack Engineer, Agentic Applications",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=9b15f455d82c258b",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Staff Fullstack Engineer, Agentic Applications",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=673346f9dc12dc54",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer \u2013 Customer Experience Intelligence (CXI)",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=36adfd40d4e15503",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer - User Activation",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1882640121835024",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer - IAM",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=5011019c59897900",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer - Security Infrastructure",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=7ef6ecaa86f7b1f5",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Staff Software Engineer - Security Infrastructure",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e46fb10bd385bfc9",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Staff Software Engineer - IAM",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=cdefffff24064eb5",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Staff Software Engineer - Data Platform",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=24d08f839a2a77e7",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer - Distributed Data Systems",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=532ac9a589631747",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer - Distributed Data Systems",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=0c47c946f6e579fd",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Distributed Data Systems",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=35301f7890450ed0",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Distributed Data Systems",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=f178ac0bdca2782a",
+      "date_posted": "2026-05-29",
       "ats": "Indeed"
     }
   ]

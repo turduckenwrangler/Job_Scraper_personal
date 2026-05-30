@@ -1,167 +1,55 @@
 {
-  "scraped_at": "2026-05-30 20:17 UTC",
-  "total": 14,
-  "new_count": 6,
+  "scraped_at": "2026-05-30 21:17 UTC",
+  "total": 3,
+  "new_count": 3,
   "jobs": [
     {
-      "company": "Andiamo",
-      "title": "Machine Learning, AI Software Engineer - AI Platform Leader",
+      "company": "Jobright.ai",
+      "title": "Growth Data Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380642235/",
+      "url": "https://www.linkedin.com/jobs/view/4418349735/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Andiamo",
-      "title": "Machine Learning, AI Software Engineer - AI Platform Leader",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380644134/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tanium",
-      "title": "Corporate AI Engineer",
-      "location": "Emeryville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4391185948/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Software Engineer, Agentic AI Product - Moveworks",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4369049918/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, Agentic AI \u2013 Nvidia Blueprints and NIM Integrations",
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411788974/",
+      "url": "https://www.linkedin.com/jobs/view/4418350747/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Andiamo",
-      "title": "Machine Learning, AI Software Engineer - AI Platform Leader",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380627854/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Diablo Canyon Power Plant",
-      "title": "Associate, Data Engineer - Reliability Data",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421378108/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Diablo Canyon Power Plant",
-      "title": "Senior, Data Engineer - Reliability Data",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421382097/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Analytics Data Engineer",
-      "location": "Waterloo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418338670/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Product Security Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419376374/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Inherent Technologies",
-      "title": "Python Backend Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418335670/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Senior IT Infrastructure & DevOps Engineer",
+      "company": "Jobright.ai",
+      "title": "Full Stack Engineer - Growth",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418347564/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Andiamo",
-      "title": "Senior Site Reliability Engineer / HPC - Pre-IPO Tech Leader",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380644123/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Career Renew",
-      "title": "Software Engineer (DevOps) - AI",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421365089/",
+      "url": "https://www.linkedin.com/jobs/view/4418351769/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Diablo Canyon Power Plant",
-      "title": "Associate, Data Engineer - Reliability Data",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421378108/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Diablo Canyon Power Plant",
-      "title": "Senior, Data Engineer - Reliability Data",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421382097/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Analytics Data Engineer",
-      "location": "Waterloo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418338670/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Product Security Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419376374/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Inherent Technologies",
-      "title": "Python Backend Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418335670/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Senior IT Infrastructure & DevOps Engineer",
+      "company": "Jobright.ai",
+      "title": "Growth Data Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418347564/",
+      "url": "https://www.linkedin.com/jobs/view/4418349735/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418350747/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Full Stack Engineer - Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418351769/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     }

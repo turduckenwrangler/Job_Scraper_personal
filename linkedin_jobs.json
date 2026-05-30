@@ -1,8 +1,24 @@
 {
-  "scraped_at": "2026-05-30 21:17 UTC",
-  "total": 3,
-  "new_count": 3,
+  "scraped_at": "2026-05-30 22:17 UTC",
+  "total": 10,
+  "new_count": 7,
   "jobs": [
+    {
+      "company": "Jobright.ai",
+      "title": "Software Engineer - AI Agent",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418350818/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Aurelius Systems",
+      "title": "Senior Machine Learning Engineer, Perception",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418343835/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
     {
       "company": "Jobright.ai",
       "title": "Growth Data Engineer",
@@ -12,10 +28,50 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Aurelius Systems",
+      "title": "Principal, Robotics Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418338885/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Senior Software Engineer, Product",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418346911/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Principal Applied Scientist, Music Catalog and Search, Amazon Music Search and Catalog",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421380249/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Member of Technical Staff - Research Engineer, Frontier AI Robotics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421377278/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Jobright.ai",
       "title": "AI Engineer, Agent Product (Full-time/Part-time)",
       "location": "Santa Clara, CA",
       "url": "https://www.linkedin.com/jobs/view/4418350747/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Rubiboo",
+      "title": "Applied AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418335889/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
@@ -31,25 +87,57 @@
   "new_jobs": [
     {
       "company": "Jobright.ai",
-      "title": "Growth Data Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418349735/",
+      "title": "Software Engineer - AI Agent",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418350818/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Aurelius Systems",
+      "title": "Senior Machine Learning Engineer, Perception",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418343835/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Aurelius Systems",
+      "title": "Principal, Robotics Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418338885/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
       "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418350747/",
+      "title": "Senior Software Engineer, Product",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418346911/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Full Stack Engineer - Growth",
+      "company": "Amazon Science",
+      "title": "Principal Applied Scientist, Music Catalog and Search, Amazon Music Search and Catalog",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418351769/",
+      "url": "https://www.linkedin.com/jobs/view/4421380249/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Member of Technical Staff - Research Engineer, Frontier AI Robotics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421377278/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Rubiboo",
+      "title": "Applied AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418335889/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     }

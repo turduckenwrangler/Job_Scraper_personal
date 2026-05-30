@@ -1,16 +1,32 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-05-30 21:17 UTC*
+*Last updated: 2026-05-30 22:17 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**7 new role(s)** since last run · 10 total in last 1h
 
-### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4418349735/) — Jobright.ai
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4418350818/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Senior Machine Learning Engineer, Perception](https://www.linkedin.com/jobs/view/4418343835/) — Aurelius Systems
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-05-30
+
+### [Principal, Robotics Software Engineer](https://www.linkedin.com/jobs/view/4418338885/) — Aurelius Systems
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-05-30
+
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4418346911/) — Jobright.ai
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Principal Applied Scientist, Music Catalog and Search, Amazon Music Search and Catalog](https://www.linkedin.com/jobs/view/4421380249/) — Amazon Science
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [AI Engineer, Agent Product (Full-time/Part-time)](https://www.linkedin.com/jobs/view/4418350747/) — Jobright.ai
-- 📍 **Location:** Santa Clara, CA
+### [Member of Technical Staff - Research Engineer, Frontier AI Robotics](https://www.linkedin.com/jobs/view/4421377278/) — Amazon Science
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Full Stack Engineer - Growth](https://www.linkedin.com/jobs/view/4418351769/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
+### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4418335889/) — Rubiboo
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-30

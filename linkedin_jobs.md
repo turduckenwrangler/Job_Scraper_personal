@@ -1,64 +1,128 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-04 01:17 UTC*
+*Last updated: 2026-06-04 02:17 UTC*
 
-**15 new role(s)** since last run · 20 total in last 1h
+**31 new role(s)** since last run · 39 total in last 1h
 
-### [Machine Learning Engineer III, Core Agents](https://www.linkedin.com/jobs/view/4423070782/) — Box
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4424289117/) — GEICO
+### [Internship, Software Machine Learning Engineer, Reliability Energy Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4423087934/) — Tesla
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Distinguished Machine Learning Engineer](https://www.linkedin.com/jobs/view/4424276384/) — GEICO
-- 📍 **Location:** Palo Alto, CA
+### [Founding Software Engineer ($160k–$220k + Equity) at $5M Seed AI wearables startup](https://www.linkedin.com/jobs/view/4424278586/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Sr. Software Engineer](https://www.linkedin.com/jobs/view/4424288302/) — Lightspeed
-- 📍 **Location:** Redwood City, CA
+### [Software Engineer (Agent Infra)](https://www.linkedin.com/jobs/view/4423096539/) — Hinoki
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Software Engineer - AI & Edge Kubernetes Orchestration - San Jose, CA](https://www.linkedin.com/jobs/view/4423092120/) — ZEDEDA
+### [Founding Software Engineer at well-funded industrial AI startup](https://www.linkedin.com/jobs/view/4424294030/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Lead Backend Software Engineer ($185K – $240K + Equity) at well-funded aviation AI startup](https://www.linkedin.com/jobs/view/4424289381/) — Jack & Jill
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Software Engineer (Python / C++) — ML Platform & Production Integration](https://www.linkedin.com/jobs/view/4423092489/) — Velo3D
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Founding AI Engineer ($160k-$220k + Equity) at Seed-stage SF startup backed by Paypal Mafia](https://www.linkedin.com/jobs/view/4424290258/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Growth Analytics Engineer at Accel-backed AI startup reaching $15M ARR in 10 weeks](https://www.linkedin.com/jobs/view/4424281472/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [AI Engineer (Copilot)](https://www.linkedin.com/jobs/view/4424282481/) — Jobs via Dice
+- 📍 **Location:** Dublin, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4423096596/) — Lambda
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Software Engineer II (Frontend)](https://www.linkedin.com/jobs/view/4424271856/) — Adyen
+### [Staff Platform Engineer](https://www.linkedin.com/jobs/view/4423093642/) — TruckSmarter
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4424268993/) — Adyen
+### [Software engineer, connectors & MCP](https://www.linkedin.com/jobs/view/4423095486/) — WRITER
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Senior Software Engineer, Autonomous Freight Systems](https://www.linkedin.com/jobs/view/4424279291/) — Flexport
+### [Staff Software Engineer](https://www.linkedin.com/jobs/view/4423094622/) — Sydecar
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Senior Learning Perception Engineer - SLAM](https://www.linkedin.com/jobs/view/4423066548/) — Apptronik
+### [Full Stack Engineer ($250k-$300k + Equity) at SF fintech building real-time private market infrastructure](https://www.linkedin.com/jobs/view/4424272923/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Staff Software Engineer, Infrastructure Asset Systems](https://www.linkedin.com/jobs/view/4424282561/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Staff Software Engineer, People Products](https://www.linkedin.com/jobs/view/4424288518/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4424278607/) — Jobs via Dice
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Software Engineering MTS](https://www.linkedin.com/jobs/view/4423095049/) — Salesforce
-- 📍 **Location:** San Francisco, CA
+### [Python Backend Engineer](https://www.linkedin.com/jobs/view/4424278612/) — Jobs via Dice
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Founding-Level Backend Engineer ($180K-$260K + Equity) at Series A AI Automation Startup](https://www.linkedin.com/jobs/view/4424281217/) — CoffeeSpace
-- 📍 **Location:** San Francisco Bay Area
+### [Senior Software Engineer - Snowflake Postgres Control Plane](https://www.linkedin.com/jobs/view/4423056975/) — Snowflake
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Principal Engineer, AI Platform & Infrastructure](https://www.linkedin.com/jobs/view/4406805535/) — SPREEAI
-- 📍 **Location:** San Francisco, CA
+### [Backend Engineer – Data](https://www.linkedin.com/jobs/view/4424292251/) — Jobs via Dice
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Software Engineer II (Java) - Customer Developer Observability](https://www.linkedin.com/jobs/view/4424276481/) — Adyen
-- 📍 **Location:** San Francisco, CA
+### [iOS Engineer](https://www.linkedin.com/jobs/view/4420174102/) — Robinhood
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Senior Staff Software Engineer - Developer Experience](https://www.linkedin.com/jobs/view/4424272640/) — GEICO
+### [Staff Software Engineer - Secondary Driving System](https://www.linkedin.com/jobs/view/4424282468/) — Jobs via Dice
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Internship, Site Controller Software Engineer, Energy Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4423094350/) — Tesla
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [System on Chip Software Engineer](https://www.linkedin.com/jobs/view/4423080801/) — Science
-- 📍 **Location:** Alameda, CA
+### [Flink Lead Software Engineer](https://www.linkedin.com/jobs/view/4423076935/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Staff Site Reliability Engineer](https://www.linkedin.com/jobs/view/4423091924/) — Zoox
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [DevOps Onsite at Sunnyvale California W2 Only](https://www.linkedin.com/jobs/view/4424280526/) — Jobs via Dice
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Staff Electrical Engineer, Test Systems Engineering](https://www.linkedin.com/jobs/view/4423300216/) — Tesla
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Senior/Staff Network Security Engineer](https://www.linkedin.com/jobs/view/4423097557/) — Zoox
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Security Engineer](https://www.linkedin.com/jobs/view/4423085945/) — InterScripts, Inc.
+- 📍 **Location:** Daly City, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Data Protection Security Engineer – Netskope Lead](https://www.linkedin.com/jobs/view/4420151822/) — HireArt
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Staff Software Engineer, People Products](https://www.linkedin.com/jobs/view/4424282562/) — Anthropic
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-04

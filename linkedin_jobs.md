@@ -1,208 +1,104 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-04 18:17 UTC*
+*Last updated: 2026-06-04 19:17 UTC*
 
-**51 new role(s)** since last run · 77 total in last 1h
+**25 new role(s)** since last run · 42 total in last 1h
 
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4424445346/) — Building Ventures
-- 📍 **Location:** Walnut Creek, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Software Engineer, AI Deployment Infrastructure](https://www.linkedin.com/jobs/view/4423527717/) — Tesla
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Software Engineer, Full-Stack](https://www.linkedin.com/jobs/view/4423522793/) — Loop
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4424436897/) — Advatix LATAM
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4424447177/) — Advatix LATAM
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Staff Software Engineer, AI](https://www.linkedin.com/jobs/view/4410633508/) — Okta
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4414707082/) — Cadence
+### [Data Scientist, Global E-commerce](https://www.linkedin.com/jobs/view/4424436990/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Sr. Software Engineer](https://www.linkedin.com/jobs/view/4411873086/) — RUCKUS Networks
+### [Software Engineer](https://www.linkedin.com/jobs/view/4423535636/) — Intuitive
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Senior Staff Software Engineer](https://www.linkedin.com/jobs/view/4395488454/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [System Software Engineer - GPU](https://www.linkedin.com/jobs/view/4414188942/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Member of Technical Staff (Software Engineer, Backend Platform)](https://www.linkedin.com/jobs/view/4424236538/) — Perplexity
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4414491783/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Senior Software Engineer, Sales](https://www.linkedin.com/jobs/view/4392484763/) — Docusign
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Lead Software Engineer , Synthesis](https://www.linkedin.com/jobs/view/4414488774/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Principal Software Engineer - Compute Infrastructure](https://www.linkedin.com/jobs/view/4414400360/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Staff Software Engineer, Audit (Full Stack)](https://www.linkedin.com/jobs/view/4423544009/) — Bessemer Venture Partners India
+### [Senior Software Engineer – AI-Augmented Development](https://www.linkedin.com/jobs/view/4418049100/) — CoreAi Consulting
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-04
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4419829394/) — techire ai
+### [Software Engineer III, Kubernetes](https://www.linkedin.com/jobs/view/4414689537/) — Box
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Senior DL Software Engineer, Model Optimization and Edge Deployment - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4404237424/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Diagnostics Software Infrastructure Engineer](https://www.linkedin.com/jobs/view/4414189876/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Staff / Principal Software Engineer](https://www.linkedin.com/jobs/view/4423554406/) — CloudZero
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Senior Software Engineer, Agentic Systems - Moveworks](https://www.linkedin.com/jobs/view/4423551554/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Staff Software Engineer, Agentic Systems - Moveworks](https://www.linkedin.com/jobs/view/4423545601/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Staff Software Engineer (L4) - Back End (Bangkok based, Relocation provided)](https://www.linkedin.com/jobs/view/4414578269/) — Agoda
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Scientific Software Developer/Data Systems](https://www.linkedin.com/jobs/view/4414243617/) — SLAC National Accelerator Laboratory
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Senior Machine Learning Engineer Manager - TikTok Trust & Safety](https://www.linkedin.com/jobs/view/4424461090/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Director - AI Engineering - Agentic AI](https://www.linkedin.com/jobs/view/4412390557/) — American Express
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Software Engineer, Agentic Systems - Moveworks](https://www.linkedin.com/jobs/view/4423548607/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4423543332/) — Federato
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-04
 
-### [Automation Software Engineer (Machine Control)](https://www.linkedin.com/jobs/view/4414498923/) — FormFactor Inc.
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Full-stack Engineer, Data Platform - Experimentation & Evaluation](https://www.linkedin.com/jobs/view/4424431978/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Member of Technical Staff (Software Engineer, Cloud Infrastructure)](https://www.linkedin.com/jobs/view/4423540166/) — Bessemer Venture Partners India
+### [Founding Software Engineer](https://www.linkedin.com/jobs/view/4423545607/) — Lance (YC W26)
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Software Engineer – High-Fidelity Multiphase CFD (New College Grad with PhD)](https://www.linkedin.com/jobs/view/4414495726/) — Cadence
+### [Senior Software Engineer, Full Stack - USDS](https://www.linkedin.com/jobs/view/4423546181/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Snowflake Data Engineer](https://www.linkedin.com/jobs/view/4422020591/) — BayOne Solutions
+### [Senior Platform Engineer - USDS](https://www.linkedin.com/jobs/view/4423550108/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-04
+
+### [Senior Android Systems Engineer](https://www.linkedin.com/jobs/view/4392106674/) — GlobalLogic
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [C++ Software Engineer](https://www.linkedin.com/jobs/view/4414490780/) — Cadence
-- 📍 **Location:** San Jose, CA
+### [Manager Cloud Engineering](https://www.linkedin.com/jobs/view/4423553015/) — Fastly
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [C++ Software Engineer](https://www.linkedin.com/jobs/view/4414490794/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4319086020/) — Mudflap
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Software Engineer, Developer Experience — Moveworks](https://www.linkedin.com/jobs/view/4369017260/) — ServiceNow
+### [Senior Machine Learning Engineer, Agentic Systems - Moveworks](https://www.linkedin.com/jobs/view/4423553504/) — ServiceNow
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4423399426/) — Youth Enrichment Brands
-- 📍 **Location:** San Rafael, CA
+### [LCLS Experimental Systems Engineering Department Head](https://www.linkedin.com/jobs/view/4414257266/) — SLAC National Accelerator Laboratory
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4414498769/) — Cadence
-- 📍 **Location:** San Jose, CA
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4417012622/) — Net2Source (N2S)
+- 📍 **Location:** Vacaville, CA
 - 🕒 **Posted:** 2026-06-04
 
-### [Staff Software Engineer](https://www.linkedin.com/jobs/view/4413815202/) — Okta
-- 📍 **Location:** San Francisco, CA
+### [Microwave Plasma Systems Engineer](https://www.linkedin.com/jobs/view/4424449319/) — Gyga Force
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-04
 
-### [Senior Deep Learning Systems Engineer, Datacenters](https://www.linkedin.com/jobs/view/4414199368/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Principal EDA Software Engineer (C++, Characterization)](https://www.linkedin.com/jobs/view/4414701698/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Founding Full Stack Engineer](https://www.linkedin.com/jobs/view/4423519876/) — Mekion Consulting
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Staff Backend Engineer](https://www.linkedin.com/jobs/view/4414235813/) — Assured
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4424443905/) — FutureTech Recruitment
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Sr. Backend Engineer](https://www.linkedin.com/jobs/view/4423539135/) — Addison Group
-- 📍 **Location:** San Ramon, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Staff Frontend Engineer](https://www.linkedin.com/jobs/view/4414237744/) — Assured
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Staff Software Engineer, Core API](https://www.linkedin.com/jobs/view/4403994845/) — Galileo Financial Technologies
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4420745393/) — Pi Square Technologies
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Senior Principal C++ Software Engineer](https://www.linkedin.com/jobs/view/4414494768/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Senior Mobile Software Engineer, Android Performance](https://www.linkedin.com/jobs/view/4424452077/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Devops Architect](https://www.linkedin.com/jobs/view/4409886098/) — RUCKUS Networks
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Engineer III, Platform Engineering](https://www.linkedin.com/jobs/view/4423536503/) — Omnicell
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Senior Cloud Engineer Azure](https://www.linkedin.com/jobs/view/4405260706/) — BMO U.S.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Manufacturing Linux & Network Infrastructure Engineer (Local Candidates ONLY)](https://www.linkedin.com/jobs/view/4416597654/) — Red Oak Technologies
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Senior Software Engineer, Simulator Orchestration](https://www.linkedin.com/jobs/view/4423533582/) — Bessemer Venture Partners India
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4414486802/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4414493753/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Staff Software Engineer-Sunnyvale, CA](https://www.linkedin.com/jobs/view/4396262526/) — Alibaba Cloud
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [SerDes IP Systems Engineering Director](https://www.linkedin.com/jobs/view/4414703662/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Network Engineer with AWS and DevOps/SRE- W2 only](https://www.linkedin.com/jobs/view/4423542326/) — Ascii Group, LLC
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-04
-
-### [Principal Data Engineer](https://www.linkedin.com/jobs/view/4414641094/) — Early Warning
-- 📍 **Location:** San Francisco, CA
+### [Security Engineer](https://www.linkedin.com/jobs/view/4364986029/) — Fireworks AI
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-06-04

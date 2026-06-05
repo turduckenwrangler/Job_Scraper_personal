@@ -1,248 +1,292 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-05 19:17 UTC*
+*Last updated: 2026-06-05 20:17 UTC*
 
-**61 new role(s)** since last run · 71 total in last 1h
+**72 new role(s)** since last run · 84 total in last 1h
 
-### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4423996592/) — IXL Learning
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4424780740/) — Tensec
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Software Engineer II, ML](https://www.linkedin.com/jobs/view/4414700733/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Software Engineer – Agentic AI Platform](https://www.linkedin.com/jobs/view/4424769791/) — Systemart, LLC
+### [AI/ML Engineer ($250k–$400k + Equity) at $10M Seed consumer AI dating startup](https://www.linkedin.com/jobs/view/4424605573/) — Jack & Jill
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Senior Data Scientist, Global Data Analytics for Internal Audit Function - AMS](https://www.linkedin.com/jobs/view/4424610273/) — TikTok
-- 📍 **Location:** San Jose, CA
+### [Software Engineer, iOS/Mobile ($135K – $260K + Equity) at aviation AI startup with 12+ DoD contracts](https://www.linkedin.com/jobs/view/4424602632/) — Jack & Jill
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Staff Machine Learning Engineer](https://www.linkedin.com/jobs/view/4424609342/) — GEICO
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Software Engineer, RL Post-Training Frameworks](https://www.linkedin.com/jobs/view/4405047530/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Data Scientist, Model Risk & Data Analytics, Internal Audit - AMS](https://www.linkedin.com/jobs/view/4424597429/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [SoC Simulation Engineer / Software Engineer](https://www.linkedin.com/jobs/view/4411571578/) — Marvell Technology
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Software Engineer, Data Security - USDS](https://www.linkedin.com/jobs/view/4424774965/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4414701688/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Research Engineer/Scientist (all levels), World Models](https://www.linkedin.com/jobs/view/4424620307/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Sr. Research Engineer/Scientist (all levels), World Models](https://www.linkedin.com/jobs/view/4424596902/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Deep Learning Engineering - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4414782192/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Principal Applied ML Engineer](https://www.linkedin.com/jobs/view/4414490802/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Robotics Software Engineer II, Mission](https://www.linkedin.com/jobs/view/4424762983/) — Bear Robotics
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4414487790/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Software Engineer, Inference Platform](https://www.linkedin.com/jobs/view/4358453456/) — MongoDB
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4415382110/) — Capital One
+### [Senior Machine Learning Engineer ($250k + $100k/year Equity) at $13.7M Seed CRV-backed industrial AI startup](https://www.linkedin.com/jobs/view/4424601597/) — Jack & Jill
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4415370764/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Principal Software Engineering Lead — Enterprise Data Platforms](https://www.linkedin.com/jobs/view/4404477802/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Staff Software Engineer](https://www.linkedin.com/jobs/view/4424618233/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4415374625/) — Capital One
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4415383072/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Principal Cyber Security Engineer - Agentic Identity and Security](https://www.linkedin.com/jobs/view/4404488688/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Principal Embedded Firmware Software Engineer - Networking PAM4 DSP/data center/ODSP/AEC/Microled/AI connectivity](https://www.linkedin.com/jobs/view/4411573473/) — Marvell Technology
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Site Reliability Engineer, Compute Platform](https://www.linkedin.com/jobs/view/4424597422/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Staff Machine Learning Engineer, AI Agent Platform](https://www.linkedin.com/jobs/view/4424616286/) — GEICO
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Staff Software Engineer, Applied AI](https://www.linkedin.com/jobs/view/4386734913/) — Valence
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Systems Software Engineer](https://www.linkedin.com/jobs/view/4403687373/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Embedded Software Engineer](https://www.linkedin.com/jobs/view/4424769666/) — Intuitive
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4421177122/) — OpalSoft
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4414706684/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Staff Firmware/Software Engineer- Embedded SoC/Microcontroller/DSP/SERDES/AEC/Microled/ODSP/PHY/AI Connectivity](https://www.linkedin.com/jobs/view/4411576370/) — Marvell Technology
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Full-stack Engineer (Startup)](https://www.linkedin.com/jobs/view/4424775700/) — Smvsoft LLC.
+### [Software Engineer, Product ($140k–$250k + Equity) at fast-growing AI edtech startup](https://www.linkedin.com/jobs/view/4424601594/) — Jack & Jill
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4424604421/) — Soul Seated
-- 📍 **Location:** San Jose, CA
+### [Deals Data Scientist at premier consumer tech venture capital firm](https://www.linkedin.com/jobs/view/4424604533/) — Jack & Jill
+- 📍 **Location:** Burlingame, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Remote Senior Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4424774632/) — Turing
+### [Machine Learning Engineer at YC-backed AI startup for clean energy discovery](https://www.linkedin.com/jobs/view/4424618506/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Founding Machine Learning Engineer ($180K – $220K + Equity) at $60M Series B AI-native insurance platform](https://www.linkedin.com/jobs/view/4424598686/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Founding AI/ML Research Engineer (+ Equity) at YC W26 enterprise AI startup](https://www.linkedin.com/jobs/view/4424611486/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4424900143/) — Turing
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-05
 
-### [Remote Senior Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4424771680/) — Turing
+### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4424904118/) — Turing
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-05
 
-### [Remote Senior Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4424764646/) — Turing
+### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4424901125/) — Turing
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-05
 
-### [Remote Senior Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4424763689/) — Turing
+### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4424799136/) — Turing
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-05
 
-### [Multimedia Arch Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4424596900/) — TikTok
-- 📍 **Location:** San Jose, CA
+### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4424789163/) — Turing
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-05
 
-### [Principal Software Engineer, Ads Format, Level 7](https://www.linkedin.com/jobs/view/4395357970/) — Snap Inc.
+### [Senior Software Engineer (a16z)](https://www.linkedin.com/jobs/view/4424598605/) — Sourcerer
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior Software Engineer ($120K - $180K + Equity) at YC-backed AI accounting startup](https://www.linkedin.com/jobs/view/4424609554/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Network Software Engineer ($250K – $300K + Equity) at First Round-backed AI cloud startup](https://www.linkedin.com/jobs/view/4424602567/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior Software Engineer ($180K–$220K + Equity) at YC-backed AI governance startup](https://www.linkedin.com/jobs/view/4424596999/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Full-Stack Engineer at well-funded AI manufacturing startup](https://www.linkedin.com/jobs/view/4424601591/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Staff AI Scientist](https://www.linkedin.com/jobs/view/4424902539/) — Fiddler AI
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Principal Software Engineer, Ads Format, Level 7](https://www.linkedin.com/jobs/view/4395355999/) — Snap Inc.
+### [Research Scientist, Reinforcement Learning](https://www.linkedin.com/jobs/view/4424799088/) — DeepRoute.ai
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Software Engineer (AI Agents) ($180K – $300K + Equity) at $51M Series B a16z-backed startup](https://www.linkedin.com/jobs/view/4424604566/) — Jack & Jill
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Senior Software Engineer/Embedded Firmware/DSP/Optical/ARM/RISC-V/PHY](https://www.linkedin.com/jobs/view/4411577281/) — Marvell Technology
-- 📍 **Location:** Santa Clara, CA
+### [Founding Applied AI Engineer at Moveworks-founded stealth enterprise AI startup](https://www.linkedin.com/jobs/view/4424621041/) — Jack & Jill
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Software Engineer ll - Timing Analysis](https://www.linkedin.com/jobs/view/4414495711/) — Cadence
+### [Founding Software Engineer ($160k–$210k + 1.5–2% Equity) at VC-backed healthtech startup](https://www.linkedin.com/jobs/view/4424613461/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Software Engineer, Device Management](https://www.linkedin.com/jobs/view/4424788315/) — Rivet Industries
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Senior Staff Software Engineer - Central IP applications team /ownership of pre-silicon and post-silicon API support](https://www.linkedin.com/jobs/view/4411546360/) — Marvell Technology
+### [AWS Data Engineer – Pharma / Life Sciences](https://www.linkedin.com/jobs/view/4424610552/) — Jobs via Dice
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4421183167/) — Zensar Technologies
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Staff Software Engineer - Central IP Team pre-silicon and post-silicon API support across multiple BU projects](https://www.linkedin.com/jobs/view/4411571572/) — Marvell Technology
-- 📍 **Location:** Santa Clara, CA
+### [Sr. LLM Applied Scientist - PhD/Research Masters](https://www.linkedin.com/jobs/view/4424616599/) — Pandita AI Inc
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Senior Staff Software Engineer-PHY layer concepts (e.g., SERDES, USB, PCIe, Ethernet) / Validation Infrastructure](https://www.linkedin.com/jobs/view/4411562676/) — Marvell Technology
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer at fast-growing Series A healthtech startup](https://www.linkedin.com/jobs/view/4424602569/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Staff Software Engineer - PHY layer concepts (e.g., SERDES, USB, PCIe, Ethernet) and validation workflows.](https://www.linkedin.com/jobs/view/4411532863/) — Marvell Technology
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Remote Senior Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4424759736/) — Turing
+### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4424798027/) — Turing
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-05
 
-### [Remote Senior Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4424763675/) — Turing
-- 📍 **Location:** San Francisco Bay Area
+### [Applied AI Engineer at Innovative AI simulation startup](https://www.linkedin.com/jobs/view/4424616497/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Senior Linux Platform Engineer](https://www.linkedin.com/jobs/view/4424781502/) — Intuitive
+### [AI Engineer ($180K – $250K + Equity) at Index Ventures-backed agentic AI startup](https://www.linkedin.com/jobs/view/4424600576/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Agentic AI/ AI Engineer](https://www.linkedin.com/jobs/view/4421174042/) — PDSSOFT INC.
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior Software Engineer, Agentic AI](https://www.linkedin.com/jobs/view/4424605537/) — Heartflow
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Applied AI Staff Software Engineer, Looker](https://www.linkedin.com/jobs/view/4424606485/) — Google
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Senior Infrastructure Engineer](https://www.linkedin.com/jobs/view/4424773727/) — Arcadia
+### [Product Infrastructure Engineer ($200k-$220k + Equity) at Thomson Reuters-backed $17M Series A AI accounting startup](https://www.linkedin.com/jobs/view/4424600594/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior Platform Engineer, Security](https://www.linkedin.com/jobs/view/4424799585/) — Decagon
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior Full Stack AI Engineer at a confidential company](https://www.linkedin.com/jobs/view/4424604538/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior Software Engineer at VC-backed B2B software platform](https://www.linkedin.com/jobs/view/4424615464/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4421188100/) — KPI Partners
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4424610632/) — BlackLine
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior Backend Engineer | Series B AI Startup](https://www.linkedin.com/jobs/view/4382472850/) — Day One Partners
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-05
 
-### [IT - Sr Staff Systems Engineer (Active Directory, Powershell, and Windows/O365 Infrastructure Administration)](https://www.linkedin.com/jobs/view/4414487780/) — Cadence
-- 📍 **Location:** San Jose, CA
+### [Senior Frontend Engineer (SF, YC)](https://www.linkedin.com/jobs/view/4424796523/) — Pragmatike
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Senior Software Engineer, DL Libraries Infrastructure](https://www.linkedin.com/jobs/view/4404490678/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Systems Engineer - AI Infrastructure](https://www.linkedin.com/jobs/view/4413200393/) — Clockwork Systems, Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [EE Component Systems Engineer / Function Owner](https://www.linkedin.com/jobs/view/4421182042/) — Envision Technology Solutions
+### [Senior Software Engineer, Mobile, Android](https://www.linkedin.com/jobs/view/4424609435/) — Google
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Security Engineer](https://www.linkedin.com/jobs/view/4364986029/) — Fireworks AI
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Software Engineer – Time Synchronization](https://www.linkedin.com/jobs/view/4412959298/) — Clockwork Systems, Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Member of Technical Staff- Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4424761644/) — Fireworks AI
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Advanced Package Yield and Data Engineer](https://www.linkedin.com/jobs/view/4411556973/) — Marvell Technology
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4415383073/) — Capital One
+### [Staff Software Engineer ($265k - $330k + Equity) at Series C fintech leader with $534M raised](https://www.linkedin.com/jobs/view/4424616481/) — Jack & Jill
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior Software Engineer-Founding Engineer (Ayama)](https://www.linkedin.com/jobs/view/4404223972/) — AI Fund
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior Software Engineer at YC-backed AI startup for global commodities](https://www.linkedin.com/jobs/view/4424611532/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Full Stack Engineer ($250k-$300k + Equity) at SF fintech building real-time private market infrastructure](https://www.linkedin.com/jobs/view/4424604588/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Fullstack Engineer at Leading Sui DeFi Protocol backed by OKX Ventures & Hashed](https://www.linkedin.com/jobs/view/4424602574/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior Full Stack Engineer (Backend-Focused, SF, YC)](https://www.linkedin.com/jobs/view/4424902524/) — Pragmatike
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Founding Full Stack Engineer (+ Equity) at HealthTech startup building the system of record for nursing excellence](https://www.linkedin.com/jobs/view/4424620396/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior/Staff Software Engineer ($120k-$200k) at Venture-backed AI Mental Health Startup](https://www.linkedin.com/jobs/view/4424619497/) — Jack & Jill
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior Software Engineer ($250K + $120K Equity/Signing) at $26.5M Series A industrial AI startup](https://www.linkedin.com/jobs/view/4424605556/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4424795180/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-05
+
+### [UI Software Engineer — Maps Data](https://www.linkedin.com/jobs/view/4424615513/) — Jobs via Dice
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Founding Software Engineer ($160k–$220k + Equity) at $5M Seed AI wearables startup](https://www.linkedin.com/jobs/view/4424617535/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Frontend Developer (Fremont, CA In - Person Interview)](https://www.linkedin.com/jobs/view/4424601615/) — Jobs via Dice
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior Full Stack Software Engineer – Robotics & AI Infrastructure](https://www.linkedin.com/jobs/view/4424613511/) — Jobs via Dice
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Kotlin Backend Developer - 68793](https://www.linkedin.com/jobs/view/4424613502/) — Jobs via Dice
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Software Engineer - Machine Learning III](https://www.linkedin.com/jobs/view/4424619503/) — Jobs via Dice
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Java Backend Engineer (W2)](https://www.linkedin.com/jobs/view/4424621034/) — Jobs via Dice
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior Backend Engineer at cash-flow positive seed-stage fintech marketplace](https://www.linkedin.com/jobs/view/4424598697/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4424799097/) — Shrive Technologies
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Platform Engineer ($170k-$220k + Equity) at Stealth-mode Cloud Financial Data Platform](https://www.linkedin.com/jobs/view/4424614485/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Platform Engineer, Security](https://www.linkedin.com/jobs/view/4424905465/) — Decagon
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4424904066/) — Inherent Technologies
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [DEVOPS](https://www.linkedin.com/jobs/view/4424602600/) — Jobs via Dice
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4424788146/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-05
+
+### [Growth Analytics Engineer at Accel-backed AI startup reaching $15M ARR in 10 weeks](https://www.linkedin.com/jobs/view/4424616483/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4423938847/) — Cypress HCM
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4424619510/) — Jobs via Dice
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4424904032/) — Turing
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-05

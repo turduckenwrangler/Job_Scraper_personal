@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-06-05 02:17 UTC",
+  "updated_at": "2026-06-05 03:17 UTC",
   "jobs": [
+    {
+      "company": "GMI Cloud",
+      "title": "Machine Learning Engineer (LLM inference)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411404889/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T03:17:27Z"
+    },
+    {
+      "company": "David Joseph & Company",
+      "title": "Machine Learning Engineer / Researcher \u2014 Hestus (YC)",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424499186/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T03:17:27Z"
+    },
+    {
+      "company": "Eurofins | EAG Laboratories",
+      "title": "Data Scientist - Materials Characterization, Analytical Sciences & AI Agents",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424119851/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T03:17:27Z"
+    },
+    {
+      "company": "Fulfil",
+      "title": "Staff Robotics Software Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424127596/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T03:17:27Z"
+    },
+    {
+      "company": "XPENG",
+      "title": "Senior AI Data Infrastructure/Pipeline Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424129671/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T03:17:27Z"
+    },
+    {
+      "company": "Stripe",
+      "title": "Data Scientist, Economic Insights & Research",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424123686/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T03:17:27Z"
+    },
+    {
+      "company": "Stripe",
+      "title": "Staff Software Engineer, Stripe Dashboard",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424118872/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T03:17:27Z"
+    },
+    {
+      "company": "SPAN",
+      "title": "Staff Software Engineer: Embedded Power Systems & Functional Safety",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420777461/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T03:17:27Z"
+    },
+    {
+      "company": "Weave Bio",
+      "title": "Senior AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424135121/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T03:17:27Z"
+    },
+    {
+      "company": "TextNow",
+      "title": "Senior Software Developer, AI Labs",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424125682/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T03:17:27Z"
+    },
+    {
+      "company": "TextNow",
+      "title": "Senior Software Developer, AI Labs",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424124719/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T03:17:27Z"
+    },
+    {
+      "company": "Agility Robotics",
+      "title": "Staff Application Security Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424126626/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T03:17:27Z"
+    },
+    {
+      "company": "Agility Robotics",
+      "title": "Senior Application Security Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424128614/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T03:17:27Z"
+    },
+    {
+      "company": "eBay",
+      "title": "Staff Information Security Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420762972/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T03:17:27Z"
+    },
     {
       "company": "Jack & Jill",
       "title": "Senior Machine Learning Engineer ($250k + $100k/year Equity) at $13.7M Seed CRV-backed industrial AI startup",

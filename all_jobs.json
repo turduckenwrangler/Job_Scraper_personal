@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-06-05 21:10 UTC",
+  "updated_at": "2026-06-05 21:12 UTC",
   "jobs": [
+    {
+      "company": "NVIDIA",
+      "title": "Software Engineering Intern, Mapping Autonomous Vehicles - Fall 2026",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=bebb9989e8f75d30",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T21:12:11Z"
+    },
+    {
+      "company": "Zendar",
+      "title": "High Performance Computing Software Engineer",
+      "location": "Berkeley, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e937a762a99ba2e9",
+      "date_posted": "2026-06-01",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T21:12:11Z"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Research Engineer - Speech & Realtime Models",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=ad3ef5be2574883f",
+      "date_posted": "2026-02-17",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T21:12:11Z"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Analytics Engineer, Safety Systems",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=0855b2dbe983f687",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T21:12:11Z"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Systems Engineer III (E3)",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=83c3a51f6a201074",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T21:12:11Z"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Systems Engineer II",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=0705313be2292cc2",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T21:12:11Z"
+    },
+    {
+      "company": "HP",
+      "title": "Senior Platform Security Engineer - HP IQ",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=4e56612f53dcd27a",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T21:12:11Z"
+    },
+    {
+      "company": "Cisco",
+      "title": "Software Engineering Technical Leader",
+      "location": "Milpitas, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=c19e097ae05806d4",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T21:12:11Z"
+    },
+    {
+      "company": "Walmart",
+      "title": "Senior, Software Engineer (Backend Java/Rust)",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1c9c822a9e37978e",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T21:12:11Z"
+    },
+    {
+      "company": "Bear Robotics",
+      "title": "Robotics Software Engineer II, Mission",
+      "location": "Redwood City, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e76fdd8b1fe7da7c",
+      "date_posted": "2026-06-01",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T21:12:11Z"
+    },
+    {
+      "company": "Intuitive (Intuitive Surgical)",
+      "title": "Senior Linux Platform Engineer",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e09e60c4c31e48a9",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T21:12:11Z"
+    },
     {
       "company": "Watershed",
       "title": "Software engineer, developer tooling",

@@ -1,13 +1,13 @@
 {
-  "scraped_at": "2026-06-05 21:17 UTC",
-  "total": 12,
-  "new_count": 1,
+  "scraped_at": "2026-06-05 22:17 UTC",
+  "total": 28,
+  "new_count": 26,
   "jobs": [
     {
-      "company": "RandomTrees",
-      "title": "GCP Data Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4421196278/",
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "Research Scientist - Computer Vision and Machine Learning",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414536608/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
@@ -20,6 +20,86 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Ceribell \u2502 AI-Powered Point-of-Care EEG",
+      "title": "AI & Data Systems Engineer (Remote)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424913503/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Arcadia",
+      "title": "Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424915168/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Red Oak Technologies",
+      "title": "Software Engineer \u2014 Maps Data Tooling (TypeScript React Claude Or Such AI, Mapping, Geospatial) Sunnyvale, CA",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424475109/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slickdeals",
+      "title": "Sr. ML Infrastructure Engineer II, Personalization",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412866414/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slickdeals",
+      "title": "Staff Software Engineer, Data",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408096686/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Johnson & Johnson MedTech",
+      "title": "NPI Software Engineer/Surgical Robotics/OTTAVA",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424908382/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Member of Technical Staff - Data Platform Engineer, Frontier AI Robotics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421188440/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "RecruitSeq",
+      "title": "Research Engineer, AI Agents",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421178468/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Autodesk",
+      "title": "Senior Search Data and Systems Engineer, Organic and Agentic Search",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424625030/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PDSSOFT INC.",
+      "title": "Agentic AI/ AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421174042/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Gusto",
       "title": "Staff Software Engineer, AI Developer Tools",
       "location": "San Francisco Bay Area",
@@ -28,84 +108,332 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "SoFi",
-      "title": "Senior Software Engineer, Coach",
+      "company": "Amazon Science",
+      "title": "Member of Technical Staff - Infrastructure Engineer, Frontier AI & Robotics (FAR)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424927039/",
+      "url": "https://www.linkedin.com/jobs/view/4421189481/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "AI Fund",
-      "title": "Senior Software Engineer-Founding Engineer (Ayama)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4404223972/",
+      "company": "Walmart",
+      "title": "Senior, Software Engineer (Backend Java/Rust)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424913451/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Weave Bio",
-      "title": "Staff Backend Engineer",
+      "company": "Autodesk",
+      "title": "Machine Learning Engineering Manager, Model Delivery",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424903715/",
+      "url": "https://www.linkedin.com/jobs/view/4373636595/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Weave Bio",
-      "title": "Senior Backend Engineer",
+      "company": "SmithRx",
+      "title": "Senior Cloud Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424784854/",
+      "url": "https://www.linkedin.com/jobs/view/4424918182/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Decagon",
-      "title": "Senior Platform Engineer, Security",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424900706/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AMD",
-      "title": "Senior DevOps/SRE Engineer",
+      "company": "SmithRx",
+      "title": "Senior Cloud Engineer",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421174432/",
+      "url": "https://www.linkedin.com/jobs/view/4424906717/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Day One Partners",
-      "title": "Senior Backend Engineer | Series B AI Startup",
+      "company": "PayPal",
+      "title": "Staff Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424915225/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PayPal",
+      "title": "Staff Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424908304/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack",
+      "title": "Full Stack Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4382472850/",
+      "url": "https://www.linkedin.com/jobs/view/4424397219/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Decagon",
-      "title": "Platform Engineer, Security",
+      "company": "PayJoy",
+      "title": "Senior Software Engineer - Android Systems & Security",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424783897/",
+      "url": "https://www.linkedin.com/jobs/view/4424910232/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Arcus Biosciences",
-      "title": "Bioinformatics Engineer",
-      "location": "Hayward, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424601882/",
+      "company": "SmithRx",
+      "title": "Senior DevOps Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424929055/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SmithRx",
+      "title": "Senior DevOps Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424927113/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "HP",
+      "title": "Senior Platform Security Engineer - HP IQ",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424907623/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Thumbtack",
+      "title": "Senior Software Engineer, Site Reliability Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421184597/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "UCSF Health",
+      "title": "HPC Systems Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424909518/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Ceribell \u2502 AI-Powered Point-of-Care EEG",
+      "title": "Director, Data Engineering & Architecture (Remote)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424911526/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "SoFi",
-      "title": "Senior Software Engineer, Coach",
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "Research Scientist - Computer Vision and Machine Learning",
+      "location": "Livermore, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414536608/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Ceribell \u2502 AI-Powered Point-of-Care EEG",
+      "title": "AI & Data Systems Engineer (Remote)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424913503/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Arcadia",
+      "title": "Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424915168/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Red Oak Technologies",
+      "title": "Software Engineer \u2014 Maps Data Tooling (TypeScript React Claude Or Such AI, Mapping, Geospatial) Sunnyvale, CA",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424475109/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slickdeals",
+      "title": "Sr. ML Infrastructure Engineer II, Personalization",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412866414/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slickdeals",
+      "title": "Staff Software Engineer, Data",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408096686/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Johnson & Johnson MedTech",
+      "title": "NPI Software Engineer/Surgical Robotics/OTTAVA",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424908382/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Member of Technical Staff - Data Platform Engineer, Frontier AI Robotics",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424927039/",
+      "url": "https://www.linkedin.com/jobs/view/4421188440/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "RecruitSeq",
+      "title": "Research Engineer, AI Agents",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421178468/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Autodesk",
+      "title": "Senior Search Data and Systems Engineer, Organic and Agentic Search",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424625030/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PDSSOFT INC.",
+      "title": "Agentic AI/ AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421174042/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Member of Technical Staff - Infrastructure Engineer, Frontier AI & Robotics (FAR)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421189481/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "Senior, Software Engineer (Backend Java/Rust)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424913451/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Autodesk",
+      "title": "Machine Learning Engineering Manager, Model Delivery",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4373636595/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SmithRx",
+      "title": "Senior Cloud Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424918182/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SmithRx",
+      "title": "Senior Cloud Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424906717/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PayPal",
+      "title": "Staff Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424915225/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PayPal",
+      "title": "Staff Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424908304/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack",
+      "title": "Full Stack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424397219/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PayJoy",
+      "title": "Senior Software Engineer - Android Systems & Security",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424910232/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SmithRx",
+      "title": "Senior DevOps Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424929055/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SmithRx",
+      "title": "Senior DevOps Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424927113/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "HP",
+      "title": "Senior Platform Security Engineer - HP IQ",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424907623/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Thumbtack",
+      "title": "Senior Software Engineer, Site Reliability Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421184597/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "UCSF Health",
+      "title": "HPC Systems Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424909518/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Ceribell \u2502 AI-Powered Point-of-Care EEG",
+      "title": "Director, Data Engineering & Architecture (Remote)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424911526/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     }

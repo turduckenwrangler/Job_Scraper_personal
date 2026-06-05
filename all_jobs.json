@@ -1,6 +1,546 @@
 {
-  "updated_at": "2026-06-05 18:17 UTC",
+  "updated_at": "2026-06-05 19:17 UTC",
   "jobs": [
+    {
+      "company": "IXL Learning",
+      "title": "Software Engineer, New Grad",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423996592/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Tensec",
+      "title": "Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424780740/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Cadence",
+      "title": "Software Engineer II, ML",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414700733/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Systemart, LLC",
+      "title": "Software Engineer \u2013 Agentic AI Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424769791/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "TikTok",
+      "title": "Senior Data Scientist, Global Data Analytics for Internal Audit Function - AMS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424610273/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "GEICO",
+      "title": "Staff Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424609342/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, RL Post-Training Frameworks",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405047530/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "TikTok",
+      "title": "Senior Data Scientist, Model Risk & Data Analytics, Internal Audit - AMS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424597429/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Marvell Technology",
+      "title": "SoC Simulation Engineer / Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411571578/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Software Engineer, Data Security - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424774965/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Cadence",
+      "title": "Software Engineer II",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414701688/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "TikTok",
+      "title": "Research Engineer/Scientist (all levels), World Models",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424620307/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "TikTok",
+      "title": "Sr. Research Engineer/Scientist (all levels), World Models",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424596902/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Deep Learning Engineering - Autonomous Vehicles",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414782192/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Cadence",
+      "title": "Principal Applied ML Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414490802/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Bear Robotics",
+      "title": "Robotics Software Engineer II, Mission",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424762983/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Cadence",
+      "title": "Software Engineer II",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414487790/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "MongoDB",
+      "title": "Senior Software Engineer, Inference Platform",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4358453456/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415382110/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415370764/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Principal Software Engineering Lead \u2014 Enterprise Data Platforms",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404477802/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Staff Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424618233/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415374625/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415383072/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Principal Cyber Security Engineer - Agentic Identity and Security",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404488688/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Marvell Technology",
+      "title": "Senior Principal Embedded Firmware Software Engineer - Networking PAM4 DSP/data center/ODSP/AEC/Microled/AI connectivity",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411573473/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "TikTok",
+      "title": "Site Reliability Engineer, Compute Platform",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424597422/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "GEICO",
+      "title": "Staff Machine Learning Engineer, AI Agent Platform",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424616286/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Valence",
+      "title": "Staff Software Engineer, Applied AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4386734913/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Systems Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4403687373/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Intuitive",
+      "title": "Senior Embedded Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424769666/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Cadence",
+      "title": "Lead Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414706684/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Marvell Technology",
+      "title": "Staff Firmware/Software Engineer- Embedded SoC/Microcontroller/DSP/SERDES/AEC/Microled/ODSP/PHY/AI Connectivity",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411576370/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Smvsoft LLC.",
+      "title": "Full-stack Engineer (Startup)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424775700/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Soul Seated",
+      "title": "Full Stack Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424604421/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424774632/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424771680/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424764646/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424763689/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "TikTok",
+      "title": "Multimedia Arch Senior Frontend Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424596900/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Snap Inc.",
+      "title": "Principal Software Engineer, Ads Format, Level 7",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395357970/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Snap Inc.",
+      "title": "Principal Software Engineer, Ads Format, Level 7",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395355999/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Marvell Technology",
+      "title": "Senior Software Engineer/Embedded Firmware/DSP/Optical/ARM/RISC-V/PHY",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411577281/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Cadence",
+      "title": "Software Engineer ll - Timing Analysis",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414495711/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Marvell Technology",
+      "title": "Senior Staff Software Engineer - Central IP applications team /ownership of pre-silicon and post-silicon API support",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411546360/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Marvell Technology",
+      "title": "Staff Software Engineer - Central IP Team pre-silicon and post-silicon API support across multiple BU projects",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411571572/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Marvell Technology",
+      "title": "Senior Staff Software Engineer-PHY layer concepts (e.g., SERDES, USB, PCIe, Ethernet) / Validation Infrastructure",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411562676/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Marvell Technology",
+      "title": "Staff Software Engineer - PHY layer concepts (e.g., SERDES, USB, PCIe, Ethernet) and validation workflows.",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411532863/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424759736/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424763675/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Intuitive",
+      "title": "Senior Linux Platform Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424781502/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Arcadia",
+      "title": "Senior Infrastructure Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424773727/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Cadence",
+      "title": "IT - Sr Staff Systems Engineer (Active Directory, Powershell, and Windows/O365 Infrastructure Administration)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414487780/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, DL Libraries Infrastructure",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404490678/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Clockwork Systems, Inc.",
+      "title": "Senior Systems Engineer - AI Infrastructure",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413200393/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Envision Technology Solutions",
+      "title": "EE Component Systems Engineer / Function Owner",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421182042/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Clockwork Systems, Inc.",
+      "title": "Senior Software Engineer \u2013 Time Synchronization",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412959298/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Fireworks AI",
+      "title": "Member of Technical Staff- Full Stack Software Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424761644/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Marvell Technology",
+      "title": "Advanced Package Yield and Data Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411556973/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead Data Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415383073/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T19:17:41Z"
+    },
     {
       "company": "Lyft",
       "title": "Machine Learning Engineer, Lyft Business",

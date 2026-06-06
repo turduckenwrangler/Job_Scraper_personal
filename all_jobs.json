@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-06-06 20:17 UTC",
+  "updated_at": "2026-06-06 20:44 UTC",
   "jobs": [
+    {
+      "company": "Nimble Robotics",
+      "title": "Senior Software Engineer, Embedded Linux",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=3a6b58ac7766be34",
+      "date_posted": "2026-06-06",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T20:44:27Z"
+    },
     {
       "company": "Jack & Jill",
       "title": "Machine Learning Engineer ($175K \u2013 $250K + Equity) at Stanford-born AI governance startup",

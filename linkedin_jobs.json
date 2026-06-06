@@ -1,8 +1,16 @@
 {
-  "scraped_at": "2026-06-06 18:17 UTC",
-  "total": 48,
-  "new_count": 17,
+  "scraped_at": "2026-06-06 19:17 UTC",
+  "total": 39,
+  "new_count": 9,
   "jobs": [
+    {
+      "company": "Scale AI",
+      "title": "ML Research Engineer, ML Systems",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4196120844/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
     {
       "company": "Scale AI",
       "title": "ML Systems Engineer, Robotics",
@@ -20,98 +28,18 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, CUDA Deep Learning Systems",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415139347/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PwC",
-      "title": "AI & GenAI Data Scientist-Senior Associate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424675374/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PwC",
-      "title": "AI & GenAI Data Scientist - Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424692247/",
+      "company": "Scale AI",
+      "title": "Machine Learning Research Engineer, Agents - Enterprise GenAI",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4331768270/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
       "company": "Scale AI",
-      "title": "ML Research Engineer, ML Systems",
+      "title": "Software Engineer, Robotics & Autonomous Systems",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4196120844/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scale AI",
-      "title": "Software Engineer, Frontier AI Infrastructure",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4196126145/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bessemer Venture Partners India",
-      "title": "Senior Software Engineer, Perception Future Sensing Platforms",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425146123/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bessemer Venture Partners India",
-      "title": "Member of Technical Staff (AI Software Engineer, Multimodal)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425139178/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scale AI",
-      "title": "Staff Software Engineer, Enterprise GenAI",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4239139041/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scale AI",
-      "title": "Senior Software Engineer, Public Sector",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4393979904/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scale AI",
-      "title": "Senior Software Engineer, Full-Stack \u2013 Scale GP",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4342364614/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "The Mice Groups, Inc.",
-      "title": "Backend Software Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424687301/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scale AI",
-      "title": "Staff Software Engineer, Public Sector",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4393980833/",
+      "url": "https://www.linkedin.com/jobs/view/4313494074/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
@@ -124,10 +52,18 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Genentech",
-      "title": "Expert Data Scientist, Early Clinical Development",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415817169/",
+      "company": "Scale AI",
+      "title": "Software Engineer, Enterprise AI",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4289167568/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4331768271/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
@@ -149,17 +85,33 @@
     },
     {
       "company": "Scale AI",
-      "title": "Staff Machine Learning Research Engineer, Agent Post-training - Enterprise GenAI",
+      "title": "Staff Software Engineer, Public Sector",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4331759447/",
+      "url": "https://www.linkedin.com/jobs/view/4393980833/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Abridge",
-      "title": "Data Engineer",
+      "company": "PwC",
+      "title": "AI & GenAI Data Scientist - Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4366665363/",
+      "url": "https://www.linkedin.com/jobs/view/4424692247/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Xcede",
+      "title": "Senior Member of Technical Staff - Security Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424684384/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Staff Software Engineer, Data Platform",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4363650702/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
@@ -173,46 +125,6 @@
     },
     {
       "company": "Scale AI",
-      "title": "Machine Learning Research Engineer, Agents - Enterprise GenAI",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4331768270/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scale AI",
-      "title": "Software Engineer, Enterprise AI",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4289167568/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scale AI",
-      "title": "Software Engineer, Robotics & Autonomous Systems",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4313494074/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, AI Performance Analysis",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415147179/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Nash",
-      "title": "Full Stack Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4358570627/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scale AI",
       "title": "Staff Infrastructure Software Engineer, Enterprise AI",
       "location": "San Francisco Bay Area",
       "url": "https://www.linkedin.com/jobs/view/4289169380/",
@@ -220,18 +132,18 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Scale AI",
-      "title": "Software Engineer, ARC Team",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4386580396/",
+      "company": "Capital One",
+      "title": "Principal Data Scientist - AI Foundations, Specialist Models",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415888144/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "The Mice Groups, Inc.",
-      "title": "Full Stack Software Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424687312/",
+      "company": "Samsung Semiconductor",
+      "title": "Senior Staff Software Engineer, Trace-Driven Simulator Development",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4362091476/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
@@ -244,26 +156,82 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
-      "title": "Principal Software Engineer - Rack Scale Systems Infrastructure",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415132512/",
+      "company": "Capital One",
+      "title": "Senior Lead Software Engineer (Golang + EKS,  Kubernetes, LLM's + Agentic flows + control/data planes)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415598454/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
       "company": "Scale AI",
-      "title": "Senior AI Infrastructure Engineer - Training Platform",
+      "title": "Software Engineer, ARC Team",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4408075201/",
+      "url": "https://www.linkedin.com/jobs/view/4386580396/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bessemer Venture Partners India",
-      "title": "Member of Technical Staff (AI Software Engineer, Agents)",
+      "company": "MongoDB",
+      "title": "Software Engineer 3, Atlas Vector Search",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425127696/",
+      "url": "https://www.linkedin.com/jobs/view/4406694620/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Senior Software Engineer, Public Sector",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4393979904/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Research Engineer/Scientist (all levels), Efficient Models",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424677501/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Software Engineer, Frontier AI Infrastructure",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4196126145/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, AI Performance Analysis",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415147179/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "The Mice Groups, Inc.",
+      "title": "Full Stack Software Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424687312/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "The Mice Groups, Inc.",
+      "title": "Backend Software Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424687301/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Senior Software Engineer, Full-Stack \u2013 Scale GP",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4342364614/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
@@ -272,14 +240,6 @@
       "title": "Senior Software Engineer, GenAI",
       "location": "San Francisco Bay Area",
       "url": "https://www.linkedin.com/jobs/view/4332720460/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Zeta Global",
-      "title": "Lead Software Engineer, Identity",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4317493070/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
@@ -300,26 +260,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Credit Genie",
-      "title": "Staff iOS Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4337751650/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Redwood Credit Union",
-      "title": "Cloud Data Engineer",
-      "location": "Napa, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425143133/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Redwood Credit Union",
-      "title": "Cloud Data Engineer",
-      "location": "Santa Rosa, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425147098/",
+      "company": "Scale AI",
+      "title": "Staff Software Engineer, Enterprise GenAI",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4239139041/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
@@ -333,6 +277,14 @@
     },
     {
       "company": "Scale AI",
+      "title": "Senior AI Infrastructure Engineer - Training Platform",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4408075201/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scale AI",
       "title": "Security Engineer, Infrastructure",
       "location": "San Francisco Bay Area",
       "url": "https://www.linkedin.com/jobs/view/4400648654/",
@@ -340,18 +292,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Etched",
-      "title": "Security Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385382904/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Calix",
-      "title": "Staff Software Engineer - Cloud Platform (Kafka)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412055300/",
+      "company": "Tanium",
+      "title": "IT Security Engineer",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415144905/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
@@ -364,164 +308,84 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Whatnot",
-      "title": "Software Engineer, Data",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4394204415/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scale AI",
-      "title": "Staff Software Engineer, Data Platform",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4363650702/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "comvex.ai",
-      "title": "Platform Infrastructure Engineer",
+      "company": "Check Point Software",
+      "title": "Security Engineer, Workspace Security",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424677331/",
+      "url": "https://www.linkedin.com/jobs/view/4425149211/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, CUDA Deep Learning Systems",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415139347/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PwC",
-      "title": "AI & GenAI Data Scientist-Senior Associate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424675374/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PwC",
-      "title": "AI & GenAI Data Scientist - Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424692247/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bessemer Venture Partners India",
-      "title": "Senior Software Engineer, Perception Future Sensing Platforms",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425146123/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bessemer Venture Partners India",
-      "title": "Member of Technical Staff (AI Software Engineer, Multimodal)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425139178/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "The Mice Groups, Inc.",
-      "title": "Backend Software Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424687301/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genentech",
-      "title": "Expert Data Scientist, Early Clinical Development",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415817169/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Scale AI",
-      "title": "Staff Machine Learning Research Engineer, Agent Post-training - Enterprise GenAI",
+      "title": "Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4331759447/",
+      "url": "https://www.linkedin.com/jobs/view/4331768271/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, AI Performance Analysis",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415147179/",
+      "company": "Xcede",
+      "title": "Senior Member of Technical Staff - Security Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424684384/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "The Mice Groups, Inc.",
-      "title": "Full Stack Software Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424687312/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Staff Software Engineer, Android, Level 6",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415585435/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Principal Software Engineer - Rack Scale Systems Infrastructure",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415132512/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Bessemer Venture Partners India",
-      "title": "Member of Technical Staff (AI Software Engineer, Agents)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425127696/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Credit Genie",
-      "title": "Staff iOS Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4337751650/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Redwood Credit Union",
-      "title": "Cloud Data Engineer",
-      "location": "Napa, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425143133/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Redwood Credit Union",
-      "title": "Cloud Data Engineer",
-      "location": "Santa Rosa, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425147098/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Etched",
-      "title": "Security Engineer",
+      "company": "Capital One",
+      "title": "Principal Data Scientist - AI Foundations, Specialist Models",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385382904/",
+      "url": "https://www.linkedin.com/jobs/view/4415888144/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Samsung Semiconductor",
+      "title": "Senior Staff Software Engineer, Trace-Driven Simulator Development",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4362091476/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead Software Engineer (Golang + EKS,  Kubernetes, LLM's + Agentic flows + control/data planes)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415598454/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "MongoDB",
+      "title": "Software Engineer 3, Atlas Vector Search",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406694620/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Research Engineer/Scientist (all levels), Efficient Models",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424677501/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tanium",
+      "title": "IT Security Engineer",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415144905/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Check Point Software",
+      "title": "Security Engineer, Workspace Security",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425149211/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     }

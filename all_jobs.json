@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-06-06 18:52 UTC",
+  "updated_at": "2026-06-06 19:17 UTC",
   "jobs": [
+    {
+      "company": "Xcede",
+      "title": "Senior Member of Technical Staff - Security Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424684384/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T19:17:25Z"
+    },
+    {
+      "company": "Capital One",
+      "title": "Principal Data Scientist - AI Foundations, Specialist Models",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415888144/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T19:17:25Z"
+    },
+    {
+      "company": "Samsung Semiconductor",
+      "title": "Senior Staff Software Engineer, Trace-Driven Simulator Development",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4362091476/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T19:17:25Z"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead Software Engineer (Golang + EKS,  Kubernetes, LLM's + Agentic flows + control/data planes)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415598454/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T19:17:25Z"
+    },
+    {
+      "company": "MongoDB",
+      "title": "Software Engineer 3, Atlas Vector Search",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406694620/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T19:17:25Z"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Research Engineer/Scientist (all levels), Efficient Models",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424677501/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T19:17:25Z"
+    },
+    {
+      "company": "Tanium",
+      "title": "IT Security Engineer",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415144905/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T19:17:25Z"
+    },
+    {
+      "company": "Check Point Software",
+      "title": "Security Engineer, Workspace Security",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425149211/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T19:17:25Z"
+    },
     {
       "company": "Fireworks AI",
       "title": "Member of Technical Staff- Full Stack Software Engineer New",

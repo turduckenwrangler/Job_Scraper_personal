@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-06 06:37 UTC",
-  "total": 23,
-  "new_count": 8,
+  "scraped_at": "2026-06-07 07:13 UTC",
+  "total": 20,
+  "new_count": 5,
   "jobs": [
     {
       "company": "10x Genomics",
@@ -124,133 +124,85 @@
       "ats": "Greenhouse"
     },
     {
+      "company": "Gilead Sciences",
+      "title": "Executive Director of Clinical Data Engineering & Analytics (CDEA)",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Executive-Director-of-Clinical-Data-Engineering---Analytics--CDEA-_R0051540",
+      "date_posted": "Posted 23 Days Ago",
+      "ats": "Workday"
+    },
+    {
       "company": "Genentech",
-      "title": "Principal Data Scientist, Predictive AI",
+      "title": "Expert Data Scientist, Early Clinical Development",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424954672/",
+      "url": "https://www.linkedin.com/jobs/view/4415817169/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Genentech",
-      "title": "Machine Learning Engineer/Senior Machine Learning Engineer - Devops, AI for Drug Discovery",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402047132/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Netic",
-      "title": "Software Engineer, Product",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4353932431/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Netic",
-      "title": "Founding Web Platform Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4355730151/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Netic",
-      "title": "Founding Product Infrastructure Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4354102337/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Biohub",
-      "title": "Staff AI Infrastructure Engineer",
+      "title": "Staff Data Scientist, Genomics",
       "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4397163275/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Biohub",
-      "title": "Staff Data Scientist, Imaging",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4382515110/",
-      "date_posted": "2026-06-05",
+      "url": "https://www.linkedin.com/jobs/view/4382511241/",
+      "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
       "company": "Lila Sciences",
-      "title": "Staff ML Engineer, Life Sciences AI",
+      "title": "Principal ML Research Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414676095/",
-      "date_posted": "2026-06-05",
+      "url": "https://www.linkedin.com/jobs/view/4415518289/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Aptiv",
+      "title": "Data Platform Architect",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4394938478/",
+      "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
+      "company": "Gilead Sciences",
+      "title": "Executive Director of Clinical Data Engineering & Analytics (CDEA)",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Executive-Director-of-Clinical-Data-Engineering---Analytics--CDEA-_R0051540",
+      "date_posted": "Posted 23 Days Ago",
+      "ats": "Workday"
+    },
+    {
       "company": "Genentech",
-      "title": "Principal Data Scientist, Predictive AI",
+      "title": "Expert Data Scientist, Early Clinical Development",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424954672/",
+      "url": "https://www.linkedin.com/jobs/view/4415817169/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Genentech",
-      "title": "Machine Learning Engineer/Senior Machine Learning Engineer - Devops, AI for Drug Discovery",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402047132/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Netic",
-      "title": "Software Engineer, Product",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4353932431/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Netic",
-      "title": "Founding Web Platform Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4355730151/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Netic",
-      "title": "Founding Product Infrastructure Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4354102337/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Biohub",
-      "title": "Staff AI Infrastructure Engineer",
+      "title": "Staff Data Scientist, Genomics",
       "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4397163275/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Biohub",
-      "title": "Staff Data Scientist, Imaging",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4382515110/",
-      "date_posted": "2026-06-05",
+      "url": "https://www.linkedin.com/jobs/view/4382511241/",
+      "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
       "company": "Lila Sciences",
-      "title": "Staff ML Engineer, Life Sciences AI",
+      "title": "Principal ML Research Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414676095/",
-      "date_posted": "2026-06-05",
+      "url": "https://www.linkedin.com/jobs/view/4415518289/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Aptiv",
+      "title": "Data Platform Architect",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4394938478/",
+      "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     }
   ]

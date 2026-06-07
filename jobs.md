@@ -1,36 +1,24 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-06-06 06:37 UTC*
+*Last updated: 2026-06-07 07:13 UTC*
 
-**8 new role(s)** since last run · 23 total in last 24h
+**5 new role(s)** since last run · 20 total in last 24h
 
-### [Principal Data Scientist, Predictive AI](https://www.linkedin.com/jobs/view/4424954672/) — Genentech
+### [Executive Director of Clinical Data Engineering & Analytics (CDEA)](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Executive-Director-of-Clinical-Data-Engineering---Analytics--CDEA-_R0051540) — Gilead Sciences
+- 📍 **Location:** United States - California - Foster City
+- 🕒 **Posted:** Posted 23 Days Ago
+
+### [Expert Data Scientist, Early Clinical Development](https://www.linkedin.com/jobs/view/4415817169/) — Genentech
 - 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-06-06
 
-### [Machine Learning Engineer/Senior Machine Learning Engineer - Devops, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4402047132/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4353932431/) — Netic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Founding Web Platform Engineer](https://www.linkedin.com/jobs/view/4355730151/) — Netic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Founding Product Infrastructure Engineer](https://www.linkedin.com/jobs/view/4354102337/) — Netic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Staff AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4397163275/) — Biohub
+### [Staff Data Scientist, Genomics](https://www.linkedin.com/jobs/view/4382511241/) — Biohub
 - 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-06-05
+- 🕒 **Posted:** 2026-06-06
 
-### [Staff Data Scientist, Imaging](https://www.linkedin.com/jobs/view/4382515110/) — Biohub
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Staff ML Engineer, Life Sciences AI](https://www.linkedin.com/jobs/view/4414676095/) — Lila Sciences
+### [Principal ML Research Engineer](https://www.linkedin.com/jobs/view/4415518289/) — Lila Sciences
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-05
+- 🕒 **Posted:** 2026-06-06
+
+### [Data Platform Architect](https://www.linkedin.com/jobs/view/4394938478/) — Aptiv
+- 📍 **Location:** Walnut Creek, CA
+- 🕒 **Posted:** 2026-06-06

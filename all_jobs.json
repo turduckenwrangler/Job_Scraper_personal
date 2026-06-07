@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-06-07 06:51 UTC",
+  "updated_at": "2026-06-07 07:13 UTC",
   "jobs": [
+    {
+      "company": "Biohub",
+      "title": "Staff Data Scientist, Genomics",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4382511241/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T07:13:55Z"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Principal ML Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415518289/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T07:13:55Z"
+    },
+    {
+      "company": "Aptiv",
+      "title": "Data Platform Architect",
+      "location": "Walnut Creek, CA",
+      "url": "https://www.linkedin.com/jobs/view/4394938478/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T07:13:55Z"
+    },
     {
       "company": "BlackRock",
       "title": "Associate, Modelling Data Scientist",

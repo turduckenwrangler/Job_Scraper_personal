@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-06-07 20:50 UTC",
+  "updated_at": "2026-06-07 21:17 UTC",
   "jobs": [
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421594438/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T21:17:23Z"
+    },
     {
       "company": "RS Global Services",
       "title": "Founding AI Engineer - On-site San Francisco - $175K - $225K",

@@ -1,71 +1,23 @@
 {
-  "scraped_at": "2026-06-07 20:17 UTC",
-  "total": 4,
-  "new_count": 4,
+  "scraped_at": "2026-06-07 21:17 UTC",
+  "total": 1,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "RS Global Services",
-      "title": "Founding AI Engineer - On-site San Francisco - $175K - $225K",
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425047376/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "AI Security Software Engineer (Starshield)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424462371/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Aurelius Systems",
-      "title": "Sr. Robotics Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425411191/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Mochi Health",
-      "title": "Senior Fullstack Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425406328/",
+      "url": "https://www.linkedin.com/jobs/view/4421594438/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "RS Global Services",
-      "title": "Founding AI Engineer - On-site San Francisco - $175K - $225K",
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425047376/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "AI Security Software Engineer (Starshield)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424462371/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Aurelius Systems",
-      "title": "Sr. Robotics Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425411191/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Mochi Health",
-      "title": "Senior Fullstack Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425406328/",
+      "url": "https://www.linkedin.com/jobs/view/4421594438/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     }

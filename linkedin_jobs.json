@@ -1,253 +1,29 @@
 {
-  "scraped_at": "2026-06-08 18:17 UTC",
-  "total": 34,
-  "new_count": 5,
+  "scraped_at": "2026-06-08 19:17 UTC",
+  "total": 30,
+  "new_count": 27,
   "jobs": [
     {
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "title": "Machine Learning Engineer, User Understanding (Entry-Level / New Grad)",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421987095/",
+      "company": "Bio-Techne",
+      "title": "Senior Software Engineer, AI and ML Platforms",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425653771/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tesla",
-      "title": "Software Engineer, Generalist, AI Inference",
+      "company": "Quince",
+      "title": "Staff Software Engineer",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425664036/",
+      "url": "https://www.linkedin.com/jobs/view/4425278837/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     },
     {
-      "company": "OpenAI",
-      "title": "Software Engineer, Scaled Abuse",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425265993/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Matterport",
-      "title": "Matterport - Senior Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425636864/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Zensar Technologies",
-      "title": "AI Data Engineer with Databricks",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414008683/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Oho Group",
-      "title": "Software Engineer (Machine Learning)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4425293277/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Suno",
-      "title": "Software Engineer, Fullstack, Pro-Create",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4350607939/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Hire Feed",
-      "title": "Senior Autonomous Systems ML Engineer (Remote)",
+      "company": "TikTok",
+      "title": "Data Scientist, Product Infrastructure - TikTok (San Jose)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425632955/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Rainfall Health",
-      "title": "Senior Software Engineer (AWS Amplify)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4425277531/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "title": "Staff Machine Learning Engineer, ML Infrastructure",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421974223/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Member of Technical Staff (Analytics Engineer)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4374657493/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "T3",
-      "title": "Senior AI Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4425257952/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer - Safety Experience",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425293042/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Physical Intelligence",
-      "title": "Software Engineer (AI Productivity)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425642830/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Staff+ Software Engineer, Public Sector",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4425274127/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA AI",
-      "title": "Senior Software Engineer, Agentic Engineering",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421992022/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Rise Technical",
-      "title": "Senior Backend Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421981325/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Etched",
-      "title": "Infrastructure Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385391706/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "Internship, Software Engineer Opticaster, Energy Engineering (Fall 2026)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425661068/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Staff Software Engineer, Backend (Consumer - Advanced Trading)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425661107/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack",
-      "title": "Full Stack Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4425285365/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Hire Feed",
-      "title": "Full Stack Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425668208/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Aeolus",
-      "title": "DevOps Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4425295330/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Altera",
-      "title": "DevOps CI/CD Software Engineering Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425640948/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Software Engineer II, Cloud - CTIO (Hybrid)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421990048/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Software Engineer III, Cloud - CTIO (Hybrid)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421971258/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Flexton Inc.",
-      "title": "Principal Data Engineer \u2013 Azure Databricks - W2 Only",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425649313/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SpanIdea Systems",
-      "title": "Senior Network Software Engineer \u2013 Ethernet Drivers & Linux",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425273937/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Nutanix",
-      "title": "Senior Software Engineer (Linux, Virtualization, Hypervisor)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425644681/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Coinbase",
-      "title": "Staff Software Engineer, Frontend (Consumer - Advanced Trading)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425660162/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobot",
-      "title": "Senior Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421985256/",
+      "url": "https://www.linkedin.com/jobs/view/4425290545/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     },
@@ -260,60 +36,428 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Zensar Technologies",
-      "title": "Data Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421183167/",
+      "company": "ByteDance",
+      "title": "Software Engineer, Global Traffic Infrastructure",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425275841/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     },
     {
-      "company": "You.com",
-      "title": "Data Engineer",
+      "company": "Code Metal",
+      "title": "Research Engineer - Formal Methods",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4395726142/",
+      "url": "https://www.linkedin.com/jobs/view/4425663700/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Loop",
+      "title": "AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4389984113/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "scalr",
+      "title": "AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4421969534/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BlackRock",
+      "title": "Applied AI Engineer - Fundamental Equity Tech Investing Team",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425664373/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "LinkedIn",
+      "title": "Staff Security Engineer - AI",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425661803/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Shields Group Search",
+      "title": "Platform Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425274681/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Intrinsic",
+      "title": "Senior Full Stack Software Engineer, Platform",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421969562/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Tech Lead Software Engineer - Spatial Web",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425280622/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Rise Technical",
+      "title": "Senior Backend Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421981325/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Goliath Partners",
+      "title": "Senior Full Stack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425661853/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hire Feed",
+      "title": "Full Stack Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425668208/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Ellipsis Health",
+      "title": "Senior Backend Engineer (Python)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425278769/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Ellipsis Health",
+      "title": "Senior Full Stack Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425281749/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Code Metal",
+      "title": "Senior Backend Engineer, Data Systems",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425650758/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Engineer (Tech Lead, Backend - Platform (Overseer)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425668811/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walter Bacon, Inc.",
+      "title": "Sr. Frontend Engineer (React, TypeScript)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425293664/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Code Metal",
+      "title": "Principal Frontend Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425664670/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SiriusXM",
+      "title": "Staff Software Engineer, Application Development & Testing",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4337929322/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hatch",
+      "title": "Staff Mobile Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425276696/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Code Metal",
+      "title": "Senior Platform DevOps Engineer (Cloud + On-Prem)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425665661/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Code Metal",
+      "title": "Senior Platform DevOps Engineer (CI/CD + Developer Experience)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425657735/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Ellipsis Health",
+      "title": "Senior Data Platform Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425298253/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Code Metal",
+      "title": "Senior Infrastructure Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425666656/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Candid Health",
+      "title": "Principal Security Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425645994/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Block",
+      "title": "Information Systems Engineer, Business Systems",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4407458254/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Rainfall Health",
-      "title": "Senior Software Engineer (AWS Amplify)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4425277531/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "title": "Staff Machine Learning Engineer, ML Infrastructure",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421974223/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Staff+ Software Engineer, Public Sector",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4425274127/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Altera",
-      "title": "DevOps CI/CD Software Engineering Manager",
+      "company": "Bio-Techne",
+      "title": "Senior Software Engineer, AI and ML Platforms",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425640948/",
+      "url": "https://www.linkedin.com/jobs/view/4425653771/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobot",
-      "title": "Senior Software Engineer",
+      "company": "Quince",
+      "title": "Staff Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425278837/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Data Scientist, Product Infrastructure - TikTok (San Jose)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425290545/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Software Engineer, Global Traffic Infrastructure",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425275841/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Code Metal",
+      "title": "Research Engineer - Formal Methods",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421985256/",
+      "url": "https://www.linkedin.com/jobs/view/4425663700/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Loop",
+      "title": "AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4389984113/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "scalr",
+      "title": "AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4421969534/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BlackRock",
+      "title": "Applied AI Engineer - Fundamental Equity Tech Investing Team",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425664373/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "LinkedIn",
+      "title": "Staff Security Engineer - AI",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425661803/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Shields Group Search",
+      "title": "Platform Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425274681/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Intrinsic",
+      "title": "Senior Full Stack Software Engineer, Platform",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421969562/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Tech Lead Software Engineer - Spatial Web",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425280622/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Goliath Partners",
+      "title": "Senior Full Stack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425661853/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Ellipsis Health",
+      "title": "Senior Backend Engineer (Python)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425278769/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Ellipsis Health",
+      "title": "Senior Full Stack Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425281749/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Code Metal",
+      "title": "Senior Backend Engineer, Data Systems",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425650758/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Engineer (Tech Lead, Backend - Platform (Overseer)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425668811/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walter Bacon, Inc.",
+      "title": "Sr. Frontend Engineer (React, TypeScript)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425293664/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Code Metal",
+      "title": "Principal Frontend Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425664670/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SiriusXM",
+      "title": "Staff Software Engineer, Application Development & Testing",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4337929322/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hatch",
+      "title": "Staff Mobile Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425276696/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Code Metal",
+      "title": "Senior Platform DevOps Engineer (Cloud + On-Prem)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425665661/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Code Metal",
+      "title": "Senior Platform DevOps Engineer (CI/CD + Developer Experience)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425657735/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Ellipsis Health",
+      "title": "Senior Data Platform Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425298253/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Code Metal",
+      "title": "Senior Infrastructure Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425666656/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Candid Health",
+      "title": "Principal Security Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425645994/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Block",
+      "title": "Information Systems Engineer, Business Systems",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4407458254/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     }

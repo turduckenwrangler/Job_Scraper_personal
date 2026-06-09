@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-06-09 22:14 UTC",
+  "updated_at": "2026-06-09 22:17 UTC",
   "jobs": [
+    {
+      "company": "Plaud",
+      "title": "Full Stack Engineer (Contractor) - Palo Alto",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426008012/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T22:17:36Z"
+    },
+    {
+      "company": "Plaud",
+      "title": "Mobile Engineer (Contractor) - Palo Alto",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426003184/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T22:17:36Z"
+    },
+    {
+      "company": "Optimal",
+      "title": "AI Prompt & Agent Engineer | Prompt Engineering / LLMs / Evals / Voice AI | Must have startup experience",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426519968/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T22:17:36Z"
+    },
+    {
+      "company": "General Motors",
+      "title": "Senior Software Engineer - Simulation - SimCore",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426539066/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T22:17:36Z"
+    },
     {
       "company": "Okta",
       "title": "LCA- Senior Software Engineer",

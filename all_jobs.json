@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-06-09 23:17 UTC",
+  "updated_at": "2026-06-09 23:55 UTC",
   "jobs": [
+    {
+      "company": "Qualys",
+      "title": "Senior Security Engineer, AI/ML",
+      "location": "Foster City, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=2d9537830b896ab5",
+      "date_posted": "2026-06-09",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T23:55:51Z"
+    },
+    {
+      "company": "TikTok",
+      "title": "Senior Software Engineer, E-Commerce AI Platform - USDS",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=7b1f0abc4515c8a9",
+      "date_posted": "2026-06-09",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T23:55:51Z"
+    },
+    {
+      "company": "Amazon.com",
+      "title": "Data Engineer, PXT Central Science",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=afe8b8c3fa1d76fe",
+      "date_posted": "2026-03-27",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T23:55:51Z"
+    },
+    {
+      "company": "Cadence Design Systems",
+      "title": "Software Engineer II, AI Platform",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a7fcb17dd9c34ea8",
+      "date_posted": "2026-06-09",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T23:55:51Z"
+    },
+    {
+      "company": "Amazon.com",
+      "title": "Applied Scientist II, Core Search",
+      "location": "Palo Alto, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a1af0a0e9725a061",
+      "date_posted": "2026-05-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T23:55:51Z"
+    },
+    {
+      "company": "Walmart",
+      "title": "(USA) Group Director, Software Engineering",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=0d6e5ec47f16531a",
+      "date_posted": "2026-06-09",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T23:55:51Z"
+    },
+    {
+      "company": "Littelfuse",
+      "title": "Director, Systems Engineering, CCDI",
+      "location": "Milpitas, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=72941bcb271c51af",
+      "date_posted": "2026-06-09",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T23:55:51Z"
+    },
+    {
+      "company": "Amazon.com",
+      "title": "Data Engineer, Ads Science Analysis & Tech (ASAT)",
+      "location": "Palo Alto, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=26959fb862cf6697",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T23:55:51Z"
+    },
+    {
+      "company": "archer",
+      "title": "Senior Software Engineer, BMS",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=d3ad7827095e3bb6",
+      "date_posted": "2026-06-09",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T23:55:51Z"
+    },
+    {
+      "company": "Roblox",
+      "title": "Software Engineer, Storage",
+      "location": "San Mateo, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=47c5039e293632dd",
+      "date_posted": "2026-06-09",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T23:55:51Z"
+    },
+    {
+      "company": "Tesla",
+      "title": "Internship, Embedded Software Engineer, Optimus (Fall 2026)",
+      "location": "Palo Alto, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e90527ab49b22203",
+      "date_posted": "2026-06-09",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T23:55:51Z"
+    },
+    {
+      "company": "Tesla",
+      "title": "Software Engineer, Design Technology",
+      "location": "Palo Alto, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=67855acb7f87cb47",
+      "date_posted": "2026-06-09",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T23:55:51Z"
+    },
+    {
+      "company": "Tesla",
+      "title": "Data Engineer, Supply Chain",
+      "location": "Fremont, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=216432e17bbf1a19",
+      "date_posted": "2026-06-09",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T23:55:51Z"
+    },
+    {
+      "company": "Logic, Inc.",
+      "title": "Data Engineer",
+      "location": "Walnut Creek, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=f796c0e12226df59",
+      "date_posted": "2026-06-09",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T23:55:51Z"
+    },
     {
       "company": "Dragonfly",
       "title": "Software Engineer - Dragonfly Portfolio",

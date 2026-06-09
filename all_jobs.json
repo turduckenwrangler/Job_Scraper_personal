@@ -1,6 +1,141 @@
 {
-  "updated_at": "2026-06-09 01:17 UTC",
+  "updated_at": "2026-06-09 01:30 UTC",
   "jobs": [
+    {
+      "company": "Wells Fargo",
+      "title": "Lead Infrastructure Engineer",
+      "location": "Concord, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=76f6662f4dd6e77f",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T01:30:34Z"
+    },
+    {
+      "company": "Roku",
+      "title": "Software Engineer, Embedded Agentic AI",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=b23267569085393d",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T01:30:34Z"
+    },
+    {
+      "company": "Blue Shield of California",
+      "title": "Full Stack Engineer, Senior (Azure)",
+      "location": "Oakland, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=84e627827cb56306",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T01:30:34Z"
+    },
+    {
+      "company": "Adobe",
+      "title": "Senior Software Engineer - Backend",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=d56557739ae3d627",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T01:30:34Z"
+    },
+    {
+      "company": "Adobe",
+      "title": "Senior Software Engineer - Backend",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1f227f275fa4fdab",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T01:30:34Z"
+    },
+    {
+      "company": "Walmart",
+      "title": "(USA) Distinguished, Software Engineer",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=bd58a93b1330ca7c",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T01:30:34Z"
+    },
+    {
+      "company": "Intel Corporation",
+      "title": "Senior EDA Tools Software Engineer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=78206a470eb8f943",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T01:30:34Z"
+    },
+    {
+      "company": "Anduril",
+      "title": "Manager, Enterprise Security Engineering",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=402e622bb01c4810",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T01:30:34Z"
+    },
+    {
+      "company": "Verkada",
+      "title": "Sr. IT Systems Engineer",
+      "location": "San Mateo, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=3842e432ba40677c",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T01:30:34Z"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Staff Security Engineer, Security Operations - Moveworks",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=8ff9144fee577095",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T01:30:34Z"
+    },
+    {
+      "company": "Lawrence Berkeley National Laboratory",
+      "title": "Senior Scientific Data Engineer (Institutional Informatics Team - Joint Genome Institute)",
+      "location": "San Francisco Bay Area, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=7a8ae86f4f9ecdd5",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T01:30:34Z"
+    },
+    {
+      "company": "Roblox",
+      "title": "Principal Software Engineer, Compute Fleet Management",
+      "location": "San Mateo, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a49d5221e6a7c20a",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T01:30:34Z"
+    },
+    {
+      "company": "Walmart",
+      "title": "Principal, Software Engineer - Observability",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=229cdf145433f946",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T01:30:34Z"
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Lead Infrastructure Engineer - Technical Solutions Engineering",
+      "location": "Palo Alto, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=2df7fcee3d3e993f",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T01:30:34Z"
+    },
+    {
+      "company": "Blue Origin",
+      "title": "Senior Principal Systems Security Engineer - TeraWave",
+      "location": "San Francisco Bay Area, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=d4544ff199e44c4b",
+      "date_posted": "2026-06-08",
+      "ats": "Indeed",
+      "first_seen": "2026-06-09T01:30:34Z"
+    },
     {
       "company": "DataVisor",
       "title": "Data Scientist, AI Solutions",

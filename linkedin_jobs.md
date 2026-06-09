@@ -1,100 +1,104 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-09 21:17 UTC*
+*Last updated: 2026-06-09 22:12 UTC*
 
-**24 new role(s)** since last run · 32 total in last 1h
+**25 new role(s)** since last run · 37 total in last 1h
 
-### [Senior AI/ML Engineer: Python & Scientific Computing](https://www.linkedin.com/jobs/view/4426513592/) — Swayable
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4426513718/) — Toyota Research Institute
-- 📍 **Location:** Los Altos, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4425898584/) — Comrise
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Software Engineer, Experimental Projects](https://www.linkedin.com/jobs/view/4426530189/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Data Analytics Engineer](https://www.linkedin.com/jobs/view/4422745604/) — Quest Global
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Software Engineer, Ad Serving](https://www.linkedin.com/jobs/view/4426532407/) — Roku
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Software Engineer - Sensor Systems, Robot Software](https://www.linkedin.com/jobs/view/4422745622/) — Wayve
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [AI Engineer– (AdTech or MarTech or Retail Media )](https://www.linkedin.com/jobs/view/4426513689/) — Talent Groups
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Staff AI Engineer-Agentic](https://www.linkedin.com/jobs/view/4416722010/) — Stott and May
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Software Developer](https://www.linkedin.com/jobs/view/4425885541/) — Husch Blackwell
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Full Stack Engineer, AI Network Telemetry & Optical Service Assurance](https://www.linkedin.com/jobs/view/4425899532/) — Luma Optics, Inc.
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Security Engineer, AI/ML](https://www.linkedin.com/jobs/view/4425891651/) — Qualys
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Software Engineer, Security](https://www.linkedin.com/jobs/view/4426525639/) — Notion
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Site Reliability Engineer (AI Acceleration)- Hybrid](https://www.linkedin.com/jobs/view/4426001395/) — Calance
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Director - AI Platform Engineering](https://www.linkedin.com/jobs/view/4422769060/) — eBay
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior / Backend Full Stack Engineer](https://www.linkedin.com/jobs/view/4425892540/) — DTEX
+### [Data Engineer, Supply Chain](https://www.linkedin.com/jobs/view/4426520905/) — Tesla
 - 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-06-09
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4426521318/) — Reval
-- 📍 **Location:** San Francisco Bay Area
+### [Senior Software Engineer, ML/Eval Data Platforms & Infrastructure](https://www.linkedin.com/jobs/view/4426001592/) — Waymo
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-09
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4422768160/) — Saxon Global
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-09
-
-### [Java Backend Developer](https://www.linkedin.com/jobs/view/4425879769/) — Cognizant
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Java Backend Developer](https://www.linkedin.com/jobs/view/4425885634/) — Cognizant
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Java Frontend Developer (W2)](https://www.linkedin.com/jobs/view/4425882549/) — Tranzeal Incorporated
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-09
-
-### [Senior Software Engineer, Full Stack - Technical Lead](https://www.linkedin.com/jobs/view/4425842569/) — Ryder System, Inc.
+### [Senior Software Engineer, ML/Eval Data Platforms & Infrastructure](https://www.linkedin.com/jobs/view/4425879965/) — Waymo
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-09
 
-### [Android Engineer, Terminal Global Payments](https://www.linkedin.com/jobs/view/4413493580/) — Stripe
+### [Software Engineer – Satellite Modeling and Tasking](https://www.linkedin.com/jobs/view/4329385765/) — Array Labs
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-09
+
+### [Software Engineer, Fleet Optimization](https://www.linkedin.com/jobs/view/4425891788/) — Waymo
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-09
 
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4425899554/) — Experis
-- 📍 **Location:** Pleasanton, CA
+### [Staff Software Engineer - Computer Vision](https://www.linkedin.com/jobs/view/4415961552/) — Array Labs
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-09
+
+### [Software Engineer, Fleet Optimization](https://www.linkedin.com/jobs/view/4425883900/) — Waymo
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4425893770/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Software Developer Cloud](https://www.linkedin.com/jobs/view/4340338550/) — Diligente Technologies
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Internship, Embedded Software Engineer, Optimus (Fall 2026)](https://www.linkedin.com/jobs/view/4426525838/) — Tesla
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4404493168/) — Clover
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4414041956/) — Artie
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Principal Bioinformatics Software Engineer](https://www.linkedin.com/jobs/view/4426553115/) — Roche
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Staff Product Security Engineer](https://www.linkedin.com/jobs/view/4425884890/) — Rivian and Volkswagen Group Technologies
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Site Reliability Engineering Manager](https://www.linkedin.com/jobs/view/4425893754/) — Calance
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Senior Backend Engineer, Fleet Infrastructure](https://www.linkedin.com/jobs/view/4407661999/) — Waymo
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Senior Backend Engineer, Fleet Infrastructure](https://www.linkedin.com/jobs/view/4407672183/) — Waymo
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [(USA) Staff, Software Engineer](https://www.linkedin.com/jobs/view/4422753679/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Staff Software Engineer - Data Infrastructure](https://www.linkedin.com/jobs/view/4415965483/) — Array Labs
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-09
+
+### [(USA) Principal, Software Engineer](https://www.linkedin.com/jobs/view/4422765640/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4425894854/) — Jobright.ai
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Staff Software Engineer, Imaging Platform](https://www.linkedin.com/jobs/view/4426002388/) — Rivian and Volkswagen Group Technologies
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4326766563/) — Array Labs
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-09
+
+### [SAP iXp Intern - Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4426002331/) — SAP
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-09
+
+### [Space Systems Engineer](https://www.linkedin.com/jobs/view/4387752686/) — Array Labs
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-09

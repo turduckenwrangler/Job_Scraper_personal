@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-06-10 03:17 UTC",
+  "updated_at": "2026-06-10 05:03 UTC",
   "jobs": [
+    {
+      "company": "Zingly.ai",
+      "title": "Senior AI Engineer - Voice & Digital AI",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4426030406/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T05:03:44Z"
+    },
+    {
+      "company": "Mach9",
+      "title": "Data Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426039054/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T05:03:44Z"
+    },
+    {
+      "company": "OpenAI",
+      "title": "System Software Engineer, Consumer Devices",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426047137/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T05:03:44Z"
+    },
+    {
+      "company": "Oracle",
+      "title": "Software Developer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423111005/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T05:03:44Z"
+    },
+    {
+      "company": "Probably Genetic",
+      "title": "Founding Data Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4319760245/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T05:03:44Z"
+    },
+    {
+      "company": "WEX",
+      "title": "Staff Software Engineer | Semantic Data Team",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4426731425/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T05:03:44Z"
+    },
+    {
+      "company": "Zilliz",
+      "title": "Senior Site Reliability Engineer Cloud Platform",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426729430/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T05:03:44Z"
+    },
+    {
+      "company": "Illumio",
+      "title": "Sr. Site Reliability Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426028633/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T05:03:44Z"
+    },
+    {
+      "company": "Tag-N-Trac",
+      "title": "Sr. Software Engineer (Platform Backend)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426016957/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T05:03:44Z"
+    },
+    {
+      "company": "Zilliz",
+      "title": "Staff Software Engineer, Database Systems",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426726376/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T05:03:44Z"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Senior Software Engineer - Tech Lead",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426735393/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T05:03:44Z"
+    },
+    {
+      "company": "Illumio",
+      "title": "Sr. Site Reliability Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426025809/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T05:03:44Z"
+    },
     {
       "company": "TalentAlly",
       "title": "Machine Learning Engineer - Document Intelligence",

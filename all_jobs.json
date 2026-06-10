@@ -1,6 +1,321 @@
 {
-  "updated_at": "2026-06-10 18:17 UTC",
+  "updated_at": "2026-06-10 19:17 UTC",
   "jobs": [
+    {
+      "company": "Snap Inc.",
+      "title": "Machine Learning Engineer, Level 5",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416988556/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Machine Learning Engineer, End\u2011to\u2011End Autonomous Driving",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404240283/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Research Engineer \u2014 Post-Training & Small Language Models (SLMs), Healthcare AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427049938/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Research Engineer \u2014 Post-Training & Small Language Models (SLMs), Healthcare AI",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427064497/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "BMC Software",
+      "title": "Principal AI Engineer - AgenticAI",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408018830/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "Aridian Collective",
+      "title": "Backend Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4426140602/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "Elicit Executive Search, Inc.",
+      "title": "Founding Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4426149360/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Senior Software Engineer, AI Data Application \u2013 USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412969982/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer - GPU Networking",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406240407/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Principal Software Engineer \u2013 Large-Scale LLM Memory and Storage Systems",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395491334/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "Luxoft",
+      "title": "Embedded Software Engineer (C/C++)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427076108/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "Luxoft",
+      "title": "Embedded Software Engineer (C/C++)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427069193/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "ID.me",
+      "title": "Staff Software Engineer \u2013 Trust Service Team",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4427057871/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Data Scientist, Product Analytics - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412954961/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Senior Data Scientist, Payment Analytics - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414980792/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Data Science Manager, Core Business - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414994395/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "ID.me",
+      "title": "Software Engineer III \u2013 Trust Service Team",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4427055861/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Senior Software Engineer, Data Foundation \u2013 USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412983298/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "Lightmill",
+      "title": "Software Engineer, 3D Geometry & Computational Tools",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426131624/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "Snap Inc.",
+      "title": "Software Engineer, iOS, Level 5",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416902901/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "6sense",
+      "title": "Sr. Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427065633/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Site Reliability Engineer, AIOPs",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406249232/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "FutureTech Recruitment",
+      "title": "Senior Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426149506/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Principal Software Engineer \u2014 Agentic AI Applications and Foundations",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395922223/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Systems Software Engineer - GPU Performance at Scale",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395471725/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "Teradyne",
+      "title": "Senior Software Engineer - Tech Lead (Nextest, San Jose))",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413391693/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "Salesforce",
+      "title": "Member of Technical Staff (MTS), Software Engineer, Identity & Access Management",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427068238/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Site Reliability Engineer - Video Platform - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412956813/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "Snap Inc.",
+      "title": "Principal Software Engineer, Delivery Platform",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416990510/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "Diligente Technologies",
+      "title": "DevOps Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427055790/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Systems Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427066305/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior System Software Engineer - SoC Power",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395488182/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior System Software Engineer - Video",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406244302/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "Snap Inc.",
+      "title": "Security Engineer, Level 4",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4345600182/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
+    {
+      "company": "Snap Inc.",
+      "title": "Security Engineer, Level 3",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4377053302/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T19:17:37Z"
+    },
     {
       "company": "Fortinet",
       "title": "Staff Software Developer",

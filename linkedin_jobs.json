@@ -1,61 +1,29 @@
 {
-  "scraped_at": "2026-06-10 22:17 UTC",
-  "total": 22,
-  "new_count": 21,
+  "scraped_at": "2026-06-10 23:14 UTC",
+  "total": 25,
+  "new_count": 16,
   "jobs": [
     {
-      "company": "CoffeeSpace",
-      "title": "Founding ML Engineer | Frontier Medical AI | $150k\u2013$200k | SF",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4426154406/",
+      "company": "Typeface",
+      "title": "ML Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426151935/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Science",
-      "title": "Data Scientist, Amazon Music - DISCO",
+      "company": "Eurofins",
+      "title": "Data Scientist, Materials Characterization",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423180236/",
+      "url": "https://www.linkedin.com/jobs/view/4427114032/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "Rundoo",
-      "title": "Software Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424053124/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "General Motors",
-      "title": "Software Engineer AV HIL Platform and Services (Early Career))",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427100358/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Rundoo",
-      "title": "Senior Data Scientist",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425820582/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anduril Industries",
-      "title": "Software Engineer, Manufacturing Test",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427098343/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lawrence Livermore National Laboratory",
-      "title": "AI/ML Computational Biologist - Postdoctoral Researcher",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427100503/",
+      "company": "Motion Recruitment",
+      "title": "Software Engineer in Test / Python Automation / Contract / Onsite / Foster City, CA",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427119029/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
@@ -68,18 +36,50 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Anduril Industries",
-      "title": "Senior Software Engineer, Manufacturing Test",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427097402/",
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426156630/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "scalr",
-      "title": "AI Engineer",
+      "company": "ChatGPT Jobs",
+      "title": "Staff Product Data Scientist, Expansion",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423182441/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Backend Software Engineer, API Multicloud",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426170568/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Samsara",
+      "title": "Sr. Software Engineer II",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4423181251/",
+      "url": "https://www.linkedin.com/jobs/view/4423180464/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "(USA) Staff, Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423179272/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Turn/River Capital",
+      "title": "Senior Manager, Data Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4384570141/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
@@ -92,10 +92,42 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Uber",
+      "title": "2026 PhD Applied Scientist Intern (Commerce, Trust, Safety and Support), United States",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427097835/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Uber",
+      "title": "2026 PhD Applied Scientist Intern (Commerce, Trust, Safety and Support), United States",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427096840/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "FurtherAI",
+      "title": "Senior AI Engineer - Agent Team",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427101793/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "G2",
       "title": "Senior AI Engineer",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4427108492/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "scalr",
+      "title": "AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4423181251/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
@@ -124,228 +156,180 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Walmart",
-      "title": "(USA) Staff, Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423179272/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "RBM Software",
-      "title": "Java Backend Engineer",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425850621/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "First Soft Solutions LLC",
-      "title": "Senior Backend Engineer",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427108260/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Goliath Partners",
-      "title": "Senior Full Stack Engineer",
+      "company": "CoffeeSpace",
+      "title": "Founding ML Engineer | Frontier Medical AI | $150k\u2013$200k | SF",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4427097429/",
+      "url": "https://www.linkedin.com/jobs/view/4426154406/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "Perficient",
-      "title": "Senior Linux Platform Engineer - Santa Clara",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427097505/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity",
-      "title": "Principal Engineer, Data Platform",
+      "company": "Mastercard",
+      "title": "Principal Software Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427101393/",
+      "url": "https://www.linkedin.com/jobs/view/4423174408/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "Unity",
-      "title": "Principal Engineer, Data Platform",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427112021/",
+      "company": "Rivian",
+      "title": "Sr. Staff Autonomy Embedded Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426167613/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SPECTRAFORCE",
+      "title": "DevOps/Automation Engineer",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427100657/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Stellar Consulting Solutions, LLC",
+      "title": "DevOps/Automation Engineer",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426166519/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Aditi Consulting",
+      "title": "DevOps/Automation Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427114185/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "CoffeeSpace",
-      "title": "Founding ML Engineer | Frontier Medical AI | $150k\u2013$200k | SF",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4426154406/",
+      "company": "Typeface",
+      "title": "ML Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426151935/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Science",
-      "title": "Data Scientist, Amazon Music - DISCO",
+      "company": "Eurofins",
+      "title": "Data Scientist, Materials Characterization",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423180236/",
+      "url": "https://www.linkedin.com/jobs/view/4427114032/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
-      "title": "Software Engineer AV HIL Platform and Services (Early Career))",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427100358/",
+      "company": "Motion Recruitment",
+      "title": "Software Engineer in Test / Python Automation / Contract / Onsite / Foster City, CA",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427119029/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "Rundoo",
-      "title": "Senior Data Scientist",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425820582/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anduril Industries",
-      "title": "Software Engineer, Manufacturing Test",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427098343/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lawrence Livermore National Laboratory",
-      "title": "AI/ML Computational Biologist - Postdoctoral Researcher",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427100503/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Walmart",
-      "title": "Senior, Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423183257/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anduril Industries",
-      "title": "Senior Software Engineer, Manufacturing Test",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427097402/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "scalr",
-      "title": "AI Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4423181251/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "John Deere",
-      "title": "Senior Perception Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427102530/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "G2",
-      "title": "Senior AI Engineer",
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427108492/",
+      "url": "https://www.linkedin.com/jobs/view/4426156630/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "Aridian Collective",
-      "title": "Backend Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4426140602/",
+      "company": "ChatGPT Jobs",
+      "title": "Staff Product Data Scientist, Expansion",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423182441/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "interface.ai",
-      "title": "Senior Software Engineer",
+      "company": "OpenAI",
+      "title": "Backend Software Engineer, API Multicloud",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426169412/",
+      "url": "https://www.linkedin.com/jobs/view/4426170568/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "Stage 4 Solutions",
-      "title": "DevOps/Automation Engineer \u2013 Retail (Onsite \u2013 Pleasanton, CA)",
+      "company": "Samsara",
+      "title": "Sr. Software Engineer II",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4423180464/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Turn/River Capital",
+      "title": "Senior Manager, Data Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4384570141/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Uber",
+      "title": "2026 PhD Applied Scientist Intern (Commerce, Trust, Safety and Support), United States",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427097835/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Uber",
+      "title": "2026 PhD Applied Scientist Intern (Commerce, Trust, Safety and Support), United States",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427096840/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "FurtherAI",
+      "title": "Senior AI Engineer - Agent Team",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427101793/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mastercard",
+      "title": "Principal Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423174408/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Rivian",
+      "title": "Sr. Staff Autonomy Embedded Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426167613/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SPECTRAFORCE",
+      "title": "DevOps/Automation Engineer",
       "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423168543/",
+      "url": "https://www.linkedin.com/jobs/view/4427100657/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "Walmart",
-      "title": "(USA) Staff, Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423179272/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "RBM Software",
-      "title": "Java Backend Engineer",
+      "company": "Stellar Consulting Solutions, LLC",
+      "title": "DevOps/Automation Engineer",
       "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425850621/",
+      "url": "https://www.linkedin.com/jobs/view/4426166519/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "First Soft Solutions LLC",
-      "title": "Senior Backend Engineer",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427108260/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Goliath Partners",
-      "title": "Senior Full Stack Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4427097429/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Perficient",
-      "title": "Senior Linux Platform Engineer - Santa Clara",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427097505/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity",
-      "title": "Principal Engineer, Data Platform",
+      "company": "Aditi Consulting",
+      "title": "DevOps/Automation Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427101393/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity",
-      "title": "Principal Engineer, Data Platform",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427112021/",
+      "url": "https://www.linkedin.com/jobs/view/4427114185/",
       "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     }

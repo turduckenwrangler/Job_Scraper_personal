@@ -1,6 +1,150 @@
 {
-  "updated_at": "2026-06-10 22:17 UTC",
+  "updated_at": "2026-06-10 23:14 UTC",
   "jobs": [
+    {
+      "company": "Typeface",
+      "title": "ML Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426151935/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:14:21Z"
+    },
+    {
+      "company": "Eurofins",
+      "title": "Data Scientist, Materials Characterization",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427114032/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:14:21Z"
+    },
+    {
+      "company": "Motion Recruitment",
+      "title": "Software Engineer in Test / Python Automation / Contract / Onsite / Foster City, CA",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427119029/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:14:21Z"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426156630/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:14:21Z"
+    },
+    {
+      "company": "ChatGPT Jobs",
+      "title": "Staff Product Data Scientist, Expansion",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423182441/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:14:21Z"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Backend Software Engineer, API Multicloud",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426170568/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:14:21Z"
+    },
+    {
+      "company": "Samsara",
+      "title": "Sr. Software Engineer II",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4423180464/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:14:21Z"
+    },
+    {
+      "company": "Turn/River Capital",
+      "title": "Senior Manager, Data Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4384570141/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:14:21Z"
+    },
+    {
+      "company": "Uber",
+      "title": "2026 PhD Applied Scientist Intern (Commerce, Trust, Safety and Support), United States",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427097835/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:14:21Z"
+    },
+    {
+      "company": "Uber",
+      "title": "2026 PhD Applied Scientist Intern (Commerce, Trust, Safety and Support), United States",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427096840/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:14:21Z"
+    },
+    {
+      "company": "FurtherAI",
+      "title": "Senior AI Engineer - Agent Team",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427101793/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:14:21Z"
+    },
+    {
+      "company": "Mastercard",
+      "title": "Principal Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423174408/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:14:21Z"
+    },
+    {
+      "company": "Rivian",
+      "title": "Sr. Staff Autonomy Embedded Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426167613/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:14:21Z"
+    },
+    {
+      "company": "SPECTRAFORCE",
+      "title": "DevOps/Automation Engineer",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427100657/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:14:21Z"
+    },
+    {
+      "company": "Stellar Consulting Solutions, LLC",
+      "title": "DevOps/Automation Engineer",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426166519/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:14:21Z"
+    },
+    {
+      "company": "Aditi Consulting",
+      "title": "DevOps/Automation Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427114185/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:14:21Z"
+    },
     {
       "company": "CoffeeSpace",
       "title": "Founding ML Engineer | Frontier Medical AI | $150k\u2013$200k | SF",

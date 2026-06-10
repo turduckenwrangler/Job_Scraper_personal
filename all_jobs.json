@@ -1,6 +1,231 @@
 {
-  "updated_at": "2026-06-10 17:17 UTC",
+  "updated_at": "2026-06-10 18:16 UTC",
   "jobs": [
+    {
+      "company": "Flexton Inc.",
+      "title": "Expert AI/ML Engineer",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427053406/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Crosslake Technologies",
+      "title": "Full Stack Software Engineer",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427046617/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Replit",
+      "title": "Data Scientist, People",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415982893/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Docusign",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426139234/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Strativ Group",
+      "title": "Senior Software Engineer - Agentic Systems",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4427039996/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Ambience Healthcare",
+      "title": "Staff ML Engineer, Frontier AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4386728531/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Acceler8 Talent",
+      "title": "Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4423147618/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Postman",
+      "title": "Staff Software Engineer, Business Platform",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414290536/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Senior Applied Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427051533/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Snap Inc.",
+      "title": "Software Engineer, iOS, Level 5",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416907931/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Mason AI",
+      "title": "Founding AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426143296/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Principal Software Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4377427739/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Docusign",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426136246/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Cadence",
+      "title": "Staff Systems Engineer (Cloud Operations & Support)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406900772/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Software Engineer, Non-Human Identity",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423156597/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior System Software Engineer, Automotive Performance",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415988067/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Member of Technical Staff (Offensive Security Engineer)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4394747218/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "SK shieldus America Inc",
+      "title": "IT Security Engineer (Korean Bilingual)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427061272/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Ripple",
+      "title": "Senior Staff Security Engineer, Ripple Treasury",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426142262/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Amazon",
+      "title": "MFG Factory Infrastructure & Security Engineer, eero MFG Eng & Operations WW",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427054688/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "SoFi",
+      "title": "Senior Manager, Data Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408048249/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Data Engineer",
+      "location": "Los Altos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427045625/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Principal Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4377423865/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Platinum Technologies",
+      "title": "Data Science & Analytics Technical Lead",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427057480/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
+    {
+      "company": "Genentech",
+      "title": "Senior Software Engineer - Drug Discovery",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398021514/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:16:09Z"
+    },
     {
       "company": "Flexton Inc.",
       "title": "AI/ML Engineer",

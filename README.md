@@ -11,10 +11,10 @@ Output goes to `jobs.json`, `jobs.md`, and `jobs.html`. Each run dedupes against
 
 > Why allowlist instead of LinkedIn's industry filter? The `f_I` industry parameter is silently ignored on the public guest endpoint (verified by probing IDs 12, 14, 16, 1763, 1862 — all returned identical non-biotech results).
 
-### 2. LinkedIn MLE/DS watcher — every 2 hours, last 2h
-Hits LinkedIn's public guest endpoint for SF Bay Area roles posted in **the last 2 hours** across multiple search terms, dedupes by job ID, and sorts by recency. Output goes to `linkedin_jobs.json`, `linkedin_jobs.md`, and `linkedin_jobs.html`.
+### 2. LinkedIn MLE/DS watcher — hourly, last 1h
+Hits LinkedIn's public guest endpoint for SF Bay Area roles posted in **the last hour** across multiple search terms, dedupes by job ID, and sorts by recency. Output goes to `linkedin_jobs.json`, `linkedin_jobs.md`, and `linkedin_jobs.html`.
 
-Runs every 2 hours from **8am to 10pm Pacific time**. Cron is fixed in UTC; in PST (UTC-8) the schedule shifts to 7am–9pm PT — acceptable seasonal drift. Each run dedupes against the previous run so empty windows produce no new listings.
+Runs hourly at :17 PT (8am–8pm), driven externally by cron-job.org with the in-GH watchdog as backup. A block guard preserves the previous results when LinkedIn returns zero cards across every term (rate-limited run), so the dedupe baseline and dashboard column survive. Each run dedupes against the previous run so empty windows produce no new listings.
 
 > ⚠️ Uses the unauthenticated public guest endpoint only — **never** signs in with a user account and does not use LinkedIn cookies, tokens, or credentials.
 
@@ -40,6 +40,8 @@ A title is included if it contains any of (case-insensitive substring match):
 **Robotics / perception:** `robotics engineer`, `perception engineer`
 
 **Computational / informatics (biotech):** `computational scientist`, `computational biologist`, `bioinformatics scientist`, `bioinformatics engineer`, `cheminformatics`
+
+**Excluded seniority:** titles containing `staff`, `principal`, `distinguished`, or `founding` are dropped everywhere (mid-level focus). Single-word keywords are word-bounded, so `mle` can't match inside another word.
 
 ## Output Files
 
@@ -82,6 +84,8 @@ these from **Settings → Secrets and variables → Actions**:
 | `CANDIDATE_PROFILE` | Candidate profile text (kept out of the public repo) |
 | `CANDIDATE_RESUME` | Resume text (kept out of the public repo) |
 
+The agent reads the actual job description wherever a source allows it: direct page fetch for Greenhouse/Workday/Phenom/Lever/Ashby, LinkedIn via the public guest posting endpoint, and Indeed via the JD text the scraper saves into `indeed_jobs.json`. Each verdict's `jd` field records whether the description was read (`read`) or the role was judged from metadata alone (`metadata-only`). Verdicts scored metadata-only before JD wiring landed (June 2026) are kept as-is; re-scoring them all would cost roughly $2 in Haiku calls if ever wanted. Published verdict fields (`why`, `flags`, `seniority_fit`, `outreach_opener`) are written to describe the role and general fit only — never the candidate's name, employers, or resume specifics (enforced by an eval case whose forbidden tokens are derived at runtime from the secret profile).
+
 ### Run manually
 
 From the **Actions** tab:
@@ -103,18 +107,25 @@ Biotech and LinkedIn pipelines use only the standard library. The Indeed pipelin
 
 ```
 ├── scrape_jobs.py                  # All scraping logic
+├── triage_agent.py                 # Nightly fit-scoring agent (Claude API / claude CLI)
+├── eval_triage.py                  # Golden-case evals for the triage agent
 ├── requirements.txt                # python-jobspy (Indeed only; LinkedIn/biotech are stdlib)
-├── jobs.{json,md,html}             # Curated biotech sweep output
-├── linkedin_jobs.{json,md,html}    # LinkedIn last-2h output
-├── indeed_jobs.{json,md,html}      # Indeed last-2h output
-├── triage.html                     # Interactive dashboard (fetches the 3 JSONs at view time)
+├── jobs.{json,md,html}             # Curated biotech sweep output (last 24h)
+├── linkedin_jobs.{json,md,html}    # LinkedIn watcher output (last 1h)
+├── indeed_jobs.{json,md,html}      # Indeed watcher output (last 24h, includes JD text)
+├── all_jobs.json                   # Cumulative 14-day master (feeds triage + Rank tab)
+├── scores.json                     # Triage agent verdicts, keyed by job URL
+├── workflow_runs.jsonl             # Per-run job counts (scheduler observability)
+├── triage.html                     # Interactive dashboard (fetches the JSONs at view time)
 ├── checked_companies.json          # Legacy tracking file
 ├── deep-dive/                      # Notes / analysis
 └── .github/workflows/
-    ├── scrape_jobs.yml             # Daily 8pm PT — biotech LinkedIn (last 24h, allowlist)
-    ├── linkedin_watch.yml          # Hourly :17 PT — general LinkedIn (last 2h, cron-job.org-driven)
-    ├── indeed_watch.yml            # Hourly :47 PT — Indeed (last 2h, cron-job.org-driven)
-    └── linkedin_watch_backup.yml   # In-GH watchdog at :33 PT — re-dispatches missed runs
+    ├── scrape_jobs.yml             # Daily 8pm PT — biotech (direct ATS + LinkedIn allowlist)
+    ├── linkedin_watch.yml          # Hourly :17 PT — general LinkedIn (last 1h, cron-job.org-driven)
+    ├── indeed_watch.yml            # Hourly :47 PT — Indeed (last 24h, cron-job.org-driven)
+    ├── linkedin_watch_backup.yml   # In-GH watchdog at :33 PT — re-dispatches missed runs
+    ├── triage.yml                  # Nightly 09:00 UTC — scores new roles vs candidate profile
+    └── evals.yml                   # On push to scoring files — golden-case evals (must pass)
 ```
 
 ## ATS Endpoints Used

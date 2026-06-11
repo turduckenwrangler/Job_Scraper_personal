@@ -188,35 +188,6 @@ CASES = [
 # Runner
 # ---------------------------------------------------------------------------
 
-# Tech acronyms that are fine to publish — everything else in 4+ caps from the
-# profile/resume is treated as an org name (UCSF-style) and forbidden.
-_PUBLIC_ACRONYMS = {"DICOM", "JSON", "YAML", "HTML", "MLOPS", "CUDA", "REST"}
-
-
-def private_tokens(profile: str, resume: str) -> list[str]:
-    """Strings that must never appear in published verdict fields, derived at
-    runtime from the secret profile/resume so this public file holds no
-    literal names or employers."""
-    tokens: set[str] = set()
-    text = profile + "\n" + resume
-    # Candidate name: resume's "# Full Name" heading or the profile title line.
-    for pat in (r'^#\s*Candidate profile\s*[—-]+\s*(.+?)\s*$',
-                r'^#\s*([A-Z][A-Za-z.\' -]+?)\s*$'):
-        for m in re.finditer(pat, text, re.MULTILINE):
-            name = m.group(1).strip()
-            if 1 <= len(name.split()) <= 4 and "profile" not in name.lower():
-                tokens.add(name)
-                tokens.update(p for p in name.split() if len(p) > 2)
-    # Employers/schools: resume experience headings ("### Title — Employer (City)").
-    for m in re.finditer(r'^###\s+.*?—\s*(.+?)\s*\(', resume, re.MULTILINE):
-        tokens.add(m.group(1).strip())
-    # Org acronyms (4+ caps) minus common tech terms.
-    for acr in set(re.findall(r'\b[A-Z]{4,}\b', text)):
-        if acr not in _PUBLIC_ACRONYMS:
-            tokens.add(acr)
-    return sorted(tokens)
-
-
 def check(expect: dict, verdict: dict) -> list[str]:
     """Every violated expectation, as a human-readable reason ([] = pass)."""
     reasons = []
@@ -247,8 +218,10 @@ def check(expect: dict, verdict: dict) -> list[str]:
     return reasons
 
 
-def run_case(case: dict, call_model, static_prefix: str) -> tuple[dict | None, list[str]]:
-    """One model call through the production prompt path -> (verdict, failures)."""
+def run_case(case: dict, call_model, static_prefix: str,
+             redact_tokens: list[str]) -> tuple[dict | None, list[str]]:
+    """One model call through the production pipeline (prompt → parse →
+    redaction backstop) -> (verdict, failures)."""
     job = dict(case["job"], url=EVAL_URL.format(id=case["id"]))
     prompt = ta.build_job_prompt(job, case["jd"])
     try:
@@ -257,6 +230,7 @@ def run_case(case: dict, call_model, static_prefix: str) -> tuple[dict | None, l
         return None, [f"model call failed: {type(e).__name__}"]
     if verdict is None:
         return None, ["unparseable model output"]
+    ta.redact_private(verdict, redact_tokens)  # same backstop as production
     return verdict, check(case["expect"], verdict)
 
 
@@ -276,7 +250,7 @@ def main() -> int:
     static_prefix = ta.build_static_prefix(profile, resume)
 
     # Fill runtime-derived forbidden tokens (kept out of this public file).
-    tokens = private_tokens(profile, resume)
+    tokens = ta.private_tokens(profile, resume)
     for c in CASES:
         if c["expect"].get("forbid_tokens", "unset") is None:
             c["expect"]["forbid_tokens"] = tokens
@@ -295,7 +269,7 @@ def main() -> int:
         if args.runs > 1:
             print(f"--- run {run}/{args.runs} ---")
         for case in cases:
-            verdict, failures = run_case(case, call_model, static_prefix)
+            verdict, failures = run_case(case, call_model, static_prefix, tokens)
             score = f"{verdict['score']:>3}/100 {verdict['verdict']:<6}" if verdict \
                 else "  -        "
             if failures:

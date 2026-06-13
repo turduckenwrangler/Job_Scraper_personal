@@ -1,5 +1,5 @@
 # 🟦 Indeed — Environmental / Toxicology / Risk Roles (California)
-*Last updated: 2026-06-13 18:14 UTC*
+*Last updated: 2026-06-13 19:16 UTC*
 
 **0 new role(s)** since last run · 4 total in last 24h
 

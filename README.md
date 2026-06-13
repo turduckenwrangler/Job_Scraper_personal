@@ -1,139 +1,201 @@
-# 🧬 Bay Area MLE / DS Job Scraper
+# 🧪 Environmental / Toxicology Job Scraper — Dr. Scott Coffin
 
-Three GitHub Actions workflows that scrape **software engineering, ML/AI, data science, data engineering, platform/infra/security, and biotech informatics roles** in the SF Bay Area, commit the results to the repo, and surface them in the [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard.
+Three GitHub Actions pipelines that scrape **environmental toxicology, risk &
+exposure assessment, environmental health, water quality, microplastics/PFAS &
+emerging-contaminants, chemical safety / regulatory, and supporting data-science
+roles** across **California**, commit the results to this repo, and surface them
+in the [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard.
+
+> Originally built by [Ernesto Diaz](https://github.com/ernestod1998) as a Bay
+> Area ML-engineer scraper; retargeted here for Dr. Scott Coffin's field
+> (environmental/regulatory toxicology). See his profile at
+> [scottcoff.in](https://scottcoff.in).
 
 ## What It Does
 
-### 1. Biotech LinkedIn digest — daily at 8pm PT, last 24h
-Hits LinkedIn's public guest endpoint for SF Bay Area MLE/DS roles posted in the last 24 hours, then post-filters results to a **biotech company allowlist** derived from `CURATED_BIOTECHS` in `scrape_jobs.py` (10x Genomics, Twist, Maze, Freenome, Cytokinetics, Natera, Inceptive, Atomwise, Profluent, Eikon, Altos Labs, Arc Institute, Caribou, Octant, Genentech, Gilead). Add to that list to expand coverage.
+### 1. Priority-employer digest — daily, last 24h
+Hits LinkedIn's public guest endpoint for California env/tox roles posted in the
+last 24 hours, then post-filters to a **priority-employer allowlist** derived
+from `BIOTECH_COMPANY_NAMES` in `scrape_jobs.py` — environmental/tox consulting
+firms (Ramboll, Exponent, Gradient, ToxStrategies, Tetra Tech, ICF, Integral,
+Geosyntec…), research institutes & NGOs (SCCWRP, SFEI, Silent Spring, EDF, NRDC,
+EWG, Health Effects Institute, RTI, Battelle…), agencies (US EPA, CalEPA/OEHHA,
+State Water Board, CARB, DTSC, NIEHS…), water utilities, universities, and
+product-safety teams in industry. Add to that list to expand coverage.
 
-Output goes to `jobs.json`, `jobs.md`, and `jobs.html`. Each run dedupes against the previously-committed `jobs.json` so the output surfaces only postings new since the last run.
+Output goes to `jobs.json`, `jobs.md`, and `jobs.html`. Each run dedupes against
+the previously-committed `jobs.json`, so the output surfaces only postings new
+since the last run.
 
-> Why allowlist instead of LinkedIn's industry filter? The `f_I` industry parameter is silently ignored on the public guest endpoint (verified by probing IDs 12, 14, 16, 1763, 1862 — all returned identical non-biotech results).
+> A direct-ATS probe path (`CURATED_BIOTECHS`) also exists but is **empty by
+> default** — environmental/tox employers overwhelmingly use iCIMS/Taleo/
+> SuccessFactors rather than the public Greenhouse/Workday JSON endpoints the
+> original biotech version relied on. The LinkedIn + Indeed keyword watchers
+> (which need no employer slug) are the primary sources.
 
-### 2. LinkedIn MLE/DS watcher — hourly, last 1h
-Hits LinkedIn's public guest endpoint for SF Bay Area roles posted in **the last hour** across multiple search terms, dedupes by job ID, and sorts by recency. Output goes to `linkedin_jobs.json`, `linkedin_jobs.md`, and `linkedin_jobs.html`.
+### 2. LinkedIn watcher — hourly, last 1h
+Hits LinkedIn's public guest endpoint for **California** roles posted in the last
+hour across the env/tox search terms, dedupes by job ID, and sorts by recency.
+Output goes to `linkedin_jobs.json`, `linkedin_jobs.md`, and `linkedin_jobs.html`.
 
-Runs hourly at :17 PT (8am–8pm), driven externally by cron-job.org with the in-GH watchdog as backup. A block guard preserves the previous results when LinkedIn returns zero cards across every term (rate-limited run), so the dedupe baseline and dashboard column survive. Each run dedupes against the previous run so empty windows produce no new listings.
+Runs hourly at :17 PT (8am–8pm) via native GitHub cron, with the in-repo
+watchdog (`linkedin_watch_backup.yml` at :33) re-dispatching missed slots. A
+block guard preserves the previous results when LinkedIn returns zero cards
+across every term (rate-limited run).
 
-> ⚠️ Uses the unauthenticated public guest endpoint only — **never** signs in with a user account and does not use LinkedIn cookies, tokens, or credentials.
+> ⚠️ Uses the unauthenticated public guest endpoint only — **never** signs in
+> with a user account and does not use LinkedIn cookies, tokens, or credentials.
 
-### 3. Indeed MLE/DS watcher — every 1h, last 24h
-Uses [`python-jobspy`](https://pypi.org/project/python-jobspy/) (Indeed's public RSS and Publisher API were both deprecated in 2026; the site sits behind Cloudflare's top-tier bot product, so stdlib `urllib` is blocked at the edge). JobSpy uses Indeed's mobile-app API internally — no proxies required, no documented rate limit. Output goes to `indeed_jobs.json`, `indeed_jobs.md`, and `indeed_jobs.html`, deduped against the previous run.
-
-Scheduled externally by cron-job.org at :47 PT, offset from the LinkedIn :17 slot to reduce contention on the shared commit-push concurrency group.
+### 3. Indeed watcher — hourly, last 24h
+Uses [`python-jobspy`](https://pypi.org/project/python-jobspy/) (Indeed's RSS and
+Publisher API were deprecated in 2026 and the site sits behind Cloudflare;
+JobSpy uses Indeed's mobile-app API internally). Searches California. Output goes
+to `indeed_jobs.json`, `indeed_jobs.md`, and `indeed_jobs.html`, deduped against
+the previous run. Runs at :47 PT, offset from LinkedIn's :17 slot.
 
 ## Keywords Matched
 
-A title is included if it contains any of (case-insensitive substring match):
+A title is included if it contains any of these (case-insensitive). Multi-word
+phrases match as substrings; single tokens are word-bounded (so list full words).
+Full list lives in `KEYWORDS` in `scrape_jobs.py`:
 
-**ML / AI:** `machine learning engineer`, `ml engineer`, `mle`, `machine learning infra`, `ml platform`, `ai platform`, `ai engineer`, `ai/ml engineer`, `mlops`, `research engineer`, `llm engineer`, `generative ai`, `genai engineer`, `prompt engineer`, `deep learning`, `reinforcement learning`, `computer vision`, `nlp engineer`
+**Toxicology:** `toxicologist`, `toxicology`, `ecotoxicologist`, `environmental
+toxicolog`, `regulatory toxicolog`, `computational toxicolog`, `aquatic
+toxicolog`, `research toxicolog`
 
-**Applied / scientist:** `applied scientist`, `ai scientist`, `ml scientist`, `data scientist`, `data science`
+**Risk / exposure / hazard:** `risk assess`, `risk assessor`, `human health
+risk`, `ecological risk`, `exposure scien`, `exposure assess`, `hazard assess`,
+`dose-response`, `pharmacokinetic`, `toxicokinetic`
 
-**Software engineering:** `software engineer`, `software developer`, `backend engineer`, `back-end engineer`, `backend developer`, `frontend engineer`, `front-end engineer`, `frontend developer`, `full stack engineer`, `full-stack engineer`, `fullstack engineer`, `mobile engineer`, `ios engineer`, `android engineer`
+**Environmental science / health / chemistry:** `environmental scien`,
+`environmental health`, `environmental chemist`, `environmental engineer`,
+`environmental epidemiolog`, `public health`, `epidemiologist`
 
-**Platform / infra / ops:** `platform engineer`, `infrastructure engineer`, `infra engineer`, `systems engineer`, `distributed systems`, `cloud engineer`, `devops engineer`, `devops`, `site reliability engineer`, `security engineer`
+**Water / contaminants:** `water quality`, `water resources`, `drinking water`,
+`microplastic`, `nanoplastic`, `pfas`, `emerging contaminant`, `contaminant`,
+`pollution`, `remediation`
 
-**Data engineering:** `data engineer`, `data engineering`, `analytics engineer`, `data platform`, `data infrastructure`, `etl engineer`, `etl developer`
+**Chemical safety / regulatory / stewardship:** `chemical safety`, `product
+steward`, `regulatory scien`, `regulatory affairs`, `chemical regulatory`
 
-**Robotics / perception:** `robotics engineer`, `perception engineer`
+**Ecology / sustainability / data / policy / academia:** `ecologist`,
+`sustainability scien`, `research scientist`, `senior scientist`, `principal
+scientist`, `health scientist`, `science director`, `data scientist`, `science
+policy`, `professor`, `faculty`
 
-**Computational / informatics (biotech):** `computational scientist`, `computational biologist`, `bioinformatics scientist`, `bioinformatics engineer`, `cheminformatics`
+**Excluded (junior / not worth a senior scientist's time):** titles containing
+`intern`, `internship`, `co-op`, `trainee`, `apprentice`, `technician`,
+`research/lab/teaching assistant`, `undergraduate`, `postdoc`, `work-study`,
+`volunteer`, or `fellowship` are dropped everywhere. (Unlike the original, which
+dropped *senior* titles — Dr. Coffin is a senior IC, so senior/principal/lead/
+director roles are **kept**.)
 
-**Excluded seniority:** titles containing `staff`, `principal`, `distinguished`, `founding`, `director`, `vice president`, `vp`/`svp`, `chief`, or `head of` are dropped everywhere (mid-level IC focus). Single-word keywords are word-bounded, so `mle` can't match inside another word.
+## Geographic Scope
+
+- **LinkedIn** searches California statewide (`geoId=102095887`). Swap to
+  `103644278` for the whole US, or a metro geoId to narrow.
+- **Indeed** searches `location="California"`. Narrow to `"Sacramento, CA"` with
+  `distance=50` to focus on the home region.
+- The curated/legacy ATS path filters with `is_target_location()` /
+  `TARGET_LOCATIONS` (Sacramento region + Bay Area + SoCal + Central Coast +
+  remote).
 
 ## Output Files
 
 | File | Source | Description |
 |---|---|---|
-| `jobs.json` / `.md` / `.html` | Biotech LinkedIn digest | Allowlisted biotech-company roles in the last 24h, deduped against the previous run |
-| `linkedin_jobs.json` / `.md` / `.html` | LinkedIn watcher | Roles posted in the last 2h, deduped against the previous run |
-| `indeed_jobs.json` / `.md` / `.html` | Indeed watcher | Indeed-sourced roles posted in the last 24h, deduped against the previous run |
-| `checked_companies.json` | (legacy) | Tracking file from earlier Wikipedia-based discovery |
-
-The `.html` files are styled standalone digests; the `.md` files render nicely on GitHub. (Both are committed for history/browsing; the `triage.html` dashboard reads the `.json` files directly.)
-
-Both workflows keep a GitHub history of generated digests: result files are committed when changed, and each scheduled workflow still runs `git push`.
+| `jobs.json` / `.md` / `.html` | Priority-employer digest | Allowlisted env/tox employer roles, last 24h, deduped against the previous run |
+| `linkedin_jobs.json` / `.md` / `.html` | LinkedIn watcher | California roles posted in the last 1h, deduped |
+| `indeed_jobs.json` / `.md` / `.html` | Indeed watcher | Indeed-sourced California roles, last 24h, deduped |
+| `all_jobs.json` | accumulator | Cumulative 14-day master (feeds the dashboard + triage) |
+| `scores.json` | triage agent | Optional fit verdicts keyed by job URL |
 
 ### Interactive triage dashboard — `triage.html`
 
-A single-file dashboard hosted on GitHub Pages that merges all three latest source JSONs into one filterable cockpit: search, role/seniority/source filters, save/applied/dismiss buttons persisted in localStorage, top-companies + role-mix charts, and an "export saved as Claude prompt" action.
+A single-file dashboard hosted on GitHub Pages that merges the latest source
+JSONs into one filterable cockpit: search; source / role / seniority filters
+(roles classified as Toxicology, Risk/Exposure, Water, Contaminants,
+Environmental Health, Environmental Science, Policy/Regulatory, Data Science,
+Academic); save / applied / dismiss buttons persisted in localStorage; top-
+companies and role-mix charts; and an "export saved as Claude prompt" action.
 
-**View it:** [`https://ernestod1998.github.io/Job_Scraper/triage.html`](https://ernestod1998.github.io/Job_Scraper/triage.html)
+**View it (after enabling Pages — see Deployment):**
+`https://scottcoffin.github.io/Job_Scraper/triage.html`
 
-The dashboard fetches `jobs.json` / `linkedin_jobs.json` / `indeed_jobs.json` from the same repo at view time, so it always reflects the latest committed scrape. Refresh in the browser to see new data after a cron fire (Pages serves with ~1–2 min lag after each push). No bake-on-cron step in the scraper — `triage.html` is committed once and never modified by automation.
-
-To run locally (e.g. to edit the dashboard UI):
+The dashboard fetches the JSON files from the same repo at view time, so it
+always reflects the latest committed scrape. To run locally:
 ```bash
-python3 -m http.server 8000
+python -m http.server 8000
 # then visit http://localhost:8000/triage.html
 ```
-Opening from `file://` won't work — the dashboard needs same-origin HTTP to `fetch()` the source JSONs.
+Opening from `file://` won't work — the dashboard needs same-origin HTTP to
+`fetch()` the source JSONs.
 
 ## Setup
 
-### Triage secrets (for the nightly fit-scoring agent)
-
-The scraper workflows need no secrets. The nightly triage workflow (`triage.yml`) reads
-these from **Settings → Secrets and variables → Actions**:
-
-| Secret | Value |
-|---|---|
-| `ANTHROPIC_API_KEY` | Anthropic API key used by `triage_agent.py` |
-| `CANDIDATE_PROFILE` | Candidate profile text (kept out of the public repo) |
-| `CANDIDATE_RESUME` | Resume text (kept out of the public repo) |
-
-The agent reads the actual job description wherever a source allows it: direct page fetch for Greenhouse/Workday/Phenom/Lever/Ashby, LinkedIn via the public guest posting endpoint, and Indeed via the JD text the scraper saves into `indeed_jobs.json`. Each verdict's `jd` field records whether the description was read (`read`) or the role was judged from metadata alone (`metadata-only`). Verdicts scored metadata-only before JD wiring landed (June 2026) are kept as-is; re-scoring them all would cost roughly $2 in Haiku calls if ever wanted. Published verdict fields (`why`, `flags`, `seniority_fit`, `outreach_opener`) are written to describe the role and general fit only — never the candidate's name, employers, or resume specifics (enforced by an eval case whose forbidden tokens are derived at runtime from the secret profile).
-
 ### Run manually
 
-From the **Actions** tab:
-- *Biotech MLE Job Scraper* → Run workflow (biotech LinkedIn, last 24h)
-- *LinkedIn MLE/DS Watcher* → Run workflow (general LinkedIn, last 2h)
-- *Indeed MLE/DS Watcher* → Run workflow (Indeed via python-jobspy, last 24h)
+From the **Actions** tab → Run workflow:
+- *Priority Employers Digest* → priority-employer LinkedIn allowlist, last 24h
+- *LinkedIn Env/Tox Watcher* → general California LinkedIn, last 1h
+- *Indeed Env/Tox Watcher* → California Indeed via python-jobspy, last 24h
 
 Or locally:
 ```bash
-python scrape_jobs.py --biotech-only   # biotech LinkedIn, last 24h, allowlist-filtered
-python scrape_jobs.py --linkedin-only  # general MLE/DS LinkedIn, last 2h
-python scrape_jobs.py --indeed-only    # general MLE/DS Indeed, last 24h (requires python-jobspy)
-python scrape_jobs.py                  # legacy curated Greenhouse/Workday/Phenom sweep
+python scrape_jobs.py --biotech-only   # priority-employer digest (allowlist)
+python scrape_jobs.py --linkedin-only  # general env/tox LinkedIn, last 1h
+python scrape_jobs.py --indeed-only     # general env/tox Indeed, last 24h
 ```
+The LinkedIn/priority pipelines use only the standard library. Indeed requires
+`pip install -r requirements.txt` (single dep: `python-jobspy`).
 
-Biotech and LinkedIn pipelines use only the standard library. The Indeed pipeline requires `pip install -r requirements.txt` (single dep: `python-jobspy`).
+### Optional: nightly fit-scoring agent (`triage.yml`)
+
+`triage_agent.py` scores each new role against your profile with the Claude API.
+It is **optional** and needs three repo secrets (**Settings → Secrets and
+variables → Actions**):
+
+| Secret | Value |
+|---|---|
+| `ANTHROPIC_API_KEY` | Anthropic API key |
+| `CANDIDATE_PROFILE` | Short profile text (your background/targets — kept out of the public repo) |
+| `CANDIDATE_RESUME` | Resume / CV text (kept out of the public repo) |
+
+Paste your CV text into `CANDIDATE_RESUME`. Without these secrets, leave
+`triage.yml` and `evals.yml` disabled (Actions → ⋯ → Disable workflow) — the
+scrapers and dashboard work fully without them; `scores.json` is optional.
+
+> Note: `eval_triage.py` still contains the original ML-candidate golden cases.
+> They only matter if you run the triage agent; rewrite them for your domain (or
+> keep `evals.yml` disabled) once you've finalized your profile.
 
 ## Repo Structure
 
 ```
-├── scrape_jobs.py                  # All scraping logic
-├── triage_agent.py                 # Nightly fit-scoring agent (Claude API / claude CLI)
-├── eval_triage.py                  # Golden-case evals for the triage agent
-├── requirements.txt                # python-jobspy (Indeed only; LinkedIn/biotech are stdlib)
-├── jobs.{json,md,html}             # Curated biotech sweep output (last 24h)
-├── linkedin_jobs.{json,md,html}    # LinkedIn watcher output (last 1h)
-├── indeed_jobs.{json,md,html}      # Indeed watcher output (last 24h, includes JD text)
-├── all_jobs.json                   # Cumulative 14-day master (feeds triage + Rank tab)
-├── scores.json                     # Triage agent verdicts, keyed by job URL
-├── workflow_runs.jsonl             # Per-run job counts (scheduler observability)
-├── triage.html                     # Interactive dashboard (fetches the JSONs at view time)
-├── checked_companies.json          # Legacy tracking file
-├── deep-dive/                      # Notes / analysis
+├── scrape_jobs.py                  # All scraping logic + KEYWORDS / search terms / allowlist
+├── triage_agent.py                 # Optional nightly fit-scoring agent (Claude API)
+├── eval_triage.py                  # Golden-case evals for the triage agent (legacy ML cases)
+├── requirements.txt                # python-jobspy (Indeed only)
+├── jobs.{json,md,html}             # Priority-employer digest (last 24h)
+├── linkedin_jobs.{json,md,html}    # LinkedIn watcher (last 1h)
+├── indeed_jobs.{json,md,html}      # Indeed watcher (last 24h)
+├── all_jobs.json                   # Cumulative 14-day master
+├── scores.json                     # Triage verdicts (optional)
+├── triage.html                     # Interactive dashboard
 └── .github/workflows/
-    ├── scrape_jobs.yml             # Daily 8pm PT — biotech (direct ATS + LinkedIn allowlist)
-    ├── linkedin_watch.yml          # Hourly :17 PT — general LinkedIn (last 1h, cron-job.org-driven)
-    ├── indeed_watch.yml            # Hourly :47 PT — Indeed (last 24h, cron-job.org-driven)
-    ├── linkedin_watch_backup.yml   # In-GH watchdog at :33 PT — re-dispatches missed runs
-    ├── triage.yml                  # Nightly 09:00 UTC — scores new roles vs candidate profile
-    └── evals.yml                   # On push to scoring files — golden-case evals (must pass)
+    ├── scrape_jobs.yml             # Daily — priority-employer digest
+    ├── linkedin_watch.yml          # Hourly :17 PT — general LinkedIn (last 1h)
+    ├── indeed_watch.yml            # Hourly :47 PT — Indeed (last 24h)
+    ├── linkedin_watch_backup.yml   # Watchdog :33 PT — re-dispatches missed runs
+    ├── triage.yml                  # Nightly — optional fit scoring (needs secrets)
+    └── evals.yml                   # Triage-agent evals (optional)
 ```
 
-## ATS Endpoints Used
+## Tuning the search
 
-| ATS | Endpoint |
-|---|---|
-| Greenhouse | `https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true` |
-| Workday | `https://{tenant}.wd1.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs` (POST) |
-| Phenom (Genentech) | `https://careers.gene.com/us/en/search-results` (HTML + JSON-LD) |
-| LinkedIn | `https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search` (public guest) |
-| Indeed | `python-jobspy` library (mobile-app API; no public endpoint since 2026 deprecation) |
+Everything you'd adjust lives near the top of `scrape_jobs.py`:
+- `KEYWORDS` — title match terms.
+- `EXCLUDED_SENIORITY_RE` — junior/student titles to drop.
+- `LINKEDIN_SEARCH_TERMS` / `WORKDAY_SEARCH_TERMS` — queries sent to the boards.
+- `BIOTECH_COMPANY_NAMES` — the priority-employer allowlist (for `jobs.json`).
+- `TARGET_LOCATIONS` + the LinkedIn `geoId` + the Indeed `location`.

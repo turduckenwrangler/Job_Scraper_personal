@@ -1,9 +1,16 @@
 """
-Bay Area MLE/DS Job Scraper
-Three pipelines (see __main__): LinkedIn guest-endpoint watcher, Indeed via
-python-jobspy, and a curated-biotech sweep (direct Greenhouse/Workday probes +
-allowlist-filtered LinkedIn). Each writes {basename}.{json,md,html} digests and
-accumulates into all_jobs.json for the nightly triage agent and the dashboard.
+Environmental / Toxicology Job Scraper — tailored for Dr. Scott Coffin
+(environmental toxicology, risk assessment, exposure science, water quality,
+microplastics/PFAS, and supporting data science), California-wide.
+
+Three pipelines (see __main__): a LinkedIn guest-endpoint watcher, Indeed via
+python-jobspy, and a priority-employer sweep (allowlist-filtered LinkedIn +
+optional direct Greenhouse/Workday probes). Each writes {basename}.{json,md,html}
+digests and accumulates into all_jobs.json for the dashboard and triage agent.
+
+Tune the search by editing KEYWORDS, LINKEDIN_SEARCH_TERMS,
+BIOTECH_COMPANY_NAMES (the priority-employer allowlist), TARGET_LOCATIONS, and
+the LinkedIn geoId / Indeed location.
 """
 
 import json
@@ -25,44 +32,55 @@ HEADERS = {
     )
 }
 
+# Title keywords for Dr. Scott Coffin — environmental/regulatory toxicology,
+# risk assessment, exposure science, water quality, and the data-science work
+# that supports it. A title matches if it contains any of these (case-
+# insensitive). Multi-word phrases match as substrings ("risk assess" hits
+# "Risk Assessor" and "Risk Assessment Scientist"); single tokens are word-
+# bounded, so list FULL words ("toxicologist", not the stem "toxicolog").
 KEYWORDS = [
-    # ---- ML / AI ----
-    "machine learning engineer", "ml engineer", "mle",
-    "machine learning infra", "ml platform", "ai platform",
-    "ai engineer", "ai/ml engineer",
-    "mlops", "research engineer",
-    "llm engineer", "generative ai", "genai engineer", "prompt engineer",
-    "deep learning", "reinforcement learning",
-    "computer vision", "nlp engineer",
-    # ---- Applied / AI / ML scientist ----
-    "applied scientist", "ai scientist", "ml scientist",
-    # ---- Data science ----
+    # ---- Toxicology ----
+    "toxicologist", "toxicology",
+    "ecotoxicologist", "ecotoxicology", "ecotoxicolog",
+    "environmental toxicolog", "regulatory toxicolog",
+    "computational toxicolog", "predictive toxicolog",
+    "aquatic toxicolog", "wildlife toxicolog", "research toxicolog",
+    # ---- Risk / exposure / hazard assessment ----
+    "risk assess", "risk assessor", "human health risk",
+    "ecological risk", "exposure scien", "exposure assess",
+    "exposure modeling", "hazard assess", "hazard identification",
+    "dose-response", "pharmacokinetic", "toxicokinetic",
+    # ---- Environmental science / health / chemistry ----
+    "environmental scien", "environmental health",
+    "environmental chemist", "environmental chemistry",
+    "environmental specialist", "environmental analyst",
+    "environmental engineer", "environmental epidemiolog",
+    "environmental data",
+    "public health", "epidemiologist", "epidemiology",
+    # ---- Water / contaminants ----
+    "water quality", "water resources", "drinking water",
+    "watershed", "marine scien", "aquatic scien", "limnolog",
+    "microplastic", "microplastics", "nanoplastic",
+    "pfas", "emerging contaminant", "contaminant",
+    "pollution", "remediation",
+    # ---- Chemical safety / product stewardship / regulatory ----
+    "chemical safety", "product steward", "regulatory scien",
+    "regulatory affairs", "regulatory toxicolog", "chemical regulatory",
+    "registration manager", "reach", "chemical assessor",
+    # ---- Ecology / sustainability ----
+    "ecologist", "ecology", "sustainability scien", "sustainability scientist",
+    "conservation scien",
+    # ---- Scientist / research titles (senior IC + leadership) ----
+    "research scientist", "research associate", "research toxicolog",
+    "staff scientist", "senior scientist", "principal scientist",
+    "lead scientist", "health scientist", "health science",
+    "scientific advisor", "scientific director", "science director",
+    "research director", "director of science",
+    # ---- Data science (his R / ML / Shiny skill set) ----
     "data scientist", "data science",
-    # ---- Software engineering (broad) ----
-    "software engineer", "software developer",
-    "backend engineer", "back-end engineer", "backend developer",
-    "frontend engineer", "front-end engineer", "frontend developer",
-    "full stack engineer", "full-stack engineer", "fullstack engineer",
-    "mobile engineer", "ios engineer", "android engineer",
-    # ---- Platform / infra / ops ----
-    "platform engineer",
-    "infrastructure engineer", "infra engineer",
-    "systems engineer", "distributed systems",
-    "cloud engineer",
-    "devops engineer", "devops",
-    "site reliability engineer",
-    "security engineer",
-    # ---- Data engineering ----
-    "data engineer", "data engineering",
-    "analytics engineer",
-    "data platform", "data infrastructure",
-    "etl engineer", "etl developer",
-    # ---- Robotics / perception ----
-    "robotics engineer", "perception engineer",
-    # ---- Computational / informatics (biotech) ----
-    "computational scientist", "computational biologist",
-    "bioinformatics scientist", "bioinformatics engineer",
-    "cheminformatics",
+    # ---- Science policy / academia ----
+    "science policy", "policy advisor", "policy analyst",
+    "professor", "faculty",
 ]
 
 # Seconds to wait between API probes — keeps us polite
@@ -71,11 +89,14 @@ REQUEST_DELAY = 0.3
 # Biotech digest should only contain reliably fresh roles.
 FRESH_JOB_LOOKBACK = timedelta(hours=24)
 
-# Senior-track and executive titles are excluded everywhere: the candidate
-# targets early-to-mid IC roles. Covers IC senior tracks (staff/principal/
-# distinguished/founding) and management/exec tiers (director/VP/chief/head of).
+# Dr. Coffin is a senior scientist (PhD, Research Scientist IV, h-index 22), so
+# unlike the original (which dropped senior titles), we KEEP senior/principal/
+# lead/director roles and exclude only clearly junior / student / trainee
+# postings that aren't worth his time. Postdoc is excluded — he's well past it.
 EXCLUDED_SENIORITY_RE = re.compile(
-    r'\b(staff|principal|distinguished|founding|director|vice president|s?vp|chief|head of)\b',
+    r'\b(intern|interns|internship|co-?op|trainee|apprentice|'
+    r'technician|research assistant|lab assistant|teaching assistant|'
+    r'undergraduate|postdoc|postdoctoral|work-study|volunteer|fellowship)\b',
     re.IGNORECASE)
 
 # Multi-word phrases keep substring semantics; single-word keywords ("mle",
@@ -104,32 +125,42 @@ def fetch(url):
 
 
 def is_mle_role(title: str) -> bool:
+    """True if a job title is on-target for Dr. Coffin (env/tox/risk/etc.) and
+    not a junior/student posting. (Name kept for compatibility with the
+    original pipeline; it now gates environmental-toxicology titles.)"""
     if EXCLUDED_SENIORITY_RE.search(title):
         return False
     return bool(_KEYWORD_RE.search(title))
 
 
-BAY_AREA_LOCATIONS = [
-    "bay area",
-    "san francisco", "south san francisco", "daly city",
-    "oakland", "berkeley", "alameda", "emeryville", "richmond",
-    "palo alto", "mountain view", "menlo park", "sunnyvale",
-    "santa clara", "san jose", "cupertino", "los altos", "los gatos",
-    "san mateo", "foster city", "redwood city", "brisbane", "millbrae",
-    "san bruno", "burlingame", "belmont",
-    "fremont", "hayward", "union city", "newark", "milpitas",
-    "concord", "walnut creek", "pleasanton", "dublin", "san ramon",
-    "danville", "livermore",
-    "novato", "san rafael", "mill valley", "sausalito",
-    "vacaville",
+# Geographic scope for the curated/legacy ATS path. Dr. Coffin is Sacramento-
+# based (CalEPA / OEHHA) but environmental-toxicology roles are sparse, so the
+# net is California-wide plus remote. (The LinkedIn and Indeed watchers geo-
+# filter at the API level — see _linkedin_search() and scrape_indeed_recent().)
+TARGET_LOCATIONS = [
+    "california", ", ca", "remote", "hybrid",
+    # Sacramento region (home base)
+    "sacramento", "davis", "west sacramento", "rancho cordova", "elk grove",
+    "roseville", "folsom", "woodland",
+    # SF Bay Area
+    "bay area", "san francisco", "south san francisco", "oakland", "berkeley",
+    "emeryville", "richmond", "palo alto", "mountain view", "menlo park",
+    "sunnyvale", "santa clara", "san jose", "san mateo", "redwood city",
+    "fremont", "hayward", "concord", "walnut creek", "pleasanton", "livermore",
+    "novato", "san rafael", "vacaville",
+    # Southern California (his PhD / collaborator base)
+    "los angeles", "long beach", "irvine", "costa mesa", "san diego",
+    "riverside", "pasadena", "santa monica", "torrance", "fountain valley",
+    # Central Coast / Valley
+    "santa barbara", "san luis obispo", "fresno", "monterey",
 ]
 
 
-def is_bay_area(location: str) -> bool:
+def is_target_location(location: str) -> bool:
     if not location:
         return False
     loc = location.lower()
-    return any(city in loc for city in BAY_AREA_LOCATIONS)
+    return any(place in loc for place in TARGET_LOCATIONS)
 
 
 def extract_location(job: dict) -> str:
@@ -214,27 +245,18 @@ def is_recent_posting(job: dict, *, now: datetime | None = None) -> bool:
 # Each entry must include: name, ats, fallback_location, and the ATS-specific id
 # - greenhouse: "slug" (used in boards-api.greenhouse.io/v1/boards/{slug}/jobs)
 # - workday:    "url"  (full /wday/cxs/{tenant}/{site}/jobs endpoint)
-CURATED_BIOTECHS = [
-    # ---- Greenhouse (confirmed via probes) ----
-    {"name": "10x Genomics",         "ats": "greenhouse", "slug": "10xgenomics",       "fallback_location": "Pleasanton, CA"},
-    {"name": "Twist Bioscience",     "ats": "greenhouse", "slug": "twistbioscience",   "fallback_location": "South San Francisco, CA"},
-    {"name": "Maze Therapeutics",    "ats": "greenhouse", "slug": "mazetherapeutics",  "fallback_location": "South San Francisco, CA"},
-    {"name": "Freenome",             "ats": "greenhouse", "slug": "freenome",          "fallback_location": "South San Francisco, CA"},
-    {"name": "Cytokinetics",         "ats": "greenhouse", "slug": "cytokinetics",      "fallback_location": "South San Francisco, CA"},
-    {"name": "Natera",               "ats": "greenhouse", "slug": "natera",            "fallback_location": "San Carlos, CA"},
-    {"name": "Inceptive",            "ats": "greenhouse", "slug": "inceptive",         "fallback_location": "Palo Alto, CA"},
-    {"name": "Atomwise",             "ats": "greenhouse", "slug": "atomwise",          "fallback_location": "San Francisco, CA"},
-    {"name": "Profluent",            "ats": "greenhouse", "slug": "profluent",         "fallback_location": "Berkeley, CA"},
-    {"name": "Eikon Therapeutics",   "ats": "greenhouse", "slug": "eikontherapeutics", "fallback_location": "South San Francisco, CA"},
-    {"name": "Altos Labs",           "ats": "greenhouse", "slug": "altoslabs",         "fallback_location": "Redwood City, CA"},
-    {"name": "Arc Institute",        "ats": "greenhouse", "slug": "arcinstitute",      "fallback_location": "Palo Alto, CA"},
-    {"name": "Caribou Biosciences",  "ats": "greenhouse", "slug": "caribou",           "fallback_location": "Berkeley, CA"},
-    {"name": "Octant Bio",           "ats": "greenhouse", "slug": "octantbio",         "fallback_location": "Emeryville, CA"},
-    # ---- Workday (confirmed) ----
-    {"name": "Gilead Sciences",      "ats": "workday",
-     "url": "https://gilead.wd1.myworkdayjobs.com/wday/cxs/gilead/gileadcareers/jobs",
-     "fallback_location": "Foster City, CA"},
-]
+#
+# NOTE: The original biotech employers were on public Greenhouse/Workday boards.
+# Environmental / toxicology employers (Ramboll, Exponent, ToxStrategies, Tetra
+# Tech, ICF, NGOs, etc.) overwhelmingly use iCIMS / Taleo / SuccessFactors,
+# which have no clean public JSON endpoint — so this direct-ATS path is left
+# EMPTY and the LinkedIn + Indeed keyword watchers (which need no slug) are the
+# primary sources. To add a verified board here, confirm it returns JSON first:
+#   curl https://boards-api.greenhouse.io/v1/boards/<slug>/jobs   # Greenhouse
+# then add e.g.:
+#   {"name": "Example Env Co", "ats": "greenhouse", "slug": "examplenv",
+#    "fallback_location": "Sacramento, CA"},
+CURATED_BIOTECHS: list[dict] = []
 
 
 def probe_curated_greenhouse(entry: dict) -> list:
@@ -265,12 +287,12 @@ def probe_curated_greenhouse(entry: dict) -> list:
 
 
 WORKDAY_SEARCH_TERMS = [
-    "machine learning",
-    "data scientist",
-    "applied scientist",
-    "computational biology",
-    "bioinformatics",
-    "AI engineer",
+    "toxicologist",
+    "environmental scientist",
+    "risk assessment",
+    "exposure scientist",
+    "research scientist",
+    "water quality",
 ]
 
 
@@ -324,7 +346,9 @@ def probe_curated_workday(entry: dict) -> list:
 
 
 def scrape_curated_biotechs() -> list:
-    print(f"🔬 Scraping {len(CURATED_BIOTECHS)} curated Bay Area biotechs...")
+    if not CURATED_BIOTECHS:
+        return []
+    print(f"🔬 Scraping {len(CURATED_BIOTECHS)} curated organizations (direct ATS)...")
     all_jobs: list = []
     for entry in CURATED_BIOTECHS:
         if entry["ats"] == "greenhouse":
@@ -401,69 +425,87 @@ def scrape_genentech():
 # ---------------------------------------------------------------------------
 
 LINKEDIN_SEARCH_TERMS = [
-    # ML / AI / DS
-    "machine learning engineer",
-    "data scientist",
-    "applied scientist",
-    "AI engineer",
-    "MLOps engineer",
-    # Software engineering
-    "software engineer",
-    "backend engineer",
-    "frontend engineer",
-    "full stack engineer",
-    "mobile engineer",
-    # Platform / infra / ops
-    "platform engineer",
-    "devops engineer",
-    "site reliability engineer",
-    "infrastructure engineer",
-    "security engineer",
-    # Data engineering
-    "data engineer",
-    "analytics engineer",
-    # Biotech / informatics
-    "computational biologist",
-    "bioinformatics",
-    "cheminformatics",
+    # Toxicology
+    "toxicologist",
+    "environmental toxicologist",
+    "ecotoxicologist",
+    "regulatory toxicologist",
+    "computational toxicology",
+    # Risk / exposure
+    "risk assessor",
+    "human health risk assessment",
+    "exposure scientist",
+    "ecological risk assessment",
+    # Environmental science / health / chemistry
+    "environmental scientist",
+    "environmental health scientist",
+    "environmental chemist",
+    "environmental epidemiologist",
+    # Water / contaminants
+    "water quality scientist",
+    "drinking water",
+    "microplastics",
+    "PFAS",
+    "emerging contaminants",
+    # Chemical safety / regulatory / stewardship
+    "product stewardship",
+    "chemical safety",
+    "regulatory affairs scientist",
+    # Research / leadership + data science
+    "research scientist",
+    "senior scientist",
+    "environmental data scientist",
+    # Policy
+    "science policy",
 ]
 
 LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — every-2h watcher only surfaces the freshest hour
 LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT digest
 
-# Biotech allowlist used by the LinkedIn-side filter. Broader than CURATED_BIOTECHS
-# (which only covers the 15 companies with direct Greenhouse/Workday probes) because
-# the public LinkedIn endpoint surfaces a wider universe of biotech employers.
-# Match is case-insensitive on alphanum-stripped names with bidirectional substring
-# matching, so "Genentech" matches "Genentech, Inc." and vice versa. Avoid names
-# shorter than ~6 chars to limit incidental substring collisions.
+# Priority-employer allowlist used by the LinkedIn-side filter to build the
+# daily "Priority Employers" digest (jobs.json). These are organizations whose
+# postings are worth surfacing on their own even on a quiet day: environmental
+# consulting, toxicology/risk firms, research institutes, NGOs, agencies, water
+# utilities, universities, and product-safety teams in industry. Match is case-
+# insensitive on alphanum-stripped names with bidirectional substring matching,
+# so "Ramboll" matches "Ramboll US Corporation". Keep names ~6+ chars to limit
+# incidental substring collisions (avoid bare acronyms like EPA/EWG/ERG/CARB).
 BIOTECH_COMPANY_NAMES = [
-    # Direct-scrape biotechs (kept aligned with CURATED_BIOTECHS)
-    "10x Genomics", "Twist Bioscience", "Maze Therapeutics", "Freenome",
-    "Cytokinetics", "Natera", "Inceptive", "Atomwise", "Profluent",
-    "Eikon Therapeutics", "Altos Labs", "Arc Institute", "Caribou Biosciences",
-    "Octant Bio", "Gilead Sciences",
-    # Big pharma / biotech with Bay Area MLE hiring
-    "Genentech", "AbbVie", "Amgen", "BioMarin", "Vertex Pharmaceuticals",
-    "Bristol Myers Squibb", "Regeneron", "Pfizer",
-    # Sequencing / genomics platforms
-    "Illumina", "Pacific Biosciences", "PacBio", "Element Biosciences",
-    "Ultima Genomics", "Singular Genomics",
-    # Clinical genomics / diagnostics
-    "GRAIL", "Guardant Health", "Invitae", "Color Health", "Tempus AI",
-    "Foundation Medicine", "Veracyte", "Personalis", "Karius",
-    "Adaptive Biotechnologies",
-    # ML-driven drug discovery
-    "Recursion Pharmaceuticals", "Insitro", "Schrodinger", "Schrödinger",
-    "Relay Therapeutics", "Generate Biomedicines", "Isomorphic Labs",
-    "AbCellera", "Iambic Therapeutics", "Lila Sciences",
-    # Cell / gene therapy
-    "Sana Biotechnology", "Allogene Therapeutics", "Cellares",
-    "Beam Therapeutics", "Editas Medicine", "Intellia Therapeutics",
-    "CRISPR Therapeutics",
-    # Bay Area biotech & life-sci research
-    "Verily Life Sciences", "Calico Life Sciences", "Synthego",
-    "Buck Institute", "Chan Zuckerberg Biohub", "Chan Zuckerberg Initiative",
+    # ---- Environmental / toxicology / risk consulting ----
+    "Ramboll", "Exponent", "Gradient", "ToxStrategies", "Cardno",
+    "Stantec", "Tetra Tech", "Tetratech", "ICF International",
+    "Abt Associates", "Abt Global", "Eastern Research Group",
+    "Integral Consulting", "Geosyntec", "Arcadis", "AECOM",
+    "Montrose Environmental", "Trinity Consultants", "GHD Group",
+    "Environmental Resources Management", "SLR Consulting",
+    "Wood Environment", "Sciome", "Cardno ChemRisk", "ChemRisk",
+    # ---- Research institutes / nonprofits / NGOs ----
+    "Southern California Coastal Water Research Project", "SCCWRP",
+    "San Francisco Estuary Institute", "Silent Spring Institute",
+    "Environmental Defense Fund", "Natural Resources Defense Council",
+    "Environmental Working Group", "Ocean Conservancy", "Pew Charitable Trusts",
+    "Health Effects Institute", "RTI International", "Battelle",
+    "Green Science Policy Institute", "Defend Our Health",
+    "Moore Institute", "Plastic Pollution Coalition", "5 Gyres",
+    "ChemForward", "Cadmus Group",
+    # ---- Government / agencies (as they appear on LinkedIn) ----
+    "Environmental Protection Agency", "California Environmental Protection",
+    "Office of Environmental Health Hazard", "State Water Resources Control",
+    "California Air Resources Board", "Department of Toxic Substances Control",
+    "National Institute of Environmental Health", "Geological Survey",
+    "Centers for Disease Control", "Food and Drug Administration",
+    "National Oceanic and Atmospheric",
+    # ---- Water utilities / districts ----
+    "East Bay Municipal Utility", "Metropolitan Water District",
+    "Orange County Water District", "San Francisco Public Utilities",
+    "Santa Clara Valley Water",
+    # ---- Universities (research-scientist / faculty) ----
+    "University of California", "Stanford University", "Oregon State University",
+    "Duke University", "San Diego State University", "Arizona State University",
+    # ---- Industry product-safety / stewardship / consumer & chemical ----
+    "Procter & Gamble", "Unilever", "Colgate-Palmolive", "Johnson & Johnson",
+    "Clorox", "Seventh Generation", "Patagonia", "Genentech", "Gilead Sciences",
+    "Corteva", "Syngenta", "Dow Chemical", "BASF Corporation",
 ]
 
 BIOTECH_COMPANY_ALLOWLIST = frozenset(
@@ -536,8 +578,11 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
             url = (
                 "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
                 f"?keywords={urllib.parse.quote(term)}"
-                "&location=San%20Francisco%20Bay%20Area"
-                "&geoId=90000084"
+                # California statewide (geoId 102095887). Toxicology roles are
+                # sparse, so we cast wider than one metro and let the dashboard
+                # filter. For nationwide/remote, swap to geoId 103644278 (US).
+                "&location=California%2C%20United%20States"
+                "&geoId=102095887"
                 f"&f_TPR=r{lookback_seconds}"
                 f"&start={start}"
             )
@@ -584,20 +629,20 @@ def scrape_linkedin_recent() -> list:
 
 def scrape_linkedin_biotech() -> list:
     """
-    Last 24h on LinkedIn, filtered to companies on the biotech allowlist.
-    LinkedIn's f_I industry filter is silently ignored on the public guest
-    endpoint, so we use general MLE/DS keywords + a company allowlist.
+    Last 24h on LinkedIn, filtered to the priority-employer allowlist (env/tox
+    consulting, research institutes, agencies, NGOs, universities, product
+    safety). LinkedIn's f_I industry filter is silently ignored on the public
+    guest endpoint, so we use the env/tox keyword terms + a company allowlist.
     """
-    print(f"🧬 Scraping LinkedIn biotech allowlist (last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h)...")
+    print(f"🏛  Scraping LinkedIn priority employers (last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h)...")
     raw, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_BIOTECH_LOOKBACK_SECONDS)
     if raw_cards == 0:
-        # Blocked run: contribute nothing rather than nuke the digest baseline;
-        # the direct ATS probes in --biotech-only still supply fresh roles.
+        # Blocked run: contribute nothing rather than nuke the digest baseline.
         print("  ⛔ LinkedIn returned 0 cards across all terms (likely blocked); "
               "skipping LinkedIn for this digest")
         return []
     jobs = [j for j in raw if _is_biotech_company(j["company"])]
-    print(f"  ✅ Biotech LinkedIn: {len(jobs)} role(s) (from {len(raw)} total)")
+    print(f"  ✅ Priority employers: {len(jobs)} role(s) (from {len(raw)} total)")
     return jobs
 
 
@@ -640,8 +685,10 @@ def scrape_indeed_recent() -> list:
             df = jobspy_scrape(
                 site_name=["indeed"],
                 search_term=term,
-                location="San Francisco, CA",
-                distance=50,
+                # California statewide — toxicology roles are sparse, so we keep
+                # the geo wide and let the dashboard filter. Narrow to e.g.
+                # "Sacramento, CA" with distance=50 to focus on the home region.
+                location="California",
                 results_wanted=50,
                 hours_old=INDEED_LOOKBACK_HOURS,
                 country_indeed="USA",
@@ -894,8 +941,8 @@ def save_linkedin_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="linkedin_jobs",
-        title="🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)",
-        subtitle=f"SF Bay Area · last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
+        title="🔥 LinkedIn — Environmental / Toxicology / Risk Roles (California)",
+        subtitle=f"California · last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
         accent="#3b82f6",
         empty_message="No new roles since the last run.",
         window_label=f"last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
@@ -906,8 +953,8 @@ def save_indeed_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="indeed_jobs",
-        title="🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)",
-        subtitle=f"SF Bay Area · last {INDEED_LOOKBACK_HOURS}h",
+        title="🟦 Indeed — Environmental / Toxicology / Risk Roles (California)",
+        subtitle=f"California · last {INDEED_LOOKBACK_HOURS}h",
         accent="#2557a7",
         empty_message="No new roles since the last run.",
         window_label=f"last {INDEED_LOOKBACK_HOURS}h",
@@ -918,10 +965,10 @@ def save_biotech_linkedin_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="jobs",
-        title="🧬 Biotech LinkedIn — MLE / DS Roles",
-        subtitle=f"SF Bay Area biotech allowlist · last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
+        title="🏛 Priority Employers — Environmental / Toxicology Roles",
+        subtitle=f"California priority-employer allowlist · last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
         accent="#2ea04f",
-        empty_message="No new biotech roles since the last run.",
+        empty_message="No new priority-employer roles since the last run.",
         window_label=f"last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
     )
 
@@ -990,7 +1037,7 @@ h1 {{ font-size: 22px; margin: 0 0 4px 0; }}
 <div class="subtitle">{subtitle}</div>
 <div class="summary"><strong>{len(jobs)}</strong> role(s) &nbsp;·&nbsp; scraped {timestamp}</div>
 {body}
-<div class="foot">Auto-generated by <a href="https://github.com/ernestod1998/Job_Scraper">Job_Scraper</a></div>
+<div class="foot">Auto-generated by <a href="https://github.com/ScottCoffin/Job_Scraper">Job_Scraper</a></div>
 </body></html>"""
 
 
@@ -1006,7 +1053,7 @@ def save_results(jobs: list):
         json.dump(output, f, indent=2)
 
     lines = [
-        "# 🧬 Fresh Biotech MLE Job Listings (SF Bay Area)",
+        "# 🏛 Fresh Environmental / Toxicology Job Listings (California)",
         f"*Last updated: {timestamp}*\n",
         f"**{len(jobs)} role(s) posted in the last 24 hours**\n",
     ]
@@ -1026,11 +1073,11 @@ def save_results(jobs: list):
 
     with open(os.path.join(SCRIPT_DIR, "jobs.html"), "w") as f:
         f.write(_render_jobs_html(
-            title="🧬 Fresh Biotech MLE Job Listings",
-            subtitle="SF Bay Area · posted in the last 24 hours",
+            title="🏛 Fresh Environmental / Toxicology Job Listings",
+            subtitle="California · posted in the last 24 hours",
             timestamp=timestamp,
             jobs=jobs,
-            empty_message="No biotech roles posted in the last 24 hours.",
+            empty_message="No environmental/toxicology roles posted in the last 24 hours.",
             accent="#2ea04f",
         ))
 
@@ -1051,15 +1098,14 @@ if __name__ == "__main__":
         sys.exit(0)
 
     if "--biotech-only" in sys.argv:
-        # Direct ATS gives a stable baseline (LinkedIn's 24h endpoint has been
-        # flaky on GH Actions runners — see workflow_runs.jsonl). LinkedIn is
-        # kept as a supplemental source for biotechs not in CURATED_BIOTECHS.
-        # Cross-run dedupe via _load_prev_ids → save_biotech_linkedin_results
-        # provides "new since last digest" semantics, so we skip the 24h
-        # freshness filter (ATS updated_at is unreliable for that anyway).
-        jobs = list(scrape_genentech())
-        jobs.extend(scrape_curated_biotechs())
-        jobs = [j for j in jobs if is_bay_area(j.get("location", ""))]
+        # "Priority Employers" digest (flag name kept so the GitHub workflow
+        # doesn't change). Source = the LinkedIn priority-employer allowlist,
+        # plus any verified direct-ATS boards added to CURATED_BIOTECHS (empty
+        # by default for env/tox employers — see that list's note). Cross-run
+        # dedupe via _load_prev_ids → save_biotech_linkedin_results gives
+        # "new since last digest" semantics.
+        jobs = list(scrape_curated_biotechs())
+        jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
         jobs.extend(scrape_linkedin_biotech())
 
         seen: set[tuple[str, str]] = set()
@@ -1070,21 +1116,19 @@ if __name__ == "__main__":
                 continue
             seen.add(key)
             deduped.append(j)
-        print(f"\n🧬 Combined biotech total: {len(deduped)} unique role(s) "
+        print(f"\n🏛  Combined priority-employer total: {len(deduped)} unique role(s) "
               f"(from {len(jobs)} across sources)")
 
         save_biotech_linkedin_results(deduped)
         sys.exit(0)
 
-    # Legacy default: curated Greenhouse/Workday/Phenom sweep. Returned 0 roles
-    # consistently because ATS updated_at dates rarely fall inside the 24h window.
-    # CI now uses --biotech-only; this branch is kept for ad-hoc local runs.
-    all_jobs = list(scrape_genentech())
-    all_jobs.extend(scrape_curated_biotechs())
+    # Legacy default: direct-ATS sweep (CURATED_BIOTECHS). Empty by default for
+    # env/tox employers, so this prints 0; CI uses the three --*-only flags.
+    all_jobs = list(scrape_curated_biotechs())
 
     before = len(all_jobs)
-    all_jobs = [j for j in all_jobs if is_bay_area(j.get("location", ""))]
-    print(f"\n📍 Bay Area filter: {before} → {len(all_jobs)} roles")
+    all_jobs = [j for j in all_jobs if is_target_location(j.get("location", ""))]
+    print(f"\n📍 Location filter (California): {before} → {len(all_jobs)} roles")
 
     before = len(all_jobs)
     all_jobs = [j for j in all_jobs if is_recent_posting(j)]

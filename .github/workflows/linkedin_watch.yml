@@ -1,10 +1,14 @@
-name: LinkedIn MLE/DS Watcher
+name: LinkedIn Env/Tox Watcher
 
 on:
-  # Scheduling is driven externally by cron-job.org (hourly at :17 PT, 8am-8pm).
-  # GH Actions cron was unreliable — losing 50%+ of scheduled fires under load.
-  # Watchdog workflow (linkedin_watch_backup.yml at :33) is the in-GH backup
-  # in case cron-job.org has an outage.
+  # Native GitHub cron, hourly at :17 during the active window (8am–8pm PT ≈
+  # 15:00–03:00 UTC). GH's scheduler occasionally skips a slot, so the watchdog
+  # (linkedin_watch_backup.yml at :33) re-dispatches as backup. For higher
+  # reliability you can also drive this externally via cron-job.org → the
+  # workflow_dispatch API; both triggers are safe to run together (dedupe + the
+  # commit-push concurrency group prevent collisions).
+  schedule:
+    - cron: "17 15-23,0-3 * * *"
   workflow_dispatch:
 
 concurrency:
@@ -55,8 +59,8 @@ jobs:
 
       - name: Commit results to repo
         run: |
-          git config user.name  "ernestod1998"
-          git config user.email "61074783+ernestod1998@users.noreply.github.com"
+          git config user.name  "ScottCoffin"
+          git config user.email "ScottCoffin@users.noreply.github.com"
           git add linkedin_jobs.json linkedin_jobs.md linkedin_jobs.html workflow_runs.jsonl all_jobs.json
           git diff --cached --quiet || git commit -m "chore: update linkedin listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
           git pull --rebase origin main

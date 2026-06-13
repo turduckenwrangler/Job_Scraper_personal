@@ -3,7 +3,7 @@
 An LLM agent that scores every newly-scraped role 0–100 against **your** profile and
 resume — reading the actual job description where the ATS allows it — and publishes the
 verdicts to `scores.json`, which powers the **★ Rank tab** and score badges in
-[`triage.html`](https://ernestod1998.github.io/Job_Scraper/triage.html).
+[`triage.html`](https://scottcoffin.github.io/Job_Scraper/triage.html).
 
 ## Why this is "an agent"
 

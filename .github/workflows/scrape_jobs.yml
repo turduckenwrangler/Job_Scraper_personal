@@ -1,4 +1,4 @@
-name: Biotech MLE Job Scraper
+name: Priority Employers Digest
 
 on:
   schedule:
@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   scrape:
-    name: Scrape MLE Job Listings
+    name: Scrape priority-employer listings
     runs-on: ubuntu-latest
 
     permissions:
@@ -29,7 +29,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run scraper (biotech LinkedIn, last 24h, allowlist-filtered)
+      - name: Run scraper (priority-employer LinkedIn, last 24h, allowlist-filtered)
         run: python scrape_jobs.py --biotech-only
 
       - name: Record workflow run
@@ -56,8 +56,8 @@ jobs:
 
       - name: Commit results to repo
         run: |
-          git config user.name  "ernestod1998"
-          git config user.email "61074783+ernestod1998@users.noreply.github.com"
+          git config user.name  "ScottCoffin"
+          git config user.email "ScottCoffin@users.noreply.github.com"
           git add jobs.json jobs.md jobs.html workflow_runs.jsonl all_jobs.json
           git diff --cached --quiet || git commit -m "chore: update job listings [$(date -u '+%Y-%m-%d')]"
           git pull --rebase origin main

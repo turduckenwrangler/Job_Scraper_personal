@@ -38,8 +38,9 @@ JD_FETCHABLE_ATS = {"Greenhouse", "Workday", "Phenom", "Lever", "Ashby"}
 MODEL_TIMEOUT = 120   # seconds per model call (CLI path)
 FETCH_TIMEOUT = 15    # seconds per JD fetch
 
-ROLE_FAMILIES = ("swe | ml-ai | data-science | data-eng | platform-infra | "
-                 "devops-sre | security | robotics | biotech-informatics | other")
+ROLE_FAMILIES = ("toxicology | risk-exposure-assessment | environmental-science | "
+                 "environmental-health-epi | water-quality | chemical-safety-regulatory | "
+                 "data-science | science-policy | academic | other")
 
 HEADERS = {
     "User-Agent": (

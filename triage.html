@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Job Triage — SF Bay Area</title>
+<title>Job Triage — Environmental / Toxicology (California)</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
@@ -19,7 +19,7 @@
     --muted: #9a9a9a;
     --line: #2a2424;
     --linkedin: #60a5fa;
-    --biotech: #34d399;
+    --priority: #34d399;
     --indeed: #a78bfa;
     --accent: #ef4444;
     --accent-soft: rgba(239,68,68,0.20);
@@ -111,7 +111,7 @@
     font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em;
     vertical-align: middle; margin-left: 6px; }
   .src.linkedin { background: rgba(96,165,250,0.14); color: var(--linkedin); }
-  .src.biotech { background: rgba(52,211,153,0.14); color: var(--biotech); }
+  .src.priority { background: rgba(52,211,153,0.14); color: var(--priority); }
   .src.indeed { background: rgba(167,139,250,0.14); color: var(--indeed); }
   .tag { display: inline-block; font-size: 10px; padding: 1px 7px; border-radius: 10px;
     background: var(--pill-bg); color: var(--muted); margin-right: 4px; }
@@ -211,7 +211,7 @@
 
 <header>
   <h1>Job Triage</h1>
-  <span class="sub" id="snapshot-line" aria-live="polite" aria-atomic="true">SF Bay Area · loading…</span>
+  <span class="sub" id="snapshot-line" aria-live="polite" aria-atomic="true">California · Environmental / Toxicology · loading…</span>
   <span class="grow"></span>
   <button type="button" class="iconbtn" id="refresh-btn" title="Re-fetch all sources">↻ Refresh</button>
   <button type="button" class="iconbtn" id="paste-btn">Paste fresh JSON</button>
@@ -288,7 +288,7 @@
 <script>
   // ---------- Sources ----------
   const SOURCES = [
-    { name: 'jobs.json',          src: 'Biotech'  },
+    { name: 'jobs.json',          src: 'Priority' },
     { name: 'linkedin_jobs.json', src: 'LinkedIn' },
     { name: 'indeed_jobs.json',   src: 'Indeed'   },
     // Cumulative master kept by the scrapers (the rolling files above only hold
@@ -311,27 +311,29 @@
   // ---------- Classifiers ----------
   function classifyRole(title) {
     const t = (title || '').toLowerCase();
-    if (/bioinformatic|computational biolog|genomic|ngs/.test(t)) return 'Bioinformatics';
-    if (/mlops|ml platform|ml infra|ml infrastructure|fullstack machine learning/.test(t)) return 'MLOps/Platform';
-    if (/applied scientist|ml scientist|research scientist|research engineer/.test(t)) return 'Scientist';
-    if (/data scientist|analytics/.test(t)) return 'Data Science';
-    if (/\bai engineer|ai\/ml engineer|applied ai|genai|llm|agent/.test(t)) return 'AI Engineer';
-    if (/machine learning engineer|ml engineer|mle\b/.test(t)) return 'MLE';
-    if (/software engineer|swe\b|backend|frontend|full[- ]?stack/.test(t)) return 'SWE';
+    if (/toxicolog/.test(t)) return 'Toxicology';
+    if (/risk assess|exposure|hazard|dose.response|pharmacokinetic|toxicokinetic/.test(t)) return 'Risk/Exposure';
+    if (/water|drinking water|watershed|aquatic|marine|limnolog/.test(t)) return 'Water';
+    if (/microplastic|nanoplastic|pfas|contaminant|pollution|remediation/.test(t)) return 'Contaminants';
+    if (/data scien|data analyst|biostatistic|informatic/.test(t)) return 'Data Science';
+    if (/policy|regulatory|stewardship|registration|reach\b|affairs/.test(t)) return 'Policy/Regulatory';
+    if (/professor|faculty|lecturer/.test(t)) return 'Academic';
+    if (/environmental health|epidemiolog|public health/.test(t)) return 'Environmental Health';
+    if (/environmental|ecolog|sustainab|conservation|chemist/.test(t)) return 'Environmental Science';
     return 'Other';
   }
   function classifySeniority(title) {
     const t = (title || '').toLowerCase();
-    if (/founding/.test(t)) return 'Founding';
+    if (/director|head of|chief|vice president|\bvp\b/.test(t)) return 'Director+';
     if (/principal|distinguished/.test(t)) return 'Principal';
     if (/\bstaff\b/.test(t)) return 'Staff';
-    if (/\bsr\.?\b|\bsenior\b|\blead\b/.test(t)) return 'Senior';
-    if (/intern\b/.test(t)) return 'Intern';
+    if (/\bsr\.?\b|\bsenior\b|\blead\b|\biv\b|\bv\b/.test(t)) return 'Senior';
+    if (/\bassociate\b|\bi\b|\bii\b|\bjunior\b|\bjr\.?\b/.test(t)) return 'Associate';
     return 'Mid';
   }
   function classifySource(j) {
     if (j.ats === 'LinkedIn') return 'LinkedIn';
-    if (j.ats === 'Greenhouse' || j.ats === 'Lever' || j.ats === 'Ashby') return 'Biotech';
+    if (j.ats === 'Greenhouse' || j.ats === 'Lever' || j.ats === 'Ashby') return 'Priority';
     if (j.ats === 'Indeed' || (j.url || '').includes('indeed.com')) return 'Indeed';
     return 'Other';
   }
@@ -653,13 +655,15 @@
   }
 
   function renderAll() {
-    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Biotech', 'Indeed']);
+    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed']);
     renderFilterGroup('filter-role', 'role',
-      ['AI Engineer', 'MLE', 'MLOps/Platform', 'Scientist', 'Data Science',
-       'SWE', 'Bioinformatics', 'Other']);
-    // Founding/Principal/Staff are excluded at the scraper (mid-level focus);
-    // pruneState() clears any lingering untriaged ones from older sessions.
-    renderFilterGroup('filter-sen', 'sen', ['Senior', 'Mid', 'Intern']);
+      ['Toxicology', 'Risk/Exposure', 'Water', 'Contaminants',
+       'Environmental Health', 'Environmental Science', 'Policy/Regulatory',
+       'Data Science', 'Academic', 'Other']);
+    // Dr. Coffin is senior, so the full seniority range is shown (junior/intern
+    // postings are dropped at the scraper — see EXCLUDED_SENIORITY_RE).
+    renderFilterGroup('filter-sen', 'sen',
+      ['Director+', 'Principal', 'Staff', 'Senior', 'Mid', 'Associate']);
     renderDateFilter();
     renderStateFilter();
     renderKpis();
@@ -684,11 +688,11 @@
   }
 
   // ---------- Prune (keeps localStorage bounded) ----------
-  // Drops untriaged jobs that are senior-track/exec (excluded at the scraper
-  // since 2026-06 — keep this regex in sync with EXCLUDED_SENIORITY_RE in
+  // Drops untriaged jobs that are junior/student/trainee postings (excluded at
+  // the scraper — keep this regex in sync with EXCLUDED_SENIORITY_RE in
   // scrape_jobs.py) or older than 30 days. Anything saved/applied/dismissed
   // is kept — that's the user's triage history.
-  const EXCLUDED_TITLE_RE = /\b(staff|principal|distinguished|founding|director|vice president|s?vp|chief|head of)\b/i;
+  const EXCLUDED_TITLE_RE = /\b(intern|interns|internship|co-?op|trainee|apprentice|technician|research assistant|lab assistant|teaching assistant|undergraduate|postdoc|postdoctoral|work-study|volunteer|fellowship)\b/i;
   function pruneState() {
     const cutoff = Date.now() - 30 * 86400000;
     const before = state.jobs.length;
@@ -728,7 +732,7 @@
     const mins = Math.floor((Date.now() - (state._lastLoaded||0)) / 60000);
     const ago = mins < 1 ? 'just now' : `${mins}m ago`;
     $('snapshot-line').textContent =
-      `SF Bay Area · scrape ${SEED.scraped_at || 'unknown'} · loaded ${ago} · ${state.jobs.length} jobs`;
+      `California · scrape ${SEED.scraped_at || 'unknown'} · loaded ${ago} · ${state.jobs.length} jobs`;
   }
   setInterval(() => {
     if (!document.hidden && state._lastLoaded) updateSnapshotLine();

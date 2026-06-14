@@ -221,10 +221,17 @@ To enable, add these in **Settings → Secrets and variables → Actions**:
 
 Optional **Variable** (not secret): `NOTIFY_MIN_FIT` — lower than 75 for more
 (less selective) pings, higher for fewer. Without the two secrets, notifications
-are simply off (everything else still works). Test locally with:
-```bash
-PUSHOVER_TOKEN=xxx PUSHOVER_USER=yyy python scrape_jobs.py --linkedin-only
-```
+are simply off (everything else still works).
+
+**Test it** (sends one push to your phone):
+- **From GitHub (recommended):** Actions → **Test Pushover Notification** → *Run
+  workflow*. Uses your Actions secrets, so it confirms the real setup. The run
+  log prints whether the keys are set and the exact Pushover API response on
+  failure (e.g. a bad token/user key).
+- **Locally:**
+  ```bash
+  PUSHOVER_TOKEN=xxx PUSHOVER_USER=yyy python notify.py --test
+  ```
 
 ### Optional: nightly fit-scoring agent (`triage.yml`)
 

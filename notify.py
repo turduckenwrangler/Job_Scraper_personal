@@ -21,6 +21,7 @@ Optional: NOTIFY_MIN_FIT (default 75) — lower to get more (less selective) pin
 import json
 import os
 import re
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -120,6 +121,14 @@ def send_pushover(token: str, user: str, *, title: str, message: str,
     try:
         with urllib.request.urlopen(urllib.request.Request(PUSHOVER_URL, data=data), timeout=15) as r:
             return 200 <= r.status < 300
+    except urllib.error.HTTPError as e:
+        # Pushover returns a JSON body with the specific error (bad token/user…).
+        try:
+            detail = e.read().decode("utf-8", "ignore")
+        except Exception:
+            detail = ""
+        print(f"  ⚠️  Pushover HTTP {e.code}: {detail[:300]}")
+        return False
     except Exception as e:
         print(f"  ⚠️  Pushover send failed: {e}")
         return False
@@ -174,3 +183,41 @@ def notify_new_jobs(new_jobs: list, source_label: str = ""):
     print(f"  📲 Pushover: notified {sent} relevant role(s)"
           + (f" (+{extra} summarized)" if extra else ""))
     _save_notified(notified)
+
+
+def send_test() -> bool:
+    """Send a single test push to verify the Pushover setup end-to-end.
+    Returns True on success. Prints a clear diagnosis on failure."""
+    token = os.environ.get("PUSHOVER_TOKEN")
+    user = os.environ.get("PUSHOVER_USER")
+    print(f"PUSHOVER_TOKEN: {'(set)' if token else '(MISSING)'}")
+    print(f"PUSHOVER_USER:  {'(set)' if user else '(MISSING)'}")
+    if not token or not user:
+        print("\n❌ Both PUSHOVER_TOKEN and PUSHOVER_USER must be set.\n"
+              "   • Locally:  PUSHOVER_TOKEN=… PUSHOVER_USER=… python notify.py --test\n"
+              "   • On GitHub: add them as Actions secrets, then run the "
+              "'Test Pushover Notification' workflow.")
+        return False
+    ok = send_pushover(
+        token, user,
+        title="🧪 Job_Scraper — test notification",
+        message=("Pushover is wired up correctly. You'll get pings like this for "
+                 "highly-relevant new roles: microplastics, ecotoxicology, "
+                 "endocrine-disrupting chemicals, R/Shiny, or a high resume-fit score."),
+        url="https://scottcoffin.github.io/Job_Scraper/triage.html",
+        url_title="Open dashboard",
+        priority=0,
+    )
+    print("\n✅ Test notification sent — check your phone." if ok
+          else "\n❌ Send failed (see the error above — usually a wrong token or user key).")
+    return ok
+
+
+if __name__ == "__main__":
+    # `python notify.py` or `python notify.py --test` → send a test push.
+    import sys
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")  # let emoji print on Windows too
+    except Exception:
+        pass
+    raise SystemExit(0 if send_test() else 1)

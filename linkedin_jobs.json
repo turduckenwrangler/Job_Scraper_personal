@@ -1,7 +1,27 @@
 {
-  "scraped_at": "2026-06-14 03:28 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-06-14 15:54 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "UL Solutions",
+      "title": "Senior Sales Executive \u2013 Product Stewardship SaaS",
+      "location": "Brea, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407235190/",
+      "date_posted": "2026-06-14",
+      "salary": "",
+      "ats": "LinkedIn"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "UL Solutions",
+      "title": "Senior Sales Executive \u2013 Product Stewardship SaaS",
+      "location": "Brea, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407235190/",
+      "date_posted": "2026-06-14",
+      "salary": "",
+      "ats": "LinkedIn"
+    }
+  ]
 }

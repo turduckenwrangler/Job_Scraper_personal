@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology / Risk Roles (California)
-*Last updated: 2026-06-14 03:28 UTC*
+*Last updated: 2026-06-14 15:54 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Senior Sales Executive – Product Stewardship SaaS](https://www.linkedin.com/jobs/view/4407235190/) — UL Solutions
+- 📍 **Location:** Brea, CA
+- 🕒 **Posted:** 2026-06-14

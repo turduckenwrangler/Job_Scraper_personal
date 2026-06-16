@@ -1,8 +1,16 @@
-# 🔥 LinkedIn — Environmental / Toxicology / Risk Roles (CA · OR · AU)
-*Last updated: 2026-06-16 16:58 UTC*
+# 🔥 LinkedIn — Environmental / Toxicology Roles
+*Last updated: 2026-06-16 18:44 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4422489282/) — Triumvirate Environmental
-- 📍 **Location:** Los Angeles, CA
+### [Drinking Water & Wastewater Market Sector Leader](https://www.linkedin.com/jobs/view/4428067518/) — HDR
+- 📍 **Location:** Portland, OR
+- 🕒 **Posted:** 2026-06-16
+
+### [Drinking Water & Wastewater Market Sector Leader](https://www.linkedin.com/jobs/view/4428066531/) — HDR
+- 📍 **Location:** Greater Bend Area
+- 🕒 **Posted:** 2026-06-16
+
+### [Drinking Water & Wastewater Market Sector Leader](https://www.linkedin.com/jobs/view/4428068470/) — HDR
+- 📍 **Location:** Oregon, United States
 - 🕒 **Posted:** 2026-06-16

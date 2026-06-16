@@ -1,13 +1,31 @@
 {
-  "scraped_at": "2026-06-16 16:58 UTC",
-  "total": 1,
-  "new_count": 1,
+  "scraped_at": "2026-06-16 18:44 UTC",
+  "total": 3,
+  "new_count": 3,
   "jobs": [
     {
-      "company": "Triumvirate Environmental",
-      "title": "Environmental Specialist",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422489282/",
+      "company": "HDR",
+      "title": "Drinking Water & Wastewater Market Sector Leader",
+      "location": "Portland, OR",
+      "url": "https://www.linkedin.com/jobs/view/4428067518/",
+      "date_posted": "2026-06-16",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "HDR",
+      "title": "Drinking Water & Wastewater Market Sector Leader",
+      "location": "Greater Bend Area",
+      "url": "https://www.linkedin.com/jobs/view/4428066531/",
+      "date_posted": "2026-06-16",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "HDR",
+      "title": "Drinking Water & Wastewater Market Sector Leader",
+      "location": "Oregon, United States",
+      "url": "https://www.linkedin.com/jobs/view/4428068470/",
       "date_posted": "2026-06-16",
       "salary": "",
       "ats": "LinkedIn"
@@ -15,10 +33,28 @@
   ],
   "new_jobs": [
     {
-      "company": "Triumvirate Environmental",
-      "title": "Environmental Specialist",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422489282/",
+      "company": "HDR",
+      "title": "Drinking Water & Wastewater Market Sector Leader",
+      "location": "Portland, OR",
+      "url": "https://www.linkedin.com/jobs/view/4428067518/",
+      "date_posted": "2026-06-16",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "HDR",
+      "title": "Drinking Water & Wastewater Market Sector Leader",
+      "location": "Greater Bend Area",
+      "url": "https://www.linkedin.com/jobs/view/4428066531/",
+      "date_posted": "2026-06-16",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "HDR",
+      "title": "Drinking Water & Wastewater Market Sector Leader",
+      "location": "Oregon, United States",
+      "url": "https://www.linkedin.com/jobs/view/4428068470/",
       "date_posted": "2026-06-16",
       "salary": "",
       "ats": "LinkedIn"

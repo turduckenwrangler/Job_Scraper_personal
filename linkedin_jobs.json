@@ -1,45 +1,7 @@
 {
-  "scraped_at": "2026-06-16 01:33 UTC",
-  "total": 2,
-  "new_count": 2,
-  "jobs": [
-    {
-      "company": "NV5",
-      "title": "Site Assessment and Remediation Specialist",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427780625/",
-      "date_posted": "2026-06-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Manpower Australia",
-      "title": "Sustainability and Environmental Specialist",
-      "location": "Melbourne, Victoria, Australia",
-      "url": "https://www.linkedin.com/jobs/view/4429199423/",
-      "date_posted": "2026-06-16",
-      "salary": "$150,000.00/yr - A$160,000.00/yr",
-      "ats": "LinkedIn"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "NV5",
-      "title": "Site Assessment and Remediation Specialist",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427780625/",
-      "date_posted": "2026-06-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Manpower Australia",
-      "title": "Sustainability and Environmental Specialist",
-      "location": "Melbourne, Victoria, Australia",
-      "url": "https://www.linkedin.com/jobs/view/4429199423/",
-      "date_posted": "2026-06-16",
-      "salary": "$150,000.00/yr - A$160,000.00/yr",
-      "ats": "LinkedIn"
-    }
-  ]
+  "scraped_at": "2026-06-16 03:29 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }

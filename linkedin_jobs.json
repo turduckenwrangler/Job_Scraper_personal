@@ -1,45 +1,7 @@
 {
-  "scraped_at": "2026-06-17 01:32 UTC",
-  "total": 2,
-  "new_count": 2,
-  "jobs": [
-    {
-      "company": "WM",
-      "title": "Environmental Protection Specialist III",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4429732952/",
-      "date_posted": "2026-06-17",
-      "salary": "$108,750.00/yr - $118,000.00/yr",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "KBR, Inc.",
-      "title": "Environmental Scientist",
-      "location": "Melbourne, Victoria, Australia",
-      "url": "https://www.linkedin.com/jobs/view/4428430080/",
-      "date_posted": "2026-06-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "WM",
-      "title": "Environmental Protection Specialist III",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4429732952/",
-      "date_posted": "2026-06-17",
-      "salary": "$108,750.00/yr - $118,000.00/yr",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "KBR, Inc.",
-      "title": "Environmental Scientist",
-      "location": "Melbourne, Victoria, Australia",
-      "url": "https://www.linkedin.com/jobs/view/4428430080/",
-      "date_posted": "2026-06-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    }
-  ]
+  "scraped_at": "2026-06-17 03:29 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }

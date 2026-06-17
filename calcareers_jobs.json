@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-16 17:51 UTC",
+  "scraped_at": "2026-06-17 17:14 UTC",
   "total": 12,
   "new_count": 0,
   "jobs": [
@@ -49,20 +49,20 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Shasta County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520237",
-      "date_posted": "2026-06-02",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
       "location": "Riverside County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520546",
       "date_posted": "2026-06-05",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Transportation",
+      "title": "Environmental Scientist",
+      "location": "San Diego County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521123",
+      "date_posted": "2026-06-10",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },

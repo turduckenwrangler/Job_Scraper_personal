@@ -1,7 +1,81 @@
 {
-  "scraped_at": "2026-06-17 03:29 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-06-17 16:32 UTC",
+  "total": 4,
+  "new_count": 4,
+  "jobs": [
+    {
+      "company": "Proclinical Staffing",
+      "title": "Toxicology Director",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4429982477/",
+      "date_posted": "2026-06-17",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Triumvirate Environmental",
+      "title": "Environmental Specialist",
+      "location": "Glendale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422484349/",
+      "date_posted": "2026-06-17",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Triumvirate Environmental",
+      "title": "Environmental Specialist",
+      "location": "Santa Fe Springs, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422489281/",
+      "date_posted": "2026-06-17",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Triumvirate Environmental",
+      "title": "Environmental Specialist",
+      "location": "Burbank, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422478417/",
+      "date_posted": "2026-06-17",
+      "salary": "",
+      "ats": "LinkedIn"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Proclinical Staffing",
+      "title": "Toxicology Director",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4429982477/",
+      "date_posted": "2026-06-17",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Triumvirate Environmental",
+      "title": "Environmental Specialist",
+      "location": "Glendale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422484349/",
+      "date_posted": "2026-06-17",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Triumvirate Environmental",
+      "title": "Environmental Specialist",
+      "location": "Santa Fe Springs, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422489281/",
+      "date_posted": "2026-06-17",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Triumvirate Environmental",
+      "title": "Environmental Specialist",
+      "location": "Burbank, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422478417/",
+      "date_posted": "2026-06-17",
+      "salary": "",
+      "ats": "LinkedIn"
+    }
+  ]
 }

@@ -1,25 +1,61 @@
 {
-  "scraped_at": "2026-06-16 16:58 UTC",
-  "total": 1,
+  "scraped_at": "2026-06-18 22:58 UTC",
+  "total": 5,
   "new_count": 1,
   "jobs": [
     {
-      "company": "Triumvirate Environmental",
-      "title": "Environmental Specialist",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422489282/",
-      "date_posted": "2026-06-16",
+      "company": "Proclinical Staffing",
+      "title": "Toxicology Director",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4429982477/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "worldswin",
+      "title": "Hazardous Materials & Occupational Hygiene Consultant - Senior to Senior Associate-levelHybrid",
+      "location": "Newcastle, New South Wales, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4430727996/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "worldswin",
+      "title": "Associate Environmental Scientist - Contaminated Land ManagementHybrid",
+      "location": "Gold Coast",
+      "url": "https://www.linkedin.com/jobs/view/4430747504/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "worldswin",
+      "title": "Hazardous Materials & Occupational Hygiene ConsultantHybrid",
+      "location": "Coffs Harbour, New South Wales, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4430737614/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "worldswin",
+      "title": "Senior Associate, Hazardous Materials & Occupational Hygiene - Newcastle or SydneyHybrid",
+      "location": "Sydney, New South Wales, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4430743545/",
+      "date_posted": "2026-06-18",
       "salary": "",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Triumvirate Environmental",
-      "title": "Environmental Specialist",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422489282/",
-      "date_posted": "2026-06-16",
+      "company": "Proclinical Staffing",
+      "title": "Toxicology Director",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4429982477/",
+      "date_posted": "2026-06-18",
       "salary": "",
       "ats": "LinkedIn"
     }

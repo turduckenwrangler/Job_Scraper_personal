@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-16 17:51 UTC",
-  "total": 12,
+  "scraped_at": "2026-06-18 17:15 UTC",
+  "total": 11,
   "new_count": 0,
   "jobs": [
     {
@@ -27,33 +27,6 @@
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518689",
       "date_posted": "2026-06-04",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
-      "location": "San Bernardino County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520131",
-      "date_posted": "2026-06-02",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Shasta County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520226",
-      "date_posted": "2026-06-02",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Shasta County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520237",
-      "date_posted": "2026-06-02",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -89,6 +62,24 @@
       "title": "Environmental Scientist",
       "location": "Napa County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521254",
+      "date_posted": "2026-06-10",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Fish and Wildlife",
+      "title": "Environmental Scientist",
+      "location": "San Joaquin County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521257",
+      "date_posted": "2026-06-10",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Transportation",
+      "title": "Environmental Scientist",
+      "location": "San Diego County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521123",
       "date_posted": "2026-06-10",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"

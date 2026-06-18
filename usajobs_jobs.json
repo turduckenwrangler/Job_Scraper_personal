@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-16 17:21 UTC",
-  "total": 10,
-  "new_count": 3,
+  "scraped_at": "2026-06-18 16:44 UTC",
+  "total": 12,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Consumer Product Safety Commission",
@@ -14,11 +14,38 @@
     },
     {
       "company": "Federal Emergency Management Agency",
-      "title": "Environmental Protection Specialist- Reservist",
+      "title": "Environmental Protection Specialist (Environmental Specialist) - Reservist",
       "location": "Salt Lake City, Utah",
-      "url": "https://www.usajobs.gov/job/873212400",
-      "date_posted": "2026-06-16",
+      "url": "https://www.usajobs.gov/job/873587300",
+      "date_posted": "2026-06-18",
       "salary": "Starting at $29.27 Per hour (IM 1)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Defense Logistics Agency",
+      "title": "Environmental Protection Specialist",
+      "location": "Battle Creek, Michigan",
+      "url": "https://www.usajobs.gov/job/873512600",
+      "date_posted": "2026-06-17",
+      "salary": "Starting at $89,508 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Commander, Navy Installations Command",
+      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
+      "location": "Fallon, Nevada",
+      "url": "https://www.usajobs.gov/job/873326400",
+      "date_posted": "2026-06-17",
+      "salary": "Starting at $61,965 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Federal Aviation Administration",
+      "title": "Environmental Protection Specialist",
+      "location": "Singapore, Singapore",
+      "url": "https://www.usajobs.gov/job/873325900",
+      "date_posted": "2026-06-17",
+      "salary": "Starting at $53,528 Per year (FV G-I)",
       "ats": "USAJOBS"
     },
     {
@@ -76,15 +103,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Environmental Protection Agency",
-      "title": "Director, Existing Chemical Risk Management Division",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/872765400",
-      "date_posted": "2026-06-16",
-      "salary": "Starting at $197,201 Per year (ES 00)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Air Force Materiel Command",
       "title": "Subject Matter Specialist (Air Quality) - DIRECT HIRE AUTHORITY",
       "location": "Kelly AFB, Texas",
@@ -97,29 +115,20 @@
   "new_jobs": [
     {
       "company": "Federal Emergency Management Agency",
-      "title": "Environmental Protection Specialist- Reservist",
+      "title": "Environmental Protection Specialist (Environmental Specialist) - Reservist",
       "location": "Salt Lake City, Utah",
-      "url": "https://www.usajobs.gov/job/873212400",
-      "date_posted": "2026-06-16",
+      "url": "https://www.usajobs.gov/job/873587300",
+      "date_posted": "2026-06-18",
       "salary": "Starting at $29.27 Per hour (IM 1)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Veterans Health Administration",
+      "company": "Defense Logistics Agency",
       "title": "Environmental Protection Specialist",
-      "location": "Roseburg, Oregon",
-      "url": "https://www.usajobs.gov/job/873183700",
-      "date_posted": "2026-06-16",
-      "salary": "Starting at $74,678 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Environmental Protection Agency",
-      "title": "Director, Existing Chemical Risk Management Division",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/872765400",
-      "date_posted": "2026-06-16",
-      "salary": "Starting at $197,201 Per year (ES 00)",
+      "location": "Battle Creek, Michigan",
+      "url": "https://www.usajobs.gov/job/873512600",
+      "date_posted": "2026-06-17",
+      "salary": "Starting at $89,508 Per year (GS 12)",
       "ats": "USAJOBS"
     }
   ]

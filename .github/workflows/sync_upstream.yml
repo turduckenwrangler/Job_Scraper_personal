@@ -1,9 +1,9 @@
 name: Sync from upstream
 
 # Pull the latest scraper/dashboard improvements from the source template repo.
-# Safe to run at any time — config.json, scoring_profile.json, and everything
-# under output/ are gitignored in the upstream, so your customizations and
-# scraped data are never touched.
+# Safe to run at any time — merges with -X ours so your config.json,
+# scoring_profile.json, and output/ data always take precedence over anything
+# in upstream on conflict.
 #
 # UPSTREAM SOURCE: https://github.com/ScottCoffin/Job_Scraper
 # Do NOT point this at your own personal fork.
@@ -34,17 +34,13 @@ jobs:
           git remote add upstream https://github.com/ScottCoffin/Job_Scraper.git
           git fetch upstream main
 
-          # Attempt the merge. If there are conflicts (e.g. you edited a core
-          # script), the push is skipped and the workflow prints guidance.
-          if git merge upstream/main --no-edit \
-               -m "chore: sync from upstream [$(date -u '+%Y-%m-%d')]"; then
-            git push origin main
-            echo "✅ Synced successfully."
-          else
-            echo "⚠️  Merge conflicts detected — push skipped."
-            echo "    Resolve conflicts locally:"
-            echo "      git fetch upstream main"
-            echo "      git merge upstream/main"
-            echo "      # fix conflicts, then: git push"
-            exit 1
-          fi
+          # Merge upstream code. -X ours resolves any conflicts by keeping this
+          # fork's version — most importantly, this preserves the fork's own
+          # output/ data files if upstream also has data committed there.
+          # Conflicts on code files (rare, only if you edited the same lines as
+          # upstream) are also resolved in the fork's favour; inspect the merge
+          # commit if you want to manually reconcile those.
+          git merge upstream/main --no-edit -X ours \
+            -m "chore: sync from upstream [$(date -u '+%Y-%m-%d')]"
+          git push origin main
+          echo "✅ Synced successfully."

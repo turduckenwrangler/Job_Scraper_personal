@@ -26,6 +26,8 @@ from urllib.request import urlopen, Request
 from urllib.error import URLError
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, "output")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 HEADERS = {
     "User-Agent": (
@@ -865,7 +867,7 @@ def scrape_linkedin_recent() -> list:
     # LinkedIn gave us nothing — rate-limited or blocked, not a quiet hour.
     # Reuse the previous results so we don't clobber the dedupe baseline.
     if raw_cards == 0:
-        prev = _load_prev_jobs(os.path.join(SCRIPT_DIR, "linkedin_jobs.json"))
+        prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "linkedin_jobs.json"))
         print(f"  ⛔ LinkedIn returned 0 cards across all terms (likely blocked); "
               f"preserving previous {len(prev)} result(s)")
         return prev
@@ -1004,7 +1006,7 @@ def scrape_indeed_recent() -> list:
     # so we don't clobber the dedupe baseline (and the dashboard's Indeed column) with
     # an empty file; save_indeed_results() then reports 0 new (all already seen).
     if raw_rows == 0:
-        prev = _load_prev_jobs(os.path.join(SCRIPT_DIR, "indeed_jobs.json"))
+        prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "indeed_jobs.json"))
         print(
             f"  ⛔ Indeed returned 0 rows across all terms (likely blocked); "
             f"preserving previous {len(prev)} result(s)"
@@ -1169,7 +1171,7 @@ def scrape_calcareers_recent() -> list:
     if not jobs and (parsed_total == 0 or not reached):
         # No data — site unreachable or parser/search mismatch. Preserve the
         # previous column rather than blanking it.
-        return _load_prev_jobs(os.path.join(SCRIPT_DIR, "calcareers_jobs.json"))
+        return _load_prev_jobs(os.path.join(OUTPUT_DIR, "calcareers_jobs.json"))
     return jobs
 
 
@@ -1262,12 +1264,12 @@ def scrape_usajobs_recent() -> list:
                 }
     except (URLError, TimeoutError, OSError, ValueError) as e:
         print(f"  ⛔ USAJOBS unreachable ({e}); preserving previous results")
-        return _load_prev_jobs(os.path.join(SCRIPT_DIR, "usajobs_jobs.json"))
+        return _load_prev_jobs(os.path.join(OUTPUT_DIR, "usajobs_jobs.json"))
 
     jobs = list(jobs_by_url.values())
     print(f"  ✅ USAJOBS: {len(jobs)} federal role(s)")
     if not jobs:
-        return _load_prev_jobs(os.path.join(SCRIPT_DIR, "usajobs_jobs.json"))
+        return _load_prev_jobs(os.path.join(OUTPUT_DIR, "usajobs_jobs.json"))
     return jobs
 
 
@@ -1358,7 +1360,7 @@ def scrape_governmentjobs_recent() -> list:
     jobs = list(jobs_by_url.values())
     print(f"  ✅ NEOGOV: {len(jobs)} CA/OR role(s) (from {raw_items} scanned)")
     if not jobs and raw_items == 0:
-        return _load_prev_jobs(os.path.join(SCRIPT_DIR, "governmentjobs_jobs.json"))
+        return _load_prev_jobs(os.path.join(OUTPUT_DIR, "governmentjobs_jobs.json"))
     return jobs
 
 
@@ -1452,7 +1454,7 @@ def scrape_calopps_recent() -> list:
             job["salary"] = re.sub(r'\s+', ' ', sm.group(1)).strip()
     print(f"  ✅ CalOpps: {len(jobs)} env/tox role(s) (from {scanned} scanned)")
     if not jobs and scanned == 0:
-        return _load_prev_jobs(os.path.join(SCRIPT_DIR, "calopps_jobs.json"))
+        return _load_prev_jobs(os.path.join(OUTPUT_DIR, "calopps_jobs.json"))
     return jobs
 
 
@@ -1556,7 +1558,7 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     master is what the triage agent and the dashboard's Rank tab read to see
     everything from the last ALL_JOBS_PRUNE_DAYS days. Returns count added.
     """
-    path = os.path.join(SCRIPT_DIR, "all_jobs.json")
+    path = os.path.join(OUTPUT_DIR, "all_jobs.json")
     try:
         with open(path) as f:
             master = json.load(f).get("jobs", [])
@@ -1610,9 +1612,9 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     if len(jobs) < before:
         print(f"  🚫 Dropped {before - len(jobs)} pharma role(s)")
 
-    json_path = os.path.join(SCRIPT_DIR, f"{basename}.json")
-    md_path = os.path.join(SCRIPT_DIR, f"{basename}.md")
-    html_path = os.path.join(SCRIPT_DIR, f"{basename}.html")
+    json_path = os.path.join(OUTPUT_DIR, f"{basename}.json")
+    md_path = os.path.join(OUTPUT_DIR, f"{basename}.md")
+    html_path = os.path.join(OUTPUT_DIR, f"{basename}.html")
 
     prev_ids = _load_prev_ids(json_path)
     new_jobs = [j for j in jobs if _job_identity(j.get("url", "")) not in prev_ids]
@@ -1788,7 +1790,7 @@ def save_results(jobs: list):
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     output = {"scraped_at": timestamp, "total": len(jobs), "jobs": jobs}
-    with open(os.path.join(SCRIPT_DIR, "jobs.json"), "w") as f:
+    with open(os.path.join(OUTPUT_DIR, "jobs.json"), "w") as f:
         json.dump(output, f, indent=2)
 
     lines = [
@@ -1807,10 +1809,10 @@ def save_results(jobs: list):
                 lines.append(f"- 📅 **Posted:** {job['date_posted']}")
             lines.append("")
 
-    with open(os.path.join(SCRIPT_DIR, "jobs.md"), "w") as f:
+    with open(os.path.join(OUTPUT_DIR, "jobs.md"), "w") as f:
         f.write("\n".join(lines))
 
-    with open(os.path.join(SCRIPT_DIR, "jobs.html"), "w") as f:
+    with open(os.path.join(OUTPUT_DIR, "jobs.html"), "w") as f:
         f.write(_render_jobs_html(
             title=f"🏛 Fresh {PROFILE_LABEL} Job Listings",
             subtitle=f"{PROFILE_SUBTITLE} · posted in the last 24 hours",

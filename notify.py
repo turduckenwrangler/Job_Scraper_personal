@@ -27,9 +27,10 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-NOTIFIED_PATH = os.path.join(SCRIPT_DIR, "notified.json")
-ALL_JOBS_PATH = os.path.join(SCRIPT_DIR, "all_jobs.json")
-SCORES_PATH = os.path.join(SCRIPT_DIR, "scores.json")
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, "output")
+NOTIFIED_PATH = os.path.join(OUTPUT_DIR, "notified.json")
+ALL_JOBS_PATH = os.path.join(OUTPUT_DIR, "all_jobs.json")
+SCORES_PATH = os.path.join(OUTPUT_DIR, "scores.json")
 # config.json → fork owner's customized copy; config.example.json → upstream fallback
 CONFIG_PATH = os.path.join(SCRIPT_DIR, "config.json")
 CONFIG_EXAMPLE_PATH = os.path.join(SCRIPT_DIR, "config.example.json")

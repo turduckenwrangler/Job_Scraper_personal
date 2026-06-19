@@ -25,9 +25,10 @@ from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, "output")
 
-ALL_JOBS_PATH = os.path.join(SCRIPT_DIR, "all_jobs.json")
-SCORES_PATH = os.path.join(SCRIPT_DIR, "scores.json")
+ALL_JOBS_PATH = os.path.join(OUTPUT_DIR, "all_jobs.json")
+SCORES_PATH = os.path.join(OUTPUT_DIR, "scores.json")
 SOURCE_FILES = ["jobs.json", "linkedin_jobs.json", "indeed_jobs.json"]
 
 DEFAULT_MODEL = "claude-haiku-4-5-20251001"
@@ -64,7 +65,7 @@ def load_jobs(from_files: bool) -> list[dict]:
     # per-source snapshots (rolling windows — NOT the full day; see AGENT_README).
     by_url: dict[str, dict] = {}
     for name in SOURCE_FILES:
-        path = os.path.join(SCRIPT_DIR, name)
+        path = os.path.join(OUTPUT_DIR, name)
         try:
             with open(path) as f:
                 data = json.load(f)
@@ -92,7 +93,7 @@ def _read_first(env_var: str, *filenames: str) -> str:
     if os.environ.get(env_var, "").strip():
         return os.environ[env_var]
     for name in filenames:
-        path = os.path.join(SCRIPT_DIR, name)
+        path = os.path.join(SCRIPT_DIR, name)  # candidate_profile.md, resume.* live at repo root
         if os.path.exists(path):
             with open(path) as f:
                 return f.read()
@@ -153,7 +154,7 @@ def _indeed_jds() -> dict[str, str]:
     global _INDEED_JDS
     if _INDEED_JDS is None:
         try:
-            with open(os.path.join(SCRIPT_DIR, "indeed_jobs.json")) as f:
+            with open(os.path.join(OUTPUT_DIR, "indeed_jobs.json")) as f:
                 _INDEED_JDS = {
                     j["url"]: j["description"]
                     for j in json.load(f).get("jobs", [])

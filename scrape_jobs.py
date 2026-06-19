@@ -42,12 +42,20 @@ HEADERS = {
 # ---------------------------------------------------------------------------
 
 def _load_config() -> dict:
-    try:
-        with open(os.path.join(SCRIPT_DIR, "config.json"), encoding="utf-8") as f:
-            return json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError, OSError) as e:
-        print(f"  ⚠️  config.json not loaded ({e}); using built-in defaults")
-        return {}
+    for name in ("config.json", "config.example.json"):
+        path = os.path.join(SCRIPT_DIR, name)
+        try:
+            with open(path, encoding="utf-8") as f:
+                data = json.load(f)
+            if name != "config.json":
+                print(f"  ℹ️  config.json not found; using {name} (copy it to config.json and customize)")
+            return data
+        except FileNotFoundError:
+            continue
+        except (json.JSONDecodeError, OSError) as e:
+            print(f"  ⚠️  {name} not loaded ({e}); trying next")
+    print("  ⚠️  No config file found; using built-in defaults")
+    return {}
 
 
 CONFIG = _load_config()
@@ -162,7 +170,7 @@ def fetch(url):
         with urlopen(req, timeout=15) as r:
             return r.read().decode("utf-8", errors="ignore")
     except (URLError, TimeoutError, OSError) as e:
-        print(f"  ⚠️  Could not fetch {url}: {e}")
+        print(f"  WARNING: Could not fetch {url}: {e}")
         return ""
 
 
@@ -717,38 +725,116 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
     return jobs, total_raw_cards
 
 
-# LinkedIn search-result cards omit pay, but the public guest *posting* page
-# includes a `compensation__salary` block when the employer provided it. We
-# fetch it only for jobs still missing salary, capped per run to bound runtime.
+# LinkedIn search-result cards omit the full description and often omit pay, but
+# the public guest *posting* page includes both. Fetch it only for jobs that need
+# enrichment, capped per run to bound runtime.
 LINKEDIN_SALARY_FETCH_CAP = 120
+LINKEDIN_DESCRIPTION_MAX_CHARS = 12000
 
 
-def _linkedin_posting_salary(job_id: str) -> str:
+def _linkedin_description_from_page(page: str) -> str:
+    import html as html_mod
+    if not page:
+        return ""
+    block = ""
+    m = re.search(
+        r'<div[^>]+show-more-less-html__markup[^>]*>(.*?)</div>\s*</section>',
+        page,
+        re.I | re.S,
+    )
+    if m:
+        block = m.group(1)
+    else:
+        m = re.search(r'<div[^>]+description__text[^>]*>(.*?)</section>', page, re.I | re.S)
+        if m:
+            block = m.group(1)
+    if not block:
+        return ""
+    text = re.sub(r'(?i)<\s*br\s*/?\s*>', "\n", block)
+    text = re.sub(r'(?i)</\s*(p|li|ul|ol|section|div|strong|h\d)\s*>', "\n", text)
+    text = re.sub(r'<[^>]+>', " ", text)
+    text = html_mod.unescape(text)
+    text = re.sub(r'[ \t\r\f\v]+', ' ', text)
+    text = re.sub(r'\n\s*\n+', '\n\n', text)
+    text = re.sub(r' *\n *', '\n', text).strip()
+    return text[:LINKEDIN_DESCRIPTION_MAX_CHARS]
+
+
+def _linkedin_posting_details(job_id: str) -> tuple[str, str]:
     import html as html_mod
     page = fetch(f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{job_id}")
     if not page:
-        return ""
-    # Find the compensation block, then grab the first "$…" run inside it (the
-    # class may sit on an empty heading element, so anchor on the class then
-    # scan a window for the actual amount).
+        return "", ""
+    description = _linkedin_description_from_page(page)
+    # Primary: structured compensation block (employer-declared LinkedIn field).
     anchor = re.search(r'compensation__salary', page)
-    if not anchor:
-        return ""
-    window = page[anchor.start():anchor.start() + 400]
-    amt = re.search(r'\$[\d][^<]{0,60}', window)
-    if not amt:
-        return ""
-    return re.sub(r'\s+', ' ', html_mod.unescape(amt.group(0))).strip()
+    if anchor:
+        window = page[anchor.start():anchor.start() + 400]
+        amt = re.search(r'\$[\d][^<]{0,60}', window)
+        if amt:
+            return re.sub(r'\s+', ' ', html_mod.unescape(amt.group(0))).strip(), description
+    # Fallback: salary range embedded in description text.
+    text = re.sub(r'\s+', ' ', html_mod.unescape(re.sub(r'<[^>]+>', ' ', page)))
+
+    # Pattern 1: two-dollar-sign range with optional USD codes and en/em dashes.
+    # Handles: "$130k to $176k", "$7,820 – $10,732", "$75,000 USD - $85,000 USD",
+    #          "USD $200,000 - USD $300,000"
+    sal_m = re.search(
+        r'(?:USD\s*)?\$\s*[\d,]+(?:\.\d{2})?(?:\s*[kK])?(?:\s*USD)?\s*(?:to|[–—-])\s*(?:USD\s*)?\$\s*[\d,]+(?:\.\d{2})?(?:\s*[kK])?(?:\s*USD)?'
+        r'(?:\s*(?:per\s+\w+|annually|hourly|monthly|/\w+))?',
+        text, re.I,
+    )
+    if sal_m:
+        return re.sub(r'\s+', ' ', sal_m.group(0)).strip(), description
+
+    # Pattern 2: single leading $ with bare second number: "$110,000-130,000/year".
+    # Require second number to be comma-formatted (NNN,NNN) to avoid false positives.
+    sal_m = re.search(
+        r'\$\s*[\d,]+(?:\.\d{2})?(?:\s*[kK])?\s*-\s*\d{2,3},\d{3}(?:\.\d{2})?(?:\s*[kK])?'
+        r'(?:\s*(?:per\s+\w+|annually|hourly|monthly|/\w+))?',
+        text, re.I,
+    )
+    if sal_m:
+        return re.sub(r'\s+', ' ', sal_m.group(0)).strip(), description
+
+    # Pattern 3: keyword-anchored plain number range (no $ sign).
+    # Handles: "Compensation Range 199,000.00 - 243,000.00 | Compensation Type Annual Salary"
+    kw_m = re.search(
+        r'(?:compensation|salary)\s+(?:range|amount)[:\s]+([\d,]+(?:\.\d{2})?)\s*(?:to|-)\s*([\d,]+(?:\.\d{2})?)',
+        text, re.I,
+    )
+    if kw_m:
+        return f"${kw_m.group(1)} - ${kw_m.group(2)}", description
+
+    # Pattern 4: "Minimum Salary: $156,115/year / Maximum Salary: $218,560/year"
+    min_m = re.search(r'[Mm]inimum\s+[Ss]alary[:\s]+\$\s*([\d,]+(?:\.\d{2})?(?:\s*[kK])?)', text)
+    max_m = re.search(r'[Mm]aximum\s+[Ss]alary[:\s]+\$\s*([\d,]+(?:\.\d{2})?(?:\s*[kK])?)', text)
+    if min_m and max_m:
+        interval_m = re.search(
+            r'(?:per\s+\w+|annually|hourly|monthly|/(?:year|yr|hr|mo))',
+            text[min_m.start():min_m.start() + 60], re.I,
+        )
+        interval = f"/{interval_m.group(0).lstrip('/')}" if interval_m else ""
+        return f"${min_m.group(1)}{interval} - ${max_m.group(1)}{interval}", description
+
+    return "", description
 
 
-def _enrich_linkedin_salaries(jobs: list) -> int:
-    """Backfill salary on LinkedIn jobs from their posting pages. Returns the
-    number filled. Bounded by LINKEDIN_SALARY_FETCH_CAP; never raises."""
-    filled = fetched = 0
+def _linkedin_posting_salary(job_id: str) -> str:
+    salary, _ = _linkedin_posting_details(job_id)
+    return salary
+
+
+def _enrich_linkedin_postings(jobs: list) -> tuple[int, int]:
+    """Backfill salary and description on LinkedIn jobs from posting pages.
+    Returns (salary_filled, description_filled). Bounded and never raises."""
+    salary_filled = desc_filled = fetched = 0
     for job in jobs:
         if fetched >= LINKEDIN_SALARY_FETCH_CAP:
             break
-        if job.get("salary") or job.get("ats") != "LinkedIn":
+        if job.get("ats") != "LinkedIn":
+            continue
+        if job.get("salary") and job.get("description"):
             continue
         m = re.search(r'/jobs/view/(\d+)', job.get("url", ""))
         if not m:
@@ -756,16 +842,21 @@ def _enrich_linkedin_salaries(jobs: list) -> int:
         time.sleep(REQUEST_DELAY)
         fetched += 1
         try:
-            sal = _linkedin_posting_salary(m.group(1))
+            sal, desc = _linkedin_posting_details(m.group(1))
         except (URLError, TimeoutError, OSError):
             continue
         if sal:
             job["salary"] = sal
-            filled += 1
+            salary_filled += 1
+        if desc:
+            job["description"] = desc
+            desc_filled += 1
     if fetched:
-        print(f"  💰 LinkedIn salary backfill: {filled}/{fetched} posting(s) had pay")
-    return filled
-
+        print(
+            "  LinkedIn posting backfill: "
+            f"{salary_filled}/{fetched} had pay; {desc_filled}/{fetched} had descriptions"
+        )
+    return salary_filled, desc_filled
 
 def scrape_linkedin_recent() -> list:
     print(f"🔎 Scraping LinkedIn (last {LINKEDIN_LOOKBACK_SECONDS // 3600}h)...")
@@ -779,7 +870,7 @@ def scrape_linkedin_recent() -> list:
               f"preserving previous {len(prev)} result(s)")
         return prev
     print(f"  ✅ LinkedIn: {len(jobs)} role(s)")
-    _enrich_linkedin_salaries(jobs)
+    _enrich_linkedin_postings(jobs)
     return jobs
 
 
@@ -799,7 +890,7 @@ def scrape_linkedin_biotech() -> list:
         return []
     jobs = [j for j in raw if _is_biotech_company(j["company"])]
     print(f"  ✅ Priority employers: {len(jobs)} role(s) (from {len(raw)} total)")
-    _enrich_linkedin_salaries(jobs)
+    _enrich_linkedin_postings(jobs)
     return jobs
 
 
@@ -1475,16 +1566,20 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     now = datetime.now(timezone.utc)
     stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
     by_url = {j.get("url"): j for j in master if j.get("url")}
-    added = 0
+    added = enriched = 0
     for j in new_jobs:
         url = j.get("url")
         if url and url not in by_url:  # first writer wins on first_seen
-            # Drop the JD text: the dashboard fetches this whole file on every
-            # load; the triage agent reads descriptions from indeed_jobs.json.
-            entry = {k: v for k, v in j.items() if k != "description"}
+            entry = dict(j)
             entry["first_seen"] = stamp
             by_url[url] = entry
             added += 1
+        elif url and url in by_url:
+            existing = by_url[url]
+            for key in ("description", "salary"):
+                if j.get(key) and not existing.get(key):
+                    existing[key] = j[key]
+                    enriched += 1
 
     cutoff = (now - timedelta(days=ALL_JOBS_PRUNE_DAYS)).strftime("%Y-%m-%dT%H:%M:%SZ")
     kept = [j for j in by_url.values() if j.get("first_seen", stamp) >= cutoff]
@@ -1494,7 +1589,10 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
         # Compact separators: the dashboard downloads this file on every load.
         json.dump({"updated_at": now.strftime("%Y-%m-%d %H:%M UTC"), "jobs": kept},
                   f, separators=(",", ":"))
-    print(f"🗂  all_jobs.json: +{added} new, {len(kept)} total (last {ALL_JOBS_PRUNE_DAYS}d)")
+    print(
+        f"all_jobs.json: +{added} new, {enriched} enriched, "
+        f"{len(kept)} total (last {ALL_JOBS_PRUNE_DAYS}d)"
+    )
     return added
 
 
@@ -1522,7 +1620,9 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     # Accumulate into the cumulative master. Guarded: a bug here must never
     # break the scrape/commit path that the digests and dashboard depend on.
     try:
-        _merge_into_all_jobs(new_jobs)
+        # Merge the full current source window, not only brand-new notifications:
+        # existing sparse LinkedIn records can gain salary/description later.
+        _merge_into_all_jobs(jobs)
     except Exception as e:
         print(f"  ⚠️  all_jobs.json accumulator failed (non-fatal): {e}")
 
@@ -1676,7 +1776,7 @@ h1 {{ font-size: 22px; margin: 0 0 4px 0; }}
 <div class="subtitle">{subtitle}</div>
 <div class="summary"><strong>{len(jobs)}</strong> role(s) &nbsp;·&nbsp; scraped {timestamp}</div>
 {body}
-<div class="foot">Auto-generated by <a href="https://github.com/ScottCoffin/Job_Scraper">Job_Scraper</a></div>
+<div class="foot">Auto-generated by <a href="https://github.com/{os.environ.get('GITHUB_REPOSITORY', 'ScottCoffin/Job_Scraper')}">Job_Scraper</a></div>
 </body></html>"""
 
 

@@ -6,3 +6,25 @@ candidate_profile.md
 resume.md
 resume.txt
 shortlist.*
+
+# ── Fork-owner customization ──────────────────────────────────────────────────
+# Upstream never commits these so pulling upstream never creates merge conflicts.
+# Fork owners: copy from *.example.json, customize, then commit to YOUR fork.
+config.json
+scoring_profile.json
+
+# ── Scraped results & CI-generated data (unique per fork) ─────────────────────
+# Each fork's CI writes its own results here; excluding from upstream prevents
+# merge conflicts when fork owners pull upstream code improvements.
+all_jobs.json
+jobs.json
+jobs.md
+jobs.html
+*_jobs.json
+*_jobs.md
+*_jobs.html
+triage.html
+workflow_runs.jsonl
+scores.json
+notified.json
+checked_companies.json

@@ -30,10 +30,20 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 NOTIFIED_PATH = os.path.join(SCRIPT_DIR, "notified.json")
 ALL_JOBS_PATH = os.path.join(SCRIPT_DIR, "all_jobs.json")
 SCORES_PATH = os.path.join(SCRIPT_DIR, "scores.json")
+# config.json → fork owner's customized copy; config.example.json → upstream fallback
 CONFIG_PATH = os.path.join(SCRIPT_DIR, "config.json")
+CONFIG_EXAMPLE_PATH = os.path.join(SCRIPT_DIR, "config.example.json")
+# scoring_profile.json → fork owner's copy; scoring_profile.example.json → upstream fallback
 SCORING_PROFILE_PATH = os.path.join(SCRIPT_DIR, "scoring_profile.json")
+SCORING_PROFILE_EXAMPLE_PATH = os.path.join(SCRIPT_DIR, "scoring_profile.example.json")
 PUSHOVER_URL = "https://api.pushover.net/1/messages.json"
-DASHBOARD_URL = "https://scottcoffin.github.io/Job_Scraper/triage.html"
+# Derive dashboard URL from GITHUB_REPOSITORY (owner/repo) so forks get their own URL.
+_gh_repo = os.environ.get("GITHUB_REPOSITORY", "")
+DASHBOARD_URL = (
+    f"https://{_gh_repo.split('/')[0]}.github.io/{_gh_repo.split('/')[-1]}/triage.html"
+    if "/" in _gh_repo
+    else "triage.html"
+)
 MAX_PUSHES_PER_RUN = 8     # cap individual pings; the rest get one summary
 NOTIFIED_KEEP = 600        # remember this many recent jobs to avoid repeats
 
@@ -208,15 +218,23 @@ def _scoring_profile() -> dict:
         "poor_fit_terms": POOR_FIT_TERMS,
         "settings": dict(DEFAULT_SCORING_SETTINGS),
     }
-    try:
-        with open(SCORING_PROFILE_PATH, encoding="utf-8") as f:
-            raw_text = f.read()
-            raw = json.loads(_repair_json_regex_escapes(raw_text))
-    except FileNotFoundError:
+    raw_text = None
+    for sp_path in (SCORING_PROFILE_PATH, SCORING_PROFILE_EXAMPLE_PATH):
+        try:
+            with open(sp_path, encoding="utf-8") as f:
+                raw_text = f.read()
+            if sp_path == SCORING_PROFILE_EXAMPLE_PATH:
+                print("  ℹ️  scoring_profile.json not found; using scoring_profile.example.json")
+            break
+        except FileNotFoundError:
+            continue
+    if raw_text is None:
         _SCORING_PROFILE = profile
         return profile
+    try:
+        raw = json.loads(_repair_json_regex_escapes(raw_text))
     except json.JSONDecodeError as e:
-        print(f"  Warning: scoring_profile.json is invalid JSON even after regex-escape repair; using built-in scoring ({e})")
+        print(f"  Warning: scoring profile is invalid JSON even after regex-escape repair; using built-in scoring ({e})")
         _SCORING_PROFILE = profile
         return profile
 
@@ -614,7 +632,7 @@ def send_test() -> bool:
         message=("Pushover is wired up correctly. You'll get pings like this for "
                  "highly-relevant new roles: microplastics, ecotoxicology, "
                  "endocrine-disrupting chemicals, R/Shiny, or a high resume-fit score."),
-        url="https://scottcoffin.github.io/Job_Scraper/triage.html",
+        url=DASHBOARD_URL,
         url_title="Open dashboard",
         priority=0,
     )

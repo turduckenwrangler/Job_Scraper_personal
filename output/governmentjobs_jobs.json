@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-06-20 20:53 UTC",
-  "total": 5,
-  "new_count": 2,
+  "scraped_at": "2026-06-21 20:58 UTC",
+  "total": 4,
+  "new_count": 0,
   "jobs": [
-    {
-      "company": "City of Salem",
-      "title": "Stormwater Quality Seasonal Maintenance Worker",
-      "location": "1457 23rd St SE Salem, OR",
-      "url": "https://www.governmentjobs.com/jobs/5373090-0/stormwater-quality-seasonal-maintenance-worker",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
-    },
     {
       "company": "Bay Area Air District",
       "title": "Senior Air Quality Specialist (Ambient Air Quality Analysis)",
@@ -49,24 +40,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "San Bernardino County",
-      "title": "Hazardous Materials Specialist I (Fire District)",
-      "location": "Throughout San Bernardino County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5379168-0/hazardous-materials-specialist-i-fire-district",
-      "date_posted": "",
-      "salary": "$73,486.40 - $98,737.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "San Bernardino County",
-      "title": "Hazardous Materials Specialist II (Fire District)",
-      "location": "Throughout San Bernardino County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5379179-0/hazardous-materials-specialist-ii-fire-district",
-      "date_posted": "",
-      "salary": "$77,209.60 - $103,812.80 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }

@@ -1,8 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-06-22 22:27 UTC*
+*Last updated: 2026-06-23 21:54 UTC*
 
-**1 new role(s)** since last run · 5 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 6 total in recent GovernmentJobs postings
 
-### [Environmental Specialist](https://www.governmentjobs.com/jobs/5384758-0/environmental-specialist) — City of Dublin (CA)
-- 📍 **Location:** Dublin, CA 94568
-- 💰 **Salary:** $118,164.80 - $147,721.60 Annually
+### [Environmental Specialist I/II](https://www.governmentjobs.com/jobs/4870355-0/environmental-specialist-i-ii) — Sacramento Area Sewer District (CA)
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $83,408.00 - $111,758.40 Annually

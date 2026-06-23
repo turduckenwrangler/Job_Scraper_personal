@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-22 22:27 UTC",
-  "total": 11,
+  "scraped_at": "2026-06-23 21:53 UTC",
+  "total": 12,
   "new_count": 0,
   "jobs": [
     {
@@ -99,6 +99,15 @@
       "location": "United States",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518467",
       "date_posted": "2026-05-14",
+      "salary": "$7820.00 - $10732.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Fish and Wildlife",
+      "title": "Senior Environmental Scientist (Specialist)",
+      "location": "San Joaquin County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522382",
+      "date_posted": "2026-06-23",
       "salary": "$7820.00 - $10732.00",
       "ats": "CalCareers"
     }

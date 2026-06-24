@@ -1,8 +1,35 @@
 {
-  "scraped_at": "2026-06-23 21:54 UTC",
-  "total": 6,
-  "new_count": 1,
+  "scraped_at": "2026-06-24 21:51 UTC",
+  "total": 8,
+  "new_count": 2,
   "jobs": [
+    {
+      "company": "City of Dublin (CA)",
+      "title": "Environmental Specialist",
+      "location": "Dublin, CA 94568",
+      "url": "https://www.governmentjobs.com/jobs/5384758-0/environmental-specialist",
+      "date_posted": "",
+      "salary": "$118,164.80 - $147,721.60 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of San Diego",
+      "title": "Environmental Health Specialist III-Hazardous Materials Division-26472306HMD",
+      "location": "County of San Diego, CA",
+      "url": "https://www.governmentjobs.com/jobs/5363001-0/environmental-health-specialist-iii-hazardous-materials-division-26472306hmd",
+      "date_posted": "",
+      "salary": "$90,043.20 - $110,593.60 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Oregon Department of Environmental Quality",
+      "title": "Air Quality Permit Coordinator (Administrative Specialist 1)",
+      "location": "Medford, OR ; Salem, OR",
+      "url": "https://www.governmentjobs.com/jobs/145523-1/air-quality-permit-coordinator-administrative-specialist-1",
+      "date_posted": "",
+      "salary": "$3,797.00 - $5,190.00 Monthly",
+      "ats": "NEOGOV"
+    },
     {
       "company": "Bay Area Air District",
       "title": "Senior Air Quality Specialist (Ambient Air Quality Analysis)",
@@ -40,15 +67,6 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "City of Dublin (CA)",
-      "title": "Environmental Specialist",
-      "location": "Dublin, CA 94568",
-      "url": "https://www.governmentjobs.com/jobs/5384758-0/environmental-specialist",
-      "date_posted": "",
-      "salary": "$118,164.80 - $147,721.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "Sacramento Area Sewer District (CA)",
       "title": "Environmental Specialist I/II",
       "location": "Sacramento, CA",
@@ -60,12 +78,21 @@
   ],
   "new_jobs": [
     {
-      "company": "Sacramento Area Sewer District (CA)",
-      "title": "Environmental Specialist I/II",
-      "location": "Sacramento, CA",
-      "url": "https://www.governmentjobs.com/jobs/4870355-0/environmental-specialist-i-ii",
+      "company": "County of San Diego",
+      "title": "Environmental Health Specialist III-Hazardous Materials Division-26472306HMD",
+      "location": "County of San Diego, CA",
+      "url": "https://www.governmentjobs.com/jobs/5363001-0/environmental-health-specialist-iii-hazardous-materials-division-26472306hmd",
       "date_posted": "",
-      "salary": "$83,408.00 - $111,758.40 Annually",
+      "salary": "$90,043.20 - $110,593.60 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Oregon Department of Environmental Quality",
+      "title": "Air Quality Permit Coordinator (Administrative Specialist 1)",
+      "location": "Medford, OR ; Salem, OR",
+      "url": "https://www.governmentjobs.com/jobs/145523-1/air-quality-permit-coordinator-administrative-specialist-1",
+      "date_posted": "",
+      "salary": "$3,797.00 - $5,190.00 Monthly",
       "ats": "NEOGOV"
     }
   ]

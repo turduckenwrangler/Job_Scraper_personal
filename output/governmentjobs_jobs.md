@@ -1,8 +1,12 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-06-23 21:54 UTC*
+*Last updated: 2026-06-24 21:51 UTC*
 
-**1 new role(s)** since last run · 6 total in recent GovernmentJobs postings
+**2 new role(s)** since last run · 8 total in recent GovernmentJobs postings
 
-### [Environmental Specialist I/II](https://www.governmentjobs.com/jobs/4870355-0/environmental-specialist-i-ii) — Sacramento Area Sewer District (CA)
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $83,408.00 - $111,758.40 Annually
+### [Environmental Health Specialist III-Hazardous Materials Division-26472306HMD](https://www.governmentjobs.com/jobs/5363001-0/environmental-health-specialist-iii-hazardous-materials-division-26472306hmd) — County of San Diego
+- 📍 **Location:** County of San Diego, CA
+- 💰 **Salary:** $90,043.20 - $110,593.60 Annually
+
+### [Air Quality Permit Coordinator (Administrative Specialist 1)](https://www.governmentjobs.com/jobs/145523-1/air-quality-permit-coordinator-administrative-specialist-1) — Oregon Department of Environmental Quality
+- 📍 **Location:** Medford, OR ; Salem, OR
+- 💰 **Salary:** $3,797.00 - $5,190.00 Monthly

@@ -1,53 +1,53 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-06-25 08:45 UTC*
+*Last updated: 2026-06-25 21:25 UTC*
 
-**10 new role(s)** since last run · 10 total in last 24h
+**10 new role(s)** since last run · 16 total in last 24h
 
-### [AIR POLLUTION SPECIALIST](https://www.indeed.com/viewjob?jk=ca144b09f84be102) — State Air Resources Board
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $5918–$11k/mo
+### [Air Quality Project Manager - Environmental Services (Multiple Locations)](https://www.indeed.com/viewjob?jk=18ccd7e3705d8c4c) — Burns & McDonnell
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $130k–$310k/yr
 - 🕒 **Posted:** 2026-06-25
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=38c36f2d039ef78f) — Unknown
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $25–$53/hr
-- 🕒 **Posted:** 2026-06-25
-
-### [Environmental Health Specialist III-Hazardous Materials Division](https://www.indeed.com/viewjob?jk=0c78bddb82417267) — County of San Diego
+### [Air Quality Project Manager - Environmental Services (Multiple Locations)](https://www.indeed.com/viewjob?jk=74f725be17844ed0) — Burns & McDonnell
 - 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $90k–$111k/yr
-- 🕒 **Posted:** 2026-06-24
+- 💰 **Salary:** $130k–$310k/yr
+- 🕒 **Posted:** 2026-06-25
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=e987014a37968e30) — Unknown
+### [Air Quality Project Manager - Environmental Services (Multiple Locations)](https://www.indeed.com/viewjob?jk=02ee74669f5d42ab) — Burns & McDonnell
+- 📍 **Location:** Brea, CA, US
+- 💰 **Salary:** $130k–$310k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [Environmental Scientist I/II/III - AGSC](https://www.indeed.com/viewjob?jk=776a718f05a985cd) — Ahtna, Incorporated
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $60k–$98k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=d3464eff64914dad) — California Department of Pesticide Regulation
 - 📍 **Location:** CA, US
 - 💰 **Salary:** $4418–$9321/mo
-- 🕒 **Posted:** 2026-06-24
+- 🕒 **Posted:** 2026-06-25
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=5505e415ba589b55) — Unknown
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $11k–$13k/mo
-- 🕒 **Posted:** 2026-06-24
+### [Copy of Environmental Remediation Project Manager](https://www.indeed.com/viewjob?jk=ce3acbb4b6b9aef7) — AECOM
+- 📍 **Location:** Santa Barbara, CA, US
+- 💰 **Salary:** $110k–$130k/yr
+- 🕒 **Posted:** 2026-06-25
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=152875dc4ccd99e5) — DEPARTMENT OF WATER RESOURCES
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $7820–$11k/mo
-- 🕒 **Posted:** 2026-06-24
+### [Environmental Remediation Project Manager](https://www.indeed.com/viewjob?jk=370ba245647dd4b3) — AECOM
+- 📍 **Location:** San Rafael, CA, US
+- 💰 **Salary:** $110k–$130k/yr
+- 🕒 **Posted:** 2026-06-25
 
-### [Air Quality Specialist - Senior](https://www.indeed.com/viewjob?jk=aa729afd411f15eb) — Placer County
-- 📍 **Location:** Auburn, CA, US
-- 💰 **Salary:** $46–$57/hr
-- 🕒 **Posted:** 2026-06-24
+### [Environmental Remediation Project Manager](https://www.indeed.com/viewjob?jk=282c55da6c32e5ee) — AECOM
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $110k–$130k/yr
+- 🕒 **Posted:** 2026-06-25
 
-### [Senior Air Quality Specialist, Technical Leader](https://www.indeed.com/viewjob?jk=1e83f1904c7ca84c) — Ascent Environmental
-- 📍 **Location:** Irvine, CA, US
-- 💰 **Salary:** $120k–$150k/yr
-- 🕒 **Posted:** 2026-06-24
+### [Environmental Remediation Project Manager](https://www.indeed.com/viewjob?jk=07af09b94ecfa285) — AECOM
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $110k–$130k/yr
+- 🕒 **Posted:** 2026-06-25
 
-### [Senior Environmental Scientist](https://www.indeed.com/viewjob?jk=4fcb3259f8a27b77) — QK
-- 📍 **Location:** Clovis, CA, US
-- 💰 **Salary:** $105k–$120k/yr
-- 🕒 **Posted:** 2026-06-01
-
-### [Environmental Scientist - Entry to Junior](https://www.indeed.com/viewjob?jk=50de1d5260a11c55) — Tetra Tech
-- 📍 **Location:** Portland, OR, US
-- 🕒 **Posted:** 2026-06-24
+### [Lead Environmental Compliance Advisor](https://au.indeed.com/viewjob?jk=f6bda3c382bb251b) — Santos
+- 📍 **Location:** Perth, WA, AU
+- 🕒 **Posted:** 2026-06-25

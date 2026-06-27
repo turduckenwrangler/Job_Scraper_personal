@@ -1,12 +1,16 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-06-25 22:08 UTC*
+*Last updated: 2026-06-27 20:20 UTC*
 
-**2 new role(s)** since last run · 7 total in recent GovernmentJobs postings
+**3 new role(s)** since last run · 10 total in recent GovernmentJobs postings
 
-### [Environmental Health Specialist Supervisor I/II](https://www.governmentjobs.com/jobs/5389197-0/environmental-health-specialist-supervisor-i-ii) — County of Lake
-- 📍 **Location:** Lake County, CA
-- 💰 **Salary:** $80,142.40 - $102,356.80 Annually
+### [SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)](https://www.governmentjobs.com/jobs/5390949-0/senior-environmental-specialist-environmental-compliance) — Los Angeles County Metropolitan Transportation Authority (CA)
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $95,056.00 - $142,521.60 Annually
 
-### [Senior Environmental Health Specialist](https://www.governmentjobs.com/jobs/5381149-0/senior-environmental-health-specialist) — County of Napa
-- 📍 **Location:** Napa, CA
-- 💰 **Salary:** $109,428.80 - $130,936.00 Annually
+### [Hazardous Materials Specialist I (Fire District)](https://www.governmentjobs.com/jobs/5379168-0/hazardous-materials-specialist-i-fire-district) — San Bernardino County
+- 📍 **Location:** Throughout San Bernardino County, CA
+- 💰 **Salary:** $73,486.40 - $98,737.60 Annually
+
+### [Hazardous Materials Specialist II (Fire District)](https://www.governmentjobs.com/jobs/5379179-0/hazardous-materials-specialist-ii-fire-district) — San Bernardino County
+- 📍 **Location:** Throughout San Bernardino County, CA
+- 💰 **Salary:** $77,209.60 - $103,812.80 Annually

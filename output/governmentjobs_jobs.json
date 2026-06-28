@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-27 20:20 UTC",
+  "scraped_at": "2026-06-28 20:42 UTC",
   "total": 10,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
@@ -94,33 +94,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
-      "title": "SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/5390949-0/senior-environmental-specialist-environmental-compliance",
-      "date_posted": "",
-      "salary": "$95,056.00 - $142,521.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "San Bernardino County",
-      "title": "Hazardous Materials Specialist I (Fire District)",
-      "location": "Throughout San Bernardino County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5379168-0/hazardous-materials-specialist-i-fire-district",
-      "date_posted": "",
-      "salary": "$73,486.40 - $98,737.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "San Bernardino County",
-      "title": "Hazardous Materials Specialist II (Fire District)",
-      "location": "Throughout San Bernardino County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5379179-0/hazardous-materials-specialist-ii-fire-district",
-      "date_posted": "",
-      "salary": "$77,209.60 - $103,812.80 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }

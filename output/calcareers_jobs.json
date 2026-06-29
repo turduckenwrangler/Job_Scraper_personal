@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-28 20:39 UTC",
-  "total": 13,
+  "scraped_at": "2026-06-29 21:20 UTC",
+  "total": 10,
   "new_count": 0,
   "jobs": [
     {
@@ -68,38 +68,11 @@
     },
     {
       "company": "Department of Parks & Recreation",
-      "title": "ENVIRONMENTAL SCIENTIST (PI)",
-      "location": "Santa Cruz County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522611",
-      "date_posted": "2026-06-24",
-      "salary": "$25.48 - $53.77",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Resources Recycling & Recovery",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522430",
-      "date_posted": "2026-06-23",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522744",
+      "date_posted": "2026-06-29",
       "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Senior Environmental Scientist (Specialist)",
-      "location": "San Joaquin County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522382",
-      "date_posted": "2026-06-23",
-      "salary": "$7820.00 - $10732.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Senior Environmental Scientist (Specialist)",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521406",
-      "date_posted": "2026-06-22",
-      "salary": "$7820.00 - $10732.00",
       "ats": "CalCareers"
     },
     {

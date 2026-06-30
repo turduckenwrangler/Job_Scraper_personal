@@ -1,9 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-30 08:55 UTC*
+*Last updated: 2026-06-30 21:27 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Senior Environmental Project Manager (Oil, Gas, Remediation)](https://www.linkedin.com/jobs/view/4434157658/) — AECOM
-- 📍 **Location:** Orange, CA
+### [Senior Environmental Project Manager (Oil, Gas, Remediation)](https://www.linkedin.com/jobs/view/4434162281/) — AECOM
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $125000 to $200000
+- 🕒 **Posted:** 2026-06-30
+
+### [Senior Environmental Project Manager (Oil, Gas, Remediation)](https://www.linkedin.com/jobs/view/4434147991/) — AECOM
+- 📍 **Location:** Westlake Village, CA
 - 💰 **Salary:** $125000 to $200000
 - 🕒 **Posted:** 2026-06-30

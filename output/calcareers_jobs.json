@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-29 21:20 UTC",
+  "scraped_at": "2026-06-30 21:48 UTC",
   "total": 10,
   "new_count": 0,
   "jobs": [
@@ -67,21 +67,21 @@
       "ats": "CalCareers"
     },
     {
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522430",
+      "date_posted": "2026-06-23",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "Department of Parks & Recreation",
       "title": "ENVIRONMENTAL SCIENTIST",
       "location": "Alameda County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522744",
       "date_posted": "2026-06-29",
       "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Environmental Health Hazard Assessment Office",
-      "title": "Environmental Health Education and Community Science Program Specialist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518467",
-      "date_posted": "2026-05-14",
-      "salary": "$7820.00 - $10732.00",
       "ats": "CalCareers"
     },
     {

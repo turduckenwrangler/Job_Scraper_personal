@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-06-29 21:46 UTC",
-  "total": 4,
-  "new_count": 0,
+  "scraped_at": "2026-06-30 21:51 UTC",
+  "total": 7,
+  "new_count": 3,
   "jobs": [
+    {
+      "company": "County of Mendocino",
+      "title": "Environmental Health Specialist I",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5390864-0/environmental-health-specialist-i",
+      "date_posted": "",
+      "salary": "$60,403.20 - $73,403.20 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Mendocino",
+      "title": "Environmental Health Specialist II",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5390899-0/environmental-health-specialist-ii",
+      "date_posted": "",
+      "salary": "$66,601.60 - $80,932.80 Annually",
+      "ats": "NEOGOV"
+    },
     {
       "company": "County of Lake",
       "title": "Environmental Health Specialist Supervisor I/II",
@@ -19,6 +37,15 @@
       "url": "https://www.governmentjobs.com/jobs/5363001-0/environmental-health-specialist-iii-hazardous-materials-division-26472306hmd",
       "date_posted": "",
       "salary": "$94,286.40 - $115,814.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Eureka",
+      "title": "Water Quality Supervisor",
+      "location": "WWTP - 4301 Hilfiker Lane Eureka CA 95501, CA",
+      "url": "https://www.governmentjobs.com/jobs/5392061-0/water-quality-supervisor",
+      "date_posted": "",
+      "salary": "$69,300.00 - $84,228.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -40,5 +67,33 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "County of Mendocino",
+      "title": "Environmental Health Specialist I",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5390864-0/environmental-health-specialist-i",
+      "date_posted": "",
+      "salary": "$60,403.20 - $73,403.20 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Mendocino",
+      "title": "Environmental Health Specialist II",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5390899-0/environmental-health-specialist-ii",
+      "date_posted": "",
+      "salary": "$66,601.60 - $80,932.80 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Eureka",
+      "title": "Water Quality Supervisor",
+      "location": "WWTP - 4301 Hilfiker Lane Eureka CA 95501, CA",
+      "url": "https://www.governmentjobs.com/jobs/5392061-0/water-quality-supervisor",
+      "date_posted": "",
+      "salary": "$69,300.00 - $84,228.00 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }

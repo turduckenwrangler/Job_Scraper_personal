@@ -1,14 +1,27 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-02 20:20 UTC*
+*Last updated: 2026-07-02 23:58 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4432802863/) — Triumvirate Environmental
-- 📍 **Location:** Burbank, CA
-- 💰 **Salary:** $24 USD - $24 USD
+### [Staff Air Pollution Specialist](https://www.linkedin.com/jobs/view/4436421926/) — California Air Resources Board
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $10,521.00/mo - $13,173.00/mo
 - 🕒 **Posted:** 2026-07-02
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4432598903/) — Triumvirate Environmental
-- 📍 **Location:** Glendale, CA
-- 💰 **Salary:** $24 USD - $24 USD
+### [STAFF AIR POLLUTION SPECIALIST](https://www.linkedin.com/jobs/view/4436434388/) — California Air Resources Board
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $10,521.00/mo - $13,173.00/mo
+- 🕒 **Posted:** 2026-07-02
+
+### [Natural Resource Specialist 3 (Water Quality Specialist)](https://www.linkedin.com/jobs/view/4436430779/) — State of Oregon
+- 📍 **Location:** Salem, OR
+- 💰 **Salary:** $5,458.00/mo - $8,352.00/mo
+- 🕒 **Posted:** 2026-07-02
+
+### [Quality Control Scientist I/II, Environmental Monitoring/Microbiology](https://www.linkedin.com/jobs/view/4436435792/) — Serán BioScience
+- 📍 **Location:** Bend, OR
+- 🕒 **Posted:** 2026-07-02
+
+### [Environmental Compliance Analyst](https://www.linkedin.com/jobs/view/4433121831/) — City of Bend
+- 📍 **Location:** Bend, OR
 - 🕒 **Posted:** 2026-07-02

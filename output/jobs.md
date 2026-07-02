@@ -1,13 +1,13 @@
 # 🏛 Priority Employers — Environmental / Toxicology Roles
-*Last updated: 2026-07-01 13:39 UTC*
+*Last updated: 2026-07-02 12:08 UTC*
 
 **2 new role(s)** since last run · 2 total in last 24h
 
-### [Senior/Associate Consultant - Land Quality & Remediation](https://www.linkedin.com/jobs/view/4432341176/) — SLR Consulting
-- 📍 **Location:** Perth, Western Australia, Australia
-- 🕒 **Posted:** 2026-07-01
+### [Environmental Chemist/Scientist](https://www.linkedin.com/jobs/view/4436198320/) — Integral Consulting Inc.
+- 📍 **Location:** Santa Cruz, CA
+- 🕒 **Posted:** 2026-07-02
 
-### [Air Pollution Specialist](https://www.linkedin.com/jobs/view/4435325978/) — California Air Resources Board
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $5,918.00/mo - $11,455.00/mo
-- 🕒 **Posted:** 2026-06-30
+### [Senior Environmental Project Manager (Oil, Gas, Remediation)](https://www.linkedin.com/jobs/view/4434165150/) — AECOM
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $125000 to $200000
+- 🕒 **Posted:** 2026-07-01

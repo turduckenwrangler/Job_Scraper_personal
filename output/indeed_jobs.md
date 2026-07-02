@@ -1,18 +1,23 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-02 08:40 UTC*
+*Last updated: 2026-07-02 20:38 UTC*
 
-**3 new role(s)** since last run · 3 total in last 24h
+**4 new role(s)** since last run · 5 total in last 24h
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=832381c971d76864) — Department of Toxic Substances Control
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $11k–$13k/mo
+### [Agricultural Water Quality Specialist](https://www.indeed.com/viewjob?jk=20abdf103cd53964) — Unknown
+- 📍 **Location:** Salinas, CA, US
+- 💰 **Salary:** $38–$58/hr
 - 🕒 **Posted:** 2026-07-02
 
-### [PRINCIPAL AIR QUALITY SPECIALIST](https://www.indeed.com/viewjob?jk=bedaeb7d616fce5c) — Bay Area Air Quality Management District
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-07-01
+### [Director of Risk Assessment](https://www.indeed.com/viewjob?jk=30ec142545629017) — Cambridge Healthcare Services
+- 📍 **Location:** Buena Park, CA, US
+- 💰 **Salary:** $165k–$180k/yr
+- 🕒 **Posted:** 2026-07-02
 
-### [Hazardous Materials Specialist I/II/III (Open & Promotional)](https://www.indeed.com/viewjob?jk=3c96e91ce247e5eb) — County of San Mateo
-- 📍 **Location:** San Mateo, CA, US
-- 💰 **Salary:** $7959–$12k/mo
-- 🕒 **Posted:** 2026-07-01
+### [Environmental Scientist/Fish Biologist](https://www.indeed.com/viewjob?jk=c0492894071ddefa) — Point Environmental LLC
+- 📍 **Location:** Oregon City, OR, US
+- 💰 **Salary:** $25–$30/hr
+- 🕒 **Posted:** 2026-07-02
+
+### [Environmental Health Officer](https://au.indeed.com/viewjob?jk=142db0aed652664c) — City of Melville
+- 📍 **Location:** AU
+- 🕒 **Posted:** 2026-07-02

@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-01 21:20 UTC",
-  "total": 9,
+  "scraped_at": "2026-07-02 20:39 UTC",
+  "total": 10,
   "new_count": 0,
   "jobs": [
     {
@@ -9,15 +9,6 @@
       "location": "Riverside County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520546",
       "date_posted": "2026-06-05",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Transportation",
-      "title": "Environmental Scientist (Biologist)",
-      "location": "San Joaquin County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521506",
-      "date_posted": "2026-06-12",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -49,6 +40,15 @@
       "ats": "CalCareers"
     },
     {
+      "company": "Department of Transportation",
+      "title": "Environmental Scientist (Biologist)",
+      "location": "San Joaquin County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521506",
+      "date_posted": "2026-06-12",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "Department of Pesticide Regulation",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
@@ -64,6 +64,15 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522430",
       "date_posted": "2026-06-23",
       "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Parks & Recreation",
+      "title": "ENVIRONMENTAL SCIENTIST (PI)",
+      "location": "Santa Cruz County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522611",
+      "date_posted": "2026-06-24",
+      "salary": "$25.48 - $53.77",
       "ats": "CalCareers"
     },
     {

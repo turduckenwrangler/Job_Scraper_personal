@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-02 20:42 UTC",
+  "scraped_at": "2026-07-03 20:36 UTC",
   "total": 14,
   "new_count": 0,
   "jobs": [
@@ -28,6 +28,15 @@
       "url": "https://www.governmentjobs.com/jobs/5389197-0/environmental-health-specialist-supervisor-i-ii",
       "date_posted": "",
       "salary": "$82,950.40 - $105,934.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of San Diego",
+      "title": "Environmental Health Specialist III-Hazardous Materials Division-26472306HMD",
+      "location": "County of San Diego, CA",
+      "url": "https://www.governmentjobs.com/jobs/5363001-0/environmental-health-specialist-iii-hazardous-materials-division-26472306hmd",
+      "date_posted": "",
+      "salary": "$94,286.40 - $115,814.40 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -82,15 +91,6 @@
       "url": "https://www.governmentjobs.com/jobs/5391892-0/hazardous-materials-specialist-i-ii-iii-open-promotional",
       "date_posted": "",
       "salary": "$7,959.47 - $12,367.33 Monthly",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of San Diego",
-      "title": "Environmental Health Specialist III-Hazardous Materials Division-26472306HMD",
-      "location": "County of San Diego, CA",
-      "url": "https://www.governmentjobs.com/jobs/5363001-0/environmental-health-specialist-iii-hazardous-materials-division-26472306hmd",
-      "date_posted": "",
-      "salary": "$94,286.40 - $115,814.40 Annually",
       "ats": "NEOGOV"
     },
     {

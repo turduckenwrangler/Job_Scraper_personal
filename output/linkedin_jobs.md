@@ -1,27 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-02 23:58 UTC*
+*Last updated: 2026-07-03 10:26 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Staff Air Pollution Specialist](https://www.linkedin.com/jobs/view/4436421926/) — California Air Resources Board
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $10,521.00/mo - $13,173.00/mo
-- 🕒 **Posted:** 2026-07-02
+### [Project Lead, Asbestos and Hazardous Materials](https://www.linkedin.com/jobs/view/4375787680/) — NV5
+- 📍 **Location:** Torrance, CA
+- 💰 **Salary:** $30-$40 per hour
+- 🕒 **Posted:** 2026-07-03
 
-### [STAFF AIR POLLUTION SPECIALIST](https://www.linkedin.com/jobs/view/4436434388/) — California Air Resources Board
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $10,521.00/mo - $13,173.00/mo
-- 🕒 **Posted:** 2026-07-02
-
-### [Natural Resource Specialist 3 (Water Quality Specialist)](https://www.linkedin.com/jobs/view/4436430779/) — State of Oregon
-- 📍 **Location:** Salem, OR
-- 💰 **Salary:** $5,458.00/mo - $8,352.00/mo
-- 🕒 **Posted:** 2026-07-02
-
-### [Quality Control Scientist I/II, Environmental Monitoring/Microbiology](https://www.linkedin.com/jobs/view/4436435792/) — Serán BioScience
-- 📍 **Location:** Bend, OR
-- 🕒 **Posted:** 2026-07-02
-
-### [Environmental Compliance Analyst](https://www.linkedin.com/jobs/view/4433121831/) — City of Bend
-- 📍 **Location:** Bend, OR
-- 🕒 **Posted:** 2026-07-02
+### [Water Resources Management Market Sector Leader](https://www.linkedin.com/jobs/view/4395921113/) — HDR
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $168,000 - $250,000
+- 🕒 **Posted:** 2026-07-03

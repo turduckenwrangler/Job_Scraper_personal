@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-03 23:54 UTC*
+*Last updated: 2026-07-04 09:17 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Senior Air Quality Consultant](https://www.linkedin.com/jobs/view/4427200744/) — NV5
+- 📍 **Location:** Torrance, CA
+- 💰 **Salary:** $120,000- $170,000 per year
+- 🕒 **Posted:** 2026-07-04

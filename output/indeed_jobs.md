@@ -1,24 +1,37 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-07 10:40 UTC*
+*Last updated: 2026-07-08 06:46 UTC*
 
-**4 new role(s)** since last run · 4 total in last 24h
+**7 new role(s)** since last run · 7 total in last 24h
 
-### [AIR POLLUTION SPECIALIST](https://www.indeed.com/viewjob?jk=da8c58f8cc327664) — Unknown
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=711e7557044de566) — Department Of Parks & Recreation
 - 📍 **Location:** CA, US
-- 💰 **Salary:** $5918–$11k/mo
+- 💰 **Salary:** $39–$53/hr
+- 🕒 **Posted:** 2026-07-08
+
+### [Environmental Scientist I/II/III - AGSC](https://www.indeed.com/viewjob?jk=df22d294b8f79e5b) — Ahtna, Incorporated
+- 📍 **Location:** Santa Rosa, CA, US
+- 💰 **Salary:** $60k–$98k/yr
 - 🕒 **Posted:** 2026-07-07
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=853ceb2fb0240703) — Department of Resources Recycling & Recovery
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
+### [Assistant Environmental Health Specialist/ Environmental Health Specialist I & II](https://www.indeed.com/viewjob?jk=cb7185ea8ed994d0) — Lassen County Planning & Building Services Division
+- 📍 **Location:** Susanville, CA, US
+- 💰 **Salary:** $25–$43/hr
 - 🕒 **Posted:** 2026-07-07
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=88d8dca42fa7865b) — CA HIGH SPEED RAIL AUTHORITY
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $11k–$13k/mo
+### [Senior Remediation Construction Manager - Downstream & Legacy Sites](https://www.indeed.com/viewjob?jk=afc5b36afd039fd7) — GHD
+- 📍 **Location:** Guadalupe, CA, US
+- 💰 **Salary:** $98k–$162k/yr
 - 🕒 **Posted:** 2026-07-07
 
-### [Environmental Scientist - Rancho Cordova, CA](https://www.indeed.com/viewjob?jk=494aa751d17df157) — Wilson Construction Company
-- 📍 **Location:** Rancho Cordova, CA, US
-- 💰 **Salary:** $80k–$110k/yr
-- 🕒 **Posted:** 2026-07-06
+### [Natural Resource Protection and Sustainability Manager 1 - Water Quality and Monitoring Unit Manager](https://www.indeed.com/viewjob?jk=6b5945d2623f9b17) — Forestry Department
+- 📍 **Location:** Salem, OR, US
+- 💰 **Salary:** $6834–$11k/mo
+- 🕒 **Posted:** 2026-07-07
+
+### [Project Manager | Client Onboarding & Risk Assessment Uplift](https://au.indeed.com/viewjob?jk=d98681ee13ee1fe0) — PwC
+- 📍 **Location:** Southbank, VIC, AU
+- 🕒 **Posted:** 2026-07-08
+
+### [Project Manager | Client Onboarding & Risk Assessment Uplift](https://au.indeed.com/viewjob?jk=9d1f06f1233edaeb) — PwC
+- 📍 **Location:** Sydney, NSW, AU
+- 🕒 **Posted:** 2026-07-08

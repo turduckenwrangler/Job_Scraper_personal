@@ -1,6 +1,9 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-08 20:40 UTC*
+*Last updated: 2026-07-09 09:02 UTC*
 
-**0 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Environmental Scientist](https://www.indeed.com/viewjob?jk=58751391fd308660) — GHD
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $72k–$120k/yr
+- 🕒 **Posted:** 2026-07-08

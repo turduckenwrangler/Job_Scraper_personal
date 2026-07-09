@@ -1,9 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-08 20:25 UTC*
+*Last updated: 2026-07-09 09:01 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Environmental Health Specialist](https://www.linkedin.com/jobs/view/4438506059/) — Alpine County District Atty
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $36.49 - $44.36/hour
-- 🕒 **Posted:** 2026-07-08
+No new roles since the last run.

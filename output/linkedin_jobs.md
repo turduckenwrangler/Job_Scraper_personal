@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-10 20:16 UTC*
+*Last updated: 2026-07-10 23:44 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Project Manager 3 - Watershed Planning](https://www.linkedin.com/jobs/view/4439381022/) — Clean Water Services
+- 📍 **Location:** Hillsboro, OR
+- 💰 **Salary:** $48.83/hr - $61.04/hr
+- 🕒 **Posted:** 2026-07-10

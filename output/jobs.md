@@ -1,19 +1,18 @@
 # 🏛 Priority Employers — Environmental / Toxicology Roles
-*Last updated: 2026-07-08 11:04 UTC*
+*Last updated: 2026-07-10 12:48 UTC*
 
 **3 new role(s)** since last run · 3 total in last 24h
 
-### [Principal Toxicologist (Ph.D.)](https://www.linkedin.com/jobs/view/4322069915/) — Exponent
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** USD $200,000.00 - USD $300,000.00 /Yr
-- 🕒 **Posted:** 2026-07-07
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4438886148/) — Tetra Tech
+- 📍 **Location:** Rancho Cordova, CA
+- 💰 **Salary:** $70,304 - $80,000,
+- 🕒 **Posted:** 2026-07-10
 
-### [Operational Environmental Compliance Project Manager (Hybrid)](https://www.linkedin.com/jobs/view/4432437901/) — Tetra Tech
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $95,000-$130,000
-- 🕒 **Posted:** 2026-07-07
+### [Experienced Environmental Data Manager](https://www.linkedin.com/jobs/view/4418835934/) — Geosyntec Consultants
+- 📍 **Location:** Ventura, CA
+- 💰 **Salary:** $97,255/year - $145,940/year
+- 🕒 **Posted:** 2026-07-09
 
-### [Environmental Compliance Project Manager (Hybrid)](https://www.linkedin.com/jobs/view/4432455022/) — Tetra Tech
+### [Senior / Principal Sediment Remediation Practitioner](https://www.linkedin.com/jobs/view/4401115497/) — Geosyntec Consultants
 - 📍 **Location:** Portland, OR
-- 💰 **Salary:** $100,000-$150,000
-- 🕒 **Posted:** 2026-07-07
+- 🕒 **Posted:** 2026-07-09

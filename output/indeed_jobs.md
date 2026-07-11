@@ -1,9 +1,9 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-11 06:25 UTC*
+*Last updated: 2026-07-11 18:39 UTC*
 
 **1 new role(s)** since last run · 2 total in last 24h
 
-### [Assistant Water Resources Specialist I/II (Limited Term)](https://www.indeed.com/viewjob?jk=c41c33cfde9c39cf) — Valley Water
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $118k–$167k/yr
+### [Project Manager 3 - Watershed Planning](https://www.indeed.com/viewjob?jk=aa308b5b475b1e4d) — Clean Water Services
+- 📍 **Location:** Hillsboro, OR, US
+- 💰 **Salary:** $48–$67/hr
 - 🕒 **Posted:** 2026-07-10

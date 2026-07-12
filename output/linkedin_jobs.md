@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-12 07:59 UTC*
+*Last updated: 2026-07-12 18:22 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [SFDK Water Quality and Life Support Area Manager $80,000-$95,000/Year](https://www.linkedin.com/jobs/view/4438973779/) — Six Flags Entertainment Corporation
-- 📍 **Location:** Vallejo, CA
-- 💰 **Salary:** $80,000-$95,000/Year
+### [Environmental Scientist/Geologist](https://www.linkedin.com/jobs/view/4430992749/) — APTIM
+- 📍 **Location:** Concord, CA
+- 💰 **Salary:** $43.00 - $49.00 Per Hour
 - 🕒 **Posted:** 2026-07-12

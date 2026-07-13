@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-13 00:22 UTC*
+*Last updated: 2026-07-13 11:53 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Sr. Environmental Analyst](https://www.linkedin.com/jobs/view/4440017519/) — PacifiCorp
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $102,000-$140,250
+- 🕒 **Posted:** 2026-07-13

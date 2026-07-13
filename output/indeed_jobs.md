@@ -1,6 +1,9 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-13 08:37 UTC*
+*Last updated: 2026-07-13 20:35 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Environmental Specialist](https://www.indeed.com/viewjob?jk=63c355501eb0cc16) — Republic Services
+- 📍 **Location:** Santee, CA, US
+- 💰 **Salary:** $75k–$103k/yr
+- 🕒 **Posted:** 2026-07-13

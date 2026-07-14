@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-14 07:33 UTC*
+*Last updated: 2026-07-14 20:02 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Environmental Science Educator - Yosemite](https://www.linkedin.com/jobs/view/4440826326/) — NatureBridge
+- 📍 **Location:** El Portal, CA
+- 🕒 **Posted:** 2026-07-14

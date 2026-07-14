@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-13 20:38 UTC",
+  "scraped_at": "2026-07-14 20:35 UTC",
   "total": 7,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -67,15 +67,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County of San Mateo",
-      "title": "Hazardous Materials Specialist I/II/III (Open & Promotional)",
-      "location": "San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5391892-0/hazardous-materials-specialist-i-ii-iii-open-promotional",
-      "date_posted": "",
-      "salary": "$7,959.47 - $12,367.33 Monthly",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }

@@ -1,6 +1,29 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-13 23:39 UTC*
+*Last updated: 2026-07-14 07:23 UTC*
 
-**0 new role(s)** since last run · 1 total in last 24h
+**5 new role(s)** since last run · 6 total in last 24h
 
-No new roles since the last run.
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=87ad5965798a2959) — DEPARTMENT OF FISH AND WILDLIFE
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-07-14
+
+### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=6054214644fc1183) — CA HIGH SPEED RAIL AUTHORITY
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $11k–$13k/mo
+- 🕒 **Posted:** 2026-07-14
+
+### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=2c9ea067369fc7cd) — DEPARTMENT OF FISH AND WILDLIFE
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $11k–$13k/mo
+- 🕒 **Posted:** 2026-07-14
+
+### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=077140e43e506bae) — CA HIGH SPEED RAIL AUTHORITY
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $11k–$13k/mo
+- 🕒 **Posted:** 2026-07-14
+
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=d954c52edc058d88) — California Department of Pesticide Regulation
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-07-14

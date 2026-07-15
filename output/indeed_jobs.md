@@ -1,9 +1,9 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-14 23:37 UTC*
+*Last updated: 2026-07-15 07:28 UTC*
 
-**1 new role(s)** since last run · 8 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-### [Senior Water Quality Program Specialist](https://www.indeed.com/viewjob?jk=aebda790f673cde4) — City of Gresham, OR
-- 📍 **Location:** Gresham, OR, US
-- 💰 **Salary:** $81k–$103k/yr
-- 🕒 **Posted:** 2026-07-13
+### [Senior Project Manager/Environmental Scientist](https://www.indeed.com/viewjob?jk=8c47e93d91998d9a) — GHD
+- 📍 **Location:** Irvine, CA, US
+- 💰 **Salary:** $85k–$145k/yr
+- 🕒 **Posted:** 2026-07-14

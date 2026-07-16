@@ -1,6 +1,39 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-16 00:10 UTC*
+*Last updated: 2026-07-16 09:26 UTC*
 
-**0 new role(s)** since last run · 2 total in last 24h
+**7 new role(s)** since last run · 8 total in last 24h
 
-No new roles since the last run.
+### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=376b7f437f820801) — DEPARTMENT OF FISH AND WILDLIFE
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $7820–$11k/mo
+- 🕒 **Posted:** 2026-07-16
+
+### [Qualified SWPPP Developer (QSD) / Senior Environmental Compliance Specialist](https://www.indeed.com/viewjob?jk=798f147128054b60) — BKF Engineers
+- 📍 **Location:** Santa Rosa, CA, US
+- 💰 **Salary:** $100k–$145k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Qualified SWPPP Developer (QSD) / Senior Environmental Compliance Specialist](https://www.indeed.com/viewjob?jk=8d4796f4dd239081) — BKF Engineers
+- 📍 **Location:** Walnut Creek, CA, US
+- 💰 **Salary:** $100k–$145k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Qualified SWPPP Developer (QSD) / Senior Environmental Compliance Specialist](https://www.indeed.com/viewjob?jk=642dee9b77211bb7) — BKF Engineers
+- 📍 **Location:** Pleasanton, CA, US
+- 💰 **Salary:** $100k–$145k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Qualified SWPPP Developer (QSD) / Senior Environmental Compliance Specialist](https://www.indeed.com/viewjob?jk=8d0e55e9d0202741) — BKF Engineers
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $100k–$145k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Qualified SWPPP Developer (QSD) / Senior Environmental Compliance Specialist](https://www.indeed.com/viewjob?jk=e992e41b8987c0ad) — BKF Engineers
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $100k–$145k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Qualified SWPPP Developer (QSD) / Senior Environmental Compliance Specialist](https://www.indeed.com/viewjob?jk=3edb3a8e3938b0c3) — BKF Engineers
+- 📍 **Location:** Redwood City, CA, US
+- 💰 **Salary:** $100k–$145k/yr
+- 🕒 **Posted:** 2026-07-16

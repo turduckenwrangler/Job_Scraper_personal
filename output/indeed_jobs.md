@@ -1,9 +1,6 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-16 19:45 UTC*
+*Last updated: 2026-07-16 23:12 UTC*
 
-**1 new role(s)** since last run · 8 total in last 24h
+**0 new role(s)** since last run · 8 total in last 24h
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=0f2ed60b9ab695b0) — Department of Resources Recycling & Recovery
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $7820–$11k/mo
-- 🕒 **Posted:** 2026-07-16
+No new roles since the last run.

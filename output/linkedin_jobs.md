@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-15 22:48 UTC*
+*Last updated: 2026-07-16 07:41 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Principal Environmental Specialist](https://www.linkedin.com/jobs/view/4437745184/) — Egis in ANZ
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 🕒 **Posted:** 2026-07-16

@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-15 20:17 UTC",
-  "total": 7,
+  "scraped_at": "2026-07-16 19:46 UTC",
+  "total": 6,
   "new_count": 0,
   "jobs": [
     {
@@ -55,15 +55,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524628",
       "date_posted": "2026-07-13",
       "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Senior Environmental Scientist",
-      "location": "Humboldt County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524940",
-      "date_posted": "2026-07-15",
-      "salary": "$7820.00 - $10732.00",
       "ats": "CalCareers"
     }
   ],

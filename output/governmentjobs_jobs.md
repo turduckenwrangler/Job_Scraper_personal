@@ -1,19 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-07-16 19:52 UTC*
+*Last updated: 2026-07-17 20:13 UTC*
 
-**4 new role(s)** since last run · 7 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 8 total in recent GovernmentJobs postings
 
-### [PRINCIPAL AIR QUALITY SPECIALIST](https://www.governmentjobs.com/jobs/5395242-0/principal-air-quality-specialist) — Bay Area Air District
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $138,567.88 - $168,430.13 Annually
-
-### [Environmental Specialist I](https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i) — Carlsbad, City of (CA)
-- 📍 **Location:** Carlsbad, CA
-- 💰 **Salary:** $69,721.60 - $84,822.40 Annually
-
-### [Environmental Specialist IV](https://www.governmentjobs.com/jobs/5398391-0/environmental-specialist-iv) — County of Sacramento
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $127,263.60 - $140,313.60 Annually
-
-### [SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)](https://www.governmentjobs.com/jobs/145960-1/senior-environmental-specialist-environmental-compliance) — LA METRO
-- 📍 **Location:** Los Angeles, CA
+### [Water Quality Project Manager](https://www.governmentjobs.com/jobs/5402120-0/water-quality-project-manager) — City of Naples
+- 📍 **Location:** 295 Riverside Circle Naples, FL
+- 💰 **Salary:** $90,402.00 - $140,123.00 Annually

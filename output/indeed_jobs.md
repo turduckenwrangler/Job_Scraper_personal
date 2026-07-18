@@ -1,9 +1,9 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-17 22:33 UTC*
+*Last updated: 2026-07-18 06:28 UTC*
 
-**1 new role(s)** since last run · 4 total in last 24h
+**1 new role(s)** since last run · 3 total in last 24h
 
-### [Director, Toxicology](https://www.indeed.com/viewjob?jk=7b9e67594a2be4a5) — Rippling
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $226k–$280k/yr
+### [Environmental Scientist/Geoscientist](https://www.indeed.com/viewjob?jk=a530beb089012072) — GHD
+- 📍 **Location:** Roseville, CA, US
+- 💰 **Salary:** $68k–$116k/yr
 - 🕒 **Posted:** 2026-07-17

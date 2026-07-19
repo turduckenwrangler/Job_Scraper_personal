@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-18 20:07 UTC",
+  "scraped_at": "2026-07-19 20:11 UTC",
   "total": 7,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -31,12 +31,12 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Bay Area Air District",
-      "title": "PRINCIPAL AIR QUALITY SPECIALIST",
-      "location": "San Francisco, CA",
-      "url": "https://www.governmentjobs.com/jobs/5395242-0/principal-air-quality-specialist",
+      "company": "County of San Mateo",
+      "title": "Hazardous Materials Specialist I/II/III (Open & Promotional)",
+      "location": "San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5391892-0/hazardous-materials-specialist-i-ii-iii-open-promotional",
       "date_posted": "",
-      "salary": "$138,567.88 - $168,430.13 Annually",
+      "salary": "$7,959.47 - $12,367.33 Monthly",
       "ats": "NEOGOV"
     },
     {
@@ -67,5 +67,15 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "County of San Mateo",
+      "title": "Hazardous Materials Specialist I/II/III (Open & Promotional)",
+      "location": "San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5391892-0/hazardous-materials-specialist-i-ii-iii-open-promotional",
+      "date_posted": "",
+      "salary": "$7,959.47 - $12,367.33 Monthly",
+      "ats": "NEOGOV"
+    }
+  ]
 }

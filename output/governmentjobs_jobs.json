@@ -1,24 +1,42 @@
 {
-  "scraped_at": "2026-07-19 20:11 UTC",
-  "total": 7,
-  "new_count": 1,
+  "scraped_at": "2026-07-20 20:51 UTC",
+  "total": 9,
+  "new_count": 5,
   "jobs": [
     {
-      "company": "County of Mendocino",
-      "title": "Environmental Health Specialist I",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5390864-0/environmental-health-specialist-i",
+      "company": "LA METRO",
+      "title": "SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)",
+      "location": "Los Angeles, CA",
+      "url": "https://www.governmentjobs.com/jobs/145960-1/senior-environmental-specialist-environmental-compliance",
       "date_posted": "",
-      "salary": "$60,403.20 - $73,403.20 Annually",
+      "salary": "",
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Mendocino",
-      "title": "Environmental Health Specialist II",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5390899-0/environmental-health-specialist-ii",
+      "company": "County of Sonoma (CA)",
+      "title": "Environmental Health Specialist I",
+      "location": "Santa Rosa, CA",
+      "url": "https://www.governmentjobs.com/jobs/5404181-0/environmental-health-specialist-i",
       "date_posted": "",
-      "salary": "$66,601.60 - $80,932.80 Annually",
+      "salary": "$96,111.88 - $116,836.98 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Sonoma (CA)",
+      "title": "Environmental Health Specialist II",
+      "location": "Santa Rosa, CA",
+      "url": "https://www.governmentjobs.com/jobs/5404187-0/environmental-health-specialist-ii",
+      "date_posted": "",
+      "salary": "$103,938.58 - $126,333.37 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Kern County",
+      "title": "Environmental Health Specialist-In Training",
+      "location": "Bakersfield, CA",
+      "url": "https://www.governmentjobs.com/jobs/5413929-0/environmental-health-specialist-in-training",
+      "date_posted": "",
+      "salary": "$4,701.62 - $5,618.88 Monthly",
       "ats": "NEOGOV"
     },
     {
@@ -31,12 +49,21 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of San Mateo",
-      "title": "Hazardous Materials Specialist I/II/III (Open & Promotional)",
-      "location": "San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5391892-0/hazardous-materials-specialist-i-ii-iii-open-promotional",
+      "company": "Regional Government Services",
+      "title": "Air Quality Specialist I for the Feather River Air Quality Management District",
+      "location": "Yuba City, CA",
+      "url": "https://www.governmentjobs.com/jobs/5410101-0/air-quality-specialist-i-for-the-feather-river-air-quality-management-district",
       "date_posted": "",
-      "salary": "$7,959.47 - $12,367.33 Monthly",
+      "salary": "$67,056.00 - $85,584.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Bay Area Air District",
+      "title": "PRINCIPAL AIR QUALITY SPECIALIST",
+      "location": "San Francisco, CA",
+      "url": "https://www.governmentjobs.com/jobs/5395242-0/principal-air-quality-specialist",
+      "date_posted": "",
+      "salary": "$138,567.88 - $168,430.13 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -56,25 +83,52 @@
       "date_posted": "",
       "salary": "$127,263.60 - $140,313.60 Annually",
       "ats": "NEOGOV"
-    },
-    {
-      "company": "LA METRO",
-      "title": "SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/145960-1/senior-environmental-specialist-environmental-compliance",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "County of San Mateo",
-      "title": "Hazardous Materials Specialist I/II/III (Open & Promotional)",
-      "location": "San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5391892-0/hazardous-materials-specialist-i-ii-iii-open-promotional",
+      "company": "County of Sonoma (CA)",
+      "title": "Environmental Health Specialist I",
+      "location": "Santa Rosa, CA",
+      "url": "https://www.governmentjobs.com/jobs/5404181-0/environmental-health-specialist-i",
       "date_posted": "",
-      "salary": "$7,959.47 - $12,367.33 Monthly",
+      "salary": "$96,111.88 - $116,836.98 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Sonoma (CA)",
+      "title": "Environmental Health Specialist II",
+      "location": "Santa Rosa, CA",
+      "url": "https://www.governmentjobs.com/jobs/5404187-0/environmental-health-specialist-ii",
+      "date_posted": "",
+      "salary": "$103,938.58 - $126,333.37 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Kern County",
+      "title": "Environmental Health Specialist-In Training",
+      "location": "Bakersfield, CA",
+      "url": "https://www.governmentjobs.com/jobs/5413929-0/environmental-health-specialist-in-training",
+      "date_posted": "",
+      "salary": "$4,701.62 - $5,618.88 Monthly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Regional Government Services",
+      "title": "Air Quality Specialist I for the Feather River Air Quality Management District",
+      "location": "Yuba City, CA",
+      "url": "https://www.governmentjobs.com/jobs/5410101-0/air-quality-specialist-i-for-the-feather-river-air-quality-management-district",
+      "date_posted": "",
+      "salary": "$67,056.00 - $85,584.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Bay Area Air District",
+      "title": "PRINCIPAL AIR QUALITY SPECIALIST",
+      "location": "San Francisco, CA",
+      "url": "https://www.governmentjobs.com/jobs/5395242-0/principal-air-quality-specialist",
+      "date_posted": "",
+      "salary": "$138,567.88 - $168,430.13 Annually",
       "ats": "NEOGOV"
     }
   ]

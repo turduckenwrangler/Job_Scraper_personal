@@ -1,14 +1,14 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-20 17:10 UTC*
+*Last updated: 2026-07-20 19:18 UTC*
 
-**2 new role(s)** since last run · 2 total in last 24h
+**2 new role(s)** since last run · 4 total in last 24h
 
-### [Environmental Scientist](https://www.indeed.com/viewjob?jk=a2cc175edd9b5909) — aptim
-- 📍 **Location:** Irvine, CA, US
-- 💰 **Salary:** $90k–$100k/yr
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=7f3232ed5c315fd3) — California Department of Pesticide Regulation
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
 - 🕒 **Posted:** 2026-07-20
 
-### [Scientist I, Eurofins Drinking Water and Wastewater West, West Sacramento, CA](https://www.indeed.com/viewjob?jk=86078fafd73ef04d) — Eurofins
-- 📍 **Location:** West Sacramento, CA, US
-- 💰 **Salary:** $22–$27/hr
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=56fbd84ca7421559) — Department of Resources Recycling & Recovery
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
 - 🕒 **Posted:** 2026-07-20

@@ -1,14 +1,9 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-21 18:57 UTC*
+*Last updated: 2026-07-21 20:51 UTC*
 
-**2 new role(s)** since last run · 6 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-### [AIR POLLUTION SPECIALIST](https://www.indeed.com/viewjob?jk=61a8efcfd6878995) — State Air Resources Board
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $5918–$11k/mo
-- 🕒 **Posted:** 2026-07-21
-
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=4cd3d3f390df6999) — DEPARTMENT OF FISH AND WILDLIFE
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $11k–$13k/mo
+### [Environmental Health Specialist](https://www.indeed.com/viewjob?jk=dc2023425a592686) — Forensic Analytical Consulting Services
+- 📍 **Location:** Portland, OR, US
+- 💰 **Salary:** $22–$25/hr
 - 🕒 **Posted:** 2026-07-21

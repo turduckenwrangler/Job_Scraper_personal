@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-19 20:10 UTC",
-  "total": 6,
+  "scraped_at": "2026-07-21 17:38 UTC",
+  "total": 7,
   "new_count": 0,
   "jobs": [
     {
@@ -40,6 +40,15 @@
       "ats": "CalCareers"
     },
     {
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Scientist",
+      "location": "Los Angeles County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523419",
+      "date_posted": "2026-07-20",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "Department of Fish and Wildlife",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
@@ -49,12 +58,12 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Resources Recycling & Recovery",
-      "title": "Senior Environmental Scientist (Specialist)",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524688",
-      "date_posted": "2026-07-16",
-      "salary": "$7820.00 - $10732.00",
+      "company": "Department of Transportation",
+      "title": "Branch Chief, Water Resources Construction",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525444",
+      "date_posted": "2026-07-20",
+      "salary": "$11437.00 - $14315.00",
       "ats": "CalCareers"
     }
   ],

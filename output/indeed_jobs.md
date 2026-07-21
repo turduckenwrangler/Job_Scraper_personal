@@ -1,9 +1,13 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-21 20:51 UTC*
+*Last updated: 2026-07-21 22:39 UTC*
 
-**1 new role(s)** since last run · 4 total in last 24h
+**2 new role(s)** since last run · 6 total in last 24h
 
-### [Environmental Health Specialist](https://www.indeed.com/viewjob?jk=dc2023425a592686) — Forensic Analytical Consulting Services
-- 📍 **Location:** Portland, OR, US
-- 💰 **Salary:** $22–$25/hr
+### [SENIOR RISK ASSESSMENT ANALYST](https://www.indeed.com/viewjob?jk=422f042cd0f34868) — University of California Office of the President
+- 📍 **Location:** Oakland, CA, US
+- 🕒 **Posted:** 2026-07-20
+
+### [Senior Sediment Remediation Specialist (multiple locations)](https://www.indeed.com/viewjob?jk=99f35e2170639437) — LimnoTech
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $110k–$200k/yr
 - 🕒 **Posted:** 2026-07-21

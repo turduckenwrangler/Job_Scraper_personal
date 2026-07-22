@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-07-21 17:38 UTC",
+  "scraped_at": "2026-07-22 17:27 UTC",
   "total": 7,
   "new_count": 0,
   "jobs": [
+    {
+      "company": "Department of Transportation",
+      "title": "Environmental Scientist",
+      "location": "San Bernardino County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525768",
+      "date_posted": "2026-07-22",
+      "salary": "$7328.00 - $9178.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Environmental Scientist",
+      "location": "San Luis Obispo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=482161",
+      "date_posted": "2026-07-08",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
     {
       "company": "Department of Resources Recycling & Recovery",
       "title": "Environmental Scientist",
@@ -22,24 +40,6 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Parks & Recreation",
-      "title": "ENVIRONMENTAL SCIENTIST (PI) (Range C)",
-      "location": "Santa Cruz County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521909",
-      "date_posted": "2026-07-07",
-      "salary": "$39.20 - $53.77",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
-      "location": "San Luis Obispo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=482161",
-      "date_posted": "2026-07-08",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Resources Recycling & Recovery",
       "title": "Environmental Scientist",
       "location": "Los Angeles County",
@@ -49,12 +49,12 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524628",
-      "date_posted": "2026-07-13",
-      "salary": "$4418.00 - $9321.00",
+      "company": "State Air Resources Board",
+      "title": "Staff Air Pollution Specialist",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525513",
+      "date_posted": "2026-07-21",
+      "salary": "$10521.00 - $13173.00",
       "ats": "CalCareers"
     },
     {

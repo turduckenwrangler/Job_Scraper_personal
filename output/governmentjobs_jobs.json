@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-23 17:49 UTC",
-  "total": 7,
-  "new_count": 1,
+  "scraped_at": "2026-07-24 17:54 UTC",
+  "total": 9,
+  "new_count": 3,
   "jobs": [
     {
       "company": "County of Sonoma (CA)",
@@ -10,15 +10,6 @@
       "url": "https://www.governmentjobs.com/jobs/5404181-0/environmental-health-specialist-i",
       "date_posted": "",
       "salary": "$96,111.88 - $116,836.98 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Sonoma (CA)",
-      "title": "Environmental Health Specialist II",
-      "location": "Santa Rosa, CA",
-      "url": "https://www.governmentjobs.com/jobs/5404187-0/environmental-health-specialist-ii",
-      "date_posted": "",
-      "salary": "$103,938.58 - $126,333.37 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -37,6 +28,15 @@
       "url": "https://www.governmentjobs.com/jobs/5402120-0/water-quality-project-manager",
       "date_posted": "",
       "salary": "$90,402.00 - $140,123.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "West Basin Municipal Water District",
+      "title": "Water Quality & Environmental Compliance Supervisor",
+      "location": "Carson, CA",
+      "url": "https://www.governmentjobs.com/jobs/5422948-0/water-quality-environmental-compliance-supervisor",
+      "date_posted": "",
+      "salary": "$138,534.00 - $190,484.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -65,16 +65,52 @@
       "date_posted": "",
       "salary": "$67,056.00 - $85,584.00 Annually",
       "ats": "NEOGOV"
+    },
+    {
+      "company": "Carlsbad, City of (CA)",
+      "title": "Environmental Specialist I",
+      "location": "Carlsbad, CA",
+      "url": "https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i",
+      "date_posted": "",
+      "salary": "$69,721.60 - $84,822.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Sacramento",
+      "title": "Environmental Specialist IV",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/5398391-0/environmental-specialist-iv",
+      "date_posted": "",
+      "salary": "$127,263.60 - $140,313.60 Annually",
+      "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "Regional Government Services",
-      "title": "Air Quality Specialist I for the Feather River Air Quality Management District",
-      "location": "Yuba City, CA",
-      "url": "https://www.governmentjobs.com/jobs/5410101-0/air-quality-specialist-i-for-the-feather-river-air-quality-management-district",
+      "company": "West Basin Municipal Water District",
+      "title": "Water Quality & Environmental Compliance Supervisor",
+      "location": "Carson, CA",
+      "url": "https://www.governmentjobs.com/jobs/5422948-0/water-quality-environmental-compliance-supervisor",
       "date_posted": "",
-      "salary": "$67,056.00 - $85,584.00 Annually",
+      "salary": "$138,534.00 - $190,484.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Carlsbad, City of (CA)",
+      "title": "Environmental Specialist I",
+      "location": "Carlsbad, CA",
+      "url": "https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i",
+      "date_posted": "",
+      "salary": "$69,721.60 - $84,822.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Sacramento",
+      "title": "Environmental Specialist IV",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/5398391-0/environmental-specialist-iv",
+      "date_posted": "",
+      "salary": "$127,263.60 - $140,313.60 Annually",
       "ats": "NEOGOV"
     }
   ]

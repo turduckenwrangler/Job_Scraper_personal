@@ -1,14 +1,13 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-24 20:49 UTC*
+*Last updated: 2026-07-24 22:26 UTC*
 
 **2 new role(s)** since last run · 2 total in last 1h
 
-### [Environmental Remediation Area Manager](https://www.linkedin.com/jobs/view/4443400487/) — AECOM
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $150000 to $190000
+### [Toxicology Director](https://www.linkedin.com/jobs/view/4429982477/) — Proclinical Staffing
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-24
 
-### [Environmental Remediation Area Manager](https://www.linkedin.com/jobs/view/4443400491/) — AECOM
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $150000 to $190000
+### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4444608654/) — University of California, Davis
+- 📍 **Location:** Davis, CA
+- 💰 **Salary:** $80,951.76/yr - $146,890.80/yr
 - 🕒 **Posted:** 2026-07-24

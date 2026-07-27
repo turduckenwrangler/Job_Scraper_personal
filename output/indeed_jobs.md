@@ -1,9 +1,9 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-27 19:02 UTC*
+*Last updated: 2026-07-27 20:56 UTC*
 
-**1 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=3a09642f396c19f2) — DEPARTMENT OF FISH AND WILDLIFE
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $11k–$13k/mo
+### [Water Quality Laboratory Program Manager](https://www.indeed.com/viewjob?jk=d1225e67ac7c87a9) — California Water Service Group (CWSG)
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $102k–$189k/yr
 - 🕒 **Posted:** 2026-07-27

@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-26 17:11 UTC",
-  "total": 11,
+  "scraped_at": "2026-07-27 17:49 UTC",
+  "total": 12,
   "new_count": 0,
   "jobs": [
     {
@@ -91,6 +91,15 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=482161",
       "date_posted": "2026-07-08",
       "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Transportation",
+      "title": "Branch Chief, Water Resources Construction",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525444",
+      "date_posted": "2026-07-20",
+      "salary": "$11437.00 - $14315.00",
       "ats": "CalCareers"
     },
     {

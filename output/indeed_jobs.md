@@ -1,6 +1,9 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-28 18:59 UTC*
+*Last updated: 2026-07-28 20:51 UTC*
 
-**0 new role(s)** since last run · 5 total in last 24h
+**1 new role(s)** since last run · 6 total in last 24h
 
-No new roles since the last run.
+### [Interim Water Quality Program Specialist](https://www.indeed.com/viewjob?jk=32e69a762d3e1e59) — California Water Service Group (CWSG)
+- 📍 **Location:** Commerce, CA, US
+- 💰 **Salary:** $75k–$138k/yr
+- 🕒 **Posted:** 2026-07-28

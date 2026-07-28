@@ -1,8 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-28 03:48 UTC*
+*Last updated: 2026-07-28 17:00 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Senior Technical Specialist, AI Risk Assessment](https://www.linkedin.com/jobs/view/4445151808/) — Jobgether
-- 📍 **Location:** Australia
+### [Environmental Project Manager - Remediation - 6 years min experience](https://www.linkedin.com/jobs/view/4443298778/) — AECOM
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $125,000.00/yr - $155,000.00/yr
+- 🕒 **Posted:** 2026-07-28
+
+### [Environmental Project Manager - Remediation - 6 years min experience](https://www.linkedin.com/jobs/view/4443297764/) — AECOM
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $125,000.00/yr - $155,000.00/yr
 - 🕒 **Posted:** 2026-07-28

@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-27 17:49 UTC",
-  "total": 12,
+  "scraped_at": "2026-07-28 17:42 UTC",
+  "total": 11,
   "new_count": 0,
   "jobs": [
     {
@@ -22,11 +22,11 @@
       "ats": "CalCareers"
     },
     {
-      "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
+      "company": "Department of Food & Agriculture",
+      "title": "ENVIRONMENTAL SCIENTIST",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525603",
-      "date_posted": "2026-07-23",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526281",
+      "date_posted": "2026-07-27",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -67,29 +67,11 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Resources Recycling & Recovery",
+      "company": "Department of Fish and Wildlife",
       "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=511379",
-      "date_posted": "2026-07-17",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Resources Recycling & Recovery",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=515235",
-      "date_posted": "2026-07-23",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
-      "location": "San Luis Obispo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=482161",
-      "date_posted": "2026-07-08",
+      "location": "Santa Barbara County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526484",
+      "date_posted": "2026-07-28",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -108,6 +90,15 @@
       "location": "San Diego County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525070",
       "date_posted": "2026-07-23",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Environmental Scientist",
+      "location": "San Luis Obispo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=482161",
+      "date_posted": "2026-07-08",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     }

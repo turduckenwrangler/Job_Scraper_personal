@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-27 17:57 UTC",
-  "total": 9,
-  "new_count": 2,
+  "scraped_at": "2026-07-28 17:46 UTC",
+  "total": 8,
+  "new_count": 1,
   "jobs": [
     {
       "company": "County of Sonoma (CA)",
@@ -10,6 +10,15 @@
       "url": "https://www.governmentjobs.com/jobs/5404181-0/environmental-health-specialist-i",
       "date_posted": "",
       "salary": "$96,111.88 - $116,836.98 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Kern County",
+      "title": "Environmental Health Specialist-In Training",
+      "location": "Bakersfield, CA",
+      "url": "https://www.governmentjobs.com/jobs/5413929-0/environmental-health-specialist-in-training",
+      "date_posted": "",
+      "salary": "$4,701.62 - $5,618.88 Monthly",
       "ats": "NEOGOV"
     },
     {
@@ -65,43 +74,16 @@
       "date_posted": "",
       "salary": "$67,056.00 - $85,584.00 Annually",
       "ats": "NEOGOV"
-    },
-    {
-      "company": "Carlsbad, City of (CA)",
-      "title": "Environmental Specialist I",
-      "location": "Carlsbad, CA",
-      "url": "https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i",
-      "date_posted": "",
-      "salary": "$69,721.60 - $84,822.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Sacramento",
-      "title": "Environmental Specialist IV",
-      "location": "Sacramento, CA",
-      "url": "https://www.governmentjobs.com/jobs/5398391-0/environmental-specialist-iv",
-      "date_posted": "",
-      "salary": "$127,263.60 - $140,313.60 Annually",
-      "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "Carlsbad, City of (CA)",
-      "title": "Environmental Specialist I",
-      "location": "Carlsbad, CA",
-      "url": "https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i",
+      "company": "Kern County",
+      "title": "Environmental Health Specialist-In Training",
+      "location": "Bakersfield, CA",
+      "url": "https://www.governmentjobs.com/jobs/5413929-0/environmental-health-specialist-in-training",
       "date_posted": "",
-      "salary": "$69,721.60 - $84,822.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Sacramento",
-      "title": "Environmental Specialist IV",
-      "location": "Sacramento, CA",
-      "url": "https://www.governmentjobs.com/jobs/5398391-0/environmental-specialist-iv",
-      "date_posted": "",
-      "salary": "$127,263.60 - $140,313.60 Annually",
+      "salary": "$4,701.62 - $5,618.88 Monthly",
       "ats": "NEOGOV"
     }
   ]

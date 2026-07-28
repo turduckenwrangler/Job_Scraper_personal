@@ -1,6 +1,8 @@
 # 🏛 Priority Employers — Environmental / Toxicology Roles
-*Last updated: 2026-07-27 06:52 UTC*
+*Last updated: 2026-07-28 06:15 UTC*
 
-**0 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-No new priority-employer roles since the last run.
+### [Early-Career Environmental Scientist - Contaminated Land, Brisbane](https://www.linkedin.com/jobs/view/4441997768/) — Tetra Tech
+- 📍 **Location:** Brisbane, Queensland, Australia
+- 🕒 **Posted:** 2026-07-27

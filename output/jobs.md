@@ -1,8 +1,9 @@
 # 🏛 Priority Employers — Environmental / Toxicology Roles
-*Last updated: 2026-07-28 06:15 UTC*
+*Last updated: 2026-07-29 06:19 UTC*
 
-**1 new role(s)** since last run · 2 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-### [Early-Career Environmental Scientist - Contaminated Land, Brisbane](https://www.linkedin.com/jobs/view/4441997768/) — Tetra Tech
-- 📍 **Location:** Brisbane, Queensland, Australia
-- 🕒 **Posted:** 2026-07-27
+### [Principal Toxicologist (Ph.D.)](https://www.linkedin.com/jobs/view/4322119855/) — Exponent
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** USD $200,000.00 - USD $300,000.00 /Yr
+- 🕒 **Posted:** 2026-07-28

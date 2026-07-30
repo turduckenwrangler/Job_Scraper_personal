@@ -1,9 +1,18 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-30 00:24 UTC*
+*Last updated: 2026-07-30 03:41 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Lead Safety & Environmental Analyst](https://www.linkedin.com/jobs/view/4422033698/) — Peraton
-- 📍 **Location:** Fort Irwin, CA
-- 💰 **Salary:** $80,000 - $128,000
+### [Air Quality & Acoustics Business Line Leader (Multiple Locations)](https://www.linkedin.com/jobs/view/4446465777/) — Burns & McDonnell
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $180,000.00-330,000.00
+- 🕒 **Posted:** 2026-07-30
+
+### [Air Quality & Acoustics Business Line Leader (Multiple Locations)](https://www.linkedin.com/jobs/view/4446456802/) — Burns & McDonnell
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $180,000.00-330,000.00
+- 🕒 **Posted:** 2026-07-30
+
+### [Principal Environmental Scientist - Contaminated Land](https://www.linkedin.com/jobs/view/4444511200/) — AECOM
+- 📍 **Location:** Perth, Western Australia, Australia
 - 🕒 **Posted:** 2026-07-30

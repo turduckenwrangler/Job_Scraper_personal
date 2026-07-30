@@ -1,14 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-30 20:43 UTC*
+*Last updated: 2026-07-30 22:27 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Environmental Project Manager - Remediation - 6 years min experience](https://www.linkedin.com/jobs/view/4445772654/) — AECOM
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $125000 to $155000
-- 🕒 **Posted:** 2026-07-30
-
-### [Environmental Project Manager - Remediation - 6 years min experience](https://www.linkedin.com/jobs/view/4445762781/) — AECOM
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $125000 to $155000
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4424327447/) — ALRA | Australia’s Leading Recruitment Agency
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 💰 **Salary:** $80,000 - $90,000
 - 🕒 **Posted:** 2026-07-30

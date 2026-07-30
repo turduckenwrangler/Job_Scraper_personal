@@ -1,6 +1,8 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-29 23:45 UTC*
+*Last updated: 2026-07-30 01:06 UTC*
 
-**0 new role(s)** since last run · 9 total in last 24h
+**1 new role(s)** since last run · 10 total in last 24h
 
-No new roles since the last run.
+### [Principal Environmental Scientist - Contaminated Land](https://au.indeed.com/viewjob?jk=c44f943ecb9216b5) — AECOM
+- 📍 **Location:** Perth, WA, AU
+- 🕒 **Posted:** 2026-07-29

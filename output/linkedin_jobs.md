@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-31 20:44 UTC*
+*Last updated: 2026-07-31 22:23 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [Director, Water Quality & Environmental Compliance](https://www.linkedin.com/jobs/view/4447580846/) — American Water
-- 📍 **Location:** Imperial Beach, CA
-- 💰 **Salary:** $141,390 - $225,350
+### [Toxicology Director](https://www.linkedin.com/jobs/view/4429982477/) — Proclinical Staffing
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-31

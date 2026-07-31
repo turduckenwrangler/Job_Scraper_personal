@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-07-30 17:52 UTC",
-  "total": 6,
+  "scraped_at": "2026-07-31 17:54 UTC",
+  "total": 7,
   "new_count": 4,
   "jobs": [
+    {
+      "company": "County of Mendocino",
+      "title": "Environmental Health Manager",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5431172-0/environmental-health-manager",
+      "date_posted": "",
+      "salary": "$97,032.00 - $117,936.00 Annually",
+      "ats": "NEOGOV"
+    },
     {
       "company": "Kern County",
       "title": "Environmental Health Specialist-In Training",
@@ -13,39 +22,21 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "Solano County",
+      "title": "Environmental Health Specialist (Entry/Journey) DOQ",
+      "location": "Fairfield, CA",
+      "url": "https://www.governmentjobs.com/jobs/5403548-0/environmental-health-specialist-entry-journey-doq",
+      "date_posted": "",
+      "salary": "$3,047.20 - $4,505.60 Biweekly",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "County of Riverside",
       "title": "Environmental Health Specialist I, II, III",
       "location": "Throughout Riverside County",
       "url": "https://www.governmentjobs.com/jobs/5428457-0/environmental-health-specialist-i-ii-iii",
       "date_posted": "",
       "salary": "$63,544.00 - $112,028.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "West Basin Municipal Water District",
-      "title": "Water Quality & Environmental Compliance Supervisor",
-      "location": "Carson, CA",
-      "url": "https://www.governmentjobs.com/jobs/5422948-0/water-quality-environmental-compliance-supervisor",
-      "date_posted": "",
-      "salary": "$138,534.00 - $190,484.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Oregon Department of Environmental Quality",
-      "title": "Water Quality Regional Manager (Natural Resource Protection and Sustainability Manager 2)",
-      "location": "Bend, OR ; Klamath Falls, OR",
-      "url": "https://www.governmentjobs.com/jobs/147074-1/water-quality-regional-manager-natural-resource-protection-and-sustainability-ma",
-      "date_posted": "",
-      "salary": "$7,537.00 - $11,657.00 Monthly",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "East Bay Municipal Utility District",
-      "title": "Superintendent of Water Treatment/Distribution/Systems Water Quality (System Water Quality)",
-      "location": "Oakland, CA",
-      "url": "https://www.governmentjobs.com/jobs/5381810-0/superintendent-of-water-treatment-distribution-systems-water-quality-system-wate",
-      "date_posted": "",
-      "salary": "$191,664.00 - $221,892.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -56,43 +47,61 @@
       "date_posted": "",
       "salary": "$67,056.00 - $85,584.00 Annually",
       "ats": "NEOGOV"
+    },
+    {
+      "company": "Carlsbad, City of (CA)",
+      "title": "Environmental Specialist I",
+      "location": "Carlsbad, CA",
+      "url": "https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i",
+      "date_posted": "",
+      "salary": "$69,721.60 - $84,822.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Vista",
+      "title": "Environmental Specialist I/II",
+      "location": "Vista City Hall - 200 Civic Center Drive Vista 92084, CA",
+      "url": "https://www.governmentjobs.com/jobs/5366037-0/environmental-specialist-i-ii",
+      "date_posted": "",
+      "salary": "$75,183.16 - $100,752.86 Annually",
+      "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "County of Riverside",
-      "title": "Environmental Health Specialist I, II, III",
-      "location": "Throughout Riverside County",
-      "url": "https://www.governmentjobs.com/jobs/5428457-0/environmental-health-specialist-i-ii-iii",
+      "company": "County of Mendocino",
+      "title": "Environmental Health Manager",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5431172-0/environmental-health-manager",
       "date_posted": "",
-      "salary": "$63,544.00 - $112,028.80 Annually",
+      "salary": "$97,032.00 - $117,936.00 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "West Basin Municipal Water District",
-      "title": "Water Quality & Environmental Compliance Supervisor",
-      "location": "Carson, CA",
-      "url": "https://www.governmentjobs.com/jobs/5422948-0/water-quality-environmental-compliance-supervisor",
+      "company": "Solano County",
+      "title": "Environmental Health Specialist (Entry/Journey) DOQ",
+      "location": "Fairfield, CA",
+      "url": "https://www.governmentjobs.com/jobs/5403548-0/environmental-health-specialist-entry-journey-doq",
       "date_posted": "",
-      "salary": "$138,534.00 - $190,484.00 Annually",
+      "salary": "$3,047.20 - $4,505.60 Biweekly",
       "ats": "NEOGOV"
     },
     {
-      "company": "Oregon Department of Environmental Quality",
-      "title": "Water Quality Regional Manager (Natural Resource Protection and Sustainability Manager 2)",
-      "location": "Bend, OR ; Klamath Falls, OR",
-      "url": "https://www.governmentjobs.com/jobs/147074-1/water-quality-regional-manager-natural-resource-protection-and-sustainability-ma",
+      "company": "Carlsbad, City of (CA)",
+      "title": "Environmental Specialist I",
+      "location": "Carlsbad, CA",
+      "url": "https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i",
       "date_posted": "",
-      "salary": "$7,537.00 - $11,657.00 Monthly",
+      "salary": "$69,721.60 - $84,822.40 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "East Bay Municipal Utility District",
-      "title": "Superintendent of Water Treatment/Distribution/Systems Water Quality (System Water Quality)",
-      "location": "Oakland, CA",
-      "url": "https://www.governmentjobs.com/jobs/5381810-0/superintendent-of-water-treatment-distribution-systems-water-quality-system-wate",
+      "company": "City of Vista",
+      "title": "Environmental Specialist I/II",
+      "location": "Vista City Hall - 200 Civic Center Drive Vista 92084, CA",
+      "url": "https://www.governmentjobs.com/jobs/5366037-0/environmental-specialist-i-ii",
       "date_posted": "",
-      "salary": "$191,664.00 - $221,892.00 Annually",
+      "salary": "$75,183.16 - $100,752.86 Annually",
       "ats": "NEOGOV"
     }
   ]

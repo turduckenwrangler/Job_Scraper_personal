@@ -1,9 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-31 23:26 UTC*
+*Last updated: 2026-08-01 03:58 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.linkedin.com/jobs/view/4447701825/) — Caltrans
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $10,854.00/mo - $13,493.00/mo
-- 🕒 **Posted:** 2026-07-31
+No new roles since the last run.

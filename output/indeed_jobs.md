@@ -1,19 +1,14 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-01 16:40 UTC*
+*Last updated: 2026-08-01 17:45 UTC*
 
-**3 new role(s)** since last run · 5 total in last 24h
+**2 new role(s)** since last run · 7 total in last 24h
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=cea6c62dd10c0b13) — Caltrans - CA Dept. of Transportation
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $11k–$13k/mo
+### [Senior Sediment Remediation Specialist](https://www.indeed.com/viewjob?jk=7aa2348c8aff2819) — J&T Business Consulting
+- 📍 **Location:** Oakdale, CA, US
+- 💰 **Salary:** $110k–$200k/yr
 - 🕒 **Posted:** 2026-08-01
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=b89c8f17749e7d16) — Department of Resources Recycling & Recovery
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
-- 🕒 **Posted:** 2026-08-01
-
-### [AIR POLLUTION SPECIALIST](https://www.indeed.com/viewjob?jk=002f587c2b79f068) — Unknown
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $5918–$11k/mo
+### [Senior Sediment Remediation Specialist](https://www.indeed.com/viewjob?jk=fef31cda3040e8a4) — J&T Business Consulting
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $110k–$200k/yr
 - 🕒 **Posted:** 2026-08-01

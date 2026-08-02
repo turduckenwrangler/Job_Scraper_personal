@@ -1,12 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-08-01 17:24 UTC*
+*Last updated: 2026-08-02 17:25 UTC*
 
-**2 new role(s)** since last run · 8 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 7 total in recent GovernmentJobs postings
 
-### [Water Quality & Environmental Compliance Supervisor](https://www.governmentjobs.com/jobs/5422948-0/water-quality-environmental-compliance-supervisor) — West Basin Municipal Water District
-- 📍 **Location:** Carson, CA
-- 💰 **Salary:** $138,534.00 - $190,484.00 Annually
-
-### [Water Quality Regional Manager (Natural Resource Protection and Sustainability Manager 2)](https://www.governmentjobs.com/jobs/147074-1/water-quality-regional-manager-natural-resource-protection-and-sustainability-ma) — Oregon Department of Environmental Quality
-- 📍 **Location:** Bend, OR ; Klamath Falls, OR
-- 💰 **Salary:** $7,537.00 - $11,657.00 Monthly
+### [Hazardous Materials Operations Specialist](https://www.governmentjobs.com/jobs/5430178-0/hazardous-materials-operations-specialist) — County of Mendocino
+- 📍 **Location:** Ukiah, CA
+- 💰 **Salary:** $68,286.40 - $82,992.00 Annually

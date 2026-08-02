@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-01 17:24 UTC",
-  "total": 8,
-  "new_count": 2,
+  "scraped_at": "2026-08-02 17:25 UTC",
+  "total": 7,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Carlsbad, City of (CA)",
@@ -40,30 +40,21 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "West Basin Municipal Water District",
-      "title": "Water Quality & Environmental Compliance Supervisor",
-      "location": "Carson, CA",
-      "url": "https://www.governmentjobs.com/jobs/5422948-0/water-quality-environmental-compliance-supervisor",
-      "date_posted": "",
-      "salary": "$138,534.00 - $190,484.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Oregon Department of Environmental Quality",
-      "title": "Water Quality Regional Manager (Natural Resource Protection and Sustainability Manager 2)",
-      "location": "Bend, OR ; Klamath Falls, OR",
-      "url": "https://www.governmentjobs.com/jobs/147074-1/water-quality-regional-manager-natural-resource-protection-and-sustainability-ma",
-      "date_posted": "",
-      "salary": "$7,537.00 - $11,657.00 Monthly",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "Regional Government Services",
       "title": "Air Quality Specialist I for the Feather River Air Quality Management District",
       "location": "Yuba City, CA",
       "url": "https://www.governmentjobs.com/jobs/5410101-0/air-quality-specialist-i-for-the-feather-river-air-quality-management-district",
       "date_posted": "",
       "salary": "$67,056.00 - $85,584.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Mendocino",
+      "title": "Hazardous Materials Operations Specialist",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5430178-0/hazardous-materials-operations-specialist",
+      "date_posted": "",
+      "salary": "$68,286.40 - $82,992.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -78,21 +69,12 @@
   ],
   "new_jobs": [
     {
-      "company": "West Basin Municipal Water District",
-      "title": "Water Quality & Environmental Compliance Supervisor",
-      "location": "Carson, CA",
-      "url": "https://www.governmentjobs.com/jobs/5422948-0/water-quality-environmental-compliance-supervisor",
+      "company": "County of Mendocino",
+      "title": "Hazardous Materials Operations Specialist",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5430178-0/hazardous-materials-operations-specialist",
       "date_posted": "",
-      "salary": "$138,534.00 - $190,484.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Oregon Department of Environmental Quality",
-      "title": "Water Quality Regional Manager (Natural Resource Protection and Sustainability Manager 2)",
-      "location": "Bend, OR ; Klamath Falls, OR",
-      "url": "https://www.governmentjobs.com/jobs/147074-1/water-quality-regional-manager-natural-resource-protection-and-sustainability-ma",
-      "date_posted": "",
-      "salary": "$7,537.00 - $11,657.00 Monthly",
+      "salary": "$68,286.40 - $82,992.00 Annually",
       "ats": "NEOGOV"
     }
   ]

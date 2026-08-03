@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-03 04:03 UTC*
+*Last updated: 2026-08-03 17:28 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Senior Air Quality Consultant/ Modeler](https://www.linkedin.com/jobs/view/4427556140/) — Trinity Consultants
+- 📍 **Location:** Portland, OR
+- 🕒 **Posted:** 2026-08-03

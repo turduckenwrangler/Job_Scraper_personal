@@ -1,9 +1,12 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-03 23:28 UTC*
+*Last updated: 2026-08-04 03:45 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Researcher, Frontier Biological and Chemical Risks](https://www.linkedin.com/jobs/view/4448242997/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $295,000.00/yr - $445,000.00/yr
-- 🕒 **Posted:** 2026-08-03
+### [GHD Graduate Program 2026/27 - WA - Environmental Scientist](https://www.linkedin.com/jobs/view/4446274873/) — GHD
+- 📍 **Location:** Perth, Western Australia, Australia
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Environmental Specialist](https://www.linkedin.com/jobs/view/4448808317/) — Resourceful Recruitment
+- 📍 **Location:** Brisbane, Queensland, Australia
+- 🕒 **Posted:** 2026-08-04

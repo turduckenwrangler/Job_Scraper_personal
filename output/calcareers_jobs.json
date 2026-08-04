@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-03 17:59 UTC",
-  "total": 10,
+  "scraped_at": "2026-08-04 17:57 UTC",
+  "total": 9,
   "new_count": 0,
   "jobs": [
     {
@@ -82,15 +82,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525603",
       "date_posted": "2026-07-23",
       "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Parks & Recreation",
-      "title": "ENVIRONMENTAL SCIENTIST (PI) (Range C)",
-      "location": "Santa Cruz County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521909",
-      "date_posted": "2026-07-07",
-      "salary": "$39.20 - $53.77",
       "ats": "CalCareers"
     }
   ],

@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-04 17:57 UTC",
-  "total": 9,
+  "scraped_at": "2026-08-05 17:49 UTC",
+  "total": 12,
   "new_count": 0,
   "jobs": [
     {
@@ -19,6 +19,15 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526136",
       "date_posted": "2026-07-24",
       "salary": "$9200.00 - $11852.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Parks & Recreation",
+      "title": "ENVIRONMENTAL SCIENTIST (PI) (Range C)",
+      "location": "Santa Cruz County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521909",
+      "date_posted": "2026-07-07",
+      "salary": "$39.20 - $53.77",
       "ats": "CalCareers"
     },
     {
@@ -58,15 +67,6 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Food & Agriculture",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526281",
-      "date_posted": "2026-07-27",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Pesticide Regulation",
       "title": "Environmental Scientist",
       "location": "Orange County",
@@ -81,6 +81,33 @@
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525603",
       "date_posted": "2026-07-23",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Food & Agriculture",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526281",
+      "date_posted": "2026-07-27",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Fish and Wildlife",
+      "title": "Environmental Scientist",
+      "location": "Santa Barbara County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526484",
+      "date_posted": "2026-07-28",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Transportation",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Los Angeles County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526522",
+      "date_posted": "2026-07-28",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     }

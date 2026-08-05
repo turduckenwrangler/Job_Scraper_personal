@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-05 03:45 UTC*
+*Last updated: 2026-08-05 17:02 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Compliance, Threat & Risk Assessment Manager](https://www.linkedin.com/jobs/view/4440803189/) — Coinbase
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $162,010 USD - $190,600 USD
+- 🕒 **Posted:** 2026-08-05

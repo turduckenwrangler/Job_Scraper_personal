@@ -1,23 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-04 22:38 UTC*
+*Last updated: 2026-08-05 00:24 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Advisor, Chemical Hazard & SDS Author, Product Stewardship](https://www.linkedin.com/jobs/view/4446695609/) — Nutrien
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $79,100 - $124,190,
-- 🕒 **Posted:** 2026-08-04
-
-### [Product Stewardship and Chemical Compliance Manager](https://www.linkedin.com/jobs/view/4449081227/) — HP
-- 📍 **Location:** Vancouver, WA
-- 💰 **Salary:** $105,050 to $161,800 USD annually
-- 🕒 **Posted:** 2026-08-04
-
-### [Product Stewardship and Chemical Compliance Manager](https://www.linkedin.com/jobs/view/4449085141/) — HP
-- 📍 **Location:** Corvallis, OR
-- 💰 **Salary:** $105,050 to $161,800 USD annually
-- 🕒 **Posted:** 2026-08-04
-
-### [Hazardous Materials Consultant](https://www.linkedin.com/jobs/view/4448578912/) — BBN Consulting
-- 📍 **Location:** Hawthorne, Queensland, Australia
-- 🕒 **Posted:** 2026-08-04
+### [Assistant Water Resources Specialist I/II (Limited Term)](https://www.linkedin.com/jobs/view/4449408343/) — EHSCareers
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $118,060.80 - $151,049.60 Annually
+- 🕒 **Posted:** 2026-08-05

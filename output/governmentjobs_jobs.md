@@ -1,11 +1,11 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-08-04 18:05 UTC*
+*Last updated: 2026-08-05 17:55 UTC*
 
-**2 new role(s)** since last run · 9 total in recent GovernmentJobs postings
+**2 new role(s)** since last run · 7 total in recent GovernmentJobs postings
 
-### [Associate Environmental Specialist (23394)](https://www.governmentjobs.com/jobs/147706-1/associate-environmental-specialist-23394) — Brevard County Board of County Commissioners
-- 📍 **Location:** Melbourne, FL
+### [Environmental Health Specialist I/II](https://www.governmentjobs.com/jobs/5434932-0/environmental-health-specialist-i-ii) — Kings County
+- 📍 **Location:** Hanford, CA
 
-### [Registered Environmental Health Specialist](https://www.governmentjobs.com/jobs/5406106-0/registered-environmental-health-specialist) — City of Berkeley
-- 📍 **Location:** Berkeley, CA
-- 💰 **Salary:** $111,664.80 - $129,410.74 Annually
+### [Air Quality Specialist I for the Feather River Air Quality Management District](https://www.governmentjobs.com/jobs/5410101-0/air-quality-specialist-i-for-the-feather-river-air-quality-management-district) — Regional Government Services
+- 📍 **Location:** Yuba City, CA
+- 💰 **Salary:** $67,056.00 - $85,584.00 Annually

@@ -1,12 +1,14 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-06 04:49 UTC*
+*Last updated: 2026-08-06 22:35 UTC*
 
 **2 new role(s)** since last run · 4 total in last 24h
 
-### [Senior Environmental Scientist](https://au.indeed.com/viewjob?jk=32f4a5990dccebbf) — Tetra Tech
-- 📍 **Location:** Fortitude Valley, QLD, AU
-- 🕒 **Posted:** 2026-08-04
+### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=c60723b784a7c660) — CALIFORNIA ENERGY COMMISSION
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $7820–$11k/mo
+- 🕒 **Posted:** 2026-08-06
 
-### [Senior Environmental Scientist](https://au.indeed.com/viewjob?jk=f4104e1ff1a970b0) — Tetra Tech
-- 📍 **Location:** Cairns, QLD, AU
-- 🕒 **Posted:** 2026-08-04
+### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=0c1d26e5ccfaa166) — Department Of Forestry & Fire Protection
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $7820–$11k/mo
+- 🕒 **Posted:** 2026-08-06

@@ -1,13 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-05 22:28 UTC*
+*Last updated: 2026-08-06 00:19 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Environmental Compliance Manager](https://www.linkedin.com/jobs/view/4449937231/) — City of Redding
-- 📍 **Location:** Redding, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Supervisor II, Water Quality](https://www.linkedin.com/jobs/view/4449932085/) — Liberty
-- 📍 **Location:** Downey, CA
-- 💰 **Salary:** $120,000.00- $160,000.00 per year
+### [Senior Environmental Compliance Project Manager](https://www.linkedin.com/jobs/view/4449921963/) — Dudek
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $110,000-$150,000 annually
 - 🕒 **Posted:** 2026-08-05

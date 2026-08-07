@@ -1,8 +1,6 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-07 21:23 UTC*
+*Last updated: 2026-08-07 22:19 UTC*
 
-**1 new role(s)** since last run · 5 total in last 24h
+**0 new role(s)** since last run · 4 total in last 24h
 
-### [Academic Remediation Specialist](https://www.indeed.com/viewjob?jk=0f72c4713ba6aad7) — Summit College
-- 📍 **Location:** San Bernardino, CA, US
-- 🕒 **Posted:** 2026-08-07
+No new roles since the last run.

@@ -1,11 +1,16 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-08-05 17:55 UTC*
+*Last updated: 2026-08-07 17:18 UTC*
 
-**2 new role(s)** since last run · 7 total in recent GovernmentJobs postings
+**3 new role(s)** since last run · 9 total in recent GovernmentJobs postings
 
-### [Environmental Health Specialist I/II](https://www.governmentjobs.com/jobs/5434932-0/environmental-health-specialist-i-ii) — Kings County
-- 📍 **Location:** Hanford, CA
+### [Environmental Health Specialist (Senior)](https://www.governmentjobs.com/jobs/5438080-0/environmental-health-specialist-senior) — Solano County
+- 📍 **Location:** Fairfield, CA
+- 💰 **Salary:** $101,314.79 - $123,148.76 Annually
 
-### [Air Quality Specialist I for the Feather River Air Quality Management District](https://www.governmentjobs.com/jobs/5410101-0/air-quality-specialist-i-for-the-feather-river-air-quality-management-district) — Regional Government Services
-- 📍 **Location:** Yuba City, CA
-- 💰 **Salary:** $67,056.00 - $85,584.00 Annually
+### [Environmental Health Specialist I, II, III](https://www.governmentjobs.com/jobs/5428457-0/environmental-health-specialist-i-ii-iii) — County of Riverside
+- 📍 **Location:** Throughout Riverside County
+- 💰 **Salary:** $63,544.00 - $112,028.80 Annually
+
+### [Principal Air Quality Chemist](https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist) — South Coast Air Quality Management District
+- 📍 **Location:** Diamond Bar, CA
+- 💰 **Salary:** $117,094.95 - $166,105.90 Annually

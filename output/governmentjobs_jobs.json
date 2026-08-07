@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-05 17:55 UTC",
-  "total": 7,
-  "new_count": 2,
+  "scraped_at": "2026-08-07 17:18 UTC",
+  "total": 9,
+  "new_count": 3,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -10,6 +10,15 @@
       "url": "https://www.governmentjobs.com/jobs/5431172-0/environmental-health-manager",
       "date_posted": "",
       "salary": "$97,032.00 - $117,936.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Solano County",
+      "title": "Environmental Health Specialist (Senior)",
+      "location": "Fairfield, CA",
+      "url": "https://www.governmentjobs.com/jobs/5438080-0/environmental-health-specialist-senior",
+      "date_posted": "",
+      "salary": "$101,314.79 - $123,148.76 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -31,12 +40,12 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "West Basin Municipal Water District",
-      "title": "Water Quality & Environmental Compliance Supervisor",
-      "location": "Carson, CA",
-      "url": "https://www.governmentjobs.com/jobs/5422948-0/water-quality-environmental-compliance-supervisor",
+      "company": "County of Riverside",
+      "title": "Environmental Health Specialist I, II, III",
+      "location": "Throughout Riverside County",
+      "url": "https://www.governmentjobs.com/jobs/5428457-0/environmental-health-specialist-i-ii-iii",
       "date_posted": "",
-      "salary": "$138,534.00 - $190,484.00 Annually",
+      "salary": "$63,544.00 - $112,028.80 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -46,6 +55,15 @@
       "url": "https://www.governmentjobs.com/jobs/5410101-0/air-quality-specialist-i-for-the-feather-river-air-quality-management-district",
       "date_posted": "",
       "salary": "$67,056.00 - $85,584.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "South Coast Air Quality Management District",
+      "title": "Principal Air Quality Chemist",
+      "location": "Diamond Bar, CA",
+      "url": "https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist",
+      "date_posted": "",
+      "salary": "$117,094.95 - $166,105.90 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -69,21 +87,30 @@
   ],
   "new_jobs": [
     {
-      "company": "Kings County",
-      "title": "Environmental Health Specialist I/II",
-      "location": "Hanford, CA",
-      "url": "https://www.governmentjobs.com/jobs/5434932-0/environmental-health-specialist-i-ii",
+      "company": "Solano County",
+      "title": "Environmental Health Specialist (Senior)",
+      "location": "Fairfield, CA",
+      "url": "https://www.governmentjobs.com/jobs/5438080-0/environmental-health-specialist-senior",
       "date_posted": "",
-      "salary": "",
+      "salary": "$101,314.79 - $123,148.76 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "Regional Government Services",
-      "title": "Air Quality Specialist I for the Feather River Air Quality Management District",
-      "location": "Yuba City, CA",
-      "url": "https://www.governmentjobs.com/jobs/5410101-0/air-quality-specialist-i-for-the-feather-river-air-quality-management-district",
+      "company": "County of Riverside",
+      "title": "Environmental Health Specialist I, II, III",
+      "location": "Throughout Riverside County",
+      "url": "https://www.governmentjobs.com/jobs/5428457-0/environmental-health-specialist-i-ii-iii",
       "date_posted": "",
-      "salary": "$67,056.00 - $85,584.00 Annually",
+      "salary": "$63,544.00 - $112,028.80 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "South Coast Air Quality Management District",
+      "title": "Principal Air Quality Chemist",
+      "location": "Diamond Bar, CA",
+      "url": "https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist",
+      "date_posted": "",
+      "salary": "$117,094.95 - $166,105.90 Annually",
       "ats": "NEOGOV"
     }
   ]

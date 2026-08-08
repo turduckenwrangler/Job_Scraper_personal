@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-07 17:00 UTC",
+  "scraped_at": "2026-08-08 16:43 UTC",
   "total": 13,
   "new_count": 0,
   "jobs": [
@@ -22,15 +22,6 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Parks & Recreation",
-      "title": "ENVIRONMENTAL SCIENTIST (PI) (Range C)",
-      "location": "Santa Cruz County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521909",
-      "date_posted": "2026-07-07",
-      "salary": "$39.20 - $53.77",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Pesticide Regulation",
       "title": "Environmental Scientist",
       "location": "Orange County",
@@ -45,15 +36,6 @@
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526281",
       "date_posted": "2026-07-27",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Santa Barbara County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526484",
-      "date_posted": "2026-07-28",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -109,6 +91,24 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527141",
       "date_posted": "2026-08-03",
       "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Food & Agriculture",
+      "title": "Environmental Scientist",
+      "location": "Stanislaus County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527269",
+      "date_posted": "2026-08-04",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526424",
+      "date_posted": "2026-07-28",
+      "salary": "$7820.00 - $10732.00",
       "ats": "CalCareers"
     },
     {

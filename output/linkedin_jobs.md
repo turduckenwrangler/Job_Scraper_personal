@@ -1,14 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-07 23:58 UTC*
+*Last updated: 2026-08-08 02:32 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Enforcement Air Pollution Specialist](https://www.linkedin.com/jobs/view/4450789529/) — California Air Resources Board
-- 📍 **Location:** Riverside County, CA
-- 💰 **Salary:** $5,918.00/mo - $11,455.00/mo
-- 🕒 **Posted:** 2026-08-07
-
-### [Microbiology Lab Tech II (Environmental Monitoring & Water Testing Analyst)](https://www.linkedin.com/jobs/view/4450798114/) — Orion Group
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $23.00/hr - $26.00/hr
-- 🕒 **Posted:** 2026-08-07
+### [ENVIRONMENTAL HEALTH SPECIALIST I/II](https://www.linkedin.com/jobs/view/4451010687/) — COUNTY OF FRESNO
+- 📍 **Location:** Fresno, CA
+- 💰 **Salary:** $62,530 - $79,794
+- 🕒 **Posted:** 2026-08-08

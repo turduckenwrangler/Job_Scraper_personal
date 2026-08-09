@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-09 19:09 UTC*
+*Last updated: 2026-08-09 19:56 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Principal Air Quality Chemist](https://www.linkedin.com/jobs/view/4451351840/) — South Coast Air Quality Management District
+- 📍 **Location:** Diamond Bar, CA
+- 🕒 **Posted:** 2026-08-09

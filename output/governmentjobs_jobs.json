@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-08 17:01 UTC",
-  "total": 10,
-  "new_count": 2,
+  "scraped_at": "2026-08-09 17:04 UTC",
+  "total": 11,
+  "new_count": 1,
   "jobs": [
     {
       "company": "United Water Conservation District",
@@ -22,15 +22,6 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Kings County",
-      "title": "Environmental Health Specialist I/II",
-      "location": "Hanford, CA",
-      "url": "https://www.governmentjobs.com/jobs/5434932-0/environmental-health-specialist-i-ii",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "County of Fresno",
       "title": "ENVIRONMENTAL HEALTH SPECIALIST I/II",
       "location": "Fresno County, CA",
@@ -46,6 +37,15 @@
       "url": "https://www.governmentjobs.com/jobs/5438080-0/environmental-health-specialist-senior",
       "date_posted": "",
       "salary": "$101,314.79 - $123,148.76 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Kings County",
+      "title": "Environmental Health Specialist I/II",
+      "location": "Hanford, CA",
+      "url": "https://www.governmentjobs.com/jobs/5434932-0/environmental-health-specialist-i-ii",
+      "date_posted": "",
+      "salary": "",
       "ats": "NEOGOV"
     },
     {
@@ -76,6 +76,15 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "County of Mendocino",
+      "title": "Hazardous Materials Operations Specialist",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5430178-0/hazardous-materials-operations-specialist",
+      "date_posted": "",
+      "salary": "$68,286.40 - $82,992.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "City of Vista",
       "title": "Environmental Specialist I/II",
       "location": "Vista City Hall - 200 Civic Center Drive Vista 92084, CA",
@@ -96,21 +105,12 @@
   ],
   "new_jobs": [
     {
-      "company": "United Water Conservation District",
-      "title": "Environmental Scientist",
-      "location": "1701 N. Lombard Street Suite 200 - Oxnard, CA",
-      "url": "https://www.governmentjobs.com/jobs/5441316-0/environmental-scientist",
+      "company": "County of Mendocino",
+      "title": "Hazardous Materials Operations Specialist",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5430178-0/hazardous-materials-operations-specialist",
       "date_posted": "",
-      "salary": "$99,863.00 - $121,392.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Fresno",
-      "title": "ENVIRONMENTAL HEALTH SPECIALIST I/II",
-      "location": "Fresno County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5435988-0/environmental-health-specialist-i-ii",
-      "date_posted": "",
-      "salary": "",
+      "salary": "$68,286.40 - $82,992.00 Annually",
       "ats": "NEOGOV"
     }
   ]

@@ -1,9 +1,8 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-10 22:21 UTC*
+*Last updated: 2026-08-10 23:20 UTC*
 
-**1 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-### [Product Stewardship Project Manager](https://www.indeed.com/viewjob?jk=e9b4234f4f2b7db4) — Abbott
-- 📍 **Location:** Temecula, CA, US
-- 💰 **Salary:** $99k–$199k/yr
+### [Senior Environmental Health Officer](https://au.indeed.com/viewjob?jk=e2bc5dadfacc2710) — Queensland Government
+- 📍 **Location:** Brisbane, QLD, AU
 - 🕒 **Posted:** 2026-08-10

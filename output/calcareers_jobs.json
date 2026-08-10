@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-09 16:45 UTC",
-  "total": 13,
+  "scraped_at": "2026-08-10 17:01 UTC",
+  "total": 14,
   "new_count": 0,
   "jobs": [
     {
@@ -94,6 +94,15 @@
       "ats": "CalCareers"
     },
     {
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Scientist",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527223",
+      "date_posted": "2026-08-10",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "Department of Food & Agriculture",
       "title": "Environmental Scientist",
       "location": "Stanislaus County",
@@ -103,21 +112,21 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Resources Recycling & Recovery",
-      "title": "SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526424",
-      "date_posted": "2026-07-28",
-      "salary": "$7820.00 - $10732.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Forestry & Fire Protection",
       "title": "Environmental Protection Program Senior Scientist",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527532",
       "date_posted": "2026-08-05",
       "salary": "$7820.00 - $10732.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Public Health",
+      "title": "Air Quality Project Coordinator",
+      "location": "Contra Costa County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527923",
+      "date_posted": "2026-08-10",
+      "salary": "$6623.00 - $8290.00",
       "ats": "CalCareers"
     }
   ],

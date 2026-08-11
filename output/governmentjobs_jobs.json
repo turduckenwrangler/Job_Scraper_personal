@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-10 17:20 UTC",
-  "total": 12,
-  "new_count": 1,
+  "scraped_at": "2026-08-11 17:25 UTC",
+  "total": 11,
+  "new_count": 0,
   "jobs": [
     {
       "company": "United Water Conservation District",
@@ -85,15 +85,6 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Mendocino",
-      "title": "Hazardous Materials Operations Specialist",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5430178-0/hazardous-materials-operations-specialist",
-      "date_posted": "",
-      "salary": "$68,286.40 - $82,992.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "City of Vista",
       "title": "Environmental Specialist I/II",
       "location": "Vista City Hall - 200 Civic Center Drive Vista 92084, CA",
@@ -112,15 +103,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "West Basin Municipal Water District",
-      "title": "Water Quality & Environmental Compliance Supervisor",
-      "location": "Carson, CA",
-      "url": "https://www.governmentjobs.com/jobs/5422948-0/water-quality-environmental-compliance-supervisor",
-      "date_posted": "",
-      "salary": "$138,534.00 - $190,484.00 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }

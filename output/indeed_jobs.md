@@ -1,9 +1,8 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-11 02:55 UTC*
+*Last updated: 2026-08-11 05:05 UTC*
 
-**1 new role(s)** since last run · 4 total in last 24h
+**1 new role(s)** since last run · 3 total in last 24h
 
-### [Equipment Management and Environmental Monitoring Manager](https://www.indeed.com/viewjob?jk=90b7b831e1130635) — Element Materials Technology
-- 📍 **Location:** Concord, CA, US
-- 💰 **Salary:** $90k–$110k/yr
+### [Environmental Health Officer](https://au.indeed.com/viewjob?jk=50f75f4cce1d6a5a) — NSW Government
+- 📍 **Location:** Sydney Western Suburbs, NSW, AU
 - 🕒 **Posted:** 2026-08-10

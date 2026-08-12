@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-12 21:11 UTC*
+*Last updated: 2026-08-12 22:12 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Hazardous Materials / Licensed Asbestos Assessor - Perth, WA](https://www.linkedin.com/jobs/view/4444559237/) — Tetra Tech
+- 📍 **Location:** Perth, Western Australia, Australia
+- 🕒 **Posted:** 2026-08-12

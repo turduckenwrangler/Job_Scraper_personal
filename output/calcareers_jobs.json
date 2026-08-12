@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-11 17:05 UTC",
+  "scraped_at": "2026-08-12 17:04 UTC",
   "total": 14,
   "new_count": 0,
   "jobs": [
@@ -19,6 +19,15 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526136",
       "date_posted": "2026-07-24",
       "salary": "$9200.00 - $11852.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Pesticide Regulation",
+      "title": "Environmental Scientist",
+      "location": "Orange County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525317",
+      "date_posted": "2026-07-20",
+      "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
@@ -54,15 +63,6 @@
       "location": "Alameda County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526611",
       "date_posted": "2026-07-28",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Environmental Scientist",
-      "location": "Orange County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525317",
-      "date_posted": "2026-07-20",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },

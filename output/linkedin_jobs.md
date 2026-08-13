@@ -1,9 +1,13 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-13 16:19 UTC*
+*Last updated: 2026-08-13 17:24 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4450569217/) — Rosendin
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $85,000.00/yr - $100,000.00/yr
+### [Sr. Hazardous Waste Specialist](https://www.linkedin.com/jobs/view/4454079134/) — Apex Companies
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $82 USD - $82 USD
+- 🕒 **Posted:** 2026-08-13
+
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4450800781/) — Brunel
+- 📍 **Location:** Perth, Western Australia, Australia
 - 🕒 **Posted:** 2026-08-13

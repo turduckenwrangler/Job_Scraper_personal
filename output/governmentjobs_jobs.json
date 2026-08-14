@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-13 17:25 UTC",
-  "total": 13,
-  "new_count": 2,
+  "scraped_at": "2026-08-14 17:21 UTC",
+  "total": 11,
+  "new_count": 1,
   "jobs": [
     {
       "company": "United Water Conservation District",
@@ -49,15 +49,6 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Solano County",
-      "title": "Environmental Health Specialist (Entry/Journey) DOQ",
-      "location": "Fairfield, CA",
-      "url": "https://www.governmentjobs.com/jobs/5403548-0/environmental-health-specialist-entry-journey-doq",
-      "date_posted": "",
-      "salary": "$3,047.20 - $4,505.60 Biweekly",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "County of Riverside",
       "title": "Environmental Health Specialist I, II, III",
       "location": "Throughout Riverside County",
@@ -67,21 +58,12 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "West Basin Municipal Water District",
-      "title": "Water Quality & Environmental Compliance Supervisor",
-      "location": "Carson, CA",
-      "url": "https://www.governmentjobs.com/jobs/5422948-0/water-quality-environmental-compliance-supervisor",
+      "company": "City of Palo Alto",
+      "title": "Water Quality Plant Manager of Maintenance Operations",
+      "location": "Palo Alto, CA",
+      "url": "https://www.governmentjobs.com/jobs/5425173-0/water-quality-plant-manager-of-maintenance-operations",
       "date_posted": "",
-      "salary": "$138,534.00 - $190,484.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "South Coast Air Quality Management District",
-      "title": "Principal Air Quality Chemist",
-      "location": "Diamond Bar, CA",
-      "url": "https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist",
-      "date_posted": "",
-      "salary": "$117,094.95 - $166,105.90 Annually",
+      "salary": "$118,643.20 - $177,944.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -123,21 +105,12 @@
   ],
   "new_jobs": [
     {
-      "company": "County of Riverside",
-      "title": "Environmental Health Specialist I, II, III",
-      "location": "Throughout Riverside County",
-      "url": "https://www.governmentjobs.com/jobs/5428457-0/environmental-health-specialist-i-ii-iii",
+      "company": "City of Palo Alto",
+      "title": "Water Quality Plant Manager of Maintenance Operations",
+      "location": "Palo Alto, CA",
+      "url": "https://www.governmentjobs.com/jobs/5425173-0/water-quality-plant-manager-of-maintenance-operations",
       "date_posted": "",
-      "salary": "$63,544.00 - $112,028.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "South Coast Air Quality Management District",
-      "title": "Principal Air Quality Chemist",
-      "location": "Diamond Bar, CA",
-      "url": "https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist",
-      "date_posted": "",
-      "salary": "$117,094.95 - $166,105.90 Annually",
+      "salary": "$118,643.20 - $177,944.00 Annually",
       "ats": "NEOGOV"
     }
   ]

@@ -1,6 +1,9 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-14 20:16 UTC*
+*Last updated: 2026-08-14 21:10 UTC*
 
-**0 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-No new roles since the last run.
+### [Senior Remediation Subject Matter Expert (SME)](https://www.indeed.com/viewjob?jk=2868a462fdec8dc3) — AECOM
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $71–$125/hr
+- 🕒 **Posted:** 2026-08-14

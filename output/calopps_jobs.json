@@ -1,17 +1,27 @@
 {
-  "scraped_at": "2026-08-14 17:21 UTC",
+  "scraped_at": "2026-08-15 16:52 UTC",
   "total": 1,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "Woodland",
-      "title": "Water Pollution Control Operator III",
-      "location": "Sacramento/Metro Area",
-      "url": "https://www.calopps.org/woodland/job-20759799",
+      "company": "Hayward",
+      "title": "Water Pollution Control Facility Lead Operator",
+      "location": "East Bay",
+      "url": "https://www.calopps.org/hayward/job-20768822",
       "date_posted": "",
-      "salary": "$7,452.95-$9,512.06 Monthly",
+      "salary": "$67.30-$78.68 Hourly",
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Hayward",
+      "title": "Water Pollution Control Facility Lead Operator",
+      "location": "East Bay",
+      "url": "https://www.calopps.org/hayward/job-20768822",
+      "date_posted": "",
+      "salary": "$67.30-$78.68 Hourly",
+      "ats": "CalOpps"
+    }
+  ]
 }

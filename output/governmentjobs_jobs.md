@@ -1,8 +1,12 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-08-14 17:21 UTC*
+*Last updated: 2026-08-15 16:51 UTC*
 
-**1 new role(s)** since last run · 11 total in recent GovernmentJobs postings
+**2 new role(s)** since last run · 9 total in recent GovernmentJobs postings
 
-### [Water Quality Plant Manager of Maintenance Operations](https://www.governmentjobs.com/jobs/5425173-0/water-quality-plant-manager-of-maintenance-operations) — City of Palo Alto
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $118,643.20 - $177,944.00 Annually
+### [Environmental Health Specialist III](https://www.governmentjobs.com/jobs/5444359-0/environmental-health-specialist-iii) — County of San Benito
+- 📍 **Location:** CA. 95023, CA
+- 💰 **Salary:** $94,952.00 - $125,632.00 Annually
+
+### [Principal Air Quality Chemist](https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist) — South Coast Air Quality Management District
+- 📍 **Location:** Diamond Bar, CA
+- 💰 **Salary:** $117,094.95 - $166,105.90 Annually

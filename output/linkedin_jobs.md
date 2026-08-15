@@ -1,24 +1,12 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-14 23:47 UTC*
+*Last updated: 2026-08-15 01:59 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4454827191/) — Jacobs
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $85,000.00/yr - $127,000.00/yr
-- 🕒 **Posted:** 2026-08-14
+### [Sr. Scientist II - Toxicology - Onsite in Aliso Viejo, CA](https://www.linkedin.com/jobs/view/4451273566/) — Glaukos Corporation
+- 📍 **Location:** Aliso Viejo, CA
+- 🕒 **Posted:** 2026-08-15
 
-### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4454817296/) — Jacobs
-- 📍 **Location:** Redding, CA
-- 💰 **Salary:** $85,000.00/yr - $127,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST) JC-528730](https://www.linkedin.com/jobs/view/4453745250/) — California Department of Public Health
-- 📍 **Location:** Sacramento County, CA
-- 💰 **Salary:** $7,820.00/mo - $10,732.00/mo
-- 🕒 **Posted:** 2026-08-14
-
-### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4454821290/) — Jacobs
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $85,000.00/yr - $127,000.00/yr
-- 🕒 **Posted:** 2026-08-14
+### [Supervising Environmental Health Specialist](https://www.linkedin.com/jobs/view/4454834577/) — County of Sonoma
+- 📍 **Location:** Santa Rosa, CA
+- 🕒 **Posted:** 2026-08-15

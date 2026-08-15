@@ -1,6 +1,13 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-15 00:02 UTC*
+*Last updated: 2026-08-15 02:05 UTC*
 
-**0 new role(s)** since last run · 2 total in last 24h
+**2 new role(s)** since last run · 4 total in last 24h
 
-No new roles since the last run.
+### [Security Officer Full Time Unarmed Patrol Risk Assessment](https://www.indeed.com/viewjob?jk=cde3aed90fc12f96) — Allied Universal
+- 📍 **Location:** Los Angeles, CA, US
+- 🕒 **Posted:** 2026-08-14
+
+### [Early Career Environmental Scientist](https://www.indeed.com/viewjob?jk=a1852a89fa3029f5) — WSP
+- 📍 **Location:** Vancouver, WA, US
+- 💰 **Salary:** $55k–$83k/yr
+- 🕒 **Posted:** 2026-08-14

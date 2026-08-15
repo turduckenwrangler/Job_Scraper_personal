@@ -1,13 +1,14 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-15 02:05 UTC*
+*Last updated: 2026-08-15 03:24 UTC*
 
-**2 new role(s)** since last run · 4 total in last 24h
+**2 new role(s)** since last run · 5 total in last 24h
 
-### [Security Officer Full Time Unarmed Patrol Risk Assessment](https://www.indeed.com/viewjob?jk=cde3aed90fc12f96) — Allied Universal
-- 📍 **Location:** Los Angeles, CA, US
+### [Sr. Scientist II - Toxicology - Onsite in Aliso Viejo, CA](https://www.indeed.com/viewjob?jk=a04cb513d4bc85c7) — Glaukos
+- 📍 **Location:** Aliso Viejo, CA, US
+- 💰 **Salary:** $118k–$148k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Early Career Environmental Scientist](https://www.indeed.com/viewjob?jk=a1852a89fa3029f5) — WSP
-- 📍 **Location:** Vancouver, WA, US
-- 💰 **Salary:** $55k–$83k/yr
+### [Sr. Scientist II - Toxicology - Onsite in Aliso Viejo, CA](https://www.indeed.com/viewjob?jk=7d4aad6a066401fb) — Glaukos
+- 📍 **Location:** Aliso Viejo, CA, US
+- 💰 **Salary:** $118k–$148k/yr
 - 🕒 **Posted:** 2026-08-14

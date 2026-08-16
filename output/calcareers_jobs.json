@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-15 16:33 UTC",
-  "total": 15,
+  "scraped_at": "2026-08-16 16:34 UTC",
+  "total": 14,
   "new_count": 0,
   "jobs": [
     {
@@ -94,20 +94,20 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Food & Agriculture",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Tulare County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527924",
-      "date_posted": "2026-08-11",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
       "location": "Shasta County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527839",
       "date_posted": "2026-08-10",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Food & Agriculture",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Tulare County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527924",
+      "date_posted": "2026-08-11",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -118,15 +118,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528475",
       "date_posted": "2026-08-13",
       "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Forestry & Fire Protection",
-      "title": "Environmental Protection Program Senior Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527532",
-      "date_posted": "2026-08-05",
-      "salary": "$7820.00 - $10732.00",
       "ats": "CalCareers"
     },
     {

@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-15 16:51 UTC",
-  "total": 9,
-  "new_count": 2,
+  "scraped_at": "2026-08-16 16:50 UTC",
+  "total": 11,
+  "new_count": 3,
   "jobs": [
     {
       "company": "United Water Conservation District",
@@ -58,12 +58,21 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "South Coast Air Quality Management District",
-      "title": "Principal Air Quality Chemist",
-      "location": "Diamond Bar, CA",
-      "url": "https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist",
+      "company": "City of Palo Alto",
+      "title": "Water Quality Plant Manager of Maintenance Operations",
+      "location": "Palo Alto, CA",
+      "url": "https://www.governmentjobs.com/jobs/5425173-0/water-quality-plant-manager-of-maintenance-operations",
       "date_posted": "",
-      "salary": "$117,094.95 - $166,105.90 Annually",
+      "salary": "$118,643.20 - $177,944.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Mendocino",
+      "title": "Hazardous Materials Operations Specialist",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5430178-0/hazardous-materials-operations-specialist",
+      "date_posted": "",
+      "salary": "$70,345.60 - $85,488.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -83,25 +92,43 @@
       "date_posted": "",
       "salary": "$83,137.60 - $124,009.60 Annually",
       "ats": "NEOGOV"
+    },
+    {
+      "company": "Brevard County Board of County Commissioners",
+      "title": "Associate Environmental Specialist (23394)",
+      "location": "Melbourne, FL",
+      "url": "https://www.governmentjobs.com/jobs/147706-1/associate-environmental-specialist-23394",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "County of San Benito",
-      "title": "Environmental Health Specialist III",
-      "location": "CA. 95023, CA",
-      "url": "https://www.governmentjobs.com/jobs/5444359-0/environmental-health-specialist-iii",
+      "company": "City of Palo Alto",
+      "title": "Water Quality Plant Manager of Maintenance Operations",
+      "location": "Palo Alto, CA",
+      "url": "https://www.governmentjobs.com/jobs/5425173-0/water-quality-plant-manager-of-maintenance-operations",
       "date_posted": "",
-      "salary": "$94,952.00 - $125,632.00 Annually",
+      "salary": "$118,643.20 - $177,944.00 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "South Coast Air Quality Management District",
-      "title": "Principal Air Quality Chemist",
-      "location": "Diamond Bar, CA",
-      "url": "https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist",
+      "company": "County of Mendocino",
+      "title": "Hazardous Materials Operations Specialist",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5430178-0/hazardous-materials-operations-specialist",
       "date_posted": "",
-      "salary": "$117,094.95 - $166,105.90 Annually",
+      "salary": "$70,345.60 - $85,488.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Brevard County Board of County Commissioners",
+      "title": "Associate Environmental Specialist (23394)",
+      "location": "Melbourne, FL",
+      "url": "https://www.governmentjobs.com/jobs/147706-1/associate-environmental-specialist-23394",
+      "date_posted": "",
+      "salary": "",
       "ats": "NEOGOV"
     }
   ]

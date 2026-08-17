@@ -1,14 +1,13 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-17 22:51 UTC*
+*Last updated: 2026-08-17 23:47 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**2 new role(s)** since last run · 3 total in last 1h
 
-### [Senior Environmental Compliance Project Manager](https://www.linkedin.com/jobs/view/4454419813/) — Dudek
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $110,000.00/yr - $150,000.00/yr
+### [Senior Environmental Scientist (Specialist)](https://www.linkedin.com/jobs/view/4454452139/) — Office of Energy Infrastructure Safety
+- 📍 **Location:** Sacramento, CA
 - 🕒 **Posted:** 2026-08-17
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4454439111/) — Republic Services
-- 📍 **Location:** Santee, CA
-- 💰 **Salary:** $75,000.00 to $103,050.00
+### [AIR POLLUTION SPECIALIST](https://www.linkedin.com/jobs/view/4455509351/) — California Air Resources Board
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $5,918.00/mo - $11,455.00/mo
 - 🕒 **Posted:** 2026-08-17

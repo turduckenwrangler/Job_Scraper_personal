@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-17 16:55 UTC",
-  "total": 12,
-  "new_count": 2,
+  "scraped_at": "2026-08-18 17:00 UTC",
+  "total": 7,
+  "new_count": 0,
   "jobs": [
     {
       "company": "United Water Conservation District",
@@ -10,24 +10,6 @@
       "url": "https://www.governmentjobs.com/jobs/5441316-0/environmental-scientist",
       "date_posted": "",
       "salary": "$99,863.00 - $121,392.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Mendocino",
-      "title": "Environmental Health Manager",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5431172-0/environmental-health-manager",
-      "date_posted": "",
-      "salary": "$97,032.00 - $117,936.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Kings County",
-      "title": "Environmental Health Specialist I/II",
-      "location": "Hanford, CA",
-      "url": "https://www.governmentjobs.com/jobs/5434932-0/environmental-health-specialist-i-ii",
-      "date_posted": "",
-      "salary": "",
       "ats": "NEOGOV"
     },
     {
@@ -58,12 +40,12 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Riverside",
-      "title": "Environmental Health Specialist I, II, III",
-      "location": "Throughout Riverside County",
-      "url": "https://www.governmentjobs.com/jobs/5428457-0/environmental-health-specialist-i-ii-iii",
+      "company": "Kings County",
+      "title": "Environmental Health Specialist I/II",
+      "location": "Hanford, CA",
+      "url": "https://www.governmentjobs.com/jobs/5434932-0/environmental-health-specialist-i-ii",
       "date_posted": "",
-      "salary": "$63,544.00 - $112,028.80 Annually",
+      "salary": "",
       "ats": "NEOGOV"
     },
     {
@@ -83,53 +65,7 @@
       "date_posted": "",
       "salary": "$117,094.95 - $166,105.90 Annually",
       "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Vista",
-      "title": "Environmental Specialist I/II",
-      "location": "Vista City Hall - 200 Civic Center Drive Vista 92084, CA",
-      "url": "https://www.governmentjobs.com/jobs/5366037-0/environmental-specialist-i-ii",
-      "date_posted": "",
-      "salary": "$75,183.16 - $100,752.86 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of San Luis Obispo",
-      "title": "Environmental Specialist II/III (Limited Term)",
-      "location": "San Luis Obispo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5441591-0/environmental-specialist-ii-iii-limited-term",
-      "date_posted": "",
-      "salary": "$83,137.60 - $124,009.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Brevard County Board of County Commissioners",
-      "title": "Associate Environmental Specialist (23394)",
-      "location": "Melbourne, FL",
-      "url": "https://www.governmentjobs.com/jobs/147706-1/associate-environmental-specialist-23394",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County of Riverside",
-      "title": "Environmental Health Specialist I, II, III",
-      "location": "Throughout Riverside County",
-      "url": "https://www.governmentjobs.com/jobs/5428457-0/environmental-health-specialist-i-ii-iii",
-      "date_posted": "",
-      "salary": "$63,544.00 - $112,028.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "South Coast Air Quality Management District",
-      "title": "Principal Air Quality Chemist",
-      "location": "Diamond Bar, CA",
-      "url": "https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist",
-      "date_posted": "",
-      "salary": "$117,094.95 - $166,105.90 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }

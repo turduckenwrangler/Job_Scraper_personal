@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-17 16:37 UTC",
+  "scraped_at": "2026-08-18 16:39 UTC",
   "total": 14,
   "new_count": 0,
   "jobs": [
@@ -67,15 +67,6 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Fresno County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527141",
-      "date_posted": "2026-08-03",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Resources Recycling & Recovery",
       "title": "Environmental Scientist",
       "location": "United States",
@@ -94,20 +85,20 @@
       "ats": "CalCareers"
     },
     {
-      "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
-      "location": "Shasta County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527839",
-      "date_posted": "2026-08-10",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Food & Agriculture",
       "title": "ENVIRONMENTAL SCIENTIST",
       "location": "Tulare County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527924",
       "date_posted": "2026-08-11",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Environmental Scientist",
+      "location": "Shasta County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527839",
+      "date_posted": "2026-08-10",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -118,6 +109,15 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528475",
       "date_posted": "2026-08-13",
       "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Water Resources",
+      "title": "Unit Manager: Hazardous Materials & Environmental Evaluations",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528040",
+      "date_posted": "2026-08-18",
+      "salary": "$10854.00 - $13493.00",
       "ats": "CalCareers"
     },
     {

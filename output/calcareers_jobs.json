@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18 16:39 UTC",
+  "scraped_at": "2026-08-19 16:39 UTC",
   "total": 14,
   "new_count": 0,
   "jobs": [
@@ -19,6 +19,15 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526136",
       "date_posted": "2026-07-24",
       "salary": "$9200.00 - $11852.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Pesticide Regulation",
+      "title": "Environmental Scientist",
+      "location": "Orange County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525317",
+      "date_posted": "2026-07-20",
+      "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
@@ -45,15 +54,6 @@
       "location": "Stanislaus County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526566",
       "date_posted": "2026-07-28",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Environmental Scientist",
-      "location": "Orange County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525317",
-      "date_posted": "2026-07-20",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -112,11 +112,11 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Water Resources",
-      "title": "Unit Manager: Hazardous Materials & Environmental Evaluations",
-      "location": "Yolo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528040",
-      "date_posted": "2026-08-18",
+      "company": "Department of Parks & Recreation",
+      "title": "SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)",
+      "location": "Stanislaus County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527492",
+      "date_posted": "2026-08-12",
       "salary": "$10854.00 - $13493.00",
       "ats": "CalCareers"
     },

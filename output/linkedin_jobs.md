@@ -1,6 +1,12 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-19 21:51 UTC*
+*Last updated: 2026-08-19 22:52 UTC*
 
-**0 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4456401484/) — Clark Pacific
+- 📍 **Location:** Woodland, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Environmental Compliance Inspector](https://www.linkedin.com/jobs/view/4456328977/) — Quanta Infrastructure Solutions Group
+- 📍 **Location:** Multnomah County, OR
+- 🕒 **Posted:** 2026-08-19

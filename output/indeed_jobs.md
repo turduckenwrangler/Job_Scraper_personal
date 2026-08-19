@@ -1,6 +1,9 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-19 20:02 UTC*
+*Last updated: 2026-08-19 21:11 UTC*
 
-**0 new role(s)** since last run · 5 total in last 24h
+**1 new role(s)** since last run · 6 total in last 24h
 
-No new roles since the last run.
+### [Environmental Health Specialist](https://www.indeed.com/viewjob?jk=ed6df2f200eef54f) — Forensic Analytical Consulting Services
+- 📍 **Location:** Portland, OR, US
+- 💰 **Salary:** $22–$25/hr
+- 🕒 **Posted:** 2026-08-19

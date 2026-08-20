@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 17:00 UTC",
-  "total": 6,
-  "new_count": 0,
+  "scraped_at": "2026-08-20 17:02 UTC",
+  "total": 8,
+  "new_count": 2,
   "jobs": [
     {
       "company": "United Water Conservation District",
@@ -49,6 +49,15 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "City of Watsonville",
+      "title": "Water Quality Chemist",
+      "location": "City of Watsonville, CA",
+      "url": "https://www.governmentjobs.com/jobs/5454844-0/water-quality-chemist",
+      "date_posted": "",
+      "salary": "$86,881.60 - $116,438.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "City of Palo Alto",
       "title": "Water Quality Plant Manager of Maintenance Operations",
       "location": "Palo Alto, CA",
@@ -56,7 +65,35 @@
       "date_posted": "",
       "salary": "$118,643.20 - $177,944.00 Annually",
       "ats": "NEOGOV"
+    },
+    {
+      "company": "South Coast Air Quality Management District",
+      "title": "Principal Air Quality Chemist",
+      "location": "Diamond Bar, CA",
+      "url": "https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist",
+      "date_posted": "",
+      "salary": "$117,094.95 - $166,105.90 Annually",
+      "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "City of Watsonville",
+      "title": "Water Quality Chemist",
+      "location": "City of Watsonville, CA",
+      "url": "https://www.governmentjobs.com/jobs/5454844-0/water-quality-chemist",
+      "date_posted": "",
+      "salary": "$86,881.60 - $116,438.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "South Coast Air Quality Management District",
+      "title": "Principal Air Quality Chemist",
+      "location": "Diamond Bar, CA",
+      "url": "https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist",
+      "date_posted": "",
+      "salary": "$117,094.95 - $166,105.90 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-20 02:02 UTC*
+*Last updated: 2026-08-20 03:20 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [Supervising Environmental Health Specialist](https://www.linkedin.com/jobs/view/4456439142/) — County of Sonoma
-- 📍 **Location:** Santa Rosa, CA
+### [Project Manager - Hazardous Materials](https://www.linkedin.com/jobs/view/4455476966/) — Aztech Services Australia
+- 📍 **Location:** Underwood, Queensland, Australia
 - 🕒 **Posted:** 2026-08-20

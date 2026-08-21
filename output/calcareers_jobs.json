@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20 16:42 UTC",
-  "total": 16,
+  "scraped_at": "2026-08-21 16:42 UTC",
+  "total": 17,
   "new_count": 0,
   "jobs": [
     {
@@ -27,15 +27,6 @@
       "location": "Alameda County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518357",
       "date_posted": "2026-05-14",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Toxic Substances Control",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525998",
-      "date_posted": "2026-08-19",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -67,11 +58,11 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Resources Recycling & Recovery",
+      "company": "Department of Toxic Substances Control",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527103",
-      "date_posted": "2026-07-31",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525998",
+      "date_posted": "2026-08-19",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -109,6 +100,24 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527839",
       "date_posted": "2026-08-10",
       "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Scientist",
+      "location": "Riverside County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528263",
+      "date_posted": "2026-08-20",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Water Resources",
+      "title": "Unit Manager: Hazardous Materials & Environmental Evaluations",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528040",
+      "date_posted": "2026-08-18",
+      "salary": "$10854.00 - $13493.00",
       "ats": "CalCareers"
     },
     {

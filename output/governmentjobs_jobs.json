@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20 17:02 UTC",
-  "total": 8,
+  "scraped_at": "2026-08-21 17:03 UTC",
+  "total": 9,
   "new_count": 2,
   "jobs": [
     {
@@ -58,12 +58,21 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "City of Palo Alto",
-      "title": "Water Quality Plant Manager of Maintenance Operations",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5425173-0/water-quality-plant-manager-of-maintenance-operations",
+      "company": "City of Burbank",
+      "title": "WATER QUALITY ANALYST",
+      "location": "Burbank, CA",
+      "url": "https://www.governmentjobs.com/jobs/5454494-0/water-quality-analyst",
       "date_posted": "",
-      "salary": "$118,643.20 - $177,944.00 Annually",
+      "salary": "$102,750.44 - $141,642.54 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Corvallis",
+      "title": "Water Quality Analyst",
+      "location": "City of Corvallis, OR",
+      "url": "https://www.governmentjobs.com/jobs/5455854-0/water-quality-analyst",
+      "date_posted": "",
+      "salary": "$32.88 - $41.81 Hourly",
       "ats": "NEOGOV"
     },
     {
@@ -78,21 +87,21 @@
   ],
   "new_jobs": [
     {
-      "company": "City of Watsonville",
-      "title": "Water Quality Chemist",
-      "location": "City of Watsonville, CA",
-      "url": "https://www.governmentjobs.com/jobs/5454844-0/water-quality-chemist",
+      "company": "City of Burbank",
+      "title": "WATER QUALITY ANALYST",
+      "location": "Burbank, CA",
+      "url": "https://www.governmentjobs.com/jobs/5454494-0/water-quality-analyst",
       "date_posted": "",
-      "salary": "$86,881.60 - $116,438.40 Annually",
+      "salary": "$102,750.44 - $141,642.54 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "South Coast Air Quality Management District",
-      "title": "Principal Air Quality Chemist",
-      "location": "Diamond Bar, CA",
-      "url": "https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist",
+      "company": "City of Corvallis",
+      "title": "Water Quality Analyst",
+      "location": "City of Corvallis, OR",
+      "url": "https://www.governmentjobs.com/jobs/5455854-0/water-quality-analyst",
       "date_posted": "",
-      "salary": "$117,094.95 - $166,105.90 Annually",
+      "salary": "$32.88 - $41.81 Hourly",
       "ats": "NEOGOV"
     }
   ]

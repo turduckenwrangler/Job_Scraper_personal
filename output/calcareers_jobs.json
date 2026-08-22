@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-21 16:42 UTC",
-  "total": 17,
+  "scraped_at": "2026-08-22 16:33 UTC",
+  "total": 16,
   "new_count": 0,
   "jobs": [
     {
@@ -27,6 +27,15 @@
       "location": "Alameda County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518357",
       "date_posted": "2026-05-14",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Toxic Substances Control",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525998",
+      "date_posted": "2026-08-19",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -58,15 +67,6 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Toxic Substances Control",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525998",
-      "date_posted": "2026-08-19",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Resources Recycling & Recovery",
       "title": "Environmental Scientist",
       "location": "United States",
@@ -85,20 +85,20 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Food & Agriculture",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Tulare County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527924",
-      "date_posted": "2026-08-11",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
       "location": "Shasta County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527839",
       "date_posted": "2026-08-10",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Food & Agriculture",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Tulare County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527924",
+      "date_posted": "2026-08-11",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -127,15 +127,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527533",
       "date_posted": "2026-08-19",
       "salary": "$3167.00 - $4268.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Parks & Recreation",
-      "title": "SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)",
-      "location": "Stanislaus County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527492",
-      "date_posted": "2026-08-12",
-      "salary": "$10854.00 - $13493.00",
       "ats": "CalCareers"
     },
     {

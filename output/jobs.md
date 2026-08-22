@@ -1,13 +1,23 @@
 # 🏛 Priority Employers — Environmental / Toxicology Roles
-*Last updated: 2026-08-21 04:15 UTC*
+*Last updated: 2026-08-22 04:11 UTC*
 
-**2 new role(s)** since last run · 2 total in last 24h
+**4 new role(s)** since last run · 4 total in last 24h
 
-### [Air Pollution Specialist](https://www.linkedin.com/jobs/view/4456740973/) — California Air Resources Board
+### [Staff Air Pollution Specialist](https://www.linkedin.com/jobs/view/4457358663/) — California Air Resources Board
 - 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $5,918.00/mo - $11,455.00/mo
-- 🕒 **Posted:** 2026-08-20
+- 💰 **Salary:** $10,521.00/mo - $13,173.00/mo
+- 🕒 **Posted:** 2026-08-21
 
-### [Environmental Scientist/Contaminated Land (FIFO) - Northern Territory](https://www.linkedin.com/jobs/view/4456733260/) — Tetra Tech
-- 📍 **Location:** Darwin, Northern Territory, Australia
-- 🕒 **Posted:** 2026-08-20
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4456285194/) — AECOM
+- 📍 **Location:** Long Beach, CA
+- 💰 **Salary:** $70500 to $75000
+- 🕒 **Posted:** 2026-08-21
+
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4437311255/) — GHD
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $72,019 - $120,011,
+- 🕒 **Posted:** 2026-08-21
+
+### [Associate Director - Water Resources](https://www.linkedin.com/jobs/view/4455455344/) — AECOM
+- 📍 **Location:** Perth, Western Australia, Australia
+- 🕒 **Posted:** 2026-08-21

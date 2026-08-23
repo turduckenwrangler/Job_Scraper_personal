@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-22 16:51 UTC",
-  "total": 13,
-  "new_count": 4,
+  "scraped_at": "2026-08-23 16:53 UTC",
+  "total": 11,
+  "new_count": 0,
   "jobs": [
     {
       "company": "United Water Conservation District",
@@ -49,6 +49,15 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "South Coast Air Quality Management District",
+      "title": "Principal Air Quality Chemist",
+      "location": "Diamond Bar, CA",
+      "url": "https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist",
+      "date_posted": "",
+      "salary": "$117,094.95 - $166,105.90 Annually",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "City of Watsonville",
       "title": "Water Quality Chemist",
       "location": "City of Watsonville, CA",
@@ -76,33 +85,6 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Santa Margarita Water District",
-      "title": "Water Quality and Regulatory Manager",
-      "location": "92688, CA",
-      "url": "https://www.governmentjobs.com/jobs/5457810-0/water-quality-and-regulatory-manager",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Palo Alto",
-      "title": "Water Quality Plant Manager of Maintenance Operations",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5425173-0/water-quality-plant-manager-of-maintenance-operations",
-      "date_posted": "",
-      "salary": "$118,643.20 - $177,944.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "South Coast Air Quality Management District",
-      "title": "Principal Air Quality Chemist",
-      "location": "Diamond Bar, CA",
-      "url": "https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist",
-      "date_posted": "",
-      "salary": "$117,094.95 - $166,105.90 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "City of Santa Rosa",
       "title": "Environmental Specialist I/II",
       "location": "MSCS-69 Stony Circle Santa Rosa, CA",
@@ -121,42 +103,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Santa Margarita Water District",
-      "title": "Water Quality and Regulatory Manager",
-      "location": "92688, CA",
-      "url": "https://www.governmentjobs.com/jobs/5457810-0/water-quality-and-regulatory-manager",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Palo Alto",
-      "title": "Water Quality Plant Manager of Maintenance Operations",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5425173-0/water-quality-plant-manager-of-maintenance-operations",
-      "date_posted": "",
-      "salary": "$118,643.20 - $177,944.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Santa Rosa",
-      "title": "Environmental Specialist I/II",
-      "location": "MSCS-69 Stony Circle Santa Rosa, CA",
-      "url": "https://www.governmentjobs.com/jobs/5401336-0/environmental-specialist-i-ii",
-      "date_posted": "",
-      "salary": "$94,906.00 - $129,466.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of San Luis Obispo",
-      "title": "Environmental Specialist II/III (Limited Term)",
-      "location": "San Luis Obispo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5441591-0/environmental-specialist-ii-iii-limited-term",
-      "date_posted": "",
-      "salary": "$83,137.60 - $124,009.60 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }

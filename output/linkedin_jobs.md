@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-24 17:58 UTC*
+*Last updated: 2026-08-24 19:08 UTC*
 
-**0 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Environmental Health Specialist I, II, III](https://www.linkedin.com/jobs/view/4445780750/) — County of Riverside
+- 📍 **Location:** Riverside County, CA
+- 💰 **Salary:** $63,546.87 - $98,363.36 Annually
+- 🕒 **Posted:** 2026-08-24

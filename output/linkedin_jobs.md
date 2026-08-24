@@ -1,13 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-24 22:54 UTC*
+*Last updated: 2026-08-24 23:46 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [Vice President of Toxicology](https://www.linkedin.com/jobs/view/4439466409/) — Kelly
-- 📍 **Location:** San Diego Metropolitan Area
-- 💰 **Salary:** $300,000.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [ENVIRONMENTAL SCIENCE, WILDFIRE SAFETY, POLICY & REGULATORY ANALYSIS — OFFICE OF ENERGY INFRASTRUCTURE SAFETY (SACRAMENTO, OAKLAND & LAKEWOOD, CA)](https://www.linkedin.com/jobs/view/4456521636/) — Women in Cleantech and Sustainability
-- 📍 **Location:** Lakewood, CA
+### [Principal Scientist -  Toxicology & Translational Lead (Fully Remote)](https://www.linkedin.com/jobs/view/4456537590/) — Lipovectra
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
 - 🕒 **Posted:** 2026-08-24

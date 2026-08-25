@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-25 19:55 UTC*
+*Last updated: 2026-08-25 20:55 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4454308516/) — Recology
+- 📍 **Location:** California, United States
+- 🕒 **Posted:** 2026-08-25

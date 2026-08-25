@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-24 23:46 UTC*
+*Last updated: 2026-08-25 02:04 UTC*
 
-**1 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Principal Scientist -  Toxicology & Translational Lead (Fully Remote)](https://www.linkedin.com/jobs/view/4456537590/) — Lipovectra
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-08-24
+### [Senior Environmental Scientist](https://www.linkedin.com/jobs/view/4442960172/) — Gather Recruitment
+- 📍 **Location:** Greater Perth Area
+- 💰 **Salary:** $120k - $140k
+- 🕒 **Posted:** 2026-08-25

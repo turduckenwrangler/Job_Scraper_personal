@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-08-24 16:47 UTC",
-  "total": 14,
+  "scraped_at": "2026-08-25 16:47 UTC",
+  "total": 13,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "Department of Public Health",
-      "title": "Emergency Response Toxicologist",
-      "location": "Contra Costa County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526136",
-      "date_posted": "2026-07-24",
-      "salary": "$9200.00 - $11852.00",
-      "ats": "CalCareers"
-    },
     {
       "company": "Department of Toxic Substances Control",
       "title": "Environmental Scientist",
@@ -76,20 +67,20 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Food & Agriculture",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Tulare County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527924",
-      "date_posted": "2026-08-11",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
       "location": "Shasta County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527839",
       "date_posted": "2026-08-10",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Food & Agriculture",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Tulare County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527924",
+      "date_posted": "2026-08-11",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -112,12 +103,12 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Public Health",
-      "title": "Air Quality Project Coordinator",
-      "location": "Contra Costa County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527923",
-      "date_posted": "2026-08-10",
-      "salary": "$6623.00 - $8290.00",
+      "company": "Department of Parks & Recreation",
+      "title": "SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)",
+      "location": "Stanislaus County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527492",
+      "date_posted": "2026-08-12",
+      "salary": "$10854.00 - $13493.00",
       "ats": "CalCareers"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-25 16:47 UTC",
-  "total": 13,
+  "scraped_at": "2026-08-26 16:53 UTC",
+  "total": 12,
   "new_count": 0,
   "jobs": [
     {
@@ -103,20 +103,11 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Parks & Recreation",
-      "title": "SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)",
-      "location": "Stanislaus County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527492",
-      "date_posted": "2026-08-12",
-      "salary": "$10854.00 - $13493.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Resources Recycling & Recovery",
-      "title": "Environmental Scientist",
-      "location": "Riverside County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528263",
-      "date_posted": "2026-08-20",
+      "company": "Department of Food & Agriculture",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529936",
+      "date_posted": "2026-08-25",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     }

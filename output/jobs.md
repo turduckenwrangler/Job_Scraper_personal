@@ -1,22 +1,20 @@
 # 🏛 Priority Employers — Environmental / Toxicology Roles
-*Last updated: 2026-08-25 04:14 UTC*
+*Last updated: 2026-08-26 04:17 UTC*
 
-**4 new role(s)** since last run · 4 total in last 24h
+**4 new role(s)** since last run · 5 total in last 24h
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4456285194/) — AECOM
-- 📍 **Location:** Long Beach, CA
-- 💰 **Salary:** $70500 to $75000
-- 🕒 **Posted:** 2026-08-24
+### [Principal Environmental Scientist – Contaminated Land - Relocate to Darwin](https://www.linkedin.com/jobs/view/4457173169/) — AECOM
+- 📍 **Location:** Melbourne, Victoria, Australia
+- 🕒 **Posted:** 2026-08-26
 
-### [Principal Practice Leader - Air Quality](https://www.linkedin.com/jobs/view/4410885192/) — Geosyntec Consultants
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $149,330/year - $209,060/year
-- 🕒 **Posted:** 2026-08-24
+### [Air Quality Managing Consultant](https://www.linkedin.com/jobs/view/4459099254/) — Ramboll
+- 📍 **Location:** North Sydney, New South Wales, Australia
+- 🕒 **Posted:** 2026-08-26
 
-### [Principal Environmental Scientist – Contaminated Land - Relocate to Darwin](https://www.linkedin.com/jobs/view/4457189069/) — AECOM
+### [AECOM Water Resources Opportunities - ANZ](https://www.linkedin.com/jobs/view/4459092789/) — AECOM
 - 📍 **Location:** Townsville, Queensland, Australia
-- 🕒 **Posted:** 2026-08-24
+- 🕒 **Posted:** 2026-08-26
 
-### [Principal Environmental Scientist – Contaminated Land](https://www.linkedin.com/jobs/view/4457175175/) — AECOM
+### [Principal Environmental Scientist - Environmental Impact Assessment](https://www.linkedin.com/jobs/view/4423402582/) — AECOM
 - 📍 **Location:** Darwin, Northern Territory, Australia
-- 🕒 **Posted:** 2026-08-24
+- 🕒 **Posted:** 2026-08-25

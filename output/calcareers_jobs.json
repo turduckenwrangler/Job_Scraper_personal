@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-28 00:50 UTC",
-  "total": 13,
+  "scraped_at": "2026-08-29 00:31 UTC",
+  "total": 11,
   "new_count": 0,
   "jobs": [
     {
@@ -24,44 +24,8 @@
     {
       "company": "Department of Fish and Wildlife",
       "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529956",
-      "date_posted": "2026-08-25",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Sacramento-San Joaquin Delta Conservancy",
-      "title": "Environmental Scientist",
-      "location": "Yolo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528959",
-      "date_posted": "2026-08-19",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529651",
-      "date_posted": "2026-08-24",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Shasta County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529691",
-      "date_posted": "2026-08-24",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Shasta County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529713",
+      "location": "Orange County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529794",
       "date_posted": "2026-08-24",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
@@ -76,12 +40,39 @@
       "ats": "CalCareers"
     },
     {
+      "company": "Department of Fish and Wildlife",
+      "title": "Environmental Scientist",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529956",
+      "date_posted": "2026-08-25",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "Department of Toxic Substances Control",
       "title": "Environmental Scientist",
       "location": "Alameda County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518357",
       "date_posted": "2026-05-14",
       "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Scientist",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527223",
+      "date_posted": "2026-08-10",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Water Resources",
+      "title": "Unit Manager: Hazardous Materials & Environmental Evaluations",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528040",
+      "date_posted": "2026-08-18",
+      "salary": "$10854.00 - $13493.00",
       "ats": "CalCareers"
     },
     {
@@ -108,15 +99,6 @@
       "location": "Riverside County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528263",
       "date_posted": "2026-08-20",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Food & Agriculture",
-      "title": "Environmental Scientist",
-      "location": "Stanislaus County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526566",
-      "date_posted": "2026-07-28",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     }

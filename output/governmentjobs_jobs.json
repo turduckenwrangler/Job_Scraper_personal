@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-28 00:58 UTC",
+  "scraped_at": "2026-08-29 00:34 UTC",
   "total": 10,
-  "new_count": 2,
+  "new_count": 1,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -13,21 +13,21 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "County of Fresno",
+      "title": "ENVIRONMENTAL HEALTH AIDE",
+      "location": "Fresno County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5463618-0/environmental-health-aide",
+      "date_posted": "",
+      "salary": "$46,306.00 - $59,098.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "County of San Benito",
       "title": "Environmental Health Specialist III",
       "location": "CA. 95023, CA",
       "url": "https://www.governmentjobs.com/jobs/5444359-0/environmental-health-specialist-iii",
       "date_posted": "",
       "salary": "$94,952.00 - $125,632.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Fresno",
-      "title": "ENVIRONMENTAL HEALTH SPECIALIST I/II",
-      "location": "Fresno County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5435988-0/environmental-health-specialist-i-ii",
-      "date_posted": "",
-      "salary": "",
       "ats": "NEOGOV"
     },
     {
@@ -96,21 +96,12 @@
   ],
   "new_jobs": [
     {
-      "company": "County of Mendocino",
-      "title": "Environmental Health Manager",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5461125-0/environmental-health-manager",
+      "company": "County of Fresno",
+      "title": "ENVIRONMENTAL HEALTH AIDE",
+      "location": "Fresno County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5463618-0/environmental-health-aide",
       "date_posted": "",
-      "salary": "$97,032.00 - $117,936.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Lake",
-      "title": "Environmental Health Specialist I/II/Senior",
-      "location": "Lake County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5462563-0/environmental-health-specialist-i-ii-senior",
-      "date_posted": "",
-      "salary": "$60,174.40 - $93,641.60 Annually",
+      "salary": "$46,306.00 - $59,098.00 Annually",
       "ats": "NEOGOV"
     }
   ]

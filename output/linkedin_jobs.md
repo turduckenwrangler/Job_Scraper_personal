@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-30 00:27 UTC*
+*Last updated: 2026-08-30 06:46 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Senior Manager - Environmental Health, Safety & Compliance](https://www.linkedin.com/jobs/view/4459718265/) — Alpha Home Health and Hospice
-- 📍 **Location:** El Portal, CA
-- 🕒 **Posted:** 2026-08-30
+No new roles since the last run.

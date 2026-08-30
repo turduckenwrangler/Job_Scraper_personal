@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-08-29 19:21 UTC",
+  "scraped_at": "2026-08-30 19:16 UTC",
   "total": 12,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Orange County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529794",
-      "date_posted": "2026-08-24",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
     {
       "company": "Department of Parks & Recreation",
       "title": "ENVIRONMENTAL SCIENTIST, Range C (PI)",
@@ -31,20 +22,20 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529956",
-      "date_posted": "2026-08-25",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Pesticide Regulation",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=530019",
       "date_posted": "2026-08-26",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Fish and Wildlife",
+      "title": "Environmental Scientist",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529956",
+      "date_posted": "2026-08-25",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -63,6 +54,15 @@
       "location": "United States",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527223",
       "date_posted": "2026-08-10",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Food & Agriculture",
+      "title": "Environmental Scientist",
+      "location": "Stanislaus County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527269",
+      "date_posted": "2026-08-04",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },

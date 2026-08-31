@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-30 19:20 UTC",
-  "total": 11,
+  "scraped_at": "2026-08-31 21:29 UTC",
+  "total": 10,
   "new_count": 0,
   "jobs": [
     {
@@ -40,6 +40,15 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "City of Watsonville",
+      "title": "Water Quality Chemist",
+      "location": "City of Watsonville, CA",
+      "url": "https://www.governmentjobs.com/jobs/5454844-0/water-quality-chemist",
+      "date_posted": "",
+      "salary": "$86,881.60 - $116,438.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "City of Burbank",
       "title": "WATER QUALITY ANALYST",
       "location": "Burbank, CA",
@@ -55,15 +64,6 @@
       "url": "https://www.governmentjobs.com/jobs/5455854-0/water-quality-analyst",
       "date_posted": "",
       "salary": "$32.88 - $41.81 Hourly",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Watsonville",
-      "title": "Water Quality Chemist",
-      "location": "City of Watsonville, CA",
-      "url": "https://www.governmentjobs.com/jobs/5454844-0/water-quality-chemist",
-      "date_posted": "",
-      "salary": "$86,881.60 - $116,438.40 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -91,15 +91,6 @@
       "url": "https://www.governmentjobs.com/jobs/148696-1/associate-environmental-specialist-23394",
       "date_posted": "",
       "salary": "",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Folsom",
-      "title": "Senior Environmental Specialist - Recycling",
-      "location": "Folsom, CA",
-      "url": "https://www.governmentjobs.com/jobs/5427827-0/senior-environmental-specialist-recycling",
-      "date_posted": "",
-      "salary": "$81,379.33 - $103,088.89 Annually",
       "ats": "NEOGOV"
     }
   ],

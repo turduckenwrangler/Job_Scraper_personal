@@ -1,9 +1,14 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-01 18:52 UTC*
+*Last updated: 2026-09-01 22:06 UTC*
 
-**1 new role(s)** since last run · 8 total in last 24h
+**2 new role(s)** since last run · 9 total in last 24h
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=5e136add54218df8) — DEPARTMENT OF FISH AND WILDLIFE
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
+### [NUQ - Safety Environmental Health Manager](https://www.indeed.com/viewjob?jk=dbbf086600f2701d) — Avports LLC
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $100k–$115k/yr
+- 🕒 **Posted:** 2026-09-01
+
+### [NUQ - Safety Environmental Health Manager](https://www.indeed.com/viewjob?jk=2020bc18c9554c15) — Avports LLC
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $100k–$115k/yr
 - 🕒 **Posted:** 2026-09-01

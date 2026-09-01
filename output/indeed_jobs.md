@@ -1,13 +1,39 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-01 00:48 UTC*
+*Last updated: 2026-09-01 06:48 UTC*
 
-**2 new role(s)** since last run · 7 total in last 24h
+**7 new role(s)** since last run · 12 total in last 24h
 
-### [Drinking Water Protection Specialist (Natural Resource Specialist 3)](https://www.indeed.com/viewjob?jk=e65e9f276e40dc28) — DEPARTMENT OF ENVIRONMENTAL QUALITY
-- 📍 **Location:** Portland, OR, US
-- 💰 **Salary:** $5453–$8345/mo
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=6baa74fea047087c) — STATE WATER RESOURCES CONTROL BOARD
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-09-01
+
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=c367e04933b18be7) — STATE WATER RESOURCES CONTROL BOARD
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-09-01
+
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=e071f6d1ffabde57) — Department Of Food & Agriculture
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-09-01
+
+### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=f94505af013aeaa0) — Caltrans - CA Dept. of Transportation
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $7820–$11k/mo
+- 🕒 **Posted:** 2026-09-01
+
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=350c575645cde7a2) — DEPARTMENT OF FISH AND WILDLIFE
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-09-01
+
+### [Graduate Environmental Scientist- 2027](https://www.indeed.com/viewjob?jk=3568bab7e0e36097) — Mott MacDonald
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $79k–$88k/yr
 - 🕒 **Posted:** 2026-08-31
 
-### [Environmental Scientist](https://au.indeed.com/viewjob?jk=f9f8892cd2cafac9) — Ventia
-- 📍 **Location:** North Sydney, NSW, AU
-- 🕒 **Posted:** 2026-08-30
+### [Principal or Director, Stormwater & Watershed Sciences](https://www.indeed.com/viewjob?jk=80481bcfebd1effb) — Rincon Consultants
+- 📍 **Location:** Ventura, CA, US
+- 💰 **Salary:** $150k–$200k/yr
+- 🕒 **Posted:** 2026-08-31

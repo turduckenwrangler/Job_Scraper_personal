@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-31 21:29 UTC",
-  "total": 10,
-  "new_count": 0,
+  "scraped_at": "2026-09-01 19:25 UTC",
+  "total": 12,
+  "new_count": 3,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -67,6 +67,24 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "Santa Margarita Water District",
+      "title": "Water Quality and Regulatory Manager",
+      "location": "92688, CA",
+      "url": "https://www.governmentjobs.com/jobs/5457810-0/water-quality-and-regulatory-manager",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of El Cerrito",
+      "title": "ENVIRONMENTAL SPECIALIST",
+      "location": "El Cerrito, CA",
+      "url": "https://www.governmentjobs.com/jobs/5448541-0/environmental-specialist",
+      "date_posted": "",
+      "salary": "$81,744.00 - $99,360.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "City of Santa Rosa",
       "title": "Environmental Specialist I/II",
       "location": "MSCS-69 Stony Circle Santa Rosa, CA",
@@ -76,12 +94,12 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of San Luis Obispo",
-      "title": "Environmental Specialist II/III (Limited Term)",
-      "location": "San Luis Obispo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5441591-0/environmental-specialist-ii-iii-limited-term",
+      "company": "City of Folsom",
+      "title": "Senior Environmental Specialist - Recycling",
+      "location": "Folsom, CA",
+      "url": "https://www.governmentjobs.com/jobs/5427827-0/senior-environmental-specialist-recycling",
       "date_posted": "",
-      "salary": "$83,137.60 - $124,009.60 Annually",
+      "salary": "$81,379.33 - $103,088.89 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -94,5 +112,33 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Santa Margarita Water District",
+      "title": "Water Quality and Regulatory Manager",
+      "location": "92688, CA",
+      "url": "https://www.governmentjobs.com/jobs/5457810-0/water-quality-and-regulatory-manager",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of El Cerrito",
+      "title": "ENVIRONMENTAL SPECIALIST",
+      "location": "El Cerrito, CA",
+      "url": "https://www.governmentjobs.com/jobs/5448541-0/environmental-specialist",
+      "date_posted": "",
+      "salary": "$81,744.00 - $99,360.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Folsom",
+      "title": "Senior Environmental Specialist - Recycling",
+      "location": "Folsom, CA",
+      "url": "https://www.governmentjobs.com/jobs/5427827-0/senior-environmental-specialist-recycling",
+      "date_posted": "",
+      "salary": "$81,379.33 - $103,088.89 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }

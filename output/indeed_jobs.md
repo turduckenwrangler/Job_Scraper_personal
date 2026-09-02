@@ -1,33 +1,13 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-02 18:58 UTC*
+*Last updated: 2026-09-02 22:00 UTC*
 
-**6 new role(s)** since last run · 9 total in last 24h
+**2 new role(s)** since last run · 10 total in last 24h
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=d5b8cd30f79157db) — Department of Toxic Substances Control
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
+### [Academic Remediation Specialist](https://www.indeed.com/viewjob?jk=3c06a99677ef62a3) — Summit College
+- 📍 **Location:** San Bernardino, CA, US
+- 💰 **Salary:** $50–$60/hr
 - 🕒 **Posted:** 2026-09-02
 
-### [AIR POLLUTION SPECIALIST](https://www.indeed.com/viewjob?jk=69f8799b2a8c7faf) — State Air Resources Board
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $5918–$11k/mo
-- 🕒 **Posted:** 2026-09-02
-
-### [Environmental Specialist III](https://www.indeed.com/viewjob?jk=8b2ed584f7b6b37e) — Sacramento County, CA
-- 📍 **Location:** Sacramento, CA, US
-- 💰 **Salary:** $49–$60/hr
-- 🕒 **Posted:** 2026-09-02
-
-### [ENVIRONMENTAL SPECIALIST](https://www.indeed.com/viewjob?jk=19b966394263e91e) — City of El Cerrito
-- 📍 **Location:** El Cerrito, CA, US
-- 💰 **Salary:** $82k–$99k/yr
+### [Team Leader Environmental Health](https://au.indeed.com/viewjob?jk=3c4136692844b578) — Redland City Council
+- 📍 **Location:** Redland, QLD, AU
 - 🕒 **Posted:** 2026-09-01
-
-### [Director of Risk Assessment](https://www.indeed.com/viewjob?jk=4b97f4e900ce85c5) — Cambridge Healthcare Services
-- 📍 **Location:** Buena Park, CA, US
-- 💰 **Salary:** $165k–$180k/yr
-- 🕒 **Posted:** 2026-09-02
-
-### [Environmental Scientist – Contaminated Lands](https://au.indeed.com/viewjob?jk=9b598a2a21513dda) — Tetra Tech
-- 📍 **Location:** Subiaco, WA, AU
-- 🕒 **Posted:** 2026-09-02

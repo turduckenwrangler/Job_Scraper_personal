@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-05 04:39 UTC*
+*Last updated: 2026-09-05 17:31 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4454827191/) — Jacobs
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $85,000.00/yr - $127,000.00/yr
+- 🕒 **Posted:** 2026-09-05

@@ -1,23 +1,29 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-04 21:40 UTC*
+*Last updated: 2026-09-05 00:17 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Environmental Health Inspector - Consumer Protection (6120) - Citywide - H00189](https://www.linkedin.com/jobs/view/4461196630/) — City and County of San Francisco
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $133,588 - $162,266 Annually
-- 🕒 **Posted:** 2026-09-04
-
-### [Environmental Chemist/Scientist](https://www.linkedin.com/jobs/view/4379181820/) — Integral Consulting Inc.
-- 📍 **Location:** Santa Cruz County, CA
-- 💰 **Salary:** $52,000 - $75,000
-- 🕒 **Posted:** 2026-09-04
-
-### [Deputy Director of Environmental Health (0932 Manager IV)–DPH–167383](https://www.linkedin.com/jobs/view/4461402498/) — City and County of San Francisco
+### [Deputy Director of Environmental Health (0932 Manager IV)–DPH–167383](https://www.linkedin.com/jobs/view/4463662238/) — City and County of San Francisco
 - 📍 **Location:** San Francisco, CA
 - 💰 **Salary:** $173,264 to $221,052 Annually
 - 🕒 **Posted:** 2026-09-04
 
-### [Environmental Scientist 1](https://www.linkedin.com/jobs/view/4463620789/) — Apex Companies
-- 📍 **Location:** Portland, OR
+### [Air Pollution Specialist](https://www.linkedin.com/jobs/view/4463665373/) — California Air Resources Board
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $5,918.00/mo - $11,455.00/mo
+- 🕒 **Posted:** 2026-09-04
+
+### [Environmental Specialist II - ES](https://www.linkedin.com/jobs/view/4462342061/) — Republic Services
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $78,400.00 to $107,800.00
+- 🕒 **Posted:** 2026-09-04
+
+### [Environmental Compliance Specialist](https://www.linkedin.com/jobs/view/4463668006/) — John L. Hunter and Associates
+- 📍 **Location:** Orange County, CA
+- 💰 **Salary:** $30.00 – $40.00 per hour
+- 🕒 **Posted:** 2026-09-04
+
+### [Onsite Resource Specialist (Natural Resource Specialist 3 – Environmental Health Specialist / Natural Resource Specialist 3 – Underfill)](https://www.linkedin.com/jobs/view/4463665547/) — State of Oregon
+- 📍 **Location:** Salem, OR
+- 💰 **Salary:** $5,712.00/mo - $8,757.00/mo
 - 🕒 **Posted:** 2026-09-04

@@ -1,23 +1,14 @@
 {
-  "scraped_at": "2026-09-08 19:23 UTC",
-  "total": 14,
+  "scraped_at": "2026-09-09 19:13 UTC",
+  "total": 11,
   "new_count": 0,
   "jobs": [
     {
-      "company": "Department of Parks & Recreation",
-      "title": "ENVIRONMENTAL SCIENTIST, Range C (PI)",
-      "location": "Stanislaus County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529931",
-      "date_posted": "2026-08-25",
-      "salary": "$25.00 - $53.77",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Food & Agriculture",
-      "title": "ENVIRONMENTAL SCIENTIST",
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Scientist",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529936",
-      "date_posted": "2026-08-25",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531084",
+      "date_posted": "2026-09-03",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -27,15 +18,6 @@
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=530019",
       "date_posted": "2026-08-26",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Toxic Substances Control",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529382",
-      "date_posted": "2026-09-02",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -63,6 +45,15 @@
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522430",
       "date_posted": "2026-08-31",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Scientist",
+      "location": "Riverside County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528263",
+      "date_posted": "2026-08-20",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -109,24 +100,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531130",
       "date_posted": "2026-09-04",
       "salary": "$5918.00 - $11455.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Resources Recycling & Recovery",
-      "title": "Environmental Scientist",
-      "location": "Riverside County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528263",
-      "date_posted": "2026-08-20",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Resources Recycling & Recovery",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531084",
-      "date_posted": "2026-09-03",
-      "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     }
   ],

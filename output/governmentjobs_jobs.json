@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-08 19:26 UTC",
-  "total": 12,
+  "scraped_at": "2026-09-09 19:19 UTC",
+  "total": 13,
   "new_count": 2,
   "jobs": [
     {
@@ -40,6 +40,15 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "County of Los Angeles",
+      "title": "ENVIRONMENTAL HEALTH SPECIALIST III / EMERGENCY APPOINTMENT HOMELESSNESS",
+      "location": "Los Angeles County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5405382-0/environmental-health-specialist-iii-emergency-appointment-homelessness",
+      "date_posted": "",
+      "salary": "$77,181.84 - $104,006.16 Annually",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "City of Burbank",
       "title": "WATER QUALITY ANALYST",
       "location": "Burbank, CA",
@@ -64,6 +73,15 @@
       "url": "https://www.governmentjobs.com/jobs/5457810-0/water-quality-and-regulatory-manager",
       "date_posted": "",
       "salary": "",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Placer County",
+      "title": "Air Quality Specialist I/II",
+      "location": "Auburn, CA",
+      "url": "https://www.governmentjobs.com/jobs/149374-1/air-quality-specialist-i-ii",
+      "date_posted": "",
+      "salary": "$6,782.53 - $8,469.07 Monthly",
       "ats": "NEOGOV"
     },
     {
@@ -101,34 +119,25 @@
       "date_posted": "",
       "salary": "",
       "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Folsom",
-      "title": "Senior Environmental Specialist - Recycling",
-      "location": "Folsom, CA",
-      "url": "https://www.governmentjobs.com/jobs/5427827-0/senior-environmental-specialist-recycling",
-      "date_posted": "",
-      "salary": "$81,379.33 - $103,088.89 Annually",
-      "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
       "company": "County of Los Angeles",
-      "title": "ENVIRONMENTAL HEALTH SPECIALIST II / EMERGENCY APPOINTMENT HOMELESSNESS",
+      "title": "ENVIRONMENTAL HEALTH SPECIALIST III / EMERGENCY APPOINTMENT HOMELESSNESS",
       "location": "Los Angeles County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5405359-0/environmental-health-specialist-ii-emergency-appointment-homelessness",
+      "url": "https://www.governmentjobs.com/jobs/5405382-0/environmental-health-specialist-iii-emergency-appointment-homelessness",
       "date_posted": "",
-      "salary": "$74,012.88 - $94,477.20 Annually",
+      "salary": "$77,181.84 - $104,006.16 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "City of Folsom",
-      "title": "Senior Environmental Specialist - Recycling",
-      "location": "Folsom, CA",
-      "url": "https://www.governmentjobs.com/jobs/5427827-0/senior-environmental-specialist-recycling",
+      "company": "Placer County",
+      "title": "Air Quality Specialist I/II",
+      "location": "Auburn, CA",
+      "url": "https://www.governmentjobs.com/jobs/149374-1/air-quality-specialist-i-ii",
       "date_posted": "",
-      "salary": "$81,379.33 - $103,088.89 Annually",
+      "salary": "$6,782.53 - $8,469.07 Monthly",
       "ats": "NEOGOV"
     }
   ]

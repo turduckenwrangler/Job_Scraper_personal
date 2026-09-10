@@ -1,12 +1,15 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-09-09 19:19 UTC*
+*Last updated: 2026-09-10 19:08 UTC*
 
-**2 new role(s)** since last run · 13 total in recent GovernmentJobs postings
+**3 new role(s)** since last run · 14 total in recent GovernmentJobs postings
 
-### [ENVIRONMENTAL HEALTH SPECIALIST III / EMERGENCY APPOINTMENT HOMELESSNESS](https://www.governmentjobs.com/jobs/5405382-0/environmental-health-specialist-iii-emergency-appointment-homelessness) — County of Los Angeles
-- 📍 **Location:** Los Angeles County, CA
-- 💰 **Salary:** $77,181.84 - $104,006.16 Annually
+### [Senior Environmental Health Specialist](https://www.governmentjobs.com/jobs/5452512-0/senior-environmental-health-specialist) — County of Santa Clara
+- 📍 **Location:** Throughout the County of Santa Clara, CA
+- 💰 **Salary:** $125,440.64 - $151,925.28 Annually
 
-### [Air Quality Specialist I/II](https://www.governmentjobs.com/jobs/149374-1/air-quality-specialist-i-ii) — Placer County
-- 📍 **Location:** Auburn, CA
-- 💰 **Salary:** $6,782.53 - $8,469.07 Monthly
+### [Environmental Healthy Homes Representative](https://www.governmentjobs.com/jobs/5466689-0/environmental-healthy-homes-representative) — St. Louis County
+- 📍 **Location:** Berkeley Mo. 63134, MO
+
+### [Senior Air Quality Specialist (Regulatory Development)](https://www.governmentjobs.com/jobs/5477091-0/senior-air-quality-specialist-regulatory-development) — Bay Area Air District
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $133,533.57 - $162,310.88 Annually

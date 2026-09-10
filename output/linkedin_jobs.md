@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-10 00:29 UTC*
+*Last updated: 2026-09-10 05:00 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Chemical Safety Coordinator](https://www.linkedin.com/jobs/view/4463197230/) — Western Health
+- 📍 **Location:** Footscray, Victoria, Australia
+- 🕒 **Posted:** 2026-09-10

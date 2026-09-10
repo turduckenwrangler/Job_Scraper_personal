@@ -1,6 +1,18 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-10 00:39 UTC*
+*Last updated: 2026-09-10 05:22 UTC*
 
-**0 new role(s)** since last run · 3 total in last 24h
+**3 new role(s)** since last run · 6 total in last 24h
 
-No new roles since the last run.
+### [Environmental Science Senior I - (Field Compliance - Major Projects)](https://www.indeed.com/viewjob?jk=e401d468ed5d9335) — SoCalGas
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $104k–$164k/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Environmental Science Senior I - (Field Compliance - Major Projects)](https://www.indeed.com/viewjob?jk=f19b49f2202c1021) — SoCalGas
+- 📍 **Location:** Los Angeles, CA, US
+- 🕒 **Posted:** 2026-09-09
+
+### [Environmental Scientist](https://www.indeed.com/viewjob?jk=cbb4ec2d875fdf75) — TRC
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $26–$40/hr
+- 🕒 **Posted:** 2026-09-09

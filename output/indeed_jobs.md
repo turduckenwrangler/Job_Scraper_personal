@@ -1,12 +1,19 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-11 01:30 UTC*
+*Last updated: 2026-09-11 06:39 UTC*
 
-**2 new role(s)** since last run · 5 total in last 24h
+**3 new role(s)** since last run · 4 total in last 24h
 
-### [Environmental Health Officers](https://au.indeed.com/viewjob?jk=bcc0273663e805e5) — Redland City Council
-- 📍 **Location:** Redland, QLD, AU
-- 🕒 **Posted:** 2026-09-10
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=fe23f2df037415ef) — State of California
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-09-11
 
-### [Third-Party Risk Remediation Specialist, Core+](https://au.indeed.com/viewjob?jk=8e4933562f6f9011) — AIG
-- 📍 **Location:** Docklands, VIC, AU
-- 🕒 **Posted:** 2026-09-10
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=007b18540beb14db) — Department of Toxic Substances Control
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-09-11
+
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=64cd95901e40f125) — STATE WATER RESOURCES CONTROL BOARD
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-09-11

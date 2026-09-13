@@ -1,9 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-13 18:21 UTC*
+*Last updated: 2026-09-13 20:59 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Environmental Health Specialist I-II-III - Consumer Protection Programs](https://www.linkedin.com/jobs/view/4376567852/) — County of San Mateo
-- 📍 **Location:** San Mateo County, CA
-- 💰 **Salary:** $7,579.87/mo - $11,778.00/mo
-- 🕒 **Posted:** 2026-09-13
+No new roles since the last run.

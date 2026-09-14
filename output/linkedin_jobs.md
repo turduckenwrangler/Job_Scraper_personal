@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-14 01:13 UTC*
+*Last updated: 2026-09-14 06:28 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4465703397/) — Terra Solutions
-- 📍 **Location:** Townsville, Queensland, Australia
-- 🕒 **Posted:** 2026-09-14
+No new roles since the last run.

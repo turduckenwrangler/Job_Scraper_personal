@@ -1,12 +1,24 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-09-16 19:35 UTC*
+*Last updated: 2026-09-17 19:45 UTC*
 
-**2 new role(s)** since last run · 9 total in recent GovernmentJobs postings
+**5 new role(s)** since last run · 12 total in recent GovernmentJobs postings
 
-### [ENVIRONMENTAL HEALTH SPECIALIST II / EMERGENCY APPOINTMENT HOMELESSNESS](https://www.governmentjobs.com/jobs/5405359-0/environmental-health-specialist-ii-emergency-appointment-homelessness) — County of Los Angeles
-- 📍 **Location:** Los Angeles County, CA
-- 💰 **Salary:** $74,012.88 - $94,477.20 Annually
+### [HAZARDOUS MATERIALS SPECIALIST I](https://www.governmentjobs.com/jobs/5477314-0/hazardous-materials-specialist-i) — County of Orange
+- 📍 **Location:** Santa Ana, CA
+- 💰 **Salary:** $63,044.80 - $84,968.00 Annually
 
-### [Senior Environmental Specialist - Recycling](https://www.governmentjobs.com/jobs/5427827-0/senior-environmental-specialist-recycling) — City of Folsom
-- 📍 **Location:** Folsom, CA
-- 💰 **Salary:** $81,379.33 - $103,088.89 Annually
+### [HAZARDOUS MATERIALS SPECIALIST II](https://www.governmentjobs.com/jobs/5477352-0/hazardous-materials-specialist-ii) — County of Orange
+- 📍 **Location:** Santa Ana, CA
+- 💰 **Salary:** $76,190.40 - $102,731.20 Annually
+
+### [Hazardous Materials Operations Specialist](https://www.governmentjobs.com/jobs/5473934-0/hazardous-materials-operations-specialist) — County of Mendocino
+- 📍 **Location:** Ukiah, CA
+- 💰 **Salary:** $70,345.60 - $85,488.00 Annually
+
+### [Senior Hazardous Materials Inspector](https://www.governmentjobs.com/jobs/5468792-0/senior-hazardous-materials-inspector) — City of Sunnyvale
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $77.19 - $98.51 Hourly
+
+### [Watershed Protection Specialist I](https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i) — City of Oceanside
+- 📍 **Location:** Oceanside, CA
+- 💰 **Salary:** $71,820.00 - $96,288.00 Annually

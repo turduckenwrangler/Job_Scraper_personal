@@ -1,9 +1,9 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-17 06:44 UTC*
+*Last updated: 2026-09-17 19:19 UTC*
 
-**1 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=9ef485d4836ef870) — STATE WATER RESOURCES CONTROL BOARD
+### [Air Quality Specialist](https://www.indeed.com/viewjob?jk=7895e8fe455c8181) — Aspen Environmental Group
 - 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
+- 💰 **Salary:** $97k–$130k/yr
 - 🕒 **Posted:** 2026-09-17

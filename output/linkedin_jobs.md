@@ -1,34 +1,29 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-18 21:52 UTC*
+*Last updated: 2026-09-19 00:31 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Principal, Human Health Risk Assessment, Community Health Impact Assessment, Emerging Contaminants](https://www.linkedin.com/jobs/view/4469246071/) — Ramboll
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468054089/) — HDR
+- 📍 **Location:** Greater Bend Area
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Integrated Watershed Management Business Class Director](https://www.linkedin.com/jobs/view/4468039798/) — HDR
+- 📍 **Location:** Oregon, United States
+- 💰 **Salary:** $178,952 -$336,375
+- 🕒 **Posted:** 2026-09-19
+
+### [Deputy Director of Environmental Health (0932 Manager IV)–DPH–167383](https://www.linkedin.com/jobs/view/4469261272/) — City and County of San Francisco
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $190,000 to $234,000 per year
+- 💰 **Salary:** $173,264 to $221,052 Annually
 - 🕒 **Posted:** 2026-09-18
 
-### [Principal, Human Health Risk Assessment, Community Health Impact Assessment, Emerging Contaminants](https://www.linkedin.com/jobs/view/4469222936/) — Ramboll
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $190,000 to $234,000 per year
+### [Air Quality Specialist](https://www.linkedin.com/jobs/view/4463575435/) — Teichert
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $107,500.00 - $150,500.00
 - 🕒 **Posted:** 2026-09-18
 
-### [Managing Environmental Health Scientist](https://www.linkedin.com/jobs/view/4468232513/) — Ramboll
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $149,365 to $165,000
-- 🕒 **Posted:** 2026-09-18
-
-### [Principal, Human Health Risk Assessment, Community Health Impact Assessment, Emerging Contaminants](https://www.linkedin.com/jobs/view/4469245095/) — Ramboll
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $190,000 to $234,000 per year
-- 🕒 **Posted:** 2026-09-18
-
-### [Principal, Human Health Risk Assessment, Community Health Impact Assessment, Emerging Contaminants](https://www.linkedin.com/jobs/view/4469233712/) — Ramboll
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $190,000 to $234,000 per year
-- 🕒 **Posted:** 2026-09-18
-
-### [Environmental Specialist I](https://www.linkedin.com/jobs/view/4467731445/) — Veolia | North America
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $32.57 to $34 per hour
+### [Environmental Compliance Specialist](https://www.linkedin.com/jobs/view/4468015871/) — Pinnacle Recruitment
+- 📍 **Location:** Kern County, CA
+- 💰 **Salary:** $40.00/hr - $46.00/hr
 - 🕒 **Posted:** 2026-09-18

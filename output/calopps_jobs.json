@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-09-18 19:04 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-09-19 18:38 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Valley Water",
+      "title": "Senior Water Resources Specialist (2 Positions)",
+      "location": "South Bay",
+      "url": "https://www.calopps.org/valley-water/job-20777679",
+      "date_posted": "",
+      "salary": "$170,913.60-$218,753.60 Annually",
+      "ats": "CalOpps"
+    },
     {
       "company": "Sunnyvale",
       "title": "Senior Hazardous Materials Inspector",
@@ -13,5 +22,15 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Valley Water",
+      "title": "Senior Water Resources Specialist (2 Positions)",
+      "location": "South Bay",
+      "url": "https://www.calopps.org/valley-water/job-20777679",
+      "date_posted": "",
+      "salary": "$170,913.60-$218,753.60 Annually",
+      "ats": "CalOpps"
+    }
+  ]
 }

@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-09-18 19:03 UTC",
-  "total": 10,
-  "new_count": 0,
+  "scraped_at": "2026-09-19 18:37 UTC",
+  "total": 11,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "County of Santa Clara",
+      "title": "Senior Environmental Health Specialist",
+      "location": "Throughout the County of Santa Clara, CA",
+      "url": "https://www.governmentjobs.com/jobs/5452512-0/senior-environmental-health-specialist",
+      "date_posted": "",
+      "salary": "$125,440.64 - $151,925.28 Annually",
+      "ats": "NEOGOV"
+    },
     {
       "company": "City of Palo Alto",
       "title": "Senior Operator - Regional Water Quality Control Plant (Multiple Positions)",
@@ -94,5 +103,15 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "County of Santa Clara",
+      "title": "Senior Environmental Health Specialist",
+      "location": "Throughout the County of Santa Clara, CA",
+      "url": "https://www.governmentjobs.com/jobs/5452512-0/senior-environmental-health-specialist",
+      "date_posted": "",
+      "salary": "$125,440.64 - $151,925.28 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }

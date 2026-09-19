@@ -1,6 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-09-18 19:03 UTC*
+*Last updated: 2026-09-19 18:37 UTC*
 
-**0 new role(s)** since last run · 10 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 11 total in recent GovernmentJobs postings
 
-No new state/local-gov roles since the last run.
+### [Senior Environmental Health Specialist](https://www.governmentjobs.com/jobs/5452512-0/senior-environmental-health-specialist) — County of Santa Clara
+- 📍 **Location:** Throughout the County of Santa Clara, CA
+- 💰 **Salary:** $125,440.64 - $151,925.28 Annually

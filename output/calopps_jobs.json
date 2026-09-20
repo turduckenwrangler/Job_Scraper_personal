@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-19 18:38 UTC",
+  "scraped_at": "2026-09-20 18:51 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Valley Water",
@@ -22,15 +22,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Valley Water",
-      "title": "Senior Water Resources Specialist (2 Positions)",
-      "location": "South Bay",
-      "url": "https://www.calopps.org/valley-water/job-20777679",
-      "date_posted": "",
-      "salary": "$170,913.60-$218,753.60 Annually",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }

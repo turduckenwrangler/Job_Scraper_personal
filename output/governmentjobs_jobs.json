@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-19 18:37 UTC",
-  "total": 11,
-  "new_count": 1,
+  "scraped_at": "2026-09-20 18:51 UTC",
+  "total": 8,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of Santa Clara",
@@ -74,44 +74,7 @@
       "date_posted": "",
       "salary": "$77.19 - $98.51 Hourly",
       "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Oceanside",
-      "title": "Watershed Protection Specialist I",
-      "location": "Oceanside, CA",
-      "url": "https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i",
-      "date_posted": "",
-      "salary": "$71,820.00 - $96,288.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of El Cerrito",
-      "title": "ENVIRONMENTAL SPECIALIST",
-      "location": "El Cerrito, CA",
-      "url": "https://www.governmentjobs.com/jobs/5448541-0/environmental-specialist",
-      "date_posted": "",
-      "salary": "$81,744.00 - $99,360.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Sacramento",
-      "title": "Environmental Specialist III",
-      "location": "Sacramento, CA",
-      "url": "https://www.governmentjobs.com/jobs/4967720-0/environmental-specialist-iii",
-      "date_posted": "",
-      "salary": "$103,105.44 - $125,321.76 Annually",
-      "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County of Santa Clara",
-      "title": "Senior Environmental Health Specialist",
-      "location": "Throughout the County of Santa Clara, CA",
-      "url": "https://www.governmentjobs.com/jobs/5452512-0/senior-environmental-health-specialist",
-      "date_posted": "",
-      "salary": "$125,440.64 - $151,925.28 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }

@@ -1,9 +1,6 @@
 # 🏛 Priority Employers — Environmental / Toxicology Roles
-*Last updated: 2026-09-20 08:48 UTC*
+*Last updated: 2026-09-21 09:09 UTC*
 
-**1 new role(s)** since last run · 1 total in last 24h
+**0 new role(s)** since last run · 0 total in last 24h
 
-### [Managing Scientist- Water Resources, Agricultural, or Nutrient Management (Ph.D.)](https://www.linkedin.com/jobs/view/4391879741/) — Exponent
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** USD $136,000.00 - USD $166,000.00 /Yr
-- 🕒 **Posted:** 2026-09-19
+No new priority-employer roles since the last run.

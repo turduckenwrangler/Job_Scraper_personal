@@ -1,6 +1,8 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-23 00:58 UTC*
+*Last updated: 2026-09-23 06:45 UTC*
 
-**0 new role(s)** since last run · 8 total in last 24h
+**1 new role(s)** since last run · 5 total in last 24h
 
-No new roles since the last run.
+### [Superannuation Operations Specialist - Incident & Remediation](https://au.indeed.com/viewjob?jk=550345424e2f9c4e) — Future Group
+- 📍 **Location:** AU
+- 🕒 **Posted:** 2026-09-23

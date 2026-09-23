@@ -1,8 +1,28 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-23 06:45 UTC*
+*Last updated: 2026-09-23 19:15 UTC*
 
-**1 new role(s)** since last run · 5 total in last 24h
+**5 new role(s)** since last run · 7 total in last 24h
 
-### [Superannuation Operations Specialist - Incident & Remediation](https://au.indeed.com/viewjob?jk=550345424e2f9c4e) — Future Group
-- 📍 **Location:** AU
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=f1fc875f15f72e20) — Caltrans - CA Dept. of Transportation
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-09-23
+
+### [AIR POLLUTION SPECIALIST](https://www.indeed.com/viewjob?jk=b983e38c50a23433) — State Air Resources Board
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $5918–$11k/mo
+- 🕒 **Posted:** 2026-09-23
+
+### [Environmental Scientist](https://www.indeed.com/viewjob?jk=f3ec2582d529b841) — SCS Engineers
+- 📍 **Location:** Long Beach, CA, US
+- 💰 **Salary:** $71k–$81k/yr
+- 🕒 **Posted:** 2026-09-22
+
+### [Capture Manager - Remediation and Technical](https://www.indeed.com/viewjob?jk=16943787b61b66f6) — aptim
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $135k–$200k/yr
+- 🕒 **Posted:** 2026-09-23
+
+### [Environmental Scientist - Landscape Rehabilitation](https://au.indeed.com/viewjob?jk=5deb16c339fdc9f5) — Giro Migration
+- 📍 **Location:** Margaret River, WA, AU
 - 🕒 **Posted:** 2026-09-23

@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-09-23 19:37 UTC",
+  "scraped_at": "2026-09-24 19:56 UTC",
   "total": 14,
   "new_count": 0,
   "jobs": [
     {
-      "company": "Department of Food & Agriculture",
+      "company": "Department of Water Resources",
       "title": "Environmental Scientist",
-      "location": "Stanislaus County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527269",
-      "date_posted": "2026-08-04",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=530112",
+      "date_posted": "2026-09-10",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -67,15 +67,6 @@
       "ats": "CalCareers"
     },
     {
-      "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=530436",
-      "date_posted": "2026-09-09",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Cannabis Control",
       "title": "Environmental Scientist",
       "location": "Los Angeles County",
@@ -118,6 +109,15 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531130",
       "date_posted": "2026-09-04",
       "salary": "$5918.00 - $11455.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Pesticide Regulation",
+      "title": "Senior Environmental Scientist (Specialist)",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532892",
+      "date_posted": "2026-09-23",
+      "salary": "$7820.00 - $10732.00",
       "ats": "CalCareers"
     },
     {

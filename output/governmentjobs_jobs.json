@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-09-24 20:01 UTC",
-  "total": 4,
-  "new_count": 0,
+  "scraped_at": "2026-09-25 20:03 UTC",
+  "total": 5,
+  "new_count": 3,
   "jobs": [
+    {
+      "company": "County of San Mateo",
+      "title": "Environmental Health Specialist IV - Solid Waste and Body Art Programs (Open & Promotional)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5458928-0/environmental-health-specialist-iv-solid-waste-and-body-art-programs-open-pr",
+      "date_posted": "",
+      "salary": "$10,684.27 - $13,351.87 Monthly",
+      "ats": "NEOGOV"
+    },
     {
       "company": "City of Palo Alto",
       "title": "Senior Operator - Regional Water Quality Control Plant (Multiple Positions)",
@@ -13,21 +22,21 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Orange",
-      "title": "HAZARDOUS MATERIALS SPECIALIST I",
-      "location": "Santa Ana, CA",
-      "url": "https://www.governmentjobs.com/jobs/5477314-0/hazardous-materials-specialist-i",
+      "company": "Placer County",
+      "title": "Air Quality Specialist I/II",
+      "location": "Auburn, CA",
+      "url": "https://www.governmentjobs.com/jobs/149374-1/air-quality-specialist-i-ii",
       "date_posted": "",
-      "salary": "$64,937.60 - $87,526.40 Annually",
+      "salary": "$6,782.53 - $8,469.07 Monthly",
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Orange",
-      "title": "HAZARDOUS MATERIALS SPECIALIST II",
-      "location": "Santa Ana, CA",
-      "url": "https://www.governmentjobs.com/jobs/5477352-0/hazardous-materials-specialist-ii",
+      "company": "City of Palo Alto",
+      "title": "Hazardous Materials Inspector",
+      "location": "Palo Alto, CA",
+      "url": "https://www.governmentjobs.com/jobs/5489592-0/hazardous-materials-inspector",
       "date_posted": "",
-      "salary": "$78,478.40 - $105,809.60 Annually",
+      "salary": "$176,113.60 - $234,457.60 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -40,5 +49,33 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "County of San Mateo",
+      "title": "Environmental Health Specialist IV - Solid Waste and Body Art Programs (Open & Promotional)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5458928-0/environmental-health-specialist-iv-solid-waste-and-body-art-programs-open-pr",
+      "date_posted": "",
+      "salary": "$10,684.27 - $13,351.87 Monthly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Placer County",
+      "title": "Air Quality Specialist I/II",
+      "location": "Auburn, CA",
+      "url": "https://www.governmentjobs.com/jobs/149374-1/air-quality-specialist-i-ii",
+      "date_posted": "",
+      "salary": "$6,782.53 - $8,469.07 Monthly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Palo Alto",
+      "title": "Hazardous Materials Inspector",
+      "location": "Palo Alto, CA",
+      "url": "https://www.governmentjobs.com/jobs/5489592-0/hazardous-materials-inspector",
+      "date_posted": "",
+      "salary": "$176,113.60 - $234,457.60 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }

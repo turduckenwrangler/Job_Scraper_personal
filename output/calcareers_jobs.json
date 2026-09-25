@@ -1,77 +1,32 @@
 {
-  "scraped_at": "2026-09-24 19:56 UTC",
-  "total": 14,
+  "scraped_at": "2026-09-25 19:58 UTC",
+  "total": 11,
   "new_count": 0,
   "jobs": [
     {
-      "company": "Department of Water Resources",
+      "company": "Department of Fish and Wildlife",
       "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=530112",
-      "date_posted": "2026-09-10",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Food & Agriculture",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "San Bernardino County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531492",
-      "date_posted": "2026-09-09",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Cannabis Control",
-      "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531538",
-      "date_posted": "2026-09-09",
+      "location": "Tehama County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532825",
+      "date_posted": "2026-09-21",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
       "company": "Department of Toxic Substances Control",
-      "title": "Environmental Science and Policy Advisor",
+      "title": "Environmental Scientist",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531547",
-      "date_posted": "2026-09-10",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531735",
+      "date_posted": "2026-09-24",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Cannabis Control",
-      "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531630",
-      "date_posted": "2026-09-10",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Cannabis Control",
+      "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
       "location": "Los Angeles County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531636",
-      "date_posted": "2026-09-10",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Cannabis Control",
-      "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531644",
-      "date_posted": "2026-09-10",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Cannabis Control",
-      "title": "Environmental Scientist",
-      "location": "Los Angeles County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=530686",
-      "date_posted": "2026-09-09",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532305",
+      "date_posted": "2026-09-16",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -94,11 +49,29 @@
       "ats": "CalCareers"
     },
     {
-      "company": "State Water Resources Control Board",
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532737",
+      "date_posted": "2026-09-21",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Transportation",
+      "title": "Environmental Scientist",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532776",
+      "date_posted": "2026-09-21",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Cannabis Control",
       "title": "Environmental Scientist",
       "location": "Los Angeles County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532305",
-      "date_posted": "2026-09-16",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=530686",
+      "date_posted": "2026-09-09",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },

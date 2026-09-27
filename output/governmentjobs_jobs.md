@@ -1,8 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-09-26 19:14 UTC*
+*Last updated: 2026-09-27 19:47 UTC*
 
 **1 new role(s)** since last run · 5 total in recent GovernmentJobs postings
 
-### [Watershed Protection Specialist I](https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i) — City of Oceanside
-- 📍 **Location:** Oceanside, CA
-- 💰 **Salary:** $71,820.00 - $96,288.00 Annually
+### [Senior Operator - Regional Water Quality Control Plant (Multiple Positions)](https://www.governmentjobs.com/jobs/5481782-0/senior-operator-regional-water-quality-control-plant-multiple-positions) — City of Palo Alto
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $126,256.00 - $154,440.00 Annually

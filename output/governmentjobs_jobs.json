@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-09-27 19:47 UTC",
-  "total": 5,
-  "new_count": 1,
+  "scraped_at": "2026-09-28 22:05 UTC",
+  "total": 6,
+  "new_count": 2,
   "jobs": [
-    {
-      "company": "County of San Mateo",
-      "title": "Environmental Health Specialist IV - Solid Waste and Body Art Programs (Open & Promotional)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5458928-0/environmental-health-specialist-iv-solid-waste-and-body-art-programs-open-pr",
-      "date_posted": "",
-      "salary": "$10,684.27 - $13,351.87 Monthly",
-      "ats": "NEOGOV"
-    },
     {
       "company": "City of Palo Alto",
       "title": "Senior Operator - Regional Water Quality Control Plant (Multiple Positions)",
@@ -47,16 +38,43 @@
       "date_posted": "",
       "salary": "$77.19 - $98.51 Hourly",
       "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Oceanside",
+      "title": "Watershed Protection Specialist I",
+      "location": "Oceanside, CA",
+      "url": "https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i",
+      "date_posted": "",
+      "salary": "$71,820.00 - $96,288.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Orange County Sanitation District",
+      "title": "Environmental Specialist (Quality Assurance/Sampling)",
+      "location": "CA 92708, CA",
+      "url": "https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling",
+      "date_posted": "",
+      "salary": "$110,718.40 - $134,617.60 Annually",
+      "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "City of Palo Alto",
-      "title": "Senior Operator - Regional Water Quality Control Plant (Multiple Positions)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5481782-0/senior-operator-regional-water-quality-control-plant-multiple-positions",
+      "company": "City of Oceanside",
+      "title": "Watershed Protection Specialist I",
+      "location": "Oceanside, CA",
+      "url": "https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i",
       "date_posted": "",
-      "salary": "$126,256.00 - $154,440.00 Annually",
+      "salary": "$71,820.00 - $96,288.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Orange County Sanitation District",
+      "title": "Environmental Specialist (Quality Assurance/Sampling)",
+      "location": "CA 92708, CA",
+      "url": "https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling",
+      "date_posted": "",
+      "salary": "$110,718.40 - $134,617.60 Annually",
       "ats": "NEOGOV"
     }
   ]

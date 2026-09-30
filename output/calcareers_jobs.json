@@ -1,32 +1,32 @@
 {
-  "scraped_at": "2026-09-29 20:39 UTC",
-  "total": 12,
+  "scraped_at": "2026-09-30 20:44 UTC",
+  "total": 13,
   "new_count": 0,
   "jobs": [
     {
-      "company": "Department of Pesticide Regulation",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532666",
-      "date_posted": "2026-09-18",
+      "company": "Department of Fish and Wildlife",
+      "title": "Environmental Scientist, Aquatic Invasive Species Biologist",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533219",
+      "date_posted": "2026-09-23",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
       "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Tehama County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532825",
-      "date_posted": "2026-09-21",
+      "title": "Environmental Scientist, Marine Biologist - San Francisco Bay",
+      "location": "San Joaquin County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533306",
+      "date_posted": "2026-09-24",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
-      "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
-      "location": "Los Angeles County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532305",
-      "date_posted": "2026-09-16",
+      "company": "Department of Food & Agriculture",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "San Diego County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533324",
+      "date_posted": "2026-09-24",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -58,6 +58,24 @@
       "ats": "CalCareers"
     },
     {
+      "company": "Department of Pesticide Regulation",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532666",
+      "date_posted": "2026-09-18",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Fish and Wildlife",
+      "title": "Environmental Scientist",
+      "location": "Tehama County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532825",
+      "date_posted": "2026-09-21",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "Department of Food & Agriculture",
       "title": "ENVIRONMENTAL SCIENTIST",
       "location": "San Bernardino County",
@@ -67,20 +85,11 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Cannabis Control",
+      "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531538",
-      "date_posted": "2026-09-09",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Cannabis Control",
-      "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531630",
-      "date_posted": "2026-09-10",
+      "location": "Los Angeles County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532305",
+      "date_posted": "2026-09-16",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },

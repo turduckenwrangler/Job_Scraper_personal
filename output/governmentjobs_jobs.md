@@ -1,12 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-09-30 20:51 UTC*
+*Last updated: 2026-10-01 21:03 UTC*
 
-**2 new role(s)** since last run · 4 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 3 total in recent GovernmentJobs postings
 
-### [Senior Operator - Regional Water Quality Control Plant (Multiple Positions)](https://www.governmentjobs.com/jobs/5481782-0/senior-operator-regional-water-quality-control-plant-multiple-positions) — City of Palo Alto
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $126,256.00 - $154,440.00 Annually
-
-### [Hazardous Materials Inspector](https://www.governmentjobs.com/jobs/5489592-0/hazardous-materials-inspector) — City of Palo Alto
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $176,113.60 - $234,457.60 Annually
+### [Water Agency Environmental Specialist I - Environmental Compliance](https://www.governmentjobs.com/jobs/5459203-0/water-agency-environmental-specialist-i-environmental-compliance) — County of Sonoma (CA)
+- 📍 **Location:** Santa Rosa, CA
+- 💰 **Salary:** $105,253.46 - $127,940.46 Annually

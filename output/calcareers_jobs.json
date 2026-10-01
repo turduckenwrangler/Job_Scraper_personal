@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-09-30 20:44 UTC",
+  "scraped_at": "2026-10-01 20:58 UTC",
   "total": 13,
   "new_count": 0,
   "jobs": [
+    {
+      "company": "Department of Pesticide Regulation",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532666",
+      "date_posted": "2026-09-18",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Fish and Wildlife",
+      "title": "Environmental Scientist",
+      "location": "Tehama County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532825",
+      "date_posted": "2026-09-21",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
     {
       "company": "Department of Fish and Wildlife",
       "title": "Environmental Scientist, Aquatic Invasive Species Biologist",
@@ -31,47 +49,20 @@
       "ats": "CalCareers"
     },
     {
-      "company": "State Water Resources Control Board",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532712",
-      "date_posted": "2026-09-23",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Resources Recycling & Recovery",
+      "company": "Department of Fish and Wildlife",
       "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532737",
-      "date_posted": "2026-09-21",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Transportation",
-      "title": "Environmental Scientist",
-      "location": "Alameda County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532776",
-      "date_posted": "2026-09-21",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532666",
-      "date_posted": "2026-09-18",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533392",
+      "date_posted": "2026-09-24",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
       "company": "Department of Fish and Wildlife",
       "title": "Environmental Scientist",
-      "location": "Tehama County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532825",
-      "date_posted": "2026-09-21",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533397",
+      "date_posted": "2026-09-24",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -85,11 +76,20 @@
       "ats": "CalCareers"
     },
     {
-      "company": "State Water Resources Control Board",
+      "company": "Department of Cannabis Control",
       "title": "Environmental Scientist",
-      "location": "Los Angeles County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532305",
-      "date_posted": "2026-09-16",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531630",
+      "date_posted": "2026-09-10",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532712",
+      "date_posted": "2026-09-23",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },

@@ -1,12 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-10-02 20:07 UTC*
+*Last updated: 2026-10-02 23:57 UTC*
 
 **2 new role(s)** since last run · 2 total in last 1h
 
-### [Construction & Maintenance Worker, Water Quality - San Diego Zoo Safari Park](https://www.linkedin.com/jobs/view/4475014493/) — San Diego Zoo Safari Park
-- 📍 **Location:** Escondido, CA
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4473810115/) — CDMS
+- 📍 **Location:** Pleasanton, CA
+- 💰 **Salary:** $70,000-$130,000
 - 🕒 **Posted:** 2026-10-02
 
-### [Hazardous Waste Storage and Transfer Facility Handler](https://www.linkedin.com/jobs/view/4475024093/) — Afognak Native Corporation
-- 📍 **Location:** Ridgecrest, CA
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4473390831/) — CDMS
+- 📍 **Location:** Long Beach, CA
+- 💰 **Salary:** $80,000-$130,000
 - 🕒 **Posted:** 2026-10-02

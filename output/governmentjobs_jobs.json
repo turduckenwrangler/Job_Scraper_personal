@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-01 21:03 UTC",
-  "total": 3,
-  "new_count": 1,
+  "scraped_at": "2026-10-02 20:47 UTC",
+  "total": 5,
+  "new_count": 3,
   "jobs": [
     {
       "company": "County of Sonoma (CA)",
@@ -9,7 +9,16 @@
       "location": "Santa Rosa, CA",
       "url": "https://www.governmentjobs.com/jobs/5459203-0/water-agency-environmental-specialist-i-environmental-compliance",
       "date_posted": "",
-      "salary": "$105,253.46 - $127,940.46 Annually",
+      "salary": "$96,007.52 - $116,711.75 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of San Mateo",
+      "title": "Environmental Health Program Supervisor (Open & Promotional)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5500148-0/environmental-health-program-supervisor-open-promotional",
+      "date_posted": "",
+      "salary": "$11,989.47 - $14,984.67 Monthly",
       "ats": "NEOGOV"
     },
     {
@@ -22,23 +31,50 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "City of Palo Alto",
-      "title": "Hazardous Materials Inspector",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5489592-0/hazardous-materials-inspector",
+      "company": "Orange County Sanitation District",
+      "title": "Environmental Specialist (Quality Assurance/Sampling)",
+      "location": "CA 92708, CA",
+      "url": "https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling",
       "date_posted": "",
-      "salary": "$176,113.60 - $234,457.60 Annually",
+      "salary": "$110,718.40 - $134,617.60 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Oceanside",
+      "title": "Watershed Protection Specialist I",
+      "location": "Oceanside, CA",
+      "url": "https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i",
+      "date_posted": "",
+      "salary": "$71,820.00 - $96,288.00 Annually",
       "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "County of Sonoma (CA)",
-      "title": "Water Agency Environmental Specialist I - Environmental Compliance",
-      "location": "Santa Rosa, CA",
-      "url": "https://www.governmentjobs.com/jobs/5459203-0/water-agency-environmental-specialist-i-environmental-compliance",
+      "company": "County of San Mateo",
+      "title": "Environmental Health Program Supervisor (Open & Promotional)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5500148-0/environmental-health-program-supervisor-open-promotional",
       "date_posted": "",
-      "salary": "$105,253.46 - $127,940.46 Annually",
+      "salary": "$11,989.47 - $14,984.67 Monthly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Orange County Sanitation District",
+      "title": "Environmental Specialist (Quality Assurance/Sampling)",
+      "location": "CA 92708, CA",
+      "url": "https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling",
+      "date_posted": "",
+      "salary": "$110,718.40 - $134,617.60 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Oceanside",
+      "title": "Watershed Protection Specialist I",
+      "location": "Oceanside, CA",
+      "url": "https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i",
+      "date_posted": "",
+      "salary": "$71,820.00 - $96,288.00 Annually",
       "ats": "NEOGOV"
     }
   ]

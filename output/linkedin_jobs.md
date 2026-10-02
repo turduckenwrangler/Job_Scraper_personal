@@ -1,6 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-10-01 20:32 UTC*
+*Last updated: 2026-10-02 00:58 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Senior Environmental Scientist (Specialist)](https://www.linkedin.com/jobs/view/4474547798/) — CalRecycle
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $7,820.00/mo - $10,732.00/mo
+- 🕒 **Posted:** 2026-10-02
+
+### [Environmental Health Program Supervisor](https://www.linkedin.com/jobs/view/4474563213/) — County of San Mateo
+- 📍 **Location:** San Mateo County, CA
+- 💰 **Salary:** $11,989.47/mo - $14,984.67/mo
+- 🕒 **Posted:** 2026-10-02

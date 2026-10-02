@@ -1,13 +1,14 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-10-02 00:16 UTC*
+*Last updated: 2026-10-02 06:17 UTC*
 
-**2 new role(s)** since last run · 6 total in last 24h
+**2 new role(s)** since last run · 5 total in last 24h
 
-### [Water Agency Environmental Specialist I - Environmental Compliance](https://www.indeed.com/viewjob?jk=a2ce15ef82d47a41) — County of Sonoma (CA)
-- 📍 **Location:** Santa Rosa, CA, US
-- 💰 **Salary:** $105k–$128k/yr
-- 🕒 **Posted:** 2026-10-01
+### [STAFF AIR POLLUTION SPECIALIST](https://www.indeed.com/viewjob?jk=aadc224777e948c6) — State Air Resources Board
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $11k–$13k/mo
+- 🕒 **Posted:** 2026-10-02
 
-### [Fellow in Clinical Toxicology](https://au.indeed.com/viewjob?jk=e14484e895330b5a) — Queensland Government
-- 📍 **Location:** Brisbane, QLD, AU
-- 🕒 **Posted:** 2026-09-30
+### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=07ecdce50612bf3f) — Department of Resources Recycling & Recovery
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $7820–$11k/mo
+- 🕒 **Posted:** 2026-10-02

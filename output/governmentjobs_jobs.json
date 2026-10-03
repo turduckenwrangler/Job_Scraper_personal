@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-02 20:47 UTC",
+  "scraped_at": "2026-10-03 19:15 UTC",
   "total": 5,
-  "new_count": 3,
+  "new_count": 2,
   "jobs": [
     {
       "company": "County of Sonoma (CA)",
@@ -31,50 +31,41 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Orange County Sanitation District",
-      "title": "Environmental Specialist (Quality Assurance/Sampling)",
-      "location": "CA 92708, CA",
-      "url": "https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling",
+      "company": "City of Palo Alto",
+      "title": "Hazardous Materials Inspector",
+      "location": "Palo Alto, CA",
+      "url": "https://www.governmentjobs.com/jobs/5489592-0/hazardous-materials-inspector",
       "date_posted": "",
-      "salary": "$110,718.40 - $134,617.60 Annually",
+      "salary": "$176,113.60 - $234,457.60 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "City of Oceanside",
-      "title": "Watershed Protection Specialist I",
-      "location": "Oceanside, CA",
-      "url": "https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i",
+      "company": "City of San Diego",
+      "title": "Hazardous Materials Inspector III",
+      "location": "City of San Diego, CA",
+      "url": "https://www.governmentjobs.com/jobs/5488484-0/hazardous-materials-inspector-iii",
       "date_posted": "",
-      "salary": "$71,820.00 - $96,288.00 Annually",
+      "salary": "$102,294.40 - $123,988.80 Annually",
       "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "County of San Mateo",
-      "title": "Environmental Health Program Supervisor (Open & Promotional)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5500148-0/environmental-health-program-supervisor-open-promotional",
+      "company": "City of Palo Alto",
+      "title": "Hazardous Materials Inspector",
+      "location": "Palo Alto, CA",
+      "url": "https://www.governmentjobs.com/jobs/5489592-0/hazardous-materials-inspector",
       "date_posted": "",
-      "salary": "$11,989.47 - $14,984.67 Monthly",
+      "salary": "$176,113.60 - $234,457.60 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "Orange County Sanitation District",
-      "title": "Environmental Specialist (Quality Assurance/Sampling)",
-      "location": "CA 92708, CA",
-      "url": "https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling",
+      "company": "City of San Diego",
+      "title": "Hazardous Materials Inspector III",
+      "location": "City of San Diego, CA",
+      "url": "https://www.governmentjobs.com/jobs/5488484-0/hazardous-materials-inspector-iii",
       "date_posted": "",
-      "salary": "$110,718.40 - $134,617.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Oceanside",
-      "title": "Watershed Protection Specialist I",
-      "location": "Oceanside, CA",
-      "url": "https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i",
-      "date_posted": "",
-      "salary": "$71,820.00 - $96,288.00 Annually",
+      "salary": "$102,294.40 - $123,988.80 Annually",
       "ats": "NEOGOV"
     }
   ]

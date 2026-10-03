@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-10-03 05:28 UTC*
+*Last updated: 2026-10-03 18:50 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Courier- Eurofins Drinking Water and Wastewater Northeast](https://www.linkedin.com/jobs/view/4475094252/) — Eurofins Environment Testing (USA)
-- 📍 **Location:** Concord, CA
-- 🕒 **Posted:** 2026-10-03
+No new roles since the last run.

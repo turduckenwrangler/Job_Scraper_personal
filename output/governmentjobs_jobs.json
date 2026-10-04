@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-03 19:15 UTC",
+  "scraped_at": "2026-10-04 19:41 UTC",
   "total": 5,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of Sonoma (CA)",
@@ -49,24 +49,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Palo Alto",
-      "title": "Hazardous Materials Inspector",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5489592-0/hazardous-materials-inspector",
-      "date_posted": "",
-      "salary": "$176,113.60 - $234,457.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of San Diego",
-      "title": "Hazardous Materials Inspector III",
-      "location": "City of San Diego, CA",
-      "url": "https://www.governmentjobs.com/jobs/5488484-0/hazardous-materials-inspector-iii",
-      "date_posted": "",
-      "salary": "$102,294.40 - $123,988.80 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }

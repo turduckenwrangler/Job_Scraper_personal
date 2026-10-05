@@ -1,12 +1,19 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-10-05 07:43 UTC*
+*Last updated: 2026-10-05 22:12 UTC*
 
-**2 new role(s)** since last run · 2 total in last 24h
+**3 new role(s)** since last run · 3 total in last 24h
 
-### [Senior Water Resources Engineers - Seeking Expressions of Interest](https://au.indeed.com/viewjob?jk=62f237dc0cae6983) — GHD
-- 📍 **Location:** Melbourne, VIC, AU
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=5baec30f2fc3105c) — DEPARTMENT OF WATER RESOURCES
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
 - 🕒 **Posted:** 2026-10-05
 
-### [2026 024 Environmental Health Officer](https://au.indeed.com/viewjob?jk=ff7872b09ddb0b26) — Hindmarsh Shire Council
-- 📍 **Location:** Nhill, VIC, AU
+### [Associate Environmental Specialist](https://www.indeed.com/viewjob?jk=409520f12ab506c5) — San Diego County Regional Airport Authority
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $78k–$124k/yr
+- 🕒 **Posted:** 2026-10-05
+
+### [Operational Environmental Compliance Project Manager (Hybrid)](https://www.indeed.com/viewjob?jk=34e48ff5cb7558dc) — Tetra Tech
+- 📍 **Location:** Portland, OR, US
+- 💰 **Salary:** $95k–$130k/yr
 - 🕒 **Posted:** 2026-10-05

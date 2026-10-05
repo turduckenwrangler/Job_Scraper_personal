@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-04 19:41 UTC",
-  "total": 5,
-  "new_count": 0,
+  "scraped_at": "2026-10-05 22:41 UTC",
+  "total": 6,
+  "new_count": 1,
   "jobs": [
     {
       "company": "County of Sonoma (CA)",
@@ -19,6 +19,15 @@
       "url": "https://www.governmentjobs.com/jobs/5500148-0/environmental-health-program-supervisor-open-promotional",
       "date_posted": "",
       "salary": "$11,989.47 - $14,984.67 Monthly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of San Mateo",
+      "title": "Environmental Health Specialist IV - Solid Waste and Body Art Programs (Open & Promotional)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5458928-0/environmental-health-specialist-iv-solid-waste-and-body-art-programs-open-pr",
+      "date_posted": "",
+      "salary": "$10,684.27 - $13,351.87 Monthly",
       "ats": "NEOGOV"
     },
     {
@@ -49,5 +58,15 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "County of San Mateo",
+      "title": "Environmental Health Specialist IV - Solid Waste and Body Art Programs (Open & Promotional)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5458928-0/environmental-health-specialist-iv-solid-waste-and-body-art-programs-open-pr",
+      "date_posted": "",
+      "salary": "$10,684.27 - $13,351.87 Monthly",
+      "ats": "NEOGOV"
+    }
+  ]
 }

@@ -1,22 +1,18 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-10-08 01:21 UTC*
+*Last updated: 2026-10-08 08:01 UTC*
 
-**4 new role(s)** since last run · 6 total in last 24h
+**3 new role(s)** since last run · 6 total in last 24h
 
-### [Environmental Science Analyst](https://www.indeed.com/viewjob?jk=9f614f2e9f69ee56) — Kimley-Horn
-- 📍 **Location:** Oakland, CA, US
-- 🕒 **Posted:** 2026-10-07
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=f03b2c54abffea2a) — Department Of Forestry & Fire Protection
+- 📍 **Location:** CA, USA
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-10-08
 
-### [Associate Consultant, Air Quality](https://www.indeed.com/viewjob?jk=f14bc31480ea33ce) — Ramboll
-- 📍 **Location:** Irvine, CA, US
-- 💰 **Salary:** $64k–$81k/yr
-- 🕒 **Posted:** 2026-10-07
+### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=2817a5c7a2705b09) — DEPARTMENT OF FISH AND WILDLIFE
+- 📍 **Location:** CA, USA
+- 💰 **Salary:** $7820–$11k/mo
+- 🕒 **Posted:** 2026-10-08
 
-### [Associate Consultant, Air Quality](https://www.indeed.com/viewjob?jk=924d972bdbce0941) — Ramboll
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $64k–$81k/yr
-- 🕒 **Posted:** 2026-10-07
-
-### [Water Quality Officer](https://au.indeed.com/viewjob?jk=9b398b86570c72af) — North East Water
-- 📍 **Location:** Wodonga, VIC, AU
-- 🕒 **Posted:** 2026-10-07
+### [2027 Graduate Environmental Scientist / Planner](https://au.indeed.com/viewjob?jk=ab8a8e3b459a7051) — AECOM
+- 📍 **Location:** Newcastle, NSW, Australia
+- 🕒 **Posted:** 2026-10-08

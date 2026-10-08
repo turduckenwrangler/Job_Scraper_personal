@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-07 21:20 UTC",
-  "total": 4,
-  "new_count": 0,
+  "scraped_at": "2026-10-08 21:21 UTC",
+  "total": 8,
+  "new_count": 5,
   "jobs": [
     {
       "company": "County of Sonoma (CA)",
@@ -10,6 +10,15 @@
       "url": "https://www.governmentjobs.com/jobs/5459203-0/water-agency-environmental-specialist-i-environmental-compliance",
       "date_posted": "",
       "salary": "$96,007.52 - $116,711.75 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Mendocino",
+      "title": "Environmental Health Manager",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5502861-0/environmental-health-manager",
+      "date_posted": "",
+      "salary": "$97,032.00 - $117,936.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -22,6 +31,42 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "County of San Mateo",
+      "title": "Environmental Health Specialist IV - Solid Waste and Body Art Programs (Open & Promotional)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5458928-0/environmental-health-specialist-iv-solid-waste-and-body-art-programs-open-pr",
+      "date_posted": "",
+      "salary": "$10,684.27 - $13,351.87 Monthly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Palo Alto",
+      "title": "Hazardous Materials Inspector",
+      "location": "Palo Alto, CA",
+      "url": "https://www.governmentjobs.com/jobs/5489592-0/hazardous-materials-inspector",
+      "date_posted": "",
+      "salary": "$176,113.60 - $234,457.60 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of San Diego",
+      "title": "Hazardous Materials Inspector III",
+      "location": "City of San Diego, CA",
+      "url": "https://www.governmentjobs.com/jobs/5488484-0/hazardous-materials-inspector-iii",
+      "date_posted": "",
+      "salary": "$102,294.40 - $123,988.80 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Mendocino",
+      "title": "Hazardous Materials Operations Specialist",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5502826-0/hazardous-materials-operations-specialist",
+      "date_posted": "",
+      "salary": "$70,345.60 - $85,488.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "Orange County Sanitation District",
       "title": "Environmental Specialist (Quality Assurance/Sampling)",
       "location": "CA 92708, CA",
@@ -29,16 +74,53 @@
       "date_posted": "",
       "salary": "$110,718.40 - $134,617.60 Annually",
       "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Oceanside",
-      "title": "Watershed Protection Specialist I",
-      "location": "Oceanside, CA",
-      "url": "https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i",
-      "date_posted": "",
-      "salary": "$71,820.00 - $96,288.00 Annually",
-      "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "County of Mendocino",
+      "title": "Environmental Health Manager",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5502861-0/environmental-health-manager",
+      "date_posted": "",
+      "salary": "$97,032.00 - $117,936.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of San Mateo",
+      "title": "Environmental Health Specialist IV - Solid Waste and Body Art Programs (Open & Promotional)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5458928-0/environmental-health-specialist-iv-solid-waste-and-body-art-programs-open-pr",
+      "date_posted": "",
+      "salary": "$10,684.27 - $13,351.87 Monthly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Palo Alto",
+      "title": "Hazardous Materials Inspector",
+      "location": "Palo Alto, CA",
+      "url": "https://www.governmentjobs.com/jobs/5489592-0/hazardous-materials-inspector",
+      "date_posted": "",
+      "salary": "$176,113.60 - $234,457.60 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of San Diego",
+      "title": "Hazardous Materials Inspector III",
+      "location": "City of San Diego, CA",
+      "url": "https://www.governmentjobs.com/jobs/5488484-0/hazardous-materials-inspector-iii",
+      "date_posted": "",
+      "salary": "$102,294.40 - $123,988.80 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Mendocino",
+      "title": "Hazardous Materials Operations Specialist",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5502826-0/hazardous-materials-operations-specialist",
+      "date_posted": "",
+      "salary": "$70,345.60 - $85,488.00 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }

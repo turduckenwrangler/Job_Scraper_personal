@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-10-07 21:20 UTC",
-  "total": 3,
-  "new_count": 0,
+  "scraped_at": "2026-10-08 21:22 UTC",
+  "total": 4,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Sunnyvale",
+      "title": "Water Pollution Control Plant Mechanic",
+      "location": "South Bay",
+      "url": "https://www.calopps.org/sunnyvale/job-20783377",
+      "date_posted": "",
+      "salary": "$52.72-$67.28 Hourly",
+      "ats": "CalOpps"
+    },
     {
       "company": "Simi Valley",
       "title": "Environmental Compliance Programs Analyst (Limited-Term)",
@@ -31,5 +40,15 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Sunnyvale",
+      "title": "Water Pollution Control Plant Mechanic",
+      "location": "South Bay",
+      "url": "https://www.calopps.org/sunnyvale/job-20783377",
+      "date_posted": "",
+      "salary": "$52.72-$67.28 Hourly",
+      "ats": "CalOpps"
+    }
+  ]
 }

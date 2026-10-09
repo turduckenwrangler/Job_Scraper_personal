@@ -1,19 +1,6 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-10-08 20:54 UTC*
+*Last updated: 2026-10-09 01:29 UTC*
 
-**3 new role(s)** since last run · 7 total in last 24h
+**0 new role(s)** since last run · 6 total in last 24h
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=f2c5fd2231931b49) — STATE WATER RESOURCES CONTROL BOARD
-- 📍 **Location:** CA, USA
-- 💰 **Salary:** $4418–$9321/mo
-- 🕒 **Posted:** 2026-10-08
-
-### [Geologist/Environmental Scientist](https://www.indeed.com/viewjob?jk=c17e16213ed97e77) — Arcadis
-- 📍 **Location:** Sacramento, CA, USA
-- 💰 **Salary:** $55k–$83k/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Environmental Scientist](https://www.indeed.com/viewjob?jk=bfa348d0b36d02e0) — aptim
-- 📍 **Location:** San Diego, CA, USA
-- 💰 **Salary:** $33–$40/hr
-- 🕒 **Posted:** 2026-10-08
+No new roles since the last run.

@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-08 21:22 UTC",
-  "total": 4,
-  "new_count": 1,
+  "scraped_at": "2026-10-09 20:57 UTC",
+  "total": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Sunnyvale",
@@ -29,26 +29,7 @@
       "date_posted": "",
       "salary": "$33.65-$43.65 Hourly",
       "ats": "CalOpps"
-    },
-    {
-      "company": "Sunnyvale",
-      "title": "Senior Hazardous Materials Inspector",
-      "location": "South Bay",
-      "url": "https://www.calopps.org/sunnyvale/job-20775453",
-      "date_posted": "",
-      "salary": "$77.19-$98.51 Hourly",
-      "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Sunnyvale",
-      "title": "Water Pollution Control Plant Mechanic",
-      "location": "South Bay",
-      "url": "https://www.calopps.org/sunnyvale/job-20783377",
-      "date_posted": "",
-      "salary": "$52.72-$67.28 Hourly",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }

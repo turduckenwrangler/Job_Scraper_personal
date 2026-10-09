@@ -1,6 +1,9 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-10-09 01:29 UTC*
+*Last updated: 2026-10-09 08:02 UTC*
 
-**0 new role(s)** since last run · 6 total in last 24h
+**1 new role(s)** since last run · 3 total in last 24h
 
-No new roles since the last run.
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=05387517ee41fead) — STATE WATER RESOURCES CONTROL BOARD
+- 📍 **Location:** CA, USA
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-10-09

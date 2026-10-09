@@ -1,6 +1,12 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-10-09 07:34 UTC*
+*Last updated: 2026-10-09 20:18 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [2027 Graduate Environmental Scientist / Planner](https://www.linkedin.com/jobs/view/4477132233/) — AECOM
+- 📍 **Location:** Newcastle, New South Wales, Australia
+- 🕒 **Posted:** 2026-10-09
+
+### [AECOM Water Resources Opportunities - ANZ](https://www.linkedin.com/jobs/view/4475134992/) — AECOM
+- 📍 **Location:** Canberra, Australian Capital Territory, Australia
+- 🕒 **Posted:** 2026-10-09

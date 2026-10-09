@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-08 21:14 UTC",
+  "scraped_at": "2026-10-09 20:45 UTC",
   "total": 14,
   "new_count": 0,
   "jobs": [
@@ -13,11 +13,38 @@
       "ats": "CalCareers"
     },
     {
+      "company": "Department of Fish and Wildlife",
+      "title": "Beaver Restoration Environmental Scientist",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534521",
+      "date_posted": "2026-10-06",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
       "location": "San Luis Obispo County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534879",
       "date_posted": "2026-10-08",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Food & Agriculture",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Orange County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535047",
+      "date_posted": "2026-10-09",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533482",
+      "date_posted": "2026-10-09",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -50,37 +77,10 @@
     },
     {
       "company": "Department of Fish and Wildlife",
-      "title": "Beaver Restoration Environmental Scientist",
-      "location": "Yolo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534521",
-      "date_posted": "2026-10-06",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Yolo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533392",
+      "title": "Environmental Scientist, Marine Biologist - San Francisco Bay",
+      "location": "San Joaquin County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533306",
       "date_posted": "2026-09-24",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Yolo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533397",
-      "date_posted": "2026-09-24",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533625",
-      "date_posted": "2026-10-07",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -104,20 +104,20 @@
     },
     {
       "company": "State Water Resources Control Board",
+      "title": "Environmental Scientist",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533625",
+      "date_posted": "2026-10-07",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
       "title": "ENVIRONMENTAL SCIENTIST",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532712",
       "date_posted": "2026-09-23",
       "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Senior Environmental Scientist (Specialist)",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532892",
-      "date_posted": "2026-09-23",
-      "salary": "$7820.00 - $10732.00",
       "ats": "CalCareers"
     },
     {

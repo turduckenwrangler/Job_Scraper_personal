@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-10 19:58 UTC",
+  "scraped_at": "2026-10-11 20:09 UTC",
   "total": 14,
   "new_count": 0,
   "jobs": [
@@ -9,15 +9,6 @@
       "location": "San Luis Obispo County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534667",
       "date_posted": "2026-10-07",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Sonoma County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533917",
-      "date_posted": "2026-09-30",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -90,6 +81,15 @@
       "location": "San Joaquin County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533306",
       "date_posted": "2026-09-24",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533482",
+      "date_posted": "2026-10-09",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },

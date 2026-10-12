@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-10-12 06:14 UTC*
+*Last updated: 2026-10-12 23:09 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Senior Technical Lead – Environmental Assessment](https://www.linkedin.com/jobs/view/4478701370/) — Kleinfelder
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $131,248 - $182,874
+- 🕒 **Posted:** 2026-10-12

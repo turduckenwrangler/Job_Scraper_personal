@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-10-14 01:00 UTC*
+*Last updated: 2026-10-14 06:51 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Hazardous Materials and Waste Manager](https://www.linkedin.com/jobs/view/4479277060/) — University of California, Santa Cruz
+- 📍 **Location:** Santa Cruz County, CA
+- 💰 **Salary:** $100,100 - $107,674/annually
+- 🕒 **Posted:** 2026-10-14

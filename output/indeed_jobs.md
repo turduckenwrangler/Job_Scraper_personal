@@ -1,6 +1,9 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-10-15 06:31 UTC*
+*Last updated: 2026-10-15 19:30 UTC*
 
-**0 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=7752a73df230f7ca) — California Department of Pesticide Regulation
+- 📍 **Location:** CA, USA
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-10-15

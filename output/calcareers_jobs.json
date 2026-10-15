@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-14 20:08 UTC",
-  "total": 13,
+  "scraped_at": "2026-10-15 19:49 UTC",
+  "total": 14,
   "new_count": 0,
   "jobs": [
     {
@@ -9,6 +9,15 @@
       "location": "San Luis Obispo County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534667",
       "date_posted": "2026-10-07",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Pesticide Regulation",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532666",
+      "date_posted": "2026-09-18",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -27,24 +36,6 @@
       "location": "United States",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533625",
       "date_posted": "2026-10-07",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist, Wolf Biologist",
-      "location": "Shasta County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534389",
-      "date_posted": "2026-10-05",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Fresno County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534415",
-      "date_posted": "2026-10-05",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -76,20 +67,29 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Pesticide Regulation",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532666",
-      "date_posted": "2026-09-18",
+      "company": "Department of Fish and Wildlife",
+      "title": "Environmental Scientist, Wolf Biologist",
+      "location": "Shasta County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534389",
+      "date_posted": "2026-10-05",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
-      "company": "State Water Resources Control Board",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532712",
-      "date_posted": "2026-09-23",
+      "company": "Department of Fish and Wildlife",
+      "title": "Environmental Scientist",
+      "location": "Fresno County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534415",
+      "date_posted": "2026-10-05",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Fish and Wildlife",
+      "title": "Beaver Restoration Environmental Scientist",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534521",
+      "date_posted": "2026-10-06",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -108,6 +108,15 @@
       "location": "San Luis Obispo County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534879",
       "date_posted": "2026-10-08",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Pesticide Regulation",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535610",
+      "date_posted": "2026-10-15",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },

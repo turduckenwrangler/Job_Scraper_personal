@@ -1,9 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-10-17 06:01 UTC*
+*Last updated: 2026-10-17 18:09 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Hazardous Materials Associate (Part Time)](https://www.linkedin.com/jobs/view/4480801483/) — Actalent
-- 📍 **Location:** Santa Paula, CA
-- 💰 **Salary:** $20.00/hr - $24.00/hr
-- 🕒 **Posted:** 2026-10-17
+No new roles since the last run.

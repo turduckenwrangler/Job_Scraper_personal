@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-16 19:34 UTC",
-  "total": 7,
+  "scraped_at": "2026-10-17 18:32 UTC",
+  "total": 9,
   "new_count": 3,
   "jobs": [
     {
@@ -13,12 +13,12 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of San Luis Obispo",
-      "title": "Environmental Health Specialist I/II",
-      "location": "San Luis Obispo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5518825-0/environmental-health-specialist-i-ii",
+      "company": "County of Mendocino",
+      "title": "Environmental Health Specialist I",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5519748-0/environmental-health-specialist-i",
       "date_posted": "",
-      "salary": "$74,443.20 - $109,616.00 Annually",
+      "salary": "$62,233.60 - $75,608.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -31,21 +31,39 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "County of San Luis Obispo",
+      "title": "Environmental Health Specialist I/II",
+      "location": "San Luis Obispo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5518825-0/environmental-health-specialist-i-ii",
+      "date_posted": "",
+      "salary": "$74,443.20 - $109,616.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Mendocino",
+      "title": "Environmental Health Specialist II",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5519845-0/environmental-health-specialist-ii",
+      "date_posted": "",
+      "salary": "$68,619.20 - $83,366.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Siskiyou",
+      "title": "Environmental Health Specialist I/II",
+      "location": "Yreka, CA",
+      "url": "https://www.governmentjobs.com/jobs/5517976-0/environmental-health-specialist-i-ii",
+      "date_posted": "",
+      "salary": "$58,274.59 - $85,542.79 Annually",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "Marion County",
       "title": "Environmental Health Specialist 2 (Underfill EHS1) - Environmental Health Services",
       "location": "Salem, OR",
       "url": "https://www.governmentjobs.com/jobs/5518618-0/environmental-health-specialist-2-underfill-ehs1-environmental-health-service",
       "date_posted": "",
       "salary": "$27.36 - $44.47 Hourly",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of San Mateo",
-      "title": "Environmental Health Program Supervisor (Open & Promotional)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5500148-0/environmental-health-program-supervisor-open-promotional",
-      "date_posted": "",
-      "salary": "$11,989.47 - $14,984.67 Monthly",
       "ats": "NEOGOV"
     },
     {
@@ -69,30 +87,30 @@
   ],
   "new_jobs": [
     {
-      "company": "County of San Luis Obispo",
-      "title": "Environmental Health Specialist I/II",
-      "location": "San Luis Obispo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5518825-0/environmental-health-specialist-i-ii",
+      "company": "County of Mendocino",
+      "title": "Environmental Health Specialist I",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5519748-0/environmental-health-specialist-i",
       "date_posted": "",
-      "salary": "$74,443.20 - $109,616.00 Annually",
+      "salary": "$62,233.60 - $75,608.00 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "Kings County",
-      "title": "Environmental Health Specialist I/II",
-      "location": "Hanford, CA",
-      "url": "https://www.governmentjobs.com/jobs/5518056-0/environmental-health-specialist-i-ii",
+      "company": "County of Mendocino",
+      "title": "Environmental Health Specialist II",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5519845-0/environmental-health-specialist-ii",
       "date_posted": "",
-      "salary": "",
+      "salary": "$68,619.20 - $83,366.40 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "Marion County",
-      "title": "Environmental Health Specialist 2 (Underfill EHS1) - Environmental Health Services",
-      "location": "Salem, OR",
-      "url": "https://www.governmentjobs.com/jobs/5518618-0/environmental-health-specialist-2-underfill-ehs1-environmental-health-service",
+      "company": "County of Siskiyou",
+      "title": "Environmental Health Specialist I/II",
+      "location": "Yreka, CA",
+      "url": "https://www.governmentjobs.com/jobs/5517976-0/environmental-health-specialist-i-ii",
       "date_posted": "",
-      "salary": "$27.36 - $44.47 Hourly",
+      "salary": "$58,274.59 - $85,542.79 Annually",
       "ats": "NEOGOV"
     }
   ]

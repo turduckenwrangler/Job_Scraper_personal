@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-17 18:22 UTC",
-  "total": 14,
+  "scraped_at": "2026-10-18 18:34 UTC",
+  "total": 15,
   "new_count": 0,
   "jobs": [
     {
@@ -27,6 +27,15 @@
       "location": "Shasta County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534389",
       "date_posted": "2026-10-05",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Fish and Wildlife",
+      "title": "Beaver Restoration Environmental Scientist",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534521",
+      "date_posted": "2026-10-06",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -85,15 +94,6 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Fish and Wildlife",
-      "title": "Beaver Restoration Environmental Scientist",
-      "location": "Yolo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534521",
-      "date_posted": "2026-10-06",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "State Air Resources Board",
       "title": "Air Pollution Specialist",
       "location": "United States",
@@ -127,6 +127,15 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535323",
       "date_posted": "2026-10-13",
       "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Air Resources Board",
+      "title": "AIR POLLUTION SPECIALIST",
+      "location": "Riverside County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532324",
+      "date_posted": "2026-10-06",
+      "salary": "$5918.00 - $11455.00",
       "ats": "CalCareers"
     }
   ],

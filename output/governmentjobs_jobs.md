@@ -1,16 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-10-17 18:32 UTC*
+*Last updated: 2026-10-18 18:40 UTC*
 
-**3 new role(s)** since last run · 9 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 8 total in recent GovernmentJobs postings
 
-### [Environmental Health Specialist I](https://www.governmentjobs.com/jobs/5519748-0/environmental-health-specialist-i) — County of Mendocino
-- 📍 **Location:** Ukiah, CA
-- 💰 **Salary:** $62,233.60 - $75,608.00 Annually
-
-### [Environmental Health Specialist II](https://www.governmentjobs.com/jobs/5519845-0/environmental-health-specialist-ii) — County of Mendocino
-- 📍 **Location:** Ukiah, CA
-- 💰 **Salary:** $68,619.20 - $83,366.40 Annually
-
-### [Environmental Health Specialist I/II](https://www.governmentjobs.com/jobs/5517976-0/environmental-health-specialist-i-ii) — County of Siskiyou
-- 📍 **Location:** Yreka, CA
-- 💰 **Salary:** $58,274.59 - $85,542.79 Annually
+### [Environmental Health Program Supervisor (Open & Promotional)](https://www.governmentjobs.com/jobs/5500148-0/environmental-health-program-supervisor-open-promotional) — County of San Mateo
+- 📍 **Location:** County of San Mateo, CA
+- 💰 **Salary:** $11,989.47 - $14,984.67 Monthly

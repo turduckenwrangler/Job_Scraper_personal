@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-17 18:32 UTC",
-  "total": 9,
-  "new_count": 3,
+  "scraped_at": "2026-10-18 18:40 UTC",
+  "total": 8,
+  "new_count": 1,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -10,15 +10,6 @@
       "url": "https://www.governmentjobs.com/jobs/5502861-0/environmental-health-manager",
       "date_posted": "",
       "salary": "$97,032.00 - $117,936.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Mendocino",
-      "title": "Environmental Health Specialist I",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5519748-0/environmental-health-specialist-i",
-      "date_posted": "",
-      "salary": "$62,233.60 - $75,608.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -40,15 +31,6 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Mendocino",
-      "title": "Environmental Health Specialist II",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5519845-0/environmental-health-specialist-ii",
-      "date_posted": "",
-      "salary": "$68,619.20 - $83,366.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "County of Siskiyou",
       "title": "Environmental Health Specialist I/II",
       "location": "Yreka, CA",
@@ -64,6 +46,15 @@
       "url": "https://www.governmentjobs.com/jobs/5518618-0/environmental-health-specialist-2-underfill-ehs1-environmental-health-service",
       "date_posted": "",
       "salary": "$27.36 - $44.47 Hourly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of San Mateo",
+      "title": "Environmental Health Program Supervisor (Open & Promotional)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5500148-0/environmental-health-program-supervisor-open-promotional",
+      "date_posted": "",
+      "salary": "$11,989.47 - $14,984.67 Monthly",
       "ats": "NEOGOV"
     },
     {
@@ -87,30 +78,12 @@
   ],
   "new_jobs": [
     {
-      "company": "County of Mendocino",
-      "title": "Environmental Health Specialist I",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5519748-0/environmental-health-specialist-i",
+      "company": "County of San Mateo",
+      "title": "Environmental Health Program Supervisor (Open & Promotional)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5500148-0/environmental-health-program-supervisor-open-promotional",
       "date_posted": "",
-      "salary": "$62,233.60 - $75,608.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Mendocino",
-      "title": "Environmental Health Specialist II",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5519845-0/environmental-health-specialist-ii",
-      "date_posted": "",
-      "salary": "$68,619.20 - $83,366.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Siskiyou",
-      "title": "Environmental Health Specialist I/II",
-      "location": "Yreka, CA",
-      "url": "https://www.governmentjobs.com/jobs/5517976-0/environmental-health-specialist-i-ii",
-      "date_posted": "",
-      "salary": "$58,274.59 - $85,542.79 Annually",
+      "salary": "$11,989.47 - $14,984.67 Monthly",
       "ats": "NEOGOV"
     }
   ]

@@ -1,6 +1,8 @@
 # 🏛 Priority Employers — Environmental / Toxicology Roles
-*Last updated: 2026-10-18 08:32 UTC*
+*Last updated: 2026-10-19 09:20 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new priority-employer roles since the last run.
+### [Team Manager - Water Resources](https://www.linkedin.com/jobs/view/4478856390/) — AECOM
+- 📍 **Location:** Brisbane, Queensland, Australia
+- 🕒 **Posted:** 2026-10-18

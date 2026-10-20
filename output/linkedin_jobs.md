@@ -1,19 +1,18 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-10-20 19:27 UTC*
+*Last updated: 2026-10-20 23:22 UTC*
 
 **3 new role(s)** since last run · 3 total in last 1h
 
-### [Lead Environmental Specialist/Planner (QSD/QSP)](https://www.linkedin.com/jobs/view/4480725025/) — Insignia Environmental
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $70,000 to $95,000
+### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.linkedin.com/jobs/view/4482001127/) — Caltrans
+- 📍 **Location:** Sacramento County, CA
+- 💰 **Salary:** $8,055.00/mo - $11,054.00/mo
 - 🕒 **Posted:** 2026-10-20
 
-### [Senior Technical Project Manager - Remediation](https://www.linkedin.com/jobs/view/4481773039/) — Apex Companies
-- 📍 **Location:** Thousand Oaks, CA
-- 💰 **Salary:** $500K to $5
+### [Environmental Specialist I](https://www.linkedin.com/jobs/view/4481783926/) — Veolia
+- 📍 **Location:** Huntington Beach, CA
+- 💰 **Salary:** $24 to $25 per hour
 - 🕒 **Posted:** 2026-10-20
 
-### [Senior Technical Project Manager - Remediation](https://www.linkedin.com/jobs/view/4481764425/) — Apex Companies
-- 📍 **Location:** Signal Hill, CA
-- 💰 **Salary:** $500K to $5
+### [Manager Planning, Building & Environmental Health + Relocation & Vehicle!](https://www.linkedin.com/jobs/view/4480747079/) — Shire of Esperance
+- 📍 **Location:** Perth, Western Australia, Australia
 - 🕒 **Posted:** 2026-10-20

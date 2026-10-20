@@ -1,8 +1,8 @@
 # 🏛 Priority Employers — Environmental / Toxicology Roles
-*Last updated: 2026-10-19 09:20 UTC*
+*Last updated: 2026-10-20 09:07 UTC*
 
 **1 new role(s)** since last run · 1 total in last 24h
 
-### [Team Manager - Water Resources](https://www.linkedin.com/jobs/view/4478856390/) — AECOM
+### [Graduate Consultant - Air Quality](https://www.linkedin.com/jobs/view/4480450143/) — SLR Consulting
 - 📍 **Location:** Brisbane, Queensland, Australia
-- 🕒 **Posted:** 2026-10-18
+- 🕒 **Posted:** 2026-10-20

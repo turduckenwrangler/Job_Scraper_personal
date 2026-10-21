@@ -1,8 +1,9 @@
 # 🏛 Priority Employers — Environmental / Toxicology Roles
-*Last updated: 2026-10-20 09:07 UTC*
+*Last updated: 2026-10-21 08:56 UTC*
 
 **1 new role(s)** since last run · 1 total in last 24h
 
-### [Graduate Consultant - Air Quality](https://www.linkedin.com/jobs/view/4480450143/) — SLR Consulting
-- 📍 **Location:** Brisbane, Queensland, Australia
+### [Associate Consultant, Air Quality](https://www.linkedin.com/jobs/view/4481771616/) — Ramboll
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $64,404 to $80,505
 - 🕒 **Posted:** 2026-10-20

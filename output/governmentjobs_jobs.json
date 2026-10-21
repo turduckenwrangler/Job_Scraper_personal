@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-20 20:01 UTC",
-  "total": 10,
-  "new_count": 0,
+  "scraped_at": "2026-10-21 20:13 UTC",
+  "total": 11,
+  "new_count": 1,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -67,12 +67,12 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Marion County",
-      "title": "Environmental Health Specialist 2 (Underfill EHS1) - Environmental Health Services",
-      "location": "Salem, OR",
-      "url": "https://www.governmentjobs.com/jobs/5518618-0/environmental-health-specialist-2-underfill-ehs1-environmental-health-service",
+      "company": "County of Lake",
+      "title": "Environmental Health Specialist I/II//Senior",
+      "location": "Lake County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5524614-0/environmental-health-specialist-i-ii-senior",
       "date_posted": "",
-      "salary": "$27.36 - $44.47 Hourly",
+      "salary": "$60,174.40 - $93,641.60 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -92,7 +92,26 @@
       "date_posted": "",
       "salary": "$60,368.09 - $111,745.42 Annually",
       "ats": "NEOGOV"
+    },
+    {
+      "company": "Marion County",
+      "title": "Environmental Health Specialist 2 (Underfill EHS1) - Environmental Health Services",
+      "location": "Salem, OR",
+      "url": "https://www.governmentjobs.com/jobs/5518618-0/environmental-health-specialist-2-underfill-ehs1-environmental-health-service",
+      "date_posted": "",
+      "salary": "$27.36 - $44.47 Hourly",
+      "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "County of Lake",
+      "title": "Environmental Health Specialist I/II//Senior",
+      "location": "Lake County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5524614-0/environmental-health-specialist-i-ii-senior",
+      "date_posted": "",
+      "salary": "$60,174.40 - $93,641.60 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }

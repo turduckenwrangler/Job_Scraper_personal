@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-21 20:02 UTC",
-  "total": 14,
+  "scraped_at": "2026-10-22 19:57 UTC",
+  "total": 11,
   "new_count": 0,
   "jobs": [
     {
@@ -27,6 +27,24 @@
       "location": "Orange County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535047",
       "date_posted": "2026-10-09",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Water Resources",
+      "title": "Water Quality Scientist",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535285",
+      "date_posted": "2026-10-16",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Food & Agriculture",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Stanislaus County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535323",
+      "date_posted": "2026-10-13",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -67,24 +85,6 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Food & Agriculture",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Stanislaus County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535323",
-      "date_posted": "2026-10-13",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Yolo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535363",
-      "date_posted": "2026-10-13",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "State Air Resources Board",
       "title": "Air Pollution Specialist",
       "location": "United States",
@@ -99,33 +99,6 @@
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536138",
       "date_posted": "2026-10-20",
-      "salary": "$4551.00 - $9601.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Water Resources",
-      "title": "Water Quality Scientist",
-      "location": "Yolo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535285",
-      "date_posted": "2026-10-16",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Air Resources Board",
-      "title": "AIR POLLUTION SPECIALIST",
-      "location": "Riverside County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532324",
-      "date_posted": "2026-10-06",
-      "salary": "$5918.00 - $11455.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Fresno County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536029",
-      "date_posted": "2026-10-19",
       "salary": "$4551.00 - $9601.00",
       "ats": "CalCareers"
     }

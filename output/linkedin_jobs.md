@@ -1,9 +1,12 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-10-22 22:31 UTC*
+*Last updated: 2026-10-23 01:42 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4481616365/) — CDMS
-- 📍 **Location:** Pleasanton, CA
-- 💰 **Salary:** $70,000-$140,000
-- 🕒 **Posted:** 2026-10-22
+### [Environmental Compliance Coordinator](https://www.linkedin.com/jobs/view/4481641090/) — Ormat Technologies, Inc.
+- 📍 **Location:** Mammoth Lakes, CA
+- 🕒 **Posted:** 2026-10-23
+
+### [Environmental Health Officer](https://www.linkedin.com/jobs/view/4481627674/) — City of Whyalla
+- 📍 **Location:** Adelaide, South Australia, Australia
+- 🕒 **Posted:** 2026-10-23

@@ -1,9 +1,9 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-10-22 22:47 UTC*
+*Last updated: 2026-10-23 02:00 UTC*
 
-**1 new role(s)** since last run · 8 total in last 24h
+**1 new role(s)** since last run · 7 total in last 24h
 
-### [Utility Specialist – Water Quality Division WQD - Burlingame, CA – SFPUC (5602) 163382](https://www.indeed.com/viewjob?jk=fbd6bfb3265764df) — City and County of San Francisco
-- 📍 **Location:** Burlingame, CA, USA
-- 💰 **Salary:** $129k–$191k/yr
+### [Environmental Scientist/Geologist](https://www.indeed.com/viewjob?jk=30f7b4520700b798) — aptim
+- 📍 **Location:** Concord, CA, USA
+- 💰 **Salary:** $89k–$102k/yr
 - 🕒 **Posted:** 2026-10-22

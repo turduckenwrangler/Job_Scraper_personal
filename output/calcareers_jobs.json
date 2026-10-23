@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-22 19:57 UTC",
+  "scraped_at": "2026-10-23 19:54 UTC",
   "total": 11,
   "new_count": 0,
   "jobs": [
@@ -10,6 +10,24 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534667",
       "date_posted": "2026-10-07",
       "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Lands Commission",
+      "title": "Environmental Scientist",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536266",
+      "date_posted": "2026-10-22",
+      "salary": "$4551.00 - $9601.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Fish and Wildlife",
+      "title": "Environmental Scientist",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536437",
+      "date_posted": "2026-10-22",
+      "salary": "$4551.00 - $9601.00",
       "ats": "CalCareers"
     },
     {
@@ -58,33 +76,6 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Resources Recycling & Recovery",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532169",
-      "date_posted": "2026-10-13",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Resources Recycling & Recovery",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533482",
-      "date_posted": "2026-10-09",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533625",
-      "date_posted": "2026-10-07",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "State Air Resources Board",
       "title": "Air Pollution Specialist",
       "location": "United States",
@@ -100,6 +91,15 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536138",
       "date_posted": "2026-10-20",
       "salary": "$4551.00 - $9601.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Environmental Scientist",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533625",
+      "date_posted": "2026-10-07",
+      "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     }
   ],

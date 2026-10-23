@@ -1,12 +1,9 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-10-23 19:43 UTC*
+*Last updated: 2026-10-23 22:44 UTC*
 
-**2 new role(s)** since last run · 9 total in last 24h
+**1 new role(s)** since last run · 8 total in last 24h
 
-### [EOI - Engineers | Technicians | Project Managers | Environmental Scientists](https://au.indeed.com/viewjob?jk=ca880cec43438893) — GHD
-- 📍 **Location:** Bundaberg, QLD, Australia
-- 🕒 **Posted:** 2026-10-23
-
-### [Senior Environmental Assessment and Approvals Specialist](https://au.indeed.com/viewjob?jk=85a6d0b30bab86ca) — Western Power
-- 📍 **Location:** Perth, WA, Australia
+### [Environmental Health Officer](https://au.indeed.com/viewjob?jk=cfbb52905e3217e8) — City of Wodonga
+- 📍 **Location:** Wodonga, VIC, Australia
+- 💰 **Salary:** $47.51/hr
 - 🕒 **Posted:** 2026-10-23

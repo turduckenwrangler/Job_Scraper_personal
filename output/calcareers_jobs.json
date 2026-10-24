@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-23 19:54 UTC",
+  "scraped_at": "2026-10-24 18:43 UTC",
   "total": 11,
   "new_count": 0,
   "jobs": [
@@ -10,15 +10,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534667",
       "date_posted": "2026-10-07",
       "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Lands Commission",
-      "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536266",
-      "date_posted": "2026-10-22",
-      "salary": "$4551.00 - $9601.00",
       "ats": "CalCareers"
     },
     {
@@ -40,11 +31,11 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Food & Agriculture",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Orange County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535047",
-      "date_posted": "2026-10-09",
+      "company": "Department of Parks & Recreation",
+      "title": "Environmental Scientist (Limited-Term)",
+      "location": "Los Angeles County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534918",
+      "date_posted": "2026-10-23",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -72,6 +63,15 @@
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527904",
       "date_posted": "2026-10-05",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532169",
+      "date_posted": "2026-10-13",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },

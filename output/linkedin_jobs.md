@@ -1,34 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-10-24 06:19 UTC*
+*Last updated: 2026-10-24 18:20 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Environmental Chemist (Corvallis, OR)](https://www.linkedin.com/jobs/view/4481992358/) — ICF
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $50,364.00 - $85,618.00
-- 🕒 **Posted:** 2026-10-24
-
-### [Environmental Chemist (Corvallis, OR)](https://www.linkedin.com/jobs/view/4481994196/) — ICF
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $45,785.00 - $77,835.00
-- 🕒 **Posted:** 2026-10-24
-
-### [Environmental Chemist (Corvallis, OR)](https://www.linkedin.com/jobs/view/4481977943/) — ICF
-- 📍 **Location:** Salem, OR
-- 💰 **Salary:** $45,785.00 - $77,835.00
-- 🕒 **Posted:** 2026-10-24
-
-### [Environmental Chemist (Corvallis, OR)](https://www.linkedin.com/jobs/view/4481990428/) — ICF
-- 📍 **Location:** Corvallis, OR
-- 💰 **Salary:** $50,364.00 - $85,618.00
-- 🕒 **Posted:** 2026-10-24
-
-### [Environmental Chemist (Corvallis, OR)](https://www.linkedin.com/jobs/view/4481988718/) — ICF
-- 📍 **Location:** Salem, OR
-- 💰 **Salary:** $50,364.00 - $85,618.00
-- 🕒 **Posted:** 2026-10-24
-
-### [Environmental Chemist (Corvallis, OR)](https://www.linkedin.com/jobs/view/4481987781/) — ICF
-- 📍 **Location:** Corvallis, OR
-- 💰 **Salary:** $45,785.00 - $77,835.00
+### [Principal Toxicologist (Ph.D.)](https://www.linkedin.com/jobs/view/4322119855/) — Exponent
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** USD $200,000.00 - USD $300,000.00 /Yr
 - 🕒 **Posted:** 2026-10-24

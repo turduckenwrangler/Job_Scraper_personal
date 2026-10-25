@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-24 18:49 UTC",
+  "scraped_at": "2026-10-25 19:05 UTC",
   "total": 11,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -13,21 +13,21 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of San Luis Obispo",
-      "title": "Environmental Health Specialist I/II",
-      "location": "San Luis Obispo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5518825-0/environmental-health-specialist-i-ii",
-      "date_posted": "",
-      "salary": "$74,443.20 - $109,616.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "Kings County",
       "title": "Environmental Health Specialist I/II",
       "location": "Hanford, CA",
       "url": "https://www.governmentjobs.com/jobs/5518056-0/environmental-health-specialist-i-ii",
       "date_posted": "",
       "salary": "",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of San Luis Obispo",
+      "title": "Environmental Health Specialist I/II",
+      "location": "San Luis Obispo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5518825-0/environmental-health-specialist-i-ii",
+      "date_posted": "",
+      "salary": "$74,443.20 - $109,616.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -103,15 +103,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Marion County",
-      "title": "Environmental Health Specialist 2 (Underfill EHS1) - Environmental Health Services",
-      "location": "Salem, OR",
-      "url": "https://www.governmentjobs.com/jobs/5518618-0/environmental-health-specialist-2-underfill-ehs1-environmental-health-service",
-      "date_posted": "",
-      "salary": "$27.36 - $44.47 Hourly",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }

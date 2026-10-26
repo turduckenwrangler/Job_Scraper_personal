@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-25 18:52 UTC",
-  "total": 11,
+  "scraped_at": "2026-10-26 20:58 UTC",
+  "total": 10,
   "new_count": 0,
   "jobs": [
     {
@@ -61,17 +61,17 @@
       "company": "Department of Resources Recycling & Recovery",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532169",
-      "date_posted": "2026-10-13",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533482",
+      "date_posted": "2026-10-09",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Resources Recycling & Recovery",
+      "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533482",
-      "date_posted": "2026-10-09",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533625",
+      "date_posted": "2026-10-07",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -91,15 +91,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536138",
       "date_posted": "2026-10-20",
       "salary": "$4551.00 - $9601.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533625",
-      "date_posted": "2026-10-07",
-      "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     }
   ],

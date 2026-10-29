@@ -1,8 +1,9 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-10-28 20:36 UTC*
+*Last updated: 2026-10-29 00:27 UTC*
 
-**1 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-### [Senior Environmental Scientist](https://au.indeed.com/viewjob?jk=e2f9a93217423424) — Tetra Tech
-- 📍 **Location:** Margaret River, WA, Australia
+### [Executive Level 1 - Financial Risk Assessment Team Leader - Funding Risk Policy Section (multiple roles)](https://au.indeed.com/viewjob?jk=40523809295101fd) — Department of Health, Disability and Ageing
+- 📍 **Location:** Sydney, NSW, Australia
+- 💰 **Salary:** $125k–$143k/yr
 - 🕒 **Posted:** 2026-10-28

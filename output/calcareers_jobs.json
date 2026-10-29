@@ -1,51 +1,60 @@
 {
-  "scraped_at": "2026-10-28 20:56 UTC",
-  "total": 11,
+  "scraped_at": "2026-10-29 20:59 UTC",
+  "total": 12,
   "new_count": 0,
   "jobs": [
     {
+      "company": "Department of Fish and Wildlife",
+      "title": "Environmental Scientist",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536735",
+      "date_posted": "2026-10-26",
+      "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Sacramento-San Joaquin Delta Conservancy",
+      "title": "Environmental Scientist",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536743",
+      "date_posted": "2026-10-26",
+      "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Lands Commission",
+      "title": "Environmental Scientist",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536266",
+      "date_posted": "2026-10-22",
+      "salary": "$4551.00 - $9601.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "Department of Parks & Recreation",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "San Luis Obispo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534667",
-      "date_posted": "2026-10-07",
-      "salary": "$4418.00 - $9321.00",
+      "title": "Environmental Scientist",
+      "location": "Sonoma County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536125",
+      "date_posted": "2026-10-29",
+      "salary": "$26.26 - $55.39",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Pesticide Regulation",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536138",
+      "date_posted": "2026-10-20",
+      "salary": "$4551.00 - $9601.00",
       "ats": "CalCareers"
     },
     {
       "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
-      "location": "San Luis Obispo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534879",
-      "date_posted": "2026-10-08",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Parks & Recreation",
-      "title": "Environmental Scientist (Limited-Term)",
-      "location": "Los Angeles County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534918",
-      "date_posted": "2026-10-23",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Water Resources",
-      "title": "Water Quality Scientist",
-      "location": "Yolo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535285",
-      "date_posted": "2026-10-16",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Food & Agriculture",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Stanislaus County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535323",
-      "date_posted": "2026-10-13",
-      "salary": "$4418.00 - $9321.00",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536060",
+      "date_posted": "2026-10-20",
+      "salary": "$4551.00 - $9601.00",
       "ats": "CalCareers"
     },
     {
@@ -60,10 +69,19 @@
     {
       "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533625",
-      "date_posted": "2026-10-07",
+      "location": "San Luis Obispo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534879",
+      "date_posted": "2026-10-08",
       "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Pesticide Regulation",
+      "title": "Senior Environmental Scientist (Supervisory)",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536977",
+      "date_posted": "2026-10-29",
+      "salary": "$10854.00 - $13493.00",
       "ats": "CalCareers"
     },
     {
@@ -76,12 +94,12 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Pesticide Regulation",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536138",
-      "date_posted": "2026-10-20",
-      "salary": "$4551.00 - $9601.00",
+      "company": "Department of Water Resources",
+      "title": "Water Quality Scientist",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535285",
+      "date_posted": "2026-10-16",
+      "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
@@ -90,15 +108,6 @@
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536817",
       "date_posted": "2026-10-28",
-      "salary": "$8055.00 - $11269.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Resources Recycling & Recovery",
-      "title": "Senior Environmental Scientist (Specialist)",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536824",
-      "date_posted": "2026-10-26",
       "salary": "$8055.00 - $11269.00",
       "ats": "CalCareers"
     }

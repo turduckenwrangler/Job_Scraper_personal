@@ -1,15 +1,15 @@
 {
-  "scraped_at": "2026-10-29 21:11 UTC",
-  "total": 10,
-  "new_count": 0,
+  "scraped_at": "2026-10-30 20:50 UTC",
+  "total": 7,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "Marion County",
-      "title": "Environmental Health Specialist 2 (Underfill EHS1) - Environmental Health Services",
-      "location": "Salem, OR",
-      "url": "https://www.governmentjobs.com/jobs/5518618-0/environmental-health-specialist-2-underfill-ehs1-environmental-health-service",
+      "company": "County of San Benito",
+      "title": "Environmental Health Specialist III",
+      "location": "CA. 95023, CA",
+      "url": "https://www.governmentjobs.com/jobs/5444359-0/environmental-health-specialist-iii",
       "date_posted": "",
-      "salary": "$27.36 - $44.47 Hourly",
+      "salary": "$94,952.00 - $125,632.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -65,34 +65,17 @@
       "date_posted": "",
       "salary": "$58,274.59 - $85,542.79 Annually",
       "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Lake",
-      "title": "Environmental Health Specialist I/II//Senior",
-      "location": "Lake County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5524614-0/environmental-health-specialist-i-ii-senior",
-      "date_posted": "",
-      "salary": "$60,174.40 - $93,641.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Palo Alto",
-      "title": "Journeyman Industrial Electrician - Water Quality Control Plant (Electrician)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5192494-0/journeyman-industrial-electrician-water-quality-control-plant-electrician",
-      "date_posted": "",
-      "salary": "$119,953.60 - $146,702.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Ventura County",
-      "title": "Environmental Health Specialist I/II/III - Hazardous Materials/CUPA",
-      "location": "Ventura and may require travel throughout Ventura County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5463471-0/environmental-health-specialist-i-ii-iii-hazardous-materials-cupa",
-      "date_posted": "",
-      "salary": "$60,368.09 - $111,745.42 Annually",
-      "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "County of San Benito",
+      "title": "Environmental Health Specialist III",
+      "location": "CA. 95023, CA",
+      "url": "https://www.governmentjobs.com/jobs/5444359-0/environmental-health-specialist-iii",
+      "date_posted": "",
+      "salary": "$94,952.00 - $125,632.00 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }

@@ -1,19 +1,24 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-10-30 06:31 UTC*
+*Last updated: 2026-10-30 20:10 UTC*
 
-**3 new role(s)** since last run · 7 total in last 24h
+**4 new role(s)** since last run · 6 total in last 24h
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=e4f9939e996a5ee8) — Department Of Parks & Recreation
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=e9cb6da0b2ee2438) — Department Of Forestry & Fire Protection
 - 📍 **Location:** CA, USA
-- 💰 **Salary:** $11k–$13k/mo
+- 💰 **Salary:** $4551–$9787/mo
 - 🕒 **Posted:** 2026-10-30
 
-### [Environmental Scientist - Data Manager](https://www.indeed.com/viewjob?jk=12eadbd0d66146bc) — SYNECTICS
-- 📍 **Location:** Sacramento, CA, USA
-- 💰 **Salary:** $58k–$65k/yr
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=e38afa63a4df67dd) — Department of Toxic Substances Control
+- 📍 **Location:** CA, USA
+- 💰 **Salary:** $4551–$9787/mo
 - 🕒 **Posted:** 2026-10-30
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=cd056f8c5f9750c4) — Department Of Parks & Recreation
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=0cc87299a60afbc8) — DEPARTMENT OF WATER RESOURCES
 - 📍 **Location:** CA, USA
-- 💰 **Salary:** $26.26–$55.39/hr
-- 🕒 **Posted:** 2026-10-29
+- 💰 **Salary:** $4551–$9787/mo
+- 🕒 **Posted:** 2026-10-30
+
+### [Risk Assessment Supervisor - Job# 630](https://www.indeed.com/viewjob?jk=10876dd487f2c39c) — North Los Angeles County Regional Center
+- 📍 **Location:** Chatsworth, CA, USA
+- 💰 **Salary:** $88k–$118k/yr
+- 🕒 **Posted:** 2026-10-30

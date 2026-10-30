@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-29 20:59 UTC",
-  "total": 12,
+  "scraped_at": "2026-10-30 20:39 UTC",
+  "total": 13,
   "new_count": 0,
   "jobs": [
     {
@@ -103,11 +103,20 @@
       "ats": "CalCareers"
     },
     {
+      "company": "Department of Toxic Substances Control",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537323",
+      "date_posted": "2026-10-30",
+      "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "Department of Pesticide Regulation",
       "title": "Senior Environmental Scientist (Specialist)",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536817",
-      "date_posted": "2026-10-28",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537153",
+      "date_posted": "2026-10-30",
       "salary": "$8055.00 - $11269.00",
       "ats": "CalCareers"
     }

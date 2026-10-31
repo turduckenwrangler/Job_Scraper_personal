@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-10-30 20:50 UTC",
-  "total": 7,
-  "new_count": 1,
+  "scraped_at": "2026-10-31 20:00 UTC",
+  "total": 9,
+  "new_count": 2,
   "jobs": [
+    {
+      "company": "County of Tulare",
+      "title": "Environmental Health Supervisor",
+      "location": "Visalia, CA",
+      "url": "https://www.governmentjobs.com/jobs/5528759-0/environmental-health-supervisor",
+      "date_posted": "",
+      "salary": "$84,881.34 - $103,447.44 Annually",
+      "ats": "NEOGOV"
+    },
     {
       "company": "County of San Benito",
       "title": "Environmental Health Specialist III",
@@ -65,16 +74,34 @@
       "date_posted": "",
       "salary": "$58,274.59 - $85,542.79 Annually",
       "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Palo Alto",
+      "title": "Journeyman Industrial Electrician - Water Quality Control Plant (Electrician)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.governmentjobs.com/jobs/5192494-0/journeyman-industrial-electrician-water-quality-control-plant-electrician",
+      "date_posted": "",
+      "salary": "$119,953.60 - $146,702.40 Annually",
+      "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "County of San Benito",
-      "title": "Environmental Health Specialist III",
-      "location": "CA. 95023, CA",
-      "url": "https://www.governmentjobs.com/jobs/5444359-0/environmental-health-specialist-iii",
+      "company": "County of Tulare",
+      "title": "Environmental Health Supervisor",
+      "location": "Visalia, CA",
+      "url": "https://www.governmentjobs.com/jobs/5528759-0/environmental-health-supervisor",
       "date_posted": "",
-      "salary": "$94,952.00 - $125,632.00 Annually",
+      "salary": "$84,881.34 - $103,447.44 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Palo Alto",
+      "title": "Journeyman Industrial Electrician - Water Quality Control Plant (Electrician)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.governmentjobs.com/jobs/5192494-0/journeyman-industrial-electrician-water-quality-control-plant-electrician",
+      "date_posted": "",
+      "salary": "$119,953.60 - $146,702.40 Annually",
       "ats": "NEOGOV"
     }
   ]

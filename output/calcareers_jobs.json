@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-30 20:39 UTC",
-  "total": 13,
+  "scraped_at": "2026-10-31 19:52 UTC",
+  "total": 12,
   "new_count": 0,
   "jobs": [
     {
@@ -22,10 +22,10 @@
       "ats": "CalCareers"
     },
     {
-      "company": "State Lands Commission",
+      "company": "Department of Fish and Wildlife",
       "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536266",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536437",
       "date_posted": "2026-10-22",
       "salary": "$4551.00 - $9601.00",
       "ats": "CalCareers"
@@ -49,11 +49,11 @@
       "ats": "CalCareers"
     },
     {
-      "company": "State Water Resources Control Board",
+      "company": "State Lands Commission",
       "title": "Environmental Scientist",
       "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536060",
-      "date_posted": "2026-10-20",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536266",
+      "date_posted": "2026-10-22",
       "salary": "$4551.00 - $9601.00",
       "ats": "CalCareers"
     },
@@ -76,6 +76,15 @@
       "ats": "CalCareers"
     },
     {
+      "company": "Department of Toxic Substances Control",
+      "title": "Environmental Scientist",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537404",
+      "date_posted": "2026-10-30",
+      "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "Department of Pesticide Regulation",
       "title": "Senior Environmental Scientist (Supervisory)",
       "location": "Sacramento County",
@@ -94,30 +103,12 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Water Resources",
-      "title": "Water Quality Scientist",
-      "location": "Yolo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535285",
-      "date_posted": "2026-10-16",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Toxic Substances Control",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537323",
       "date_posted": "2026-10-30",
       "salary": "$4551.00 - $9787.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Senior Environmental Scientist (Specialist)",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537153",
-      "date_posted": "2026-10-30",
-      "salary": "$8055.00 - $11269.00",
       "ats": "CalCareers"
     }
   ],

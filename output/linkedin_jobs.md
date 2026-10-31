@@ -1,9 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-10-31 05:52 UTC*
+*Last updated: 2026-10-31 19:32 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Director, Nonclinical Toxicology Operations](https://www.linkedin.com/jobs/view/4485679145/) — BioSpace
-- 📍 **Location:** Brisbane, CA
-- 💰 **Salary:** $220,700 - $252,667
-- 🕒 **Posted:** 2026-10-31
+No new roles since the last run.

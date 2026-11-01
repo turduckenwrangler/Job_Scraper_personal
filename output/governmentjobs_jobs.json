@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-31 20:00 UTC",
-  "total": 9,
-  "new_count": 2,
+  "scraped_at": "2026-11-01 20:32 UTC",
+  "total": 8,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of Tulare",
@@ -22,21 +22,21 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of San Luis Obispo",
-      "title": "Environmental Health Specialist I/II",
-      "location": "San Luis Obispo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5518825-0/environmental-health-specialist-i-ii",
-      "date_posted": "",
-      "salary": "$74,443.20 - $109,616.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "Kings County",
       "title": "Environmental Health Specialist I/II",
       "location": "Hanford, CA",
       "url": "https://www.governmentjobs.com/jobs/5518056-0/environmental-health-specialist-i-ii",
       "date_posted": "",
       "salary": "",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of San Luis Obispo",
+      "title": "Environmental Health Specialist I/II",
+      "location": "San Luis Obispo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5518825-0/environmental-health-specialist-i-ii",
+      "date_posted": "",
+      "salary": "$74,443.20 - $109,616.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -74,35 +74,7 @@
       "date_posted": "",
       "salary": "$58,274.59 - $85,542.79 Annually",
       "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Palo Alto",
-      "title": "Journeyman Industrial Electrician - Water Quality Control Plant (Electrician)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5192494-0/journeyman-industrial-electrician-water-quality-control-plant-electrician",
-      "date_posted": "",
-      "salary": "$119,953.60 - $146,702.40 Annually",
-      "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County of Tulare",
-      "title": "Environmental Health Supervisor",
-      "location": "Visalia, CA",
-      "url": "https://www.governmentjobs.com/jobs/5528759-0/environmental-health-supervisor",
-      "date_posted": "",
-      "salary": "$84,881.34 - $103,447.44 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Palo Alto",
-      "title": "Journeyman Industrial Electrician - Water Quality Control Plant (Electrician)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5192494-0/journeyman-industrial-electrician-water-quality-control-plant-electrician",
-      "date_posted": "",
-      "salary": "$119,953.60 - $146,702.40 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }

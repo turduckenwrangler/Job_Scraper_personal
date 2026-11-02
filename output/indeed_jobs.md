@@ -1,6 +1,8 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-11-02 00:28 UTC*
+*Last updated: 2026-11-02 06:54 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Team Leader, Environmental Health](https://au.indeed.com/viewjob?jk=9d9e127ecb941955) — Queensland Government
+- 📍 **Location:** Sunshine Coast, QLD, Australia
+- 🕒 **Posted:** 2026-11-02

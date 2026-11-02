@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-01 20:32 UTC",
+  "scraped_at": "2026-11-02 23:36 UTC",
   "total": 8,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "County of Tulare",
@@ -67,14 +67,24 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Siskiyou",
-      "title": "Environmental Health Specialist I/II",
-      "location": "Yreka, CA",
-      "url": "https://www.governmentjobs.com/jobs/5517976-0/environmental-health-specialist-i-ii",
+      "company": "County of Lake",
+      "title": "Environmental Health Specialist I/II//Senior",
+      "location": "Lake County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5524614-0/environmental-health-specialist-i-ii-senior",
       "date_posted": "",
-      "salary": "$58,274.59 - $85,542.79 Annually",
+      "salary": "$60,174.40 - $93,641.60 Annually",
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "County of Lake",
+      "title": "Environmental Health Specialist I/II//Senior",
+      "location": "Lake County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5524614-0/environmental-health-specialist-i-ii-senior",
+      "date_posted": "",
+      "salary": "$60,174.40 - $93,641.60 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }

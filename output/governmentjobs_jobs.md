@@ -1,8 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-11-02 23:36 UTC*
+*Last updated: 2026-11-03 21:48 UTC*
 
-**1 new role(s)** since last run · 8 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 9 total in recent GovernmentJobs postings
 
-### [Environmental Health Specialist I/II//Senior](https://www.governmentjobs.com/jobs/5524614-0/environmental-health-specialist-i-ii-senior) — County of Lake
-- 📍 **Location:** Lake County, CA
-- 💰 **Salary:** $60,174.40 - $93,641.60 Annually
+### [Journeyman Industrial Electrician - Water Quality Control Plant (Electrician)](https://www.governmentjobs.com/jobs/5192494-0/journeyman-industrial-electrician-water-quality-control-plant-electrician) — City of Palo Alto
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $119,953.60 - $146,702.40 Annually

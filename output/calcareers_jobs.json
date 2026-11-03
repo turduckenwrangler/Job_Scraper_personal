@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-02 23:29 UTC",
+  "scraped_at": "2026-11-03 21:40 UTC",
   "total": 11,
   "new_count": 0,
   "jobs": [
@@ -22,37 +22,37 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Fish and Wildlife",
+      "company": "State Lands Commission",
       "title": "Environmental Scientist",
-      "location": "Yolo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536437",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536266",
       "date_posted": "2026-10-22",
       "salary": "$4551.00 - $9601.00",
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Parks & Recreation",
-      "title": "Environmental Scientist",
-      "location": "Sonoma County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536125",
-      "date_posted": "2026-10-29",
-      "salary": "$26.26 - $55.39",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Pesticide Regulation",
+      "company": "Department of Resources Recycling & Recovery",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536138",
-      "date_posted": "2026-10-20",
-      "salary": "$4551.00 - $9601.00",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536822",
+      "date_posted": "2026-10-26",
+      "salary": "$4551.00 - $9787.00",
       "ats": "CalCareers"
     },
     {
-      "company": "State Lands Commission",
+      "company": "Department of Resources Recycling & Recovery",
       "title": "Environmental Scientist",
       "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536266",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536825",
+      "date_posted": "2026-10-26",
+      "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Fish and Wildlife",
+      "title": "Environmental Scientist",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536437",
       "date_posted": "2026-10-22",
       "salary": "$4551.00 - $9601.00",
       "ats": "CalCareers"
@@ -63,15 +63,6 @@
       "location": "San Luis Obispo County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534879",
       "date_posted": "2026-10-08",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Parks & Recreation",
-      "title": "Environmental Scientist (Limited-Term)",
-      "location": "Los Angeles County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534918",
-      "date_posted": "2026-10-23",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -91,6 +82,15 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536977",
       "date_posted": "2026-10-29",
       "salary": "$10854.00 - $13493.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Pesticide Regulation",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536138",
+      "date_posted": "2026-10-20",
+      "salary": "$4551.00 - $9601.00",
       "ats": "CalCareers"
     },
     {

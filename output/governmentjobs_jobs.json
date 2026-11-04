@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-03 21:48 UTC",
-  "total": 9,
-  "new_count": 1,
+  "scraped_at": "2026-11-04 21:55 UTC",
+  "total": 8,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of Tulare",
@@ -67,15 +67,6 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Lake",
-      "title": "Environmental Health Specialist I/II//Senior",
-      "location": "Lake County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5524614-0/environmental-health-specialist-i-ii-senior",
-      "date_posted": "",
-      "salary": "$60,174.40 - $93,641.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "City of Palo Alto",
       "title": "Journeyman Industrial Electrician - Water Quality Control Plant (Electrician)",
       "location": "Palo Alto, CA",
@@ -85,15 +76,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Palo Alto",
-      "title": "Journeyman Industrial Electrician - Water Quality Control Plant (Electrician)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5192494-0/journeyman-industrial-electrician-water-quality-control-plant-electrician",
-      "date_posted": "",
-      "salary": "$119,953.60 - $146,702.40 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }

@@ -1,19 +1,19 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-11-04 21:33 UTC*
+*Last updated: 2026-11-05 01:51 UTC*
 
-**3 new role(s)** since last run · 4 total in last 24h
+**3 new role(s)** since last run · 6 total in last 24h
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=09de02bf8dd43068) — DEPARTMENT OF FISH AND WILDLIFE
-- 📍 **Location:** CA, USA
-- 💰 **Salary:** $4551–$9787/mo
-- 🕒 **Posted:** 2026-11-04
+### [Staff Environmental Scientist](https://www.indeed.com/viewjob?jk=0555f91f695891d7) — TRC
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $62k–$80k/yr
+- 🕒 **Posted:** 2026-11-05
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=b1a3b258c575af66) — DEPARTMENT OF FISH AND WILDLIFE
-- 📍 **Location:** CA, USA
-- 💰 **Salary:** $4551–$9787/mo
-- 🕒 **Posted:** 2026-11-04
+### [Project Geologist - Environmental Remediation](https://www.indeed.com/viewjob?jk=cfcbf2345144270b) — TRC
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $82k–$116k/yr
+- 🕒 **Posted:** 2026-11-05
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=feaad3a3c17e66fc) — Department Of Food & Agriculture
-- 📍 **Location:** CA, USA
-- 💰 **Salary:** $4551–$9787/mo
-- 🕒 **Posted:** 2026-11-04
+### [Project Geologist - Environmental Remediation](https://www.indeed.com/viewjob?jk=ce8e88334a3cbed8) — TRC
+- 📍 **Location:** Rancho Cordova, CA, USA
+- 💰 **Salary:** $82k–$116k/yr
+- 🕒 **Posted:** 2026-11-05

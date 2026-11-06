@@ -1,18 +1,18 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-11-06 11:28 UTC*
+*Last updated: 2026-11-06 21:04 UTC*
 
 **3 new role(s)** since last run · 3 total in last 1h
 
-### [Senior Technical Project Manager – Chlorinated Solvent Remediation](https://www.linkedin.com/jobs/view/4471124861/) — Apex Companies
-- 📍 **Location:** Pleasant Hill, CA
-- 💰 **Salary:** $500K to $5
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4487256818/) — Triumvirate Environmental
+- 📍 **Location:** San Leandro, CA
+- 💰 **Salary:** $28 USD - $28 USD
 - 🕒 **Posted:** 2026-11-06
 
-### [Senior Technical Project Manager – Chlorinated Solvent Remediation](https://www.linkedin.com/jobs/view/4471128839/) — Apex Companies
-- 📍 **Location:** Thousand Oaks, CA
-- 💰 **Salary:** $500K to $5
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4487255950/) — Triumvirate Environmental
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $28 USD - $28 USD
 - 🕒 **Posted:** 2026-11-06
 
-### [Environmental Health Officer](https://www.linkedin.com/jobs/view/4484335834/) — Metro South Health
-- 📍 **Location:** South Brisbane, Queensland, Australia
+### [Risk Assessment Privacy Specialist](https://www.linkedin.com/jobs/view/4487352026/) — Ironwall by Incogni
+- 📍 **Location:** Mission Viejo, CA
 - 🕒 **Posted:** 2026-11-06

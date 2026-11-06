@@ -1,12 +1,16 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-11-05 22:04 UTC*
+*Last updated: 2026-11-06 21:32 UTC*
 
-**2 new role(s)** since last run · 9 total in recent GovernmentJobs postings
+**3 new role(s)** since last run · 8 total in recent GovernmentJobs postings
 
-### [Environmental Health Specialist I/II//Senior](https://www.governmentjobs.com/jobs/5524614-0/environmental-health-specialist-i-ii-senior) — County of Lake
-- 📍 **Location:** Lake County, CA
-- 💰 **Salary:** $60,174.40 - $93,641.60 Annually
+### [Environmental Health Specialist I/II/III](https://www.governmentjobs.com/jobs/5540978-0/environmental-health-specialist-i-ii-iii) — Merced County
+- 📍 **Location:** Merced County Planning/CED Department 2222 M St Merced, CA
+- 💰 **Salary:** $62,732.80 - $97,926.40 Annually
 
-### [Hazardous Materials Specialist I/II](https://www.governmentjobs.com/jobs/5538894-0/hazardous-materials-specialist-i-ii) — City of San Leandro
-- 📍 **Location:** California, CA
-- 💰 **Salary:** $128,060.00 - $155,662.00 Annually
+### [Environmental Health Specialist II/III](https://www.governmentjobs.com/jobs/5540580-0/environmental-health-specialist-ii-iii) — Stanislaus County
+- 📍 **Location:** Ste C, CA
+- 💰 **Salary:** $74,027.20 - $96,512.00 Annually
+
+### [Journeyman Industrial Electrician - Water Quality Control Plant (Electrician)](https://www.governmentjobs.com/jobs/5192494-0/journeyman-industrial-electrician-water-quality-control-plant-electrician) — City of Palo Alto
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $119,953.60 - $146,702.40 Annually

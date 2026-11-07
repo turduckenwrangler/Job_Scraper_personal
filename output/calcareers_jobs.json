@@ -1,23 +1,14 @@
 {
-  "scraped_at": "2026-11-06 21:26 UTC",
+  "scraped_at": "2026-11-07 20:07 UTC",
   "total": 10,
   "new_count": 0,
   "jobs": [
     {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537657",
-      "date_posted": "2026-11-02",
-      "salary": "$4551.00 - $9787.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Food & Agriculture",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Orange County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537799",
-      "date_posted": "2026-11-03",
+      "company": "Military Department",
+      "title": "Environmental Scientist (Compliance)",
+      "location": "San Luis Obispo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538302",
+      "date_posted": "2026-11-06",
       "salary": "$4551.00 - $9787.00",
       "ats": "CalCareers"
     },
@@ -45,6 +36,15 @@
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538016",
       "date_posted": "2026-11-05",
+      "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Food & Agriculture",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Orange County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537799",
+      "date_posted": "2026-11-03",
       "salary": "$4551.00 - $9787.00",
       "ats": "CalCareers"
     },

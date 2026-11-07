@@ -1,18 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-11-06 21:04 UTC*
+*Last updated: 2026-11-07 01:06 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4487256818/) — Triumvirate Environmental
-- 📍 **Location:** San Leandro, CA
-- 💰 **Salary:** $28 USD - $28 USD
-- 🕒 **Posted:** 2026-11-06
+### [Water Resources Coordinator/EIT](https://www.linkedin.com/jobs/view/4487375672/) — HDR
+- 📍 **Location:** Walnut Creek, CA
+- 💰 **Salary:** $71,082.00 - $101,545.00 annually
+- 🕒 **Posted:** 2026-11-07
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4487255950/) — Triumvirate Environmental
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $28 USD - $28 USD
-- 🕒 **Posted:** 2026-11-06
-
-### [Risk Assessment Privacy Specialist](https://www.linkedin.com/jobs/view/4487352026/) — Ironwall by Incogni
-- 📍 **Location:** Mission Viejo, CA
-- 🕒 **Posted:** 2026-11-06
+### [Water Resources Coordinator/EIT](https://www.linkedin.com/jobs/view/4487386005/) — HDR
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $71,082.00 - $101,545.00 annually
+- 🕒 **Posted:** 2026-11-07

@@ -1,9 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-11-07 19:50 UTC*
+*Last updated: 2026-11-08 00:01 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Early Career Air Quality Specialist](https://www.linkedin.com/jobs/view/4488729684/) — Maul Foster & Alongi, Inc.
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $70,000 to $80,000
-- 🕒 **Posted:** 2026-11-07
+No new roles since the last run.

@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-10 00:06 UTC",
-  "total": 10,
+  "scraped_at": "2026-11-10 21:45 UTC",
+  "total": 12,
   "new_count": 0,
   "jobs": [
     {
@@ -22,11 +22,29 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Food & Agriculture",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Orange County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537799",
+      "company": "Department of Fish and Wildlife",
+      "title": "Native Fish Environmental Scientist",
+      "location": "Riverside County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537827",
       "date_posted": "2026-11-03",
+      "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Fish and Wildlife",
+      "title": "Environmental Scientist, Wildlife Biologist",
+      "location": "Solano County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537837",
+      "date_posted": "2026-11-03",
+      "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538016",
+      "date_posted": "2026-11-05",
       "salary": "$4551.00 - $9787.00",
       "ats": "CalCareers"
     },
@@ -36,6 +54,15 @@
       "location": "San Luis Obispo County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=482161",
       "date_posted": "2026-11-03",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Food & Agriculture",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Stanislaus County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535323",
+      "date_posted": "2026-10-13",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -68,11 +95,11 @@
     },
     {
       "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
+      "title": "Drinking Water Regulatory Analyst",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538016",
-      "date_posted": "2026-11-05",
-      "salary": "$4551.00 - $9787.00",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537733",
+      "date_posted": "2026-11-10",
+      "salary": "$6031.00 - $7775.00",
       "ats": "CalCareers"
     },
     {
@@ -81,15 +108,6 @@
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537323",
       "date_posted": "2026-10-30",
-      "salary": "$4551.00 - $9787.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Environmental Scientist",
-      "location": "Fresno County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537625",
-      "date_posted": "2026-11-04",
       "salary": "$4551.00 - $9787.00",
       "ats": "CalCareers"
     }

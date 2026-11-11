@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-11-11 02:16 UTC*
+*Last updated: 2026-11-11 09:43 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Hazardous Materials Truck Driver](https://www.linkedin.com/jobs/view/4487861866/) — Warker LLC
-- 📍 **Location:** Oxnard, CA
-- 🕒 **Posted:** 2026-11-11
+No new roles since the last run.

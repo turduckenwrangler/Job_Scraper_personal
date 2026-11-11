@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-10 21:50 UTC",
-  "total": 5,
-  "new_count": 0,
+  "scraped_at": "2026-11-11 22:44 UTC",
+  "total": 6,
+  "new_count": 2,
   "jobs": [
     {
       "company": "County of Tulare",
@@ -40,14 +40,42 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Lake",
-      "title": "Environmental Health Specialist I/II//Senior",
-      "location": "Lake County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5524614-0/environmental-health-specialist-i-ii-senior",
+      "company": "Ventura County",
+      "title": "Environmental Health Specialist I/II/III - Community Services",
+      "location": "Ventura and may require travel throughout Ventura County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5518528-0/environmental-health-specialist-i-ii-iii-community-services",
       "date_posted": "",
-      "salary": "$60,174.40 - $93,641.60 Annually",
+      "salary": "$60,368.09 - $111,745.42 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of San Leandro",
+      "title": "Hazardous Materials Specialist I/II",
+      "location": "California, CA",
+      "url": "https://www.governmentjobs.com/jobs/5538894-0/hazardous-materials-specialist-i-ii",
+      "date_posted": "",
+      "salary": "$128,060.00 - $155,662.00 Annually",
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Ventura County",
+      "title": "Environmental Health Specialist I/II/III - Community Services",
+      "location": "Ventura and may require travel throughout Ventura County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5518528-0/environmental-health-specialist-i-ii-iii-community-services",
+      "date_posted": "",
+      "salary": "$60,368.09 - $111,745.42 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of San Leandro",
+      "title": "Hazardous Materials Specialist I/II",
+      "location": "California, CA",
+      "url": "https://www.governmentjobs.com/jobs/5538894-0/hazardous-materials-specialist-i-ii",
+      "date_posted": "",
+      "salary": "$128,060.00 - $155,662.00 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }

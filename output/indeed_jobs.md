@@ -1,8 +1,6 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-11-12 11:54 UTC*
+*Last updated: 2026-11-12 21:59 UTC*
 
-**1 new role(s)** since last run · 2 total in last 24h
+**0 new role(s)** since last run · 1 total in last 24h
 
-### [Early-Career Environmental Scientist - Contaminated Land](https://au.indeed.com/viewjob?jk=cf5836cfc8c8bfea) — Tetra Tech
-- 📍 **Location:** Perth, WA, Australia
-- 🕒 **Posted:** 2026-11-12
+No new roles since the last run.

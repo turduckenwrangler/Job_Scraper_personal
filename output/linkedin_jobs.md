@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-11-11 22:09 UTC*
+*Last updated: 2026-11-12 03:19 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Technical Officer - Distribution Water Quality](https://www.linkedin.com/jobs/view/4488250731/) — Central Highlands Water
-- 📍 **Location:** Wendouree, Victoria, Australia
-- 🕒 **Posted:** 2026-11-11
+No new roles since the last run.

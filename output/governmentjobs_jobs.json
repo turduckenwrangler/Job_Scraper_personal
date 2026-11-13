@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-11-12 22:16 UTC",
-  "total": 5,
-  "new_count": 0,
+  "scraped_at": "2026-11-13 22:00 UTC",
+  "total": 6,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "County of Mendocino",
+      "title": "Environmental Health Manager",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5548896-0/environmental-health-manager",
+      "date_posted": "",
+      "salary": "$99,944.00 - $121,492.80 Annually",
+      "ats": "NEOGOV"
+    },
     {
       "company": "County of Tulare",
       "title": "Environmental Health Supervisor",
@@ -49,5 +58,15 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "County of Mendocino",
+      "title": "Environmental Health Manager",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5548896-0/environmental-health-manager",
+      "date_posted": "",
+      "salary": "$99,944.00 - $121,492.80 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }

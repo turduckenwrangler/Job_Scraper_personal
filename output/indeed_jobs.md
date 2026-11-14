@@ -1,9 +1,6 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-11-13 21:40 UTC*
+*Last updated: 2026-11-14 01:51 UTC*
 
-**1 new role(s)** since last run · 1 total in last 24h
+**0 new role(s)** since last run · 1 total in last 24h
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=de6ebc5e72fa864c) — California Department of Pesticide Regulation
-- 📍 **Location:** CA, USA
-- 💰 **Salary:** $11k–$13k/mo
-- 🕒 **Posted:** 2026-11-13
+No new roles since the last run.

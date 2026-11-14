@@ -1,8 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-11-13 22:00 UTC*
+*Last updated: 2026-11-14 20:45 UTC*
 
-**1 new role(s)** since last run · 6 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 5 total in recent GovernmentJobs postings
 
-### [Environmental Health Manager](https://www.governmentjobs.com/jobs/5548896-0/environmental-health-manager) — County of Mendocino
-- 📍 **Location:** Ukiah, CA
-- 💰 **Salary:** $99,944.00 - $121,492.80 Annually
+### [Environmental Health Specialist I/II/III - Community Services](https://www.governmentjobs.com/jobs/5518528-0/environmental-health-specialist-i-ii-iii-community-services) — Ventura County
+- 📍 **Location:** Ventura and may require travel throughout Ventura County, CA
+- 💰 **Salary:** $60,368.09 - $111,745.42 Annually

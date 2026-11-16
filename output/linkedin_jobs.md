@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-11-16 08:08 UTC*
+*Last updated: 2026-11-16 23:56 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4491296345/) — Zonberation Group
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $95,000.00 - $120,000.00 Per Year
+### [Environmental Specialist II](https://www.linkedin.com/jobs/view/4491523883/) — Veolia | North America
+- 📍 **Location:** Costa Mesa, CA
+- 💰 **Salary:** $27 to $29 per hour
 - 🕒 **Posted:** 2026-11-16

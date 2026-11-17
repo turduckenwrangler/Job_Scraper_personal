@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-15 21:04 UTC",
-  "total": 6,
-  "new_count": 1,
+  "scraped_at": "2026-11-17 00:17 UTC",
+  "total": 7,
+  "new_count": 2,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -19,6 +19,24 @@
       "url": "https://www.governmentjobs.com/jobs/5528759-0/environmental-health-supervisor",
       "date_posted": "",
       "salary": "$84,881.34 - $103,447.44 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Kern County",
+      "title": "Environmental Health Specialist-In Training",
+      "location": "Bakersfield, CA",
+      "url": "https://www.governmentjobs.com/jobs/5548894-0/environmental-health-specialist-in-training",
+      "date_posted": "",
+      "salary": "$4,701.62 - $5,618.88 Monthly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "San Bernardino County",
+      "title": "Environmental Health Specialist III",
+      "location": "Throughout San Bernardino County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5547588-0/environmental-health-specialist-iii",
+      "date_posted": "",
+      "salary": "$79,227.20 - $114,483.20 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -40,15 +58,6 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Ventura County",
-      "title": "Environmental Health Specialist I/II/III - Community Services",
-      "location": "Ventura and may require travel throughout Ventura County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5518528-0/environmental-health-specialist-i-ii-iii-community-services",
-      "date_posted": "",
-      "salary": "$60,368.09 - $111,745.42 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "City of San Leandro",
       "title": "Hazardous Materials Specialist I/II",
       "location": "California, CA",
@@ -60,12 +69,21 @@
   ],
   "new_jobs": [
     {
-      "company": "City of San Leandro",
-      "title": "Hazardous Materials Specialist I/II",
-      "location": "California, CA",
-      "url": "https://www.governmentjobs.com/jobs/5538894-0/hazardous-materials-specialist-i-ii",
+      "company": "Kern County",
+      "title": "Environmental Health Specialist-In Training",
+      "location": "Bakersfield, CA",
+      "url": "https://www.governmentjobs.com/jobs/5548894-0/environmental-health-specialist-in-training",
       "date_posted": "",
-      "salary": "$128,060.00 - $155,662.00 Annually",
+      "salary": "$4,701.62 - $5,618.88 Monthly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "San Bernardino County",
+      "title": "Environmental Health Specialist III",
+      "location": "Throughout San Bernardino County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5547588-0/environmental-health-specialist-iii",
+      "date_posted": "",
+      "salary": "$79,227.20 - $114,483.20 Annually",
       "ats": "NEOGOV"
     }
   ]

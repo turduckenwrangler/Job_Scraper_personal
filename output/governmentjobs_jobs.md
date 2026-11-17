@@ -1,8 +1,12 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-11-15 21:04 UTC*
+*Last updated: 2026-11-17 00:17 UTC*
 
-**1 new role(s)** since last run · 6 total in recent GovernmentJobs postings
+**2 new role(s)** since last run · 7 total in recent GovernmentJobs postings
 
-### [Hazardous Materials Specialist I/II](https://www.governmentjobs.com/jobs/5538894-0/hazardous-materials-specialist-i-ii) — City of San Leandro
-- 📍 **Location:** California, CA
-- 💰 **Salary:** $128,060.00 - $155,662.00 Annually
+### [Environmental Health Specialist-In Training](https://www.governmentjobs.com/jobs/5548894-0/environmental-health-specialist-in-training) — Kern County
+- 📍 **Location:** Bakersfield, CA
+- 💰 **Salary:** $4,701.62 - $5,618.88 Monthly
+
+### [Environmental Health Specialist III](https://www.governmentjobs.com/jobs/5547588-0/environmental-health-specialist-iii) — San Bernardino County
+- 📍 **Location:** Throughout San Bernardino County, CA
+- 💰 **Salary:** $79,227.20 - $114,483.20 Annually

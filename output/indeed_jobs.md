@@ -1,14 +1,23 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-11-17 08:32 UTC*
+*Last updated: 2026-11-17 23:11 UTC*
 
-**2 new role(s)** since last run · 3 total in last 24h
+**4 new role(s)** since last run · 6 total in last 24h
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=3c3e75d0b88c6c94) — DEPARTMENT OF FISH AND WILDLIFE
-- 📍 **Location:** CA, USA
-- 💰 **Salary:** $11k–$13k/mo
+### [26-27 AY Teaching Associate (TA) - Earth and Environmental Sciences](https://www.indeed.com/viewjob?jk=39abc32c68058ca2) — Henry Madden Library
+- 📍 **Location:** Fresno, CA, USA
+- 💰 **Salary:** $16/hr
 - 🕒 **Posted:** 2026-11-17
 
-### [Safety & Environmental Specialist](https://www.indeed.com/viewjob?jk=aca26de8c74c133a) — Tidewater Transportation & Terminals
-- 📍 **Location:** Vancouver, WA, USA
-- 💰 **Salary:** $80k–$90k/yr
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=16d39eb4b7993e7d) — Department Of Parks & Recreation
+- 📍 **Location:** CA, USA
+- 💰 **Salary:** $26.26–$56.46/hr
+- 🕒 **Posted:** 2026-11-17
+
+### [26-27 AY Temporary Faculty Pool (Lecturer) - Earth & Environmental Sciences](https://www.indeed.com/viewjob?jk=62e2184d0a4bab8a) — Henry Madden Library
+- 📍 **Location:** Fresno, CA, USA
+- 🕒 **Posted:** 2026-11-17
+
+### [Supervisory Environmental Protection Specialist](https://www.indeed.com/viewjob?jk=963405506a969521) — Federal Emergency Management Agency
+- 📍 **Location:** Oakland, CA, USA
+- 💰 **Salary:** $133k–$173k/yr
 - 🕒 **Posted:** 2026-11-17

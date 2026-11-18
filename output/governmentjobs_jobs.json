@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-17 23:32 UTC",
+  "scraped_at": "2026-11-18 23:03 UTC",
   "total": 9,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -40,21 +40,21 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Merced County",
-      "title": "Environmental Health Specialist I/II/III",
-      "location": "Merced County Planning/CED Department 2222 M St Merced, CA",
-      "url": "https://www.governmentjobs.com/jobs/5540978-0/environmental-health-specialist-i-ii-iii",
-      "date_posted": "",
-      "salary": "$62,732.80 - $97,926.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "Stanislaus County",
       "title": "Environmental Health Specialist II/III",
       "location": "Ste C, CA",
       "url": "https://www.governmentjobs.com/jobs/5540580-0/environmental-health-specialist-ii-iii",
       "date_posted": "",
       "salary": "$74,027.20 - $96,512.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Merced County",
+      "title": "Environmental Health Specialist I/II/III",
+      "location": "Merced County Planning/CED Department 2222 M St Merced, CA",
+      "url": "https://www.governmentjobs.com/jobs/5540978-0/environmental-health-specialist-i-ii-iii",
+      "date_posted": "",
+      "salary": "$62,732.80 - $97,926.40 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -85,24 +85,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Ventura County",
-      "title": "Environmental Health Specialist I/II/III - Community Services",
-      "location": "Ventura and may require travel throughout Ventura County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5518528-0/environmental-health-specialist-i-ii-iii-community-services",
-      "date_posted": "",
-      "salary": "$60,368.09 - $111,745.42 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Marin",
-      "title": "Environmental Health Specialist II (Land Use and Consumer Protection)",
-      "location": "San Rafael, CA",
-      "url": "https://www.governmentjobs.com/jobs/5553082-0/environmental-health-specialist-ii-land-use-and-consumer-protection",
-      "date_posted": "",
-      "salary": "$104,637.00 - $124,956.00 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }

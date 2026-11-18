@@ -1,23 +1,19 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-11-17 23:11 UTC*
+*Last updated: 2026-11-18 04:44 UTC*
 
-**4 new role(s)** since last run · 6 total in last 24h
+**3 new role(s)** since last run · 9 total in last 24h
 
-### [26-27 AY Teaching Associate (TA) - Earth and Environmental Sciences](https://www.indeed.com/viewjob?jk=39abc32c68058ca2) — Henry Madden Library
-- 📍 **Location:** Fresno, CA, USA
-- 💰 **Salary:** $16/hr
-- 🕒 **Posted:** 2026-11-17
+### [Environmental Scientist](https://www.indeed.com/viewjob?jk=e5edabc18c11ce82) — Wilson Construction Company
+- 📍 **Location:** Rancho Cordova, CA, USA
+- 💰 **Salary:** $90k–$120k/yr
+- 🕒 **Posted:** 2026-11-18
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=16d39eb4b7993e7d) — Department Of Parks & Recreation
-- 📍 **Location:** CA, USA
-- 💰 **Salary:** $26.26–$56.46/hr
-- 🕒 **Posted:** 2026-11-17
+### [Hazardous Waste Program Manager- Physical Scientist (Environmental) (NH-1301-03) 412 CEG/CEVC](https://www.indeed.com/viewjob?jk=93fc9c65d2b695e6) — Air Force Test Center
+- 📍 **Location:** Edwards AFB, CA, USA
+- 💰 **Salary:** $104k–$161k/yr
+- 🕒 **Posted:** 2026-11-18
 
-### [26-27 AY Temporary Faculty Pool (Lecturer) - Earth & Environmental Sciences](https://www.indeed.com/viewjob?jk=62e2184d0a4bab8a) — Henry Madden Library
-- 📍 **Location:** Fresno, CA, USA
-- 🕒 **Posted:** 2026-11-17
-
-### [Supervisory Environmental Protection Specialist](https://www.indeed.com/viewjob?jk=963405506a969521) — Federal Emergency Management Agency
-- 📍 **Location:** Oakland, CA, USA
-- 💰 **Salary:** $133k–$173k/yr
-- 🕒 **Posted:** 2026-11-17
+### [Environmental Specialist/Field Biologist](https://www.indeed.com/viewjob?jk=be756016914ab727) — Orange County Water District
+- 📍 **Location:** Anaheim, CA, USA
+- 💰 **Salary:** $91k–$114k/yr
+- 🕒 **Posted:** 2026-11-18

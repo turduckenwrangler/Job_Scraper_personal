@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-18 23:03 UTC",
-  "total": 9,
-  "new_count": 0,
+  "scraped_at": "2026-11-19 23:15 UTC",
+  "total": 10,
+  "new_count": 3,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -22,12 +22,21 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Kern County",
-      "title": "Environmental Health Specialist-In Training",
-      "location": "Bakersfield, CA",
-      "url": "https://www.governmentjobs.com/jobs/5548894-0/environmental-health-specialist-in-training",
+      "company": "County of Contra Costa",
+      "title": "Environmental Health Specialist III",
+      "location": "Concord, CA",
+      "url": "https://www.governmentjobs.com/jobs/5495106-0/environmental-health-specialist-iii",
       "date_posted": "",
-      "salary": "$4,701.62 - $5,618.88 Monthly",
+      "salary": "$121,980.84 - $148,268.47 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Sonoma (CA)",
+      "title": "Environmental Health Program Manager",
+      "location": "Santa Rosa, CA",
+      "url": "https://www.governmentjobs.com/jobs/5537308-0/environmental-health-program-manager",
+      "date_posted": "",
+      "salary": "$137,875.15 - $167,574.86 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -37,6 +46,15 @@
       "url": "https://www.governmentjobs.com/jobs/5547588-0/environmental-health-specialist-iii",
       "date_posted": "",
       "salary": "$79,227.20 - $114,483.20 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Kern County",
+      "title": "Environmental Health Specialist-In Training",
+      "location": "Bakersfield, CA",
+      "url": "https://www.governmentjobs.com/jobs/5548894-0/environmental-health-specialist-in-training",
+      "date_posted": "",
+      "salary": "$4,701.62 - $5,618.88 Monthly",
       "ats": "NEOGOV"
     },
     {
@@ -58,21 +76,12 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Ventura County",
-      "title": "Environmental Health Specialist I/II/III - Community Services",
-      "location": "Ventura and may require travel throughout Ventura County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5518528-0/environmental-health-specialist-i-ii-iii-community-services",
+      "company": "County of Mendocino",
+      "title": "Hazardous Materials Operations Specialist",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5554968-0/hazardous-materials-operations-specialist",
       "date_posted": "",
-      "salary": "$60,368.09 - $111,745.42 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Marin",
-      "title": "Environmental Health Specialist II (Land Use and Consumer Protection)",
-      "location": "San Rafael, CA",
-      "url": "https://www.governmentjobs.com/jobs/5553082-0/environmental-health-specialist-ii-land-use-and-consumer-protection",
-      "date_posted": "",
-      "salary": "$104,637.00 - $124,956.00 Annually",
+      "salary": "$70,345.60 - $85,488.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -85,5 +94,33 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "County of Contra Costa",
+      "title": "Environmental Health Specialist III",
+      "location": "Concord, CA",
+      "url": "https://www.governmentjobs.com/jobs/5495106-0/environmental-health-specialist-iii",
+      "date_posted": "",
+      "salary": "$121,980.84 - $148,268.47 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Sonoma (CA)",
+      "title": "Environmental Health Program Manager",
+      "location": "Santa Rosa, CA",
+      "url": "https://www.governmentjobs.com/jobs/5537308-0/environmental-health-program-manager",
+      "date_posted": "",
+      "salary": "$137,875.15 - $167,574.86 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Mendocino",
+      "title": "Hazardous Materials Operations Specialist",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5554968-0/hazardous-materials-operations-specialist",
+      "date_posted": "",
+      "salary": "$70,345.60 - $85,488.00 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }

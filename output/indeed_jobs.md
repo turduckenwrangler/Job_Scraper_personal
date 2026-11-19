@@ -1,19 +1,33 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-11-18 04:44 UTC*
+*Last updated: 2026-11-19 03:52 UTC*
 
-**3 new role(s)** since last run · 9 total in last 24h
+**6 new role(s)** since last run · 6 total in last 24h
 
-### [Environmental Scientist](https://www.indeed.com/viewjob?jk=e5edabc18c11ce82) — Wilson Construction Company
-- 📍 **Location:** Rancho Cordova, CA, USA
-- 💰 **Salary:** $90k–$120k/yr
+### [Senior Manager, Toxicology](https://www.indeed.com/viewjob?jk=9bca9ddc7226e6a5) — BD
+- 📍 **Location:** San Diego, CA, USA
+- 💰 **Salary:** $165k–$263k/yr
 - 🕒 **Posted:** 2026-11-18
 
-### [Hazardous Waste Program Manager- Physical Scientist (Environmental) (NH-1301-03) 412 CEG/CEVC](https://www.indeed.com/viewjob?jk=93fc9c65d2b695e6) — Air Force Test Center
-- 📍 **Location:** Edwards AFB, CA, USA
-- 💰 **Salary:** $104k–$161k/yr
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=0626c13bf4e0ddc2) — STATE WATER RESOURCES CONTROL BOARD
+- 📍 **Location:** CA, USA
+- 💰 **Salary:** $4551–$9787/mo
 - 🕒 **Posted:** 2026-11-18
 
-### [Environmental Specialist/Field Biologist](https://www.indeed.com/viewjob?jk=be756016914ab727) — Orange County Water District
-- 📍 **Location:** Anaheim, CA, USA
-- 💰 **Salary:** $91k–$114k/yr
+### [Senior Environmental Health Specialist - Promotional](https://www.indeed.com/viewjob?jk=997e41a090520dc2) — County of Sonoma (CA)
+- 📍 **Location:** Santa Rosa, CA, USA
+- 💰 **Salary:** $110k–$134k/yr
+- 🕒 **Posted:** 2026-11-18
+
+### [Lead Consultant, Environmental Compliance and Due Diligence](https://www.indeed.com/viewjob?jk=33ad8a6845b0708e) — Ramboll
+- 📍 **Location:** Los Angeles, CA, USA
+- 💰 **Salary:** $85k–$98k/yr
+- 🕒 **Posted:** 2026-11-18
+
+### [Lead Consultant, Environmental Compliance and Due Diligence](https://www.indeed.com/viewjob?jk=365ea798fa62dbdf) — Ramboll
+- 📍 **Location:** Irvine, CA, USA
+- 💰 **Salary:** $85k–$98k/yr
+- 🕒 **Posted:** 2026-11-18
+
+### [Principal Environmental Scientist/ Team Leader (Contaminated Land)](https://au.indeed.com/viewjob?jk=2f8d1e6ca2eb7a51) — Stantec
+- 📍 **Location:** Melbourne, VIC, Australia
 - 🕒 **Posted:** 2026-11-18

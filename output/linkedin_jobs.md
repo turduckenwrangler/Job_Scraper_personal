@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-11-20 04:30 UTC*
+*Last updated: 2026-11-20 23:02 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [Environmental Science Expert (Masters/PhDs)](https://www.linkedin.com/jobs/view/4492758956/) — Alignerr
-- 📍 **Location:** Sydney, New South Wales, Australia
-- 💰 **Salary:** $75.00/hr - $90.00/hr
+### [Hazardous Materials Coordinators- Healthcare](https://www.linkedin.com/jobs/view/4493207063/) — Clean Harbors
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $39,000.00/yr - $111,086.00/yr
 - 🕒 **Posted:** 2026-11-20

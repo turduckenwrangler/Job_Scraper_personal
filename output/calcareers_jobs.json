@@ -1,44 +1,8 @@
 {
-  "scraped_at": "2026-11-17 23:26 UTC",
-  "total": 9,
+  "scraped_at": "2026-11-21 21:34 UTC",
+  "total": 10,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538016",
-      "date_posted": "2026-11-05",
-      "salary": "$4551.00 - $9787.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Military Department",
-      "title": "Environmental Scientist (Compliance)",
-      "location": "San Luis Obispo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538302",
-      "date_posted": "2026-11-06",
-      "salary": "$4551.00 - $9787.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538346",
-      "date_posted": "2026-11-09",
-      "salary": "$4551.00 - $9787.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Forestry & Fire Protection",
-      "title": "Environmental Scientist",
-      "location": "Monterey County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538924",
-      "date_posted": "2026-11-13",
-      "salary": "$4551.00 - $9787.00",
-      "ats": "CalCareers"
-    },
     {
       "company": "Delta Stewardship Council",
       "title": "Environmental Scientist",
@@ -67,12 +31,21 @@
       "ats": "CalCareers"
     },
     {
-      "company": "State Water Resources Control Board",
-      "title": "Drinking Water Regulatory Analyst",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537733",
-      "date_posted": "2026-11-10",
-      "salary": "$6031.00 - $7775.00",
+      "company": "Department of Water Resources",
+      "title": "ENVIRONMENTAL SCIENTIST (00100762)",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536356",
+      "date_posted": "2026-11-16",
+      "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Forestry & Fire Protection",
+      "title": "Environmental Specialist",
+      "location": "Santa Clara County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537413",
+      "date_posted": "2026-10-30",
+      "salary": "$4551.00 - $9787.00",
       "ats": "CalCareers"
     },
     {
@@ -82,6 +55,42 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537625",
       "date_posted": "2026-11-04",
       "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Environmental Scientist",
+      "location": "El Dorado County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=539345",
+      "date_posted": "2026-11-20",
+      "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Food & Agriculture",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Fresno County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=539359",
+      "date_posted": "2026-11-18",
+      "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Environmental Scientist",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=539007",
+      "date_posted": "2026-11-18",
+      "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Drinking Water Regulatory Analyst",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537733",
+      "date_posted": "2026-11-10",
+      "salary": "$6031.00 - $7775.00",
       "ats": "CalCareers"
     }
   ],

@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-20 23:03 UTC",
-  "total": 11,
-  "new_count": 1,
+  "scraped_at": "2026-11-21 21:41 UTC",
+  "total": 10,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -10,15 +10,6 @@
       "url": "https://www.governmentjobs.com/jobs/5548896-0/environmental-health-manager",
       "date_posted": "",
       "salary": "$99,944.00 - $121,492.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Tulare",
-      "title": "Environmental Health Supervisor",
-      "location": "Visalia, CA",
-      "url": "https://www.governmentjobs.com/jobs/5528759-0/environmental-health-supervisor",
-      "date_posted": "",
-      "salary": "$84,881.34 - $103,447.44 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -40,21 +31,21 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "San Bernardino County",
-      "title": "Environmental Health Specialist III",
-      "location": "Throughout San Bernardino County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5547588-0/environmental-health-specialist-iii",
-      "date_posted": "",
-      "salary": "$79,227.20 - $114,483.20 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "Kern County",
       "title": "Environmental Health Specialist-In Training",
       "location": "Bakersfield, CA",
       "url": "https://www.governmentjobs.com/jobs/5548894-0/environmental-health-specialist-in-training",
       "date_posted": "",
       "salary": "$4,701.62 - $5,618.88 Monthly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "San Bernardino County",
+      "title": "Environmental Health Specialist III",
+      "location": "Throughout San Bernardino County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5547588-0/environmental-health-specialist-iii",
+      "date_posted": "",
+      "salary": "$79,227.20 - $114,483.20 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -103,15 +94,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County of San Diego",
-      "title": "Air Quality Inspector I-26385511",
-      "location": "Air Pollution Control District, CA",
-      "url": "https://www.governmentjobs.com/jobs/5549541-0/air-quality-inspector-i-26385511",
-      "date_posted": "",
-      "salary": "$77,396.80 - $104,811.20 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }

@@ -1,8 +1,14 @@
 # 🏛 Priority Employers — Environmental / Toxicology Roles
-*Last updated: 2026-11-20 12:26 UTC*
+*Last updated: 2026-11-21 11:58 UTC*
 
-**1 new role(s)** since last run · 2 total in last 24h
+**2 new role(s)** since last run · 2 total in last 24h
 
-### [GHD Graduate Program 2026/27 – Environmental Science (Planning/Impact Assessment) – Melbourne](https://www.linkedin.com/jobs/view/4492577327/) — GHD
-- 📍 **Location:** Melbourne, Victoria, Australia
+### [Senior Environmental Data Manager](https://www.linkedin.com/jobs/view/4476813095/) — Geosyntec Consultants
+- 📍 **Location:** Rancho Cordova, CA
+- 💰 **Salary:** $127,530/year - $178,540/year
+- 🕒 **Posted:** 2026-11-20
+
+### [Geologist/Environmental Scientist](https://www.linkedin.com/jobs/view/4474823288/) — Arcadis
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $55,200- $82,800
 - 🕒 **Posted:** 2026-11-20

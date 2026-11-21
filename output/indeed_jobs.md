@@ -1,17 +1,24 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-11-21 03:47 UTC*
+*Last updated: 2026-11-21 11:58 UTC*
 
-**3 new role(s)** since last run · 3 total in last 24h
+**4 new role(s)** since last run · 5 total in last 24h
 
-### [Environmental Analyst or Associate Environmental Scientist](https://www.indeed.com/viewjob?jk=5923379929a55f57) — SAN FRANCISCO ESTUARY INSTITUTE
-- 📍 **Location:** Richmond, CA, USA
-- 💰 **Salary:** $88k–$98k/yr
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=e5521078b153899d) — STATE WATER RESOURCES CONTROL BOARD
+- 📍 **Location:** CA, USA
+- 💰 **Salary:** $4551–$9787/mo
+- 🕒 **Posted:** 2026-11-21
+
+### [Environmental Health Assistant](https://au.indeed.com/viewjob?jk=f653376a6dc55aef) — Australian Government
+- 📍 **Location:** Australia
+- 💰 **Salary:** $223/day
 - 🕒 **Posted:** 2026-11-20
 
-### [GHD Graduate Program 2026/27 – Environmental Science (Planning/Impact Assessment) – Melbourne](https://au.indeed.com/viewjob?jk=a2a6fa3c64f528a0) — GHD
-- 📍 **Location:** Melbourne, VIC, Australia
+### [Environmental Health Officer](https://au.indeed.com/viewjob?jk=9c27ead6843f3683) — Australian Government
+- 📍 **Location:** Australia
+- 💰 **Salary:** $100k/yr
 - 🕒 **Posted:** 2026-11-20
 
-### [Team Leader, Remediation Quality Control](https://au.indeed.com/viewjob?jk=eaf8288a63e0d78b) — Optus
-- 📍 **Location:** Sydney, NSW, Australia
+### [Environmental Health Manager](https://au.indeed.com/viewjob?jk=30b55fb25016ee29) — Australian Government
+- 📍 **Location:** Australia
+- 💰 **Salary:** $274/day
 - 🕒 **Posted:** 2026-11-20

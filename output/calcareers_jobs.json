@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-21 21:34 UTC",
+  "scraped_at": "2026-11-22 21:40 UTC",
   "total": 10,
   "new_count": 0,
   "jobs": [
@@ -19,15 +19,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535323",
       "date_posted": "2026-10-13",
       "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Lands Commission",
-      "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536266",
-      "date_posted": "2026-10-22",
-      "salary": "$4551.00 - $9601.00",
       "ats": "CalCareers"
     },
     {
@@ -60,18 +51,27 @@
     {
       "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
-      "location": "El Dorado County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=539345",
-      "date_posted": "2026-11-20",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538016",
+      "date_posted": "2026-11-05",
       "salary": "$4551.00 - $9787.00",
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Food & Agriculture",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Fresno County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=539359",
-      "date_posted": "2026-11-18",
+      "company": "Department of Parks & Recreation",
+      "title": "ENVIRONMENTAL SCIENTIST (PI)",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538867",
+      "date_posted": "2026-11-17",
+      "salary": "$26.26 - $56.46",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Environmental Scientist",
+      "location": "El Dorado County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=539345",
+      "date_posted": "2026-11-20",
       "salary": "$4551.00 - $9787.00",
       "ats": "CalCareers"
     },

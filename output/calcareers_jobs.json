@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-22 21:40 UTC",
-  "total": 10,
+  "scraped_at": "2026-11-24 02:51 UTC",
+  "total": 12,
   "new_count": 0,
   "jobs": [
     {
@@ -69,6 +69,15 @@
     {
       "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=540626",
+      "date_posted": "2026-11-20",
+      "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Environmental Scientist",
       "location": "El Dorado County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=539345",
       "date_posted": "2026-11-20",
@@ -82,6 +91,15 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=539007",
       "date_posted": "2026-11-18",
       "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=539552",
+      "date_posted": "2026-11-23",
+      "salary": "$8055.00 - $11269.00",
       "ats": "CalCareers"
     },
     {

@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-22 21:50 UTC",
-  "total": 8,
-  "new_count": 0,
+  "scraped_at": "2026-11-24 02:56 UTC",
+  "total": 10,
+  "new_count": 2,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -74,7 +74,44 @@
       "date_posted": "",
       "salary": "$77,396.80 - $104,811.20 Annually",
       "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Mendocino",
+      "title": "Hazardous Materials Operations Specialist",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5554968-0/hazardous-materials-operations-specialist",
+      "date_posted": "",
+      "salary": "$70,345.60 - $85,488.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of San Leandro",
+      "title": "Hazardous Materials Specialist I/II",
+      "location": "California, CA",
+      "url": "https://www.governmentjobs.com/jobs/5538894-0/hazardous-materials-specialist-i-ii",
+      "date_posted": "",
+      "salary": "$128,060.00 - $155,662.00 Annually",
+      "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "County of Mendocino",
+      "title": "Hazardous Materials Operations Specialist",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5554968-0/hazardous-materials-operations-specialist",
+      "date_posted": "",
+      "salary": "$70,345.60 - $85,488.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of San Leandro",
+      "title": "Hazardous Materials Specialist I/II",
+      "location": "California, CA",
+      "url": "https://www.governmentjobs.com/jobs/5538894-0/hazardous-materials-specialist-i-ii",
+      "date_posted": "",
+      "salary": "$128,060.00 - $155,662.00 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }

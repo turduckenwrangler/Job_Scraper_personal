@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-11-25 00:32 UTC",
-  "total": 13,
+  "scraped_at": "2026-11-26 00:10 UTC",
+  "total": 12,
   "new_count": 0,
   "jobs": [
+    {
+      "company": "Department of Parks & Recreation",
+      "title": "ENVIRONMENTAL SCIENTIST (PI)",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538867",
+      "date_posted": "2026-11-17",
+      "salary": "$26.26 - $56.46",
+      "ats": "CalCareers"
+    },
     {
       "company": "Delta Stewardship Council",
       "title": "Environmental Scientist",
@@ -40,38 +49,38 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Pesticide Regulation",
+      "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
-      "location": "Fresno County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537625",
-      "date_posted": "2026-11-04",
-      "salary": "$4551.00 - $9787.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Parks & Recreation",
-      "title": "ENVIRONMENTAL SCIENTIST (PI)",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538867",
-      "date_posted": "2026-11-17",
-      "salary": "$26.26 - $56.46",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Forestry & Fire Protection",
-      "title": "Environmental Scientist",
-      "location": "Monterey County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538924",
-      "date_posted": "2026-11-13",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=539007",
+      "date_posted": "2026-11-18",
       "salary": "$4551.00 - $9787.00",
       "ats": "CalCareers"
     },
     {
       "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
-      "location": "Alameda County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=539007",
+      "location": "El Dorado County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=539345",
+      "date_posted": "2026-11-20",
+      "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Food & Agriculture",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Fresno County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=539359",
       "date_posted": "2026-11-18",
+      "salary": "$4551.00 - $9787.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Food & Agriculture",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=540907",
+      "date_posted": "2026-11-24",
       "salary": "$4551.00 - $9787.00",
       "ats": "CalCareers"
     },
@@ -95,29 +104,11 @@
     },
     {
       "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
-      "location": "El Dorado County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=539345",
-      "date_posted": "2026-11-20",
-      "salary": "$4551.00 - $9787.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Water Resources Control Board",
       "title": "SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=539552",
       "date_posted": "2026-11-23",
       "salary": "$8055.00 - $11269.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Drinking Water Regulatory Analyst",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537733",
-      "date_posted": "2026-11-10",
-      "salary": "$6031.00 - $7775.00",
       "ats": "CalCareers"
     }
   ],

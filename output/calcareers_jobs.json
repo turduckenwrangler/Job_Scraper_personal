@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-26 00:10 UTC",
-  "total": 12,
+  "scraped_at": "2026-11-27 00:29 UTC",
+  "total": 11,
   "new_count": 0,
   "jobs": [
     {
@@ -76,11 +76,11 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Food & Agriculture",
-      "title": "ENVIRONMENTAL SCIENTIST",
+      "company": "State Water Resources Control Board",
+      "title": "Environmental Scientist",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=540907",
-      "date_posted": "2026-11-24",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=540626",
+      "date_posted": "2026-11-20",
       "salary": "$4551.00 - $9787.00",
       "ats": "CalCareers"
     },
@@ -91,15 +91,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=540993",
       "date_posted": "2026-11-24",
       "salary": "$5918.00 - $11455.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=540626",
-      "date_posted": "2026-11-20",
-      "salary": "$4551.00 - $9787.00",
       "ats": "CalCareers"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-27 00:38 UTC",
-  "total": 9,
+  "scraped_at": "2026-11-28 00:04 UTC",
+  "total": 8,
   "new_count": 1,
   "jobs": [
     {
@@ -49,21 +49,12 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Stanislaus County",
-      "title": "Environmental Health Specialist II/III",
-      "location": "Ste C, CA",
-      "url": "https://www.governmentjobs.com/jobs/5540580-0/environmental-health-specialist-ii-iii",
+      "company": "County of Marin",
+      "title": "Environmental Health Specialist II (Land Use and Consumer Protection)",
+      "location": "San Rafael, CA",
+      "url": "https://www.governmentjobs.com/jobs/5553082-0/environmental-health-specialist-ii-land-use-and-consumer-protection",
       "date_posted": "",
-      "salary": "$74,027.20 - $96,512.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Merced County",
-      "title": "Environmental Health Specialist I/II/III",
-      "location": "Merced County Planning/CED Department 2222 M St Merced, CA",
-      "url": "https://www.governmentjobs.com/jobs/5540978-0/environmental-health-specialist-i-ii-iii",
-      "date_posted": "",
-      "salary": "$62,732.80 - $97,926.40 Annually",
+      "salary": "$104,637.00 - $124,956.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -87,12 +78,12 @@
   ],
   "new_jobs": [
     {
-      "company": "County of Mendocino",
-      "title": "Hazardous Materials Operations Specialist",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5554968-0/hazardous-materials-operations-specialist",
+      "company": "County of Marin",
+      "title": "Environmental Health Specialist II (Land Use and Consumer Protection)",
+      "location": "San Rafael, CA",
+      "url": "https://www.governmentjobs.com/jobs/5553082-0/environmental-health-specialist-ii-land-use-and-consumer-protection",
       "date_posted": "",
-      "salary": "$70,345.60 - $85,488.00 Annually",
+      "salary": "$104,637.00 - $124,956.00 Annually",
       "ats": "NEOGOV"
     }
   ]
